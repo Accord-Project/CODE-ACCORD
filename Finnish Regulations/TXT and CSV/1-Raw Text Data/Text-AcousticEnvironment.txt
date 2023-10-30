@@ -1,0 +1,337 @@
+Unofficial translation. 
+Legally binding only in Finnish and Swedish 
+
+Decree of the Ministry of the Environment  
+
+on the Acoustic Environment of Buildings 
+
+By decision of the Ministry of the Environment, the following is enacted under section 117f, 
+
+subsection 3 of the Land Use and Building Act (132/1999), as amended by Act 958/2012: 
+
+Section 1 
+
+Scope of application 
+
+This  Decree  lays down  provisions  on  sound insulation,  noise  and  vibration  abatement and 
+acoustic conditions of buildings, as well as on noise abatement and acoustic conditions of yards, 
+spaces intended for use by residents and balconies used by residents. 
+
+This Decree applies to buildings with dwellings or accommodation or patient rooms, facilities 
+
+for teaching, meeting, eating, treatment, recreation or physical exercise, or office spaces.  
+
+This  Decree  applies to the  construction  of  a new  building,  repair and  alteration  work  of  a 
+building, and alteration of the intended use of a building in building planning, building permit 
+procedure and building supervision under the Land Use and Building Act (132/1999). 
+
+Section 2 
+
+Definitions 
+
+In this Decree, 
+1) weighted standardised level difference (DnT,w) means the measure describing the airborne 
+
+sound insulation between room spaces; 
+
+2) weighted standardised impact sound pressure level (L’nT,w + C1,50-2500) means the measure 
+
+describing the impact sound insulation between room spaces; 
+
+3) A-weighted equivalent continuous sound level (LAeq,T) means the measure describing the 
+
+level of non-temporary noise in a room or outdoor space; 
+
+4) maximum sound pressure level (LAFmax,T)  means the measure describing the intermittent 
+
+short-term noise level of non-temporary sound in a room or outdoor space; 
+
+5) reverberation time (T) means the measure describing the reverberance in a room space; 
+6) structure-borne noise means the noise-inducing mechanical vibration in a structure or other 
+
+solid object; 
+
+7) vibration means the annoying mechanical vibration observed by humans. 
+
+ Directive 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 3  
+
+Design and construction of the acoustic environment of a building 
+
+The noise and vibration at the site of the building shall be taken into account in the design and 
+
+construction of the building.  
+
+The essential technical characteristics concerning the acoustic environment of a building are 
+fulfilled if in the design and implementation of the sound insulation and noise and vibration 
+abatement of the building and the acoustic conditions consideration is given to the intended use 
+of the space as laid down in this Decree.  
+
+If it is not practicable to apply the procedure referred to in subsection 2 on account of the 
+special characteristics of the building or the acoustic environment outside it, special use of the 
+space or user group or some other special reason, the party initiating the building project shall 
+in connection with the building permit procedure demonstrate that, considering the intended use 
+of  the  space,  the  design  process  will  lead  to  the  fulfilment  of  the  essential  technical 
+characteristics with regard to the sound insulation, noise and vibration abatement and acoustic 
+conditions. 
+
+Section 4 
+
+Requirements for the sound insulation of a new building 
+
+In the design and implementation of airborne sound insulation and impact sound insulation of 
+dwellings  and  accommodation  and  patient  rooms,  the  following  numerical  values  shall  be 
+observed: 
+
+Room space 
+
+Minimum permitted weighted 
+standardised level difference 
+(DnT,w ), in dB 
+
+Maximum permitted weighted 
+standardised impact sound pressure 
+level (L’nT,w + C1,50-2500 ), in dB 
+
+Between dwellings or 
+accommodation or patient rooms 
+From the exit route to a residential, 
+accommodation or patient room 
+
+55 
+
+39 
+
+53 
+
+63 
+
+If the dwelling or accommodation or patient room is structurally connected with spaces where 
+intense,  particularly  annoying  or  low-frequency  noise  is  generated,  in  the  design  and 
+implementation process special consideration shall be given to the implementation of sufficient 
+sound  insulation.  In  rooms  used  for  sleeping  or  rest,  the  one-hour  A-weighted  equivalent 
+continuous sound level of impulsive, narrowband or low-frequency noise may not exceed 25 
+decibels.  
+
+Considering  the  intended  use  of  the  space,  the  sound  insulation  of  facilities  for  teaching, 
+meeting, eating, treatment, recreation or physical exercise or office spaces shall be designed and 
+implemented so that the acoustic environment achieved adequately meets the requirements for 
+the activities carried out in the space. The sound insulation of recessed balconies, conservatories 
+and roof terraces shall be designed and implemented so that the acoustic environment does not 
+cause any inconvenience to the residents. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 5 
+
+Requirements for noise and vibration abatement in a new building 
+
+The  sound  insulation  of  the  envelope  of  a  building  with  dwellings  or  accommodation  or 
+patient  rooms  shall  be  designed  and  implemented  so  that  the  sound  insulation  is  at  least  30 
+decibels and the A-weighted equivalent continuous sound level of impulsive, narrowband or 
+low-frequency noise in rooms used for sleeping or rest does not exceed 25 decibels. 
+
+The installation of lifts in a building and technical building systems shall be designed and 
+implemented  so  that  the  noise  level  generated  by  them  in  residential  or  other  spaces  in 
+dwellings, accommodation or patient rooms, outside openable windows or air vents of the same 
+building or adjacent residential buildings, on balconies used by residents, or in yards or other 
+spaces intended for use by residents does not exceed the following numerical values: 
+
+Room and outdoor space 
+
+Continuous broadband noise 
+
+Impulsive or narrowband noise 
+
+A-weighted 
+equivalent 
+continuous sound 
+level (LAeq,T), in 
+dB 
+
+Maximum sound 
+pressure level 
+(LAFmax,T), in dB 
+
+A-weighted 
+equivalent 
+continuous 
+sound level 
+(LAeq,T), in dB 
+
+Maximum sound 
+pressure level 
+(LAFmax,T), in dB 
+
+Residential room or  
+accommodation or patient 
+room 
+
+Residential kitchen or 
+recreational room in a 
+building 
+
+Staircase or exit route 
+
+Outdoor space 
+
+28 
+
+33 
+
+38 
+
+45 
+
+33 
+
+38 
+
+43 
+
+50 
+
+25 
+
+30 
+
+35 
+
+40 
+
+30 
+
+35 
+
+40 
+
+45 
+
+Considering the intended use of the space, the structure-borne noise and vibration insulation 
+of a building with dwellings or accommodation or patient rooms and the noise and vibration 
+abatement of facilities for teaching, meeting, eating, treatment, recreation or physical exercise 
+and office spaces shall be designed and implemented so that the acoustic environment achieved 
+adequately meets the requirements for the activities carried out in the space. 
+
+Section 6 
+
+Requirements for the acoustic conditions of a new building 
+
+The acoustic conditions of a building with patient rooms and facilities for teaching, meeting, 
+eating,  treatment,  recreation  or  physical  exercise  and  office  spaces  shall  be  designed  and 
+implemented so that the speech discrimination achieved in the space is adequate considering 
+the intended use of the space. 
+
+A  building  with  dwellings  or  accommodation  or  patient  rooms  shall  be  designed  and 
+implemented so that the reverberation time of the staircase and exit route is no more than 1.3 
+seconds. Yards and spaces intended for use by residents of a building and balconies used by 
+residents  shall  be  designed  and  implemented  so  that  the  A-weighted  equivalent  continuous 
+sound level between 7.00 and 22.00 does not exceed 55 decibels and, similarly, conservatories 
+so that the A-weighted equivalent continuous sound level does not exceed 45 decibels.  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 7 
+
+Repair construction, alteration work and change in the intended use of a building 
+
+Repair  or  alteration  work  of  a  building  shall  not  weaken  the  sound  insulation,  noise  and 
+vibration abatement or acoustic conditions of the building or the noise abatement or acoustic 
+conditions of yards, spaces intended for use by residents and balconies used by residents.   
+
+When the intended use of the building is altered, the sound insulation, noise and vibration 
+abatement and acoustic conditions of the building as well as the noise abatement and acoustic 
+conditions of yards, spaces intended for use by residents and balconies used by residents shall 
+be  designed  and  implemented  so  that  the  acoustic  environment  does  not  cause  any 
+inconvenience to the residents. 
+
+Section 8 
+
+Entry into force 
+
+This Decree enters into force on 1 January 2018. 
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at 
+
+the time of entry into force of this Decree. 
+
+Helsinki, 24 November 2017 
+
+Kimmo Tiilikainen, Minister for Housing, Energy and the Environment 
+
+Ari Saarinen, Environment Counsellor 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

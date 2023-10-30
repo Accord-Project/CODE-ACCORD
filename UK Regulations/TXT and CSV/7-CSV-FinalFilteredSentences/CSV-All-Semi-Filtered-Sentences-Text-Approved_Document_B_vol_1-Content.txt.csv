@@ -1,0 +1,486 @@
+ID,Text
+1_UK_DocB_V1_FireSafety,A higher standard of protection should be considered where occupants of a proposed dwelling would be at special risk from fire.
+2_UK_DocB_V1_FireSafety,1.2  Smoke alarms should be mains operated and conform to BS EN 14604.
+3_UK_DocB_V1_FireSafety,1.3  Heat alarms should be mains operated and conform to BS 54462.
+4_UK_DocB_V1_FireSafety,Large dwelling-houses.
+5_UK_DocB_V1_FireSafety,"1.5  A large dwellinghouse has more than one storey, and at least one storey exceeds 200m2."
+6_UK_DocB_V1_FireSafety,"1.6  A large dwelling-house of two storeys (excluding basement storeys) should be fitted with a Grade A Category LD3 fire detection and alarm system, as described in BS 58396."
+7_UK_DocB_V1_FireSafety,1.7  A large dwelling-house of three or more storeys (excluding basement storeys) should be fitted with a Grade A Category LD2 fire detection and alarm system as described in BS 58396.
+8_UK_DocB_V1_FireSafety,Extensions and material alterations.
+9_UK_DocB_V1_FireSafety,1.8  A fire detection and alarm system should be installed where either of the  following applies.
+10_UK_DocB_V1_FireSafety,1.9  Smoke alarms should be provided in the circulation spaces of the dwelling in accordance with paragraphs 1.1 to 1.4.
+11_UK_DocB_V1_FireSafety,Student accommodation.
+12_UK_DocB_V1_FireSafety,"In student residences that are designed and occupied as a block of flats, separate automatic detection should be provided in each selfcontained flat where all of the following apply."
+13_UK_DocB_V1_FireSafety,"In these parts, means of warning should follow the guidance for buildings other than dwellings in Volume 2 of Approved Document B."
+14_UK_DocB_V1_FireSafety,Design and installation of systems.
+15_UK_DocB_V1_FireSafety,"1.14  Fire detection and alarm systems must be properly designed, installed and maintained."
+16_UK_DocB_V1_FireSafety,"A design, installation and commissioning certificate should be provided for fire detection and alarm systems."
+17_UK_DocB_V1_FireSafety,"Third party certification schemes for fire protection products and related services are an effective means of providing assurances of quality, reliability and safety."
+18_UK_DocB_V1_FireSafety,The interface between systems must be reliable.
+19_UK_DocB_V1_FireSafety,Particular care should be taken if the interface is facilitated via another system.
+20_UK_DocB_V1_FireSafety,"Where any part of BS 7273 applies to the triggering of other systems, the recommendations of that part of BS 7273 should be followed."
+21_UK_DocB_V1_FireSafety,Escape from upper storeys more than 4.5m above ground level.
+22_UK_DocB_V1_FireSafety,2.4  Dwelling-houses with one internal stair should comply with paragraphs 2.5 and 2.6.
+23_UK_DocB_V1_FireSafety,"In dwelling-houses with more than one stair, the stairs should provide effective alternative means of escape."
+24_UK_DocB_V1_FireSafety,The stairs should be physically separated by either of the following.
+25_UK_DocB_V1_FireSafety,Dwelling-houses with one storey more than 4.5m above ground level.
+26_UK_DocB_V1_FireSafety,Cavity barriers or a fire resisting ceiling (minimum EI 30) should be provided above a protected stairway enclosure (Diagram 2.3).
+27_UK_DocB_V1_FireSafety,Dwelling-house with one storeymore than 4.5m above ground level(see paragraph 2.5).
+28_UK_DocB_V1_FireSafety,Dwelling-house with two or more storeysmore than 4.5m above ground level(see paragraph 2.6).
+29_UK_DocB_V1_FireSafety,"At the first storey above 7.5m, the protected stairway should be separated from the lower storeys by fire resisting construction (minimum REI 30) if the alternative escape route is accessed via either of the following."
+30_UK_DocB_V1_FireSafety,The protected stairway at or about 7.5m above ground level should be separated from the lower storeys or levels by fire resisting construction (see Diagram 2.4).
+31_UK_DocB_V1_FireSafety,Fire separation in a dwellin-ghouse with two or more storeys more than 4.5m above ground level.
+32_UK_DocB_V1_FireSafety,Passenger lifts.
+33_UK_DocB_V1_FireSafety,2.7  A passenger lift serving any storey more than 4.5m above ground level should be in either of the following.
+34_UK_DocB_V1_FireSafety,Air circulation systems.
+35_UK_DocB_V1_FireSafety,2.8  Air circulation systems which circulate air within an individual dwellinghouse with a floor more than 4.5m above ground level should meet the guidance given in paragraph 2.9.
+36_UK_DocB_V1_FireSafety,2.9  All of the following precautions should be taken to avoid the spread of smoke and fire to the protected stairway.
+37_UK_DocB_V1_FireSafety,Any duct passing through the stair enclosure should be rigid steel.
+38_UK_DocB_V1_FireSafety,Joints between the ductwork and stair enclosure should be fire-stopped.
+39_UK_DocB_V1_FireSafety,d.  Any system of mechanical ventilation which recirculates air and which serves both the stair and other areas should be designed to shut down on the detection of smoke within the system.
+40_UK_DocB_V1_FireSafety,"e.  For ducted warm air heating systems, a room thermostat should be sited in the living room."
+41_UK_DocB_V1_FireSafety,It should be mounted at a height between 1370mm and 1830mm above the floor.
+42_UK_DocB_V1_FireSafety,The maximum setting should be 27C.
+43_UK_DocB_V1_FireSafety,People escaping should be able to reach a place free from danger from fire.
+44_UK_DocB_V1_FireSafety,d.  Windows should be capable of remaining open without being held.
+45_UK_DocB_V1_FireSafety,"Where escape from a dwellinghouse is to an enclosed space with exit only possible through other buildings (e.g. a courtyard or back garden), the length of the space should exceed whichever is the greater of the following."
+46_UK_DocB_V1_FireSafety,Balconies and flat roofs.
+47_UK_DocB_V1_FireSafety,"2.13  Where a flat roof forms part of a means of escape, it should comply with all of the following."
+48_UK_DocB_V1_FireSafety,It should be part of the same building from which escape is being made.
+49_UK_DocB_V1_FireSafety,"c.  The part of the roof (including its supporting structure) forming the escape route, and any opening within 3m of the escape route, should be of fire resisting construction (minimum REI 30)."
+50_UK_DocB_V1_FireSafety,2.14  A balcony or flat roof intended to form part of an escape route should be provided with guarding etc.
+51_UK_DocB_V1_FireSafety,It should be provided with an alternative exit.
+52_UK_DocB_V1_FireSafety,"It should be provided with an emergency escape window, as described in paragraph 2.10, where the gallery floor is a maximum of 4.5m above ground level."
+53_UK_DocB_V1_FireSafety,Visible area tobe at least 50of oor area inlower room3m max.
+54_UK_DocB_V1_FireSafety,"Doors to the stair should be fire resisting (minimum E 30), except for a single exit door from the building to the top landing of a downwardleading external stair."
+55_UK_DocB_V1_FireSafety,c.  Fire resisting construction (minimum RE 30) should be provided for any part of the building (including doors) within 1800mm of the escape route from the foot of the stair to a place of safety.
+56_UK_DocB_V1_FireSafety,d.  Stairs more than 6m in height should be protected from adverse weather.
+57_UK_DocB_V1_FireSafety,"e.  Glazing in areas of fire resisting construction should be fixed shut and fire resisting (in terms of integrity, but not insulation) (minimum E 30)."
+58_UK_DocB_V1_FireSafety,"When complete, the building should comply with other applicable parts of Schedule 1 to at least the same level as before."
+59_UK_DocB_V1_FireSafety,The replacement window should be sized to provide at least the same potential for escape.
+60_UK_DocB_V1_FireSafety,The full extent of the escape route should be addressed.
+61_UK_DocB_V1_FireSafety,"Fire resisting doors (minimum E 20) and partitions (minimum REI 30) should be provided, including upgrading the existing doors where necessary."
+62_UK_DocB_V1_FireSafety,"NOTE: Where the layout is open plan, new partitions should be provided to enclose the escape route (Diagram 2.2)."
+63_UK_DocB_V1_FireSafety,"2.22 Where it is undesirable to replace existing doors because of historical or architectural merit, the possibility of retaining, and where necessary upgrading, them should be investigated."
+64_UK_DocB_V1_FireSafety,Section 3: Means of escape flats.
+65_UK_DocB_V1_FireSafety,Introduction.
+66_UK_DocB_V1_FireSafety,3.1  Separate guidance applies to means of escape within the flat and within the common parts of the building that lead to a place of safety.
+67_UK_DocB_V1_FireSafety,Sufficient protection to common means of escape is necessary to allow occupants to escape should they choose to do so or are instructed/aided to by the fire service.
+68_UK_DocB_V1_FireSafety,3.4  Paragraphs 3.6 to 3.23 deal with the means of escape within each flat.
+69_UK_DocB_V1_FireSafety,Paragraphs 3.25 to 3.89 deal with the means of escape in common areas of the building (including mixed use buildings in paragraphs 3.76 and 3.77).
+70_UK_DocB_V1_FireSafety,General provisions.
+71_UK_DocB_V1_FireSafety,Mixed use buildings.
+72_UK_DocB_V1_FireSafety,"In mixed use buildings, separate means of escape should be provided from any storeys or parts of storeys used for the residential or assembly and recreation purpose groups (purpose groups 1, 2 and 5), other than in the case of certain small buildings or buildings in which the residential accommodation is ancillary (see paragraphs 3.76 and 3.77)."
+73_UK_DocB_V1_FireSafety,Emergency escape windows and external doors.
+74_UK_DocB_V1_FireSafety,3.6  Windows or external doors providing emergency escape should comply with all of the following.
+75_UK_DocB_V1_FireSafety,People escaping should be able to reach a place free from danger from fire.
+76_UK_DocB_V1_FireSafety,d.  Windows should be capable of remaining open without being held.
+77_UK_DocB_V1_FireSafety,Balconies and flat roofs.
+78_UK_DocB_V1_FireSafety,"3.10  Where a flat roof forms part of a means of escape, it should comply with all of the following."
+79_UK_DocB_V1_FireSafety,It should be part of the same building from which escape is being made.
+80_UK_DocB_V1_FireSafety,"c.  The part of the roof (including its supporting structure) forming the escape route, and any opening within 3m of the escape route, should be of fire resisting construction (minimum  REI 30)."
+81_UK_DocB_V1_FireSafety,3.11  A balcony or flat roof intended to form part of an escape route should be provided with guarding etc.
+82_UK_DocB_V1_FireSafety,"in accordance with Approved Document K.3.12  For flats more than 4.5m above ground level, a balcony outside an alternative exit should be a common balcony meeting the conditions described in paragraph 3.22."
+83_UK_DocB_V1_FireSafety,It should be provided with an alternative exit.
+84_UK_DocB_V1_FireSafety,"It should be provided with an emergency escape window, as described in paragraph 3.6, where the gallery floor is a maximum of 4.5m above ground level."
+85_UK_DocB_V1_FireSafety,Visible area tobe at least 50of oor area inlower room3m max.
+86_UK_DocB_V1_FireSafety,Flats with storeys more than 4.5m above ground level.
+87_UK_DocB_V1_FireSafety,Internal planning of single storey flats.
+88_UK_DocB_V1_FireSafety,"3.18  One of the following approaches should be adopted, observing the inner room restrictions described in paragraphs 3.7 and 3.8."
+89_UK_DocB_V1_FireSafety,Flats with an alternative exit.
+90_UK_DocB_V1_FireSafety,"3.19  Where access from any habitable room to the entrance hall or flat entrance is impossible without passing through another room, all of the following conditions should be met (Diagram 3.4)."
+91_UK_DocB_V1_FireSafety,a.  Bedrooms should be separated from living accommodation by fire resisting construction (minimum REI 30) and fire doorsets (minimum E 20).
+92_UK_DocB_V1_FireSafety,The alternative exit should be in the part of the flat that contains the bedrooms.
+93_UK_DocB_V1_FireSafety,Internal planning of multistorey flats.
+94_UK_DocB_V1_FireSafety,"3.20  A multi-storey flat with an independent external entrance at ground level is similar to a dwellinghouse and means of escape should be planned on the basis of Section 2, depending on the height of the top storey above ground level."
+95_UK_DocB_V1_FireSafety,Approach 1  provide at least one alternative exit from each habitable room that is not on the entrance storey of the flat (Diagram 3.5 and paragraph 3.22).
+96_UK_DocB_V1_FireSafety,Approach 2  provide at least one alternative exit from each storey that is not the entrance storey of the flat.
+97_UK_DocB_V1_FireSafety,"d.  Approach 4  if the vertical distance between the entrance storey of the flat and any of the storeys above or below does not exceed 7.5m, provide all of the following."
+98_UK_DocB_V1_FireSafety,It should be remote from the main entrance door to the flat.
+99_UK_DocB_V1_FireSafety,Any access route leading to a final exit or common stair should comply with the provisions for means of escape in the common parts of a flat (see paragraph 3.25).
+100_UK_DocB_V1_FireSafety,Any duct passing through the enclosure should be rigid steel.
+101_UK_DocB_V1_FireSafety,Joints between the ductwork and enclosure should be firestopped.
+102_UK_DocB_V1_FireSafety,d.  Any system of mechanical ventilation which recirculates air and which serves both the stair and other areas should be designed to shut down on the detection of smoke within the system.
+103_UK_DocB_V1_FireSafety,"e.  For ducted warm air heating systems, a room thermostat should be sited in the living room."
+104_UK_DocB_V1_FireSafety,It should be mounted at a height between 1370mm and 1830mm above the floor.
+105_UK_DocB_V1_FireSafety,The maximum setting should be 27C.
+106_UK_DocB_V1_FireSafety,An alternative means of escape that is not a window.
+107_UK_DocB_V1_FireSafety,The design should be considered on a casebycase basis.
+108_UK_DocB_V1_FireSafety,Means of escape in the common parts of flats.
+109_UK_DocB_V1_FireSafety,3.25  The following paragraphs deal with means of escape from the entrance doors of flats to a final exit.
+110_UK_DocB_V1_FireSafety,Number of escape routes.
+111_UK_DocB_V1_FireSafety,"3.26  A person escaping through the common area, if confronted by the effects of a fire in another flat, should be able to turn away from it and make a safe escape via an alternative route."
+112_UK_DocB_V1_FireSafety,"The maximum travel distance in Table 3.1, for escape in one direction only, is not exceeded."
+113_UK_DocB_V1_FireSafety,"The flat is in a dead end of a common corridor served by two (or more) common stairs and the maximum travel distance given in Table 3.1, for escape in one direction only, is not exceeded (Diagram 3.8)."
+114_UK_DocB_V1_FireSafety,"If travel distance is measured to a stair lobby, the lobby must not provide direct access to any storage room, flat or other space containing a fire hazard."
+115_UK_DocB_V1_FireSafety,Does not apply if all flats on a storey have independent alternative means of escape.
+116_UK_DocB_V1_FireSafety,"Where travel distance is measured to a stair lobby, thelobby must not provide direct access to any storageroom, at or other space containing a potential rehazard."
+117_UK_DocB_V1_FireSafety,b. Corridor access with dead ends.
+118_UK_DocB_V1_FireSafety,The central  door may be omitted if maximum travel distance is not more than 15m7.5m max.
+119_UK_DocB_V1_FireSafety,Flats served by more than one common stair.
+120_UK_DocB_V1_FireSafety,Small single stair buildings.
+121_UK_DocB_V1_FireSafety,"3.28  For some low rise buildings, the provisions in paragraphs 3.26 and 3.27 may be modified and the use of a single stair, protected in accordance with Diagram 3.9, may be permitted where all of the following apply."
+122_UK_DocB_V1_FireSafety,No more than three storeys are above the ground storey.
+123_UK_DocB_V1_FireSafety,"If it does, they should be separated from the stair by a protected lobby or protected corridor (minimum REI 30) with a minimum 0.4m2 of permanent ventilation, or be protected from the ingress of smoke by a mechanical smoke control system."
+124_UK_DocB_V1_FireSafety,A high-level openable vent with a free area of at least 1m2 at each storey.
+125_UK_DocB_V1_FireSafety,"A single openable vent with a free area of at least 1m2 at the head of the stair, operable remotely at the fire and rescue service access level."
+126_UK_DocB_V1_FireSafety,Small single stair buildingwith no more than two flats per storeyThe door between stair and lobby should befree from security fastenings.
+127_UK_DocB_V1_FireSafety,"If the travel distance across the lobby in diagram (a)exceeds 4.5m, Diagram 3.7 applies."
+128_UK_DocB_V1_FireSafety,"Where, in Diagram (b), the lobby between the commonstair and the at is omitted in small single stairbuildings, an automatic opening vent with a geometric free-area of at least 1m is required at the top of the stair, which isoperated on detection of smoke at any storey in the stair."
+129_UK_DocB_V1_FireSafety,It should be part of the same building from which escape is being made.
+130_UK_DocB_V1_FireSafety,"c.  The part of the roof (including its supporting structure) forming the escape route, and any opening within 3m of the escape route, should be of fire resisting construction (minimum REI 30)."
+131_UK_DocB_V1_FireSafety,d.  The route should be clearly defined and guarded by walls and/or protective barriers to protect against falling.
+132_UK_DocB_V1_FireSafety,Common escape routes.
+133_UK_DocB_V1_FireSafety,3.31  The following paragraphs deal with means of escape from the entrance doors of flats to a final exit.
+134_UK_DocB_V1_FireSafety,3.34  Common corridors should be protected corridors.
+135_UK_DocB_V1_FireSafety,"The wall between each flat and the corridor should be a compartment wall (minimum REI 30 where the top storey is up to 5m above ground level, otherwise REI 60)."
+136_UK_DocB_V1_FireSafety,Associated screens should be fire resisting.
+137_UK_DocB_V1_FireSafety,Site doors so that smoke does not affect access to more than one stair.
+138_UK_DocB_V1_FireSafety,Ramps and sloping floors.
+139_UK_DocB_V1_FireSafety,3.40  A ramp forming part of an escape route should meet the provisions in Approved Document M. Any sloping floor or tier should have a pitch of not more than 35 degrees to the horizontal.
+140_UK_DocB_V1_FireSafety,"In addition, escape lighting should be provided to all of the following."
+141_UK_DocB_V1_FireSafety,3.43  Escape stair lighting should be on a separate circuit from the electricity supply to any other part of the escape route.
+142_UK_DocB_V1_FireSafety,Exit signs on common escape routes.
+143_UK_DocB_V1_FireSafety,"3.45  Every doorway or other exit providing access to a means of escape, other than exits in ordinary use (e.g. main entrances), should be distinctively and conspicuously marked by an exit sign in accordance with BS ISO 38641 and BS 54994."
+144_UK_DocB_V1_FireSafety,a.  Cables should be sufficiently robust.
+145_UK_DocB_V1_FireSafety,Cable routes should be carefully selected and/or physically protected in areas where cables may be exposed to damage.
+146_UK_DocB_V1_FireSafety,c.  Methods of cable support should be class A1 rated and offer at least the same integrity as the cable.
+147_UK_DocB_V1_FireSafety,It should be separate from any circuit provided for another purpose.
+148_UK_DocB_V1_FireSafety,There should therefore be some means of ventilating the common corridors/lobbies to control smoke and so protect the common stairs.
+149_UK_DocB_V1_FireSafety,"This means of ventilation offers additional protection to that provided by the fire doors to the stair, as well as some protection to the corridors/lobbies."
+150_UK_DocB_V1_FireSafety,Be positioned so the top edge is at least as high as the top of the door to the stair.
+151_UK_DocB_V1_FireSafety,They should be located on an external wall with minimum free area of 1.5m2.
+152_UK_DocB_V1_FireSafety,The free area of all the following vents should be a minimum of 1m2 in the following places.
+153_UK_DocB_V1_FireSafety,The smoke shaft should be constructed from a class A1 material.
+154_UK_DocB_V1_FireSafety,"The shaft should be vertical from base to head, with a maximum of 4m at a maximum inclined angle of 30 degrees."
+155_UK_DocB_V1_FireSafety,3.52  A vent to the outside with a minimum free area of 1m2 should be provided from the top storey of the stair.
+156_UK_DocB_V1_FireSafety,"3.53  In single stair buildings, smoke vents on the storey where the fire is initiated, and the vent at the head of the stair, should be activated by smoke detectors in the common parts."
+157_UK_DocB_V1_FireSafety,"In buildings with more than one stair, smoke vents may be activated manually."
+158_UK_DocB_V1_FireSafety,Refuse chutes and storage.
+159_UK_DocB_V1_FireSafety,"3.55  Refuse storage chambers, refuse chutes and refuse hoppers should be sited and constructed in accordance with BS 5906."
+160_UK_DocB_V1_FireSafety,Common stairs.
+161_UK_DocB_V1_FireSafety,Number of common stairs.
+162_UK_DocB_V1_FireSafety,3.59  A building should provide access to more than one common stair if it does not meet the criteria for a single common stair (see paragraph 3.26 and 3.27).
+163_UK_DocB_V1_FireSafety,"If it is also a firefighting stair, it should be at least 1100mm wide."
+164_UK_DocB_V1_FireSafety,"For a stair that is also a firefighting stair, guidance in Section 15 should be followed."
+165_UK_DocB_V1_FireSafety,Enclosure of common stairs.
+166_UK_DocB_V1_FireSafety,3.62  Every common stair should be a protected stairway.
+167_UK_DocB_V1_FireSafety,"Where the protected stairway passes from one compartment to another, it should be within a protected shaft."
+168_UK_DocB_V1_FireSafety,External walls adjacent to protected stairways.
+169_UK_DocB_V1_FireSafety,"3.63  With some configurations of external wall, a fire in one part of a building could subject the external wall of a protected stairway to heat (for example, where the two are adjacent at an internal angle in the faade, as shown in Diagram 3.10)."
+170_UK_DocB_V1_FireSafety,"3.64  If a protected stairway projects beyond, is recessed from or is in an internal angle of the adjoining external wall of the building, then the minimum distance between an unprotected area of the building enclosure and an unprotected area of the stair enclosure should be 1800mm."
+171_UK_DocB_V1_FireSafety,The stair serves a floor not more than 6m above the ground level.
+172_UK_DocB_V1_FireSafety,"3.67  Where more than one escape route is available from a storey (or part of a building), then some of the escape routes from that storey or part of the building may be by way of an external stair provided all of the following conditions are met:a.There is a at least one internal escape stair from every part of each storey (excluding plant areas)."
+173_UK_DocB_V1_FireSafety,The stair serves a floor not more than 6m above either the ground level or a roof podium which is itself served by an independent protected stairway.
+174_UK_DocB_V1_FireSafety,"Doors to the stair should be fire resisting (minimum E 30) and be fitted with a selfclosing device, except for a single exit door from the building to the top landing of a downwardleading external stair, provided it is the only door onto the landing."
+175_UK_DocB_V1_FireSafety,c.  Fire resisting construction (minimum RE 30) should be provided for any part of the building (including doors) within 1800mm of the escape route from the foot of the stair to a place of safety.
+176_UK_DocB_V1_FireSafety,d.  Glazing in areas of fire resisting construction should be fixed shut and fire resisting (in terms of integrity but not insulation) (minimum E 30).
+177_UK_DocB_V1_FireSafety,e.  Stairs more than 6m in height above ground level (e.g. where they are provided above a podium) should be protected from adverse weather.
+178_UK_DocB_V1_FireSafety,where they are provided above a podium) should be protected from adverse weather.
+179_UK_DocB_V1_FireSafety,Separation of adjoining protected stairways.
+180_UK_DocB_V1_FireSafety,3.70  The construction separating two adjacent protected stairways (or exit passageways leading to different final exits) should be imperforate.
+181_UK_DocB_V1_FireSafety,The basement storey should be served by a separate escape stair.
+182_UK_DocB_V1_FireSafety,"3.77  In buildings with more than three storeys above the ground storey, stairs may serve the flats and other occupancies if all of the following apply."
+183_UK_DocB_V1_FireSafety,"d.  The stair enclosure has at least the same standard of fire resistance as the structural elements of the building (see Appendix B, Table B4); if the stair is a firefighting stair, it should comply with the provisions in Section 15 (see also paragraph 3.60)."
+184_UK_DocB_V1_FireSafety,Electricity meter(s) in protected stairways.
+185_UK_DocB_V1_FireSafety,"3.79  In single stair buildings, electricity meters should be in securely locked cupboards."
+186_UK_DocB_V1_FireSafety,Cupboards should be separated from the escape route by fire resisting construction.
+187_UK_DocB_V1_FireSafety,Construction of escape stairs.
+188_UK_DocB_V1_FireSafety,"3.82  The flights and landings of escape stairs should be constructed of materials achieving class A2s3, d2 or better in all of the following situations."
+189_UK_DocB_V1_FireSafety,If the escape stair is the only stair in a building with more than three storeys.
+190_UK_DocB_V1_FireSafety,If the escape stair serves any storey that has a floor level more than 18m above ground or access level.
+191_UK_DocB_V1_FireSafety,Dimensional constraints on the design of stairs are given in Approved Document K.Single steps.
+192_UK_DocB_V1_FireSafety,3.84  Single steps on escape routes should be prominently marked.
+193_UK_DocB_V1_FireSafety,Fixed ladders.
+194_UK_DocB_V1_FireSafety,3.85  Fixed ladders should not be provided as a means of escape for members of the public.
+195_UK_DocB_V1_FireSafety,"If they are intended to serve members of the public, stairs should be type E (public) stairs."
+196_UK_DocB_V1_FireSafety,c.  Guidance on the safety of glazing: Approved Document K.Doors on escape routes.
+197_UK_DocB_V1_FireSafety,3.90  Doors should be readily openable to avoid undue delay to people escaping.
+198_UK_DocB_V1_FireSafety,Door fastenings.
+199_UK_DocB_V1_FireSafety,"3.91  In general, doors on escape routes (whether or not the doors are fire doorsets) should be either of the following."
+200_UK_DocB_V1_FireSafety,Easy to operate; it should be apparent how to undo the fastening.
+201_UK_DocB_V1_FireSafety,Operable without requiring people to manipulate more than one mechanism.
+202_UK_DocB_V1_FireSafety,"If a secure door is operated by code or combination keypad, swipe or proximity card, biometric data, etc., a security mechanism override should be possible from the side approached by people escaping."
+203_UK_DocB_V1_FireSafety,"Security mechanism overrides for electrically powered locks should be a Type A call point, as described in BS 72734."
+204_UK_DocB_V1_FireSafety,The call point should be positioned on the side approached by people escaping.
+205_UK_DocB_V1_FireSafety,"If the door provides escape in either direction, a call point should be installed on both sides of the door."
+206_UK_DocB_V1_FireSafety,3.93  Guidance on door closing and hold open devices for fire doorsets is set out in Appendix C.Direction of opening.
+207_UK_DocB_V1_FireSafety,3.94  The door of any doorway or exit should be hung to open in the direction of escape whenever reasonably practicable.
+208_UK_DocB_V1_FireSafety,It should always be hung to open in the direction of escape if more than 60 people might be expected to use it during a fire.
+209_UK_DocB_V1_FireSafety,Amount of opening and effect on associated escape routes3.95  All doors on escape routes should be hung to meet both of the following conditions.
+210_UK_DocB_V1_FireSafety,3.96  Any door opening towards a corridor or a stair should be recessed to prevent its swing encroaching on the effective width.
+211_UK_DocB_V1_FireSafety,Be enclosed with fire resisting construction (minimum REI 30) when in a position that might prejudice the means of escape.
+212_UK_DocB_V1_FireSafety,"3.101  In buildings designed for phased evacuation or progressive horizontal evacuation, if the lift well is not within the enclosures of a protected stairway, its entrance should be separated at every storey by a protected lobby (minimum REI 30)."
+213_UK_DocB_V1_FireSafety,"3.102 In basements and enclosed car parks, the lift should be within the enclosure of a protected stairway."
+214_UK_DocB_V1_FireSafety,"Otherwise, the lift should be approached only via a protected lobby or protected corridor (minimum REI 30)."
+215_UK_DocB_V1_FireSafety,then the lift should be separated from the high fire risk area(s) by a protected lobby or protected corridor (minimum REI 30).
+216_UK_DocB_V1_FireSafety,3.105 Lift machine rooms should be sited over the lift well where possible.
+217_UK_DocB_V1_FireSafety,Final exits.
+218_UK_DocB_V1_FireSafety,3.106 People should be able to rapidly leave the area around the building.
+219_UK_DocB_V1_FireSafety,"Direct access to a street, passageway, walkway or open space should be available."
+220_UK_DocB_V1_FireSafety,"Where the route to a final exit does not include stairs, a level threshold and, where necessary, a ramp should be provided."
+221_UK_DocB_V1_FireSafety,3.108 Final exit locations should be clearly visible and recognisable.
+222_UK_DocB_V1_FireSafety,"(1)   To inhibit the spread of fire within the building, the internal linings shall (a)   adequately resist the spread of flame over their surfaces; and (b)   have, if ignited, either a rate of heat release or a rate of fire growth, which is reasonable in the circumstances."
+223_UK_DocB_V1_FireSafety,"(2)   In this paragraph internal linings means the materials or products used in lining any partition, wall, ceiling or other internal structure."
+224_UK_DocB_V1_FireSafety,"It is particularly important in circulation spaces, where linings may offer the main means by which fire spreads and where rapid spread is most likely to prevent occupants from escaping."
+225_UK_DocB_V1_FireSafety,"Wall-coverings which conform to BS EN 15102, achieving at least class Cs3, d2 and bonded to a class A2s3, d2 substrate, will also be acceptable."
+226_UK_DocB_V1_FireSafety,Any part of a ceiling which slopes at an angle greater than 70 degrees to the horizontal.
+227_UK_DocB_V1_FireSafety,"In any one room, the total area of lower performance wall lining should be less than an area equivalent to half of the rooms floor area, up to a maximum of 20m2 of wall lining."
+228_UK_DocB_V1_FireSafety,"Plastic rooflights, if the limitations in Table 4.2 and Table 12.2 are observed, should be a minimum class Ds3, d2 rating."
+229_UK_DocB_V1_FireSafety,Panels should be sealed to prevent exposure of the core to a fire.
+230_UK_DocB_V1_FireSafety,"In high fire risk areas, such as kitchens, places of special fire hazard, or in proximity to where hot works occur, only class A1 cored panels should be used."
+231_UK_DocB_V1_FireSafety,c.  Fixing systems for all panels should be designed to take account of the potential for the panel to delaminate.
+232_UK_DocB_V1_FireSafety,"Except for the upper surfaces of the thermoplastic panels, wall and ceiling surfaces exposed in the space above the suspended ceiling should comply with paragraph 4.1.b.  Diffusers should be classified as one of the following."
+233_UK_DocB_V1_FireSafety,Lighting diffusers of TP(a) flexible rating should be used only in panels of a maximum of 5m2 each.
+234_UK_DocB_V1_FireSafety,The minimum 3m separation given in Diagram 4.2 between each 5m2 group must be maintained.
+235_UK_DocB_V1_FireSafety,"(1)   The building shall be designed and constructed so that, in the event of fire, its stability will be maintained for a reasonable period(2)   A wall common to two or more buildings shall be designed and constructed so that it adequately resists the spread of fire between those buildings."
+236_UK_DocB_V1_FireSafety,"(3)   Where reasonably necessary to inhibit the spread of fire within the building, measures shall be taken, to an extent appropriate to the size and intended use of the building, comprising either or both of the following(a)   subdivision of the building with fireresisting construction;(b)   installation of suitable automatic fire suppression systems."
+237_UK_DocB_V1_FireSafety,(4)   The building shall be designed and constructed so that the unseen spread of fire and smoke within concealed spaces in its structure and fabric is inhibited.
+238_UK_DocB_V1_FireSafety,"The roof performs the function of a floor, such as a roof terrace, or as a means of escape."
+239_UK_DocB_V1_FireSafety,"In these cases, the structural members in the roof do not just support a roof and must demonstrate the relevant fire resistance for the building as required by paragraph 5.2 above."
+240_UK_DocB_V1_FireSafety,Compartmentation.
+241_UK_DocB_V1_FireSafety,Provision of compartmentation.
+242_UK_DocB_V1_FireSafety,5.5  Dwelling-houses that are semidetached or in terraces should be considered as separate buildings.
+243_UK_DocB_V1_FireSafety,Every wall separating the dwellinghouses should be constructed as a compartment wall (see paragraphs 5.8 to 5.12).
+244_UK_DocB_V1_FireSafety,"If a garage is attached to or forms an integral part of a dwellinghouse, the garage should be separated from the rest of the dwellinghouse by fire resisting construction (minimum REI 30)  (Diagram 5.1)."
+245_UK_DocB_V1_FireSafety,"The garage floor should be laid such that it falls away from the door to the outside, to allow fuel spills to flow away."
+246_UK_DocB_V1_FireSafety,The door opening should be a minimum of 100mm above the level of the garage floor.
+247_UK_DocB_V1_FireSafety,Construction of compartment walls and compartment floors.
+248_UK_DocB_V1_FireSafety,General provisions.
+249_UK_DocB_V1_FireSafety,5.8  All compartment walls and compartment floors should achieve both of the following.
+250_UK_DocB_V1_FireSafety,"Where the height difference between the two roofs is less than 375mm, 375mm above the top surface of the adjoining roof covering."
+251_UK_DocB_V1_FireSafety,Firestopping should be carried over the full thickness of the wall.
+252_UK_DocB_V1_FireSafety,Firestopping should be extended into any eaves.
+253_UK_DocB_V1_FireSafety,Roof covering.
+254_UK_DocB_V1_FireSafety,The wall should be extended up through the roof for a height of at least 375mm above the top surface of the adjoining roof covering.
+255_UK_DocB_V1_FireSafety,"Where there is a height difference of at least 375 mm between two roofs or where the roof coverings on either side of the wall are BROOF(t4) rated, the height of the upstand/parapet wall above the highest roof may be reduced to 200mm."
+256_UK_DocB_V1_FireSafety,Provision of cavity barriers.
+257_UK_DocB_V1_FireSafety,"5.17  To reduce the potential for fire spread, cavity barriers should be provided for both of the following."
+258_UK_DocB_V1_FireSafety,5.18  Cavity barriers should be provided at all of the following locations.
+259_UK_DocB_V1_FireSafety,The compartment wall should be extended to the underside of the floor or roof above.
+260_UK_DocB_V1_FireSafety,There are no more than two cupboards per dwelling.
+261_UK_DocB_V1_FireSafety,The openings in the outer wall leaf are not bigger than  800(cid:31)500mm for each cupboard.
+262_UK_DocB_V1_FireSafety,"The inner leaf is not penetrated except by a sleeve not  more than 80(cid:31)80mm, which is restopped."
+263_UK_DocB_V1_FireSafety,5.22  Cavity barriers should be tightly fitted to a rigid construction and mechanically fixed in position.
+264_UK_DocB_V1_FireSafety,"where a cavity barrier joins to slates, tiles, corrugated sheeting or similar materials) the junction should be firestopped."
+265_UK_DocB_V1_FireSafety,5.23  Cavity barriers should be fixed so their performance is unlikely to be made ineffective by any of the following.
+266_UK_DocB_V1_FireSafety,Openings in cavity barriers.
+267_UK_DocB_V1_FireSafety,5.24 Openings should be limited to the following.
+268_UK_DocB_V1_FireSafety,"The roof performs the function of a floor, such as for parking vehicles, or as a means of escape."
+269_UK_DocB_V1_FireSafety,"In these cases, the structural members in the roof do not just support a roof and must demonstrate the relevant fire resistance for the building as required by the note to paragraph 6.1 above."
+270_UK_DocB_V1_FireSafety,A compartment wall (including a wall common to two buildings): Section 7.b.  Enclosing a place of special fire hazard: Section 7.c.  Protecting a means of escape: Sections 2 and 3.d.  An external wall: Sections 10 and 11.e.  Enclosing a firefighting shaft: Section 15.
+271_UK_DocB_V1_FireSafety,"Conversion to flats6.5  Where an existing dwellinghouse or other building is converted into flats, a review of the existing construction should be carried out."
+272_UK_DocB_V1_FireSafety,"6.6  In a converted building with a maximum of three storeys, a minimum REI 30 fire resistance could be accepted for elements of structure if the means of escape conform to the provisions of Section 3."
+273_UK_DocB_V1_FireSafety,Section 7: Compartmentation/sprinklers.
+274_UK_DocB_V1_FireSafety,flats.
+275_UK_DocB_V1_FireSafety,Provision of compartmentation.
+276_UK_DocB_V1_FireSafety,"7.1  All of the following should be provided as compartment walls and compartment floors and should have, as a minimum, the fire resistance given in Appendix B, Table B3."
+277_UK_DocB_V1_FireSafety,7.3  Parts of a building occupied mainly for different purposes should be separated from one another by compartment walls and/or compartment floors.
+278_UK_DocB_V1_FireSafety,Sprinklers.
+279_UK_DocB_V1_FireSafety,"7.4  Blocks of flats with a top storey more than 11m above ground level (see Diagram D6) should be fitted with a sprinkler system throughout the building in accordance with Appendix E.NOTE: Sprinklers should be provided within the individual flats, they do not need to be provided in the common areas such as stairs, corridors or landings when these areas are fire sterile."
+280_UK_DocB_V1_FireSafety,"B37.7  Where services could provide a source of ignition, the risk of fire developing and spreading into adjacent compartments should be controlled."
+281_UK_DocB_V1_FireSafety,7.11  Compartment walls in a top storey beneath a roof should be continued through the roof space.
+282_UK_DocB_V1_FireSafety,Junction of compartment wall or compartment floor with other walls.
+283_UK_DocB_V1_FireSafety,"7.12  At the junction with another compartment wall or an external wall, the fire resistance of the compartmentation should be maintained."
+284_UK_DocB_V1_FireSafety,Firestopping that meets the provisions in paragraphs 9.24 to 9.29 should be provided.
+285_UK_DocB_V1_FireSafety,"7.13  At the junction of a compartment floor and an external wall with no fire resistance, the external wall should be restrained at floor level."
+286_UK_DocB_V1_FireSafety,"7.14  Compartment walls should be able to accommodate deflection of the floor, when exposed to fire, by either of the following means."
+287_UK_DocB_V1_FireSafety,"For steel beams that do not have the required fire resistance, reference should be made to SCI Publication P288."
+288_UK_DocB_V1_FireSafety,"Where the height difference between the two roofs is less than 375mm, 375mm above the top surface of the adjoining roof covering."
+289_UK_DocB_V1_FireSafety,Openings in compartmentation.
+290_UK_DocB_V1_FireSafety,Openings in compartment walls separating buildings or occupancies.
+291_UK_DocB_V1_FireSafety,7.19  Openings in a compartment wall common to two or more buildings should be limited to those for either of the following.
+292_UK_DocB_V1_FireSafety,"A fire doorset providing a means of escape, which has the same fire resistance as the wall and is fitted in accordance with the provisions in Appendix C.b."
+293_UK_DocB_V1_FireSafety,"Openings in other compartment walls, or in compartment floors."
+294_UK_DocB_V1_FireSafety,7.20  Openings should be limited to those for any of the following.
+295_UK_DocB_V1_FireSafety,Protected shafts.
+296_UK_DocB_V1_FireSafety,7.21  Stairs and service shafts connecting compartments should be protected to restrict the spread of fire between the compartments.
+297_UK_DocB_V1_FireSafety,B37.22  Any stair or other shaft passing directly from one compartment to another should be enclosed in a protected shaft.
+298_UK_DocB_V1_FireSafety,"Protected shafts should be used for the following only, but may also include sanitary accommodation and washrooms."
+299_UK_DocB_V1_FireSafety,The enclosure must conform to Diagram 7.2 and meet all of the following conditions.
+300_UK_DocB_V1_FireSafety,The standard of fire resistance required for the protected stairway is not more than REI 60.
+301_UK_DocB_V1_FireSafety,"B37.27  In a protected shaft, any pipe carrying natural gas or LPG should be both of the following."
+302_UK_DocB_V1_FireSafety,Ventilation of protected shafts conveying gas.
+303_UK_DocB_V1_FireSafety,"7.28  A protected shaft conveying piped flammable gas should be ventilated direct to the outside air, by ventilation openings at high and low level in the shaft."
+304_UK_DocB_V1_FireSafety,Openings in other parts of the enclosure to a protected shaft should be limited to the following.
+305_UK_DocB_V1_FireSafety,"If a wall common to two or more buildings forms part of the enclosure, only the following openings should be made in that wall."
+306_UK_DocB_V1_FireSafety,"A fire doorset providing a means of escape, which has the same fire resistance as the wall and is fitted in accordance with the provisions in Appendix C.If the machine room is at the bottom of the shaft, the openings should be as small as practicable."
+307_UK_DocB_V1_FireSafety,Provision of cavity barriers.
+308_UK_DocB_V1_FireSafety,"8.2  To reduce the potential for fire spread, cavity barriers should be provided for both of the following."
+309_UK_DocB_V1_FireSafety,Pathways around fireseparating elements.
+310_UK_DocB_V1_FireSafety,Junctions and edges of cavities.
+311_UK_DocB_V1_FireSafety,8.3  Cavity barriers should be provided at all of the following locations.
+312_UK_DocB_V1_FireSafety,Then the cavity above or below the fire resisting construction should be either of the following.
+313_UK_DocB_V1_FireSafety,There are no more than two cupboards per dwellingThe openings in the outer wall leaf are not bigger than  800(cid:31)500mm for each cupboard.
+314_UK_DocB_V1_FireSafety,"c.  The inner leaf is not penetrated except by a sleeve not  more than 80(cid:31)80mm, which is restopped."
+315_UK_DocB_V1_FireSafety,Section 9: Protection of openings and firestopping.
+316_UK_DocB_V1_FireSafety,Introduction.
+317_UK_DocB_V1_FireSafety,"9.1  Every joint, imperfect fit and opening for services through a fireseparating element should be sealed with firestopping to ensure that the fire resistance of the element is not impaired."
+318_UK_DocB_V1_FireSafety,The nominal internal diameter of the pipe should not exceed the relevant dimension given in Table 9.1.
+319_UK_DocB_V1_FireSafety,"A high melting point metal means any metal (such as cast iron, copper or steel) which, if exposed to a temperature of 800C, will not soften or fracture to the extent that flame or hot gas will pass through the wall of the pipe."
+320_UK_DocB_V1_FireSafety,"Note: when a classication includes s3, d2, this  means that there is no limit set for smoke   production and/or aming droplets/particles)."
+321_UK_DocB_V1_FireSafety,c. Not have re resistance less than E 30(including any access panel).
+322_UK_DocB_V1_FireSafety,"The opening for a pipe, in either the element of   structure or the casing, should be as small as   possible and restopped around the pipe."
+323_UK_DocB_V1_FireSafety,The sleeve should be class A1 rated.
+324_UK_DocB_V1_FireSafety,"Terminals of exhaust points should be sited away from final exits, cladding or roofing materials achieving class Bs3, d2 or worse and openings into the building."
+325_UK_DocB_V1_FireSafety,A separate ventilation system should be provided for each protected stairway.
+326_UK_DocB_V1_FireSafety,9.8  A fire and smoke damper should be provided where ductwork enters or leaves each section of the protected escape route it serves.
+327_UK_DocB_V1_FireSafety,It should be operated by a smoke detector or suitable fire detection system.
+328_UK_DocB_V1_FireSafety,"In a system that recirculates air, smoke detectors should be fitted in the extract ductwork before both of the following."
+329_UK_DocB_V1_FireSafety,"9.11  Under fire conditions, ventilation and airconditioning systems should be compatible with smoke control systems and need to be considered in their respective design."
+330_UK_DocB_V1_FireSafety,Ventilation ducts and flues passing through fireseparating elements.
+331_UK_DocB_V1_FireSafety,General provisions.
+332_UK_DocB_V1_FireSafety,"9.12  If air handling ducts pass through fireseparating elements, the fire performance of the elements should be maintained using one or more of the following four methods."
+333_UK_DocB_V1_FireSafety,Flats and dwellings.
+334_UK_DocB_V1_FireSafety,"9.14  Where ducts pass between fireseparating elements to serve multiple flats or dwellings, fire dampers or fire and smoke dampers should be actuated by both of the following."
+335_UK_DocB_V1_FireSafety,Installation and specification of fire dampers.
+336_UK_DocB_V1_FireSafety,9.18  Both fire dampers and fire and smoke dampers should be all of the following.
+337_UK_DocB_V1_FireSafety,"9.19  Access to the fire damper and its actuating mechanism should be provided for inspection, testing and maintenance."
+338_UK_DocB_V1_FireSafety,9.22  Smoke detectors should be sited so as to prevent the spread of smoke as early as practicable by activating the fire and smoke dampers.
+339_UK_DocB_V1_FireSafety,"9.23  The wall of a flue, duct containing flues or appliance ventilation duct(s) should have a fire resistance (REI) that is at least half of any compartment wall or compartment floor it passes through or is built into (Diagram 9.5)."
+340_UK_DocB_V1_FireSafety,Flue walls should have a re resistance of at least one half of that required for the compartment wall or oor and be of class A1 construction.
+341_UK_DocB_V1_FireSafety,In each case ue walls should have a re resistance of at leastone half of that required for the compartment wall and be ofclass A1 construction.
+342_UK_DocB_V1_FireSafety,Fire-stopping.
+343_UK_DocB_V1_FireSafety,"9.24  In addition to any other provisions in this section, both of the following conditions should be met."
+344_UK_DocB_V1_FireSafety,Joints between fireseparating elements should be firestopped.
+345_UK_DocB_V1_FireSafety,"Openings through a fire resisting element for pipes, ducts, conduits or cable should be all of the following."
+346_UK_DocB_V1_FireSafety,"NOTE: The firestopping around fire dampers, fire resisting ducts, fire and smoke dampers and smoke control ducts should be in accordance with the manufacturer or suppliers installation instructions."
+347_UK_DocB_V1_FireSafety,"9.25  Materials used for firestopping should be reinforced with (or supported by) materials rated class A2s3, d2 or better to prevent displacement in both of the following cases."
+348_UK_DocB_V1_FireSafety,Where the unsupported span is greater than 100mm.
+349_UK_DocB_V1_FireSafety,Section 10 also refers to regulation 7(2) of the Building Regulations 2010.
+350_UK_DocB_V1_FireSafety,"(1)   The external walls of the building shall adequately resist the spread of fire over the walls and from one building to another having regard to the height, use and position of the building."
+351_UK_DocB_V1_FireSafety,"(2)   The roof of the building shall adequately resist the spread of fire over the roof and from one building to another, having regard to the use and position of the building."
+352_UK_DocB_V1_FireSafety,Regulation.
+353_UK_DocB_V1_FireSafety,Regulation 7  Materials and workmanship.
+354_UK_DocB_V1_FireSafety,"(1)  Building work shall be carried out(a)  with adequate and proper materials which(i)   are appropriate for the circumstances in which they are used,(ii)  are adequately mixed or prepared, and(iii)  are applied, used or fixed so as adequately to perform the functions for which they are designed; andin a workmanlike manner."
+355_UK_DocB_V1_FireSafety,"(1A)  Building work shall be carried out so that relevant metal composite material does not become part of an external wall, or specified attachment, of any building."
+356_UK_DocB_V1_FireSafety,"(2)    Subject to paragraph (3), building work shall be carried out so that materials which become part of an external wall, or specified attachment, of a relevant building are of European Classification A2s1, d0 or A1 (classified in accordance with the reaction to fire classification)."
+357_UK_DocB_V1_FireSafety,(4)  In this regulation(a)   a relevant building means a building with a storey (not including rooftop plant areas or any storey consisting exclusively of plant rooms) at least 18 metres above ground level and which(i)  contains one or more dwellings;(ii)  contains an institution; or(iii)  contains a room for residential purposes; and(b)   above ground level in relation to a storey means above ground level when measured from the lowest ground level adjoining the outside of a building to the top of the floor surface of the storey.
+358_UK_DocB_V1_FireSafety,"10.4 In relation to buildings of any height or use, consideration should be given to the choice of materials (including their extent and arrangement) used for the external wall, or attachments to the wall (e.g."
+359_UK_DocB_V1_FireSafety,"Regulation 7(1A) prohibits the use of relevant metal composite materials in the external walls, and specified attachments, of all buildings of any height (see paragraphs 10.11 and 10.12)."
+360_UK_DocB_V1_FireSafety,Profiled or flat steel sheet at least 0.5mm thick with an organic coating of no more than 0.2mm thickness is also acceptable.
+361_UK_DocB_V1_FireSafety,Timber cladding at least 9mm thick is also acceptable.
+362_UK_DocB_V1_FireSafety,Cavities and cavity barriers.
+363_UK_DocB_V1_FireSafety,10.9  Cavity barriers should be provided in accordance with Section 5 in dwellinghouses and Section 8 in flats.
+364_UK_DocB_V1_FireSafety,Metal composite materials.
+365_UK_DocB_V1_FireSafety,"10.11  Regulation 7(1A) prohibits the use of relevant metal composite materials in the external walls, and specified attachments, of all buildings of any height."
+366_UK_DocB_V1_FireSafety,"10.12 Relevant metal composite materials are defined (in regulation 2(6)(c)) as any panel or sheet, having a thickness of no more than 10mm which is composed of a number of layers two or more of which are made of metal, alloy or metal compound and one or more of which is a substantial layer made of a material having a gross calorific value of more than 35MJ/kg when tested in accordance with BS EN ISO 1716."
+367_UK_DocB_V1_FireSafety,A substantial layer is defined as a layer which is at least 1mm thick or has a mass per unit area of at least 1kg/m.
+368_UK_DocB_V1_FireSafety,10.14 Regulation 7(2) applies to any building with a storey at least 18m above ground level (as measured in accordance with Diagram D6 in Appendix D) and which contains one or more dwellings; an institution; or a room for residential purposes.
+369_UK_DocB_V1_FireSafety,Material change of use.
+370_UK_DocB_V1_FireSafety,"10.17 Regulations 5(k) and 6(3) provide that, where the use of a building is changed such that the building becomes a building described in regulation 7(4), the construction of the external walls, and specified attachments, must be investigated and, where necessary, work must be carried out to ensure they only contain materials achieving class A2s1, d0 or class A1, other than those exempted by regulation 7(3)."
+371_UK_DocB_V1_FireSafety,"Therefore, for buildings described in regulation 7(4), the potential impact of any products incorporated into or onto the external walls and specified attachments should be carefully considered with regard to their number, size, orientation and position."
+372_UK_DocB_V1_FireSafety,Window spandrel panels and infill panels must comply with regulation 7(2).
+373_UK_DocB_V1_FireSafety,"However, they should not span two compartments and should be limited in size to the minimum required to restrict the thermal bridging (the principal insulation layer is not to be regarded as a thermal break)."
+374_UK_DocB_V1_FireSafety,"g.  While regulation 7(2) applies to materials which become part of an external wall or specified attachment, consideration should be given to other attachments to the wall which could impact on the risk of fire spread over the wall."
+375_UK_DocB_V1_FireSafety,"11.3 If a reduced separation distance between buildings, or increased amount of unprotected area, is required, smaller compartments should be considered."
+376_UK_DocB_V1_FireSafety,"The notional boundary should be set in the area between the two buildings using the following rules:11.7  Where a fire resisting external wall has an external surface material that is worse than class Bs3, d2 and is more than 1mm thick, that part of the wall should be classified as an unprotected area equating to half its area (Diagram 11.4)."
+377_UK_DocB_V1_FireSafety,"External walls on, and within 1000mm of, the relevant boundary."
+378_UK_DocB_V1_FireSafety,"11.8  Unprotected areas should meet the conditions in Diagram 11.5, and the rest of the wall should be fire resisting from both sides."
+379_UK_DocB_V1_FireSafety,"External surface materials facing the boundary should be class Bs3, d2 or better."
+380_UK_DocB_V1_FireSafety,External walls 1000mm or more from the relevant boundary.
+381_UK_DocB_V1_FireSafety,"11.9  Unprotected areas should not exceed the result given by one of the methods in paragraph 11.16, and the rest of the wall (if any) should be fire resisting but only from the inside of the building."
+382_UK_DocB_V1_FireSafety,"11.11  In an otherwise protected wall, small unprotected areas may be ignored where they meet the conditions in Diagram 11.5."
+383_UK_DocB_V1_FireSafety,"11.12  Where both of the following apply, separation distances may be determined from the wall rather than from the edge of the canopy (Diagram 11.6)."
+384_UK_DocB_V1_FireSafety,Diagram 11.6  The effect of a canopy on separation distance.
+385_UK_DocB_V1_FireSafety,Roofs.
+386_UK_DocB_V1_FireSafety,11.14  Roofs with a pitch of more than 70 degrees to the horizontal should be assessed in accordance with this section.
+387_UK_DocB_V1_FireSafety,"Vertical parts of a pitched roof, such as dormer windows, should be included only if the slope of the roof exceeds 70 degrees."
+388_UK_DocB_V1_FireSafety,It is a matter of judgement whether a continuous run of dormer windows that occupies most of a steeply pitched roof should be treated as a wall rather than a roof.
+389_UK_DocB_V1_FireSafety,"(The roof venting could be, for example, PVC rooflights covering some 10 of the floor area and evenly spaced over the floor area.)"
+390_UK_DocB_V1_FireSafety,When using BR 187 the following radiation intensity at each unprotected area should be assumed.
+391_UK_DocB_V1_FireSafety,11.18  The building should not exceed three storeys in height (excluding basements) or 24m in length.
+392_UK_DocB_V1_FireSafety,11.20 The building should not exceed 10m in height.
+393_UK_DocB_V1_FireSafety,Requirement B1  for roofs that are part of a means of escape.
+394_UK_DocB_V1_FireSafety,Thatch and wood shingles.
+395_UK_DocB_V1_FireSafety,"12.9  If the performance of thatch or wood shingles cannot be established, they should be regarded as having an EROOF(t4) classification in Table 12.1."
+396_UK_DocB_V1_FireSafety,The rafters are overdrawn with construction having not less than 30 minutes fire resistance.
+397_UK_DocB_V1_FireSafety,"Where Diagram 5.2a or 5.2b applies, rooflights should be a minimum of 1500mm from the compartment wall."
+398_UK_DocB_V1_FireSafety,None of the above designations are suitable for protected stairways.
+399_UK_DocB_V1_FireSafety,"Where Diagram 5.2a or 5.2b applies, rooflights should be a minimum of 1500mm from the compartment wall."
+400_UK_DocB_V1_FireSafety,(1)   The building shall be designed and constructed so as to provide reasonable facilities to assist fire fighters in the protection of life.
+401_UK_DocB_V1_FireSafety,(2)   Reasonable provision shall be made within the site of the building to enable fire appliances to gain access to the building.
+402_UK_DocB_V1_FireSafety,"If an alternative approach is taken to providing the means of escape, outside the scope of this approved document, additional provisions for firefighting access may be required."
+403_UK_DocB_V1_FireSafety,Section 13: Vehicle access.
+404_UK_DocB_V1_FireSafety,"Provision and design of access routes and hard-standings13.1  For dwellinghouses, access for a pumping appliance should be provided to within 45m of all points inside the dwellinghouse."
+405_UK_DocB_V1_FireSafety,"Every elevation to which vehicle access is provided should have a suitable door(s), not less than 750mm wide, giving access to the interior of the building."
+406_UK_DocB_V1_FireSafety,"13.2  For flats, either of the following provisions should be made."
+407_UK_DocB_V1_FireSafety,"Every elevation to which vehicle access is provided should have a suitable door(s), not less than 750mm wide, giving access to the interior of the building."
+408_UK_DocB_V1_FireSafety,Door(s) should be provided such that there is no more than 60m between each door and/or the end of that elevation (e.g.a 150m elevation would need at least two doors).
+409_UK_DocB_V1_FireSafety,Fire and rescue service vehicles should not have to reverse more than 20m from the end of an access road.
+410_UK_DocB_V1_FireSafety,Access should be provided for a pumping appliance to within 18m of each fire main inlet connection point.
+411_UK_DocB_V1_FireSafety,Inlets should be on the face of the building.
+412_UK_DocB_V1_FireSafety,"The fire main inlet connection point should be visible from the parking position of the appliance, and meet the provisions in Section 8 of BS 9990."
+413_UK_DocB_V1_FireSafety,There should be a facility to replenish a wet system from a pumping appliance in an emergency.
+414_UK_DocB_V1_FireSafety,14.3  Buildings without firefighting shafts should be provided with fire mains where fire service vehicle access is not provided in accordance with paragraph 13.2(a).
+415_UK_DocB_V1_FireSafety,"In these cases, the fire mains should be located within the protected stairway enclosure, with a maximum hose distance of 45m from the fire main outlet to the furthest point inside each flat, measured on a route suitable for laying  a hose."
+416_UK_DocB_V1_FireSafety,Design and construction of fire mains.
+417_UK_DocB_V1_FireSafety,14.4  The outlets from fire mains should be located within the protected stairway enclosure (see Diagram 15.1).
+418_UK_DocB_V1_FireSafety,14.6  Buildings with a storey more than 50m above fire service vehicle access level should be provided with wet fire mains.
+419_UK_DocB_V1_FireSafety,14.7  Fire service vehicle access to fire mains should be provided as described in paragraphs 13.5 and 13.6.
+420_UK_DocB_V1_FireSafety,It has a compartment with an area of more than 280m2.
+421_UK_DocB_V1_FireSafety,It is being erected more than 100m from an existing fire hydrant.
+422_UK_DocB_V1_FireSafety,"14.9  If additional hydrants are required, these should be provided in accordance with the following."
+423_UK_DocB_V1_FireSafety,For buildings not provided with fire mains  hydrants should be both of the following.
+424_UK_DocB_V1_FireSafety,"14.10 Each fire hydrant should be clearly indicated by a plate, fixed nearby in a conspicuous position,  in accordance with BS 3251."
+425_UK_DocB_V1_FireSafety,Alternative supply of water14.12 An alternative source of water should be supplied where any of the following apply.
+426_UK_DocB_V1_FireSafety,"14.13 The alternative source of water supply should be one of the following, subject to consultation with the local fire and rescue service."
+427_UK_DocB_V1_FireSafety,Section 15: Access to buildings for firefighting.
+428_UK_DocB_V1_FireSafety,personnel flats.
+429_UK_DocB_V1_FireSafety,Provision of firefighting shafts.
+430_UK_DocB_V1_FireSafety,"15.1 In low rise buildings without deep basements, access for firefighting personnel is typically achieved by providing measures for fire service vehicle access in Section 13 and means of escape."
+431_UK_DocB_V1_FireSafety,"15.2  A building with a storey more than 18m above the fire and rescue service vehicle access level should  have one or more firefighting shafts, each containing a firefighting lift (Diagram 15.1)."
+432_UK_DocB_V1_FireSafety,"Outlets from a re main should be located in the reghtinglobby or, in the case of a shaft serving ats, in the reghtingstairway (see Diagram b)."
+433_UK_DocB_V1_FireSafety,"A reghting lift is required if the building has a oor morethan 18m above, or more than 10m below, re service vehicleaccess level."
+434_UK_DocB_V1_FireSafety,"Smoke control should be provided in accordance with BS 9999or, where the reghting shaft only serves ats, the provisions for smoke control given in paragraph 3.49 may be followed instead."
+435_UK_DocB_V1_FireSafety,The reghting shaft should be constructed generally in accordance with section 6 of BS 9999.
+436_UK_DocB_V1_FireSafety,Hose laying distance should be measured from the re main outlet along the route suitable for laying hose.
+437_UK_DocB_V1_FireSafety,"If this route is not known, the distance should be taken at twothirds of the direct distance    The re main outlet should be located according to Section 14."
+438_UK_DocB_V1_FireSafety,There is a basement more than 10m below the fire and rescue service vehicle access level.
+439_UK_DocB_V1_FireSafety,"15.5  In buildings where a firefighting shaft is required, a minimum of two firefighting shafts should be provided to buildings with a storey that has both of the following."
+440_UK_DocB_V1_FireSafety,15.6  Firefighting shafts and protected stairways should be positioned such that every part of each storey more than 18m above the fire and rescue service vehicle access level complies with the maximum distances given in paragraph 15.7.
+441_UK_DocB_V1_FireSafety,Distances should be measured from the fire main outlet on a route suitable for laying a hose.
+442_UK_DocB_V1_FireSafety,"NOTE: If the internal layout is not known, the distance should be measured at twothirds of the direct distance."
+443_UK_DocB_V1_FireSafety,"b.  Additionally, where sprinklers have not been provided in accordance with Appendix E, the hose laying distance should be a maximum of 45m from a fire main outlet in a protected stairway (although this does not imply that the protected stairway needs to be designed as a firefighting shaft (see Diagram 15.3))."
+444_UK_DocB_V1_FireSafety,Design and construction of firefighting shafts.
+445_UK_DocB_V1_FireSafety,15.8  Firefighting stairs and firefighting lifts should be approached from either of the following.
+446_UK_DocB_V1_FireSafety,Both the stair and lobby of the firefighting shaft should be provided with a means of venting smoke and heat (see clause 27.1 of BS 9999).
+447_UK_DocB_V1_FireSafety,Doors of a firefighting lift landing should be a maximum of 7.5m from the door to the firefighting stair (Diagram 15.1).
+448_UK_DocB_V1_FireSafety,The lift shaft should be constructed in accordance with Section 6 of BS 9999.
+449_UK_DocB_V1_FireSafety,The fire and rescue service should be able to manually open and close rolling shutters without the use of a ladder.
+450_UK_DocB_V1_FireSafety,"To assist the fire service to identify each floor in a block of flats with a top storey more than 11m above ground level (see Diagram D6), floor identification signs and flat indicator signs should be provided."
+451_UK_DocB_V1_FireSafety,The signs should be located on every landing of a protected stairway and every protected corridor/lobby (or open access balcony) into which a firefighting lift opens.
+452_UK_DocB_V1_FireSafety,The text should be in sans serif typeface with a letter height of at least 50mm.
+453_UK_DocB_V1_FireSafety,The height of the numeral that designates the floor number should be at least 75mm.
+454_UK_DocB_V1_FireSafety,"c.  The signs should be visible from the top step of a firefighting stair and, where possible, from inside a firefighting lift when the lift car doors open."
+455_UK_DocB_V1_FireSafety,"d.  The signs should be mounted between 1.7m and 2m above floor level and, as far as practicable, all the signs should be mounted at the same height."
+456_UK_DocB_V1_FireSafety,"e.  The text should be on a contrasting background, easily legible and readable in low level lighting conditions or when illuminated with a torch."
+457_UK_DocB_V1_FireSafety,The floor closest to the mean ground level (see Diagram D4) should be designated as either Floor 0 or Ground Floor.
+458_UK_DocB_V1_FireSafety,Each floor above the ground floor should be numbered sequentially beginning with Floor 1. c.  A lower ground floor should be designated as either Floor 1 or Lower Ground Floor.
+459_UK_DocB_V1_FireSafety,d.  Each floor below the ground floor should be numbered sequentially beginning with Floor 1 or Basement 1.
+460_UK_DocB_V1_FireSafety,"15.16 All floor identification signs should be supplemented by flat indicator signs, which provide information relating to the flats accessed on each storey."
+461_UK_DocB_V1_FireSafety,"The signs should be sited immediately below the floor identification signs, such that the top edge of the sign is no more than 50mm below the bottom edge of the floor identification sign."
+462_UK_DocB_V1_FireSafety,c.  The text should be in sans serif typeface with a letter height of at least half that of the floor indicator sign.
+463_UK_DocB_V1_FireSafety,d.  The wording should be supplemented by arrows when flats are in more than one direction.
+464_UK_DocB_V1_FireSafety,"e.  The text and arrows should be on a contrasting background, easily legible and readable in low level lighting conditions or when illuminated with a torch."
+465_UK_DocB_V1_FireSafety,Evacuation alert systems.
+466_UK_DocB_V1_FireSafety,15.17 In blocks of flats (purpose group 1(a)) with a top storey over 18m above ground level (see Diagram D6 in Appendix D) an evacuation alert system should be provided in accordance with BS 8629.
+467_UK_DocB_V1_FireSafety,15.19 Blocks of flats (purpose group 1(a)) with a top storey more than 11m above ground level (see Diagram D6 in Appendix D) should be provided with a secure information box.
+468_UK_DocB_V1_FireSafety,"16.3  Smoke outlets connecting directly to the open air should be provided from every basement storey, except for any basement storey that has both of the following."
+469_UK_DocB_V1_FireSafety,Natural smoke outlets.
+470_UK_DocB_V1_FireSafety,16.5  Smoke outlets should be both of the following.
+471_UK_DocB_V1_FireSafety,16.6  The combined clear crosssectional area of all smoke outlets should be a minimum of 1/40 of the area of the floor of the storey they serve.
+472_UK_DocB_V1_FireSafety,16.7  Separate outlets should be provided from places of special fire hazard.
+473_UK_DocB_V1_FireSafety,"16.8  If the smoke outlet terminates at a point that is not readily accessible, it should be kept unobstructed and covered only with a class A1 grille or louvre."
+474_UK_DocB_V1_FireSafety,The position of covered smoke outlets should be suitably indicated.
+475_UK_DocB_V1_FireSafety,It should give at least 10 air changes per hour.
+476_UK_DocB_V1_FireSafety,It should be capable of handling gas temperatures of 300C for not less than one hour.
+477_UK_DocB_V1_FireSafety,Construction of outlet ducts or shafts.
+478_UK_DocB_V1_FireSafety,"16.13 Outlet ducts or shafts, including any bulkheads over them (see Diagram 16.1), should be enclosed in construction of class A1 rating and fire resistance at least equal to that of the element through which they pass."
+479_UK_DocB_V1_FireSafety,"16.14 Natural smoke outlet shafts should be separated from each other using construction of class A1 rating and fire resistance at least equal to that of the storeys they serve, where the shafts are either of the following."
+480_UK_DocB_V1_FireSafety,"(2)  The person carrying out the work shall give fire safety information to the responsible person not later than the date of completion of the work, or the date of occupation of the building or extension, whichever is the earlier."
+481_UK_DocB_V1_FireSafety,"(3) In this regulation (a)  fire safety information means information relating to the design and construction of the building or extension, and the services, fittings and equipment provided in or in connection with the building or extension which will assist the responsible person to operate and maintain the building or extension with reasonable safety;(b)  a relevant building is a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply after the completion of building work;(c)  a relevant change of use is a material change of use where, after the change of use takes place, the Regulatory Reform (Fire Safety) Order 2005 will apply, or continue to apply, to the building; and(d)  responsible person has the meaning given by article 3 of the Regulatory Reform (Fire Safety) Order 2005.a building to which the Regulatory Reform (Fire Safety) Order 2005 applies, or will apply), or the relevant change of use of a building, fire safety information should be given to the responsible person at one of the following times."
+482_UK_DocB_V1_FireSafety,17.2  This section is a guide to the information that should be provided.
+483_UK_DocB_V1_FireSafety,"Guidance is in terms of essential information and additional information for complex buildings; however, the level of detail required should be considered on a casebycase basis."
+484_UK_DocB_V1_FireSafety,An as-built plan of the building should be provided showing all of the following.
+485_UK_DocB_V1_FireSafety,17.4  Details should be provided of all of the following.

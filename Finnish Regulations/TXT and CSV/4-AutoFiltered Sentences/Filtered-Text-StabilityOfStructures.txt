@@ -1,0 +1,1350 @@
+Scope 
+
+Ministry of the Environment Decree (4/16) concerning national choices for densities, 
+self-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 
+Section 1 Scope 
+
+This Decree is applied in the selection of densities, self-weight and imposed loads for buildings and is used in conjunction 
+with the latest version of standard SFS-EN 1991-1-1.
+
+
+Load arrangements for columns and walls 
+
+Ministry of the Environment Decree (4/16) concerning national choices for densities, 
+self-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 
+Section 2 Load arrangements for columns and walls 
+
+When determining the most unfavourable effect of imposed loads, in accordance with clause 6.2.2(1) of the standard, the 
+imposed load is assumed to be movable at least on the storey just above the column or the wall to be designed.
+
+
+Reduction factor  
+
+Ministry of the Environment Decree (4/16) concerning national choices for densities, 
+self-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 
+Section 4 Reduction factor 
+
+For loaded areas in categories A to D, clause 6.3.1.2(10) of the standard, the value for the reduction factor αA, 
+calculated according to equation 6.1, shall be at least 0.8.
+
+
+For continuing horizontal structures the loaded 
+area shall be calculated span by span.
+
+
+Joints between vertical and horizontal structures shall always be designed 
+without a reduction factor.
+
+
+A reduction factor αA shall not be applied in accidental design situations, including fire situations.
+
+
+The use of a reduction factor αA shall be indicated in the design documentation and the party engaging in the building 
+project shall be notified of this.
+
+
+The reduction factor αn shall not be applied together with a combination factor ψ or reduction factor αA.
+
+
+Values of actions on areas for storage and industrial activities 
+
+Ministry of the Environment Decree (4/16) concerning national choices for densities, 
+self-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 
+Section 6 Values of actions on areas for storage and industrial activities 
+
+For loaded storage, production and access areas under category E1, in clause 6.3.2.2(1)P of the standard, the value for 
+imposed loads on intermediate floors 7.5 kN/m2 and 3.0 kN/m2 for stairs shall be used.
+
+
+The allowable maximum load shall be shown by a permanent sign that is appropriately located and clearly visible.
+
+
+The 
+load shall be stated on this sign in kg/m2.
+
+
+Values of actions on garages and vehicle traffic areas 
+
+Category of traffic area 
+
+Category F 
+Gross vehicle weight: ≤ 30 kN 
+
+Category G 
+30 kN < gross vehicle weight ≤ 160 kN 
+
+qk 
+
+[kN/m2] 
+
+Intermed
+iate 
+floors 
+
+2.5 
+
+5.0 
+
+Stairs 
+
+3.0 
+
+3.0 
+
+Qk 
+
+[kN] 
+
+(stairs in 
+brackets) 
+
+20 (2.0) 
+
+90 (2.0) 
+
+Traffic areas designed to categories F and G shall be posted with the appropriate warning signs, in accordance with 
+clause 6.3.3.1(1)P of the standard.
+
+
+When a warning sign is not posted, the areas shall be designed to an axle load Qk and also to an axle group load equal 
+to 190 kN.
+
+
+Adjacent parking and roof structures shall be designed, when necessary, also to loads from fire engines and rescue 
+vehicles, and for a concentrated load of both hydraulic platform and extension ladder vehicles where such access is 
+required.
+
+
+Instruction 
+
+If the structure is designed for vehicle weights higher than category G, the load to be used on the 
+basis of decree of the use of Vehicles on the Road (1257/1992) with amendment 407/2013 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+is a uniform load corresponding vehicle mass pursuant to decree and as point loads 
+
+bogie/axle loads corresponding to the vehicle’s mass.
+
+
+Horizontal loads on parapets and partition walls, line load qk and concentrated load Qk  
+
+Loaded area 
+
+Category A 
+
+Category B  
+
+Categories C1 to C4 
+and D 
+
+Category C5 
+
+Category E 
+
+Category F 
+
+Category G 
+
+qk or Qk 
+
+0.5 kN/m 
+
+0.5 kN/m 
+
+1.0 kN/m 
+
+3.0 kN/m 
+
+1.0 kN/m 
+
+Annex B 
+
+Annex B 
+
+Parapets in categories A to E and panel parts of walls acting as parapets, as well as their fasteners, shall be designed to 
+the concentrated load Qk = 0.3 kN acting on a random spot.
+
+
+Annex B shall be applied to parapets and barriers in close proximity to car park lanes and ramps subject to impact by a 
+vehicle driving at the speed allowed in the car park.
+
+
+For other parapets and barriers subject to impact from a vehicle that 
+is stopping, an equivalent static load may be used that is assumed to be at least 5 kN in category F and at least 25 kN in 
+category G. 
+
+Instruction 
+
+In order to prevent falling accidents, the horizontal load value for category E is the minimum 
+requirement in terms of personnel safety.
+
+
+Annex B: Vehicle barriers and parapets for car parks 
+
+Ministry of the Environment Decree (4/16) concerning national choices for densities, 
+self-weight and imposed loads for buildings, when applying standard SFS-EN 1991-1-1 
+Section 10 Annex B: Vehicle barriers and parapets for car parks 
+
+Annex B shall be used when designing structures for impact barriers.
+
+
+Scope 
+
+Ministry of the Environment Decree (5/16) concerning national choices for actions on structures exposed to fire, when 
+applying standard SFS-EN 1991-1-2 
+Section 1 Scope 
+
+This Decree is applied in the selection of actions on structures exposed to fire and is used in conjunction with the latest 
+version of standard SFS-EN 1991-1-2.
+
+
+Temperature analysis 
+
+Ministry of the Environment Decree (5/16) concerning national choices for actions on structures exposed to fire, when 
+applying standard SFS-EN 1991-1-2 
+Section 2 Temperature analysis 
+
+Instead of the method in Annex F, the National Building Code of Finland concerning fire safety in buildings shall be applied 
+
+to the equivalent time of fire exposure.
+
+
+Thermal loads to be used in temperature analysis 
+
+Ministry of the Environment Decree (5/16) concerning national choices for actions on structures exposed to fire, when 
+applying standard SFS-EN 1991-1-2 
+Section 3 Thermal loads to be used in temperature analysis 
+
+When a building is designed and constructed in compliance with the fire classes and numerical values given in the 
+regulations and guidelines of the National Building Code of Finland concerning fire safety in buildings, a temperature-time 
+curve of a standard fire in accordance with clause 3.2.1(1) of the standard shall be used.
+
+
+Combination rules for actions 
+
+Ministry of the Environment Decree (5/16) concerning national choices for actions on structures exposed to fire, when 
+applying standard SFS-EN 1991-1-2 
+Section 4 Combination rules for actions 
+
+The representative value of the variable action shall be taken as the quasi-permanent value ψ2.1 Q1  during fire exposure, 
+in accordance with clause 4.3.1(2) of the standard.
+
+
+The frequent value ψ1.1 Q1 shall be used however for snow, ice and 
+
+wind loads, in compliance with the national choices set out in standard SFS-EN 1990.
+
+
+Scope  
+
+Ministry of the Environment Decree (6/16) 
+concerning national choices for snow loads, when applying standard SFS-EN 1991-1-3 
+Section 1 Scope 
+
+This Decree is applied in the selection of snow loads and is used in conjunction with the latest version of standard SFS-EN 
+1991-1-3.
+
+
+Snow load on roofs 
+
+Ministry of the Environment Decree (6/16) 
+concerning national choices for snow loads, when applying standard SFS-EN 1991-1-3 
+Section 3 Snow load on roofs 
+
+For different topography, the value of exposure coefficients given in table 5.1 clause 5.2(7) of the standard shall be 
+used.
+
+
+For large roofs, where the smaller horizontal dimension of the roof is 50 m or more, and the topography is 
+windswept, the value of the exposure coefficient shall be at least 1.
+
+
+For different topographies, where the smaller horizontal dimension of the roof is at least 50 m, the exposure 
+coefficient shall be increased based on the smaller horizontal dimension and side ratio, according to the factors in 
+Table 1.
+
+
+Factors to be used for increasing the exposure coefficient for snow load on roofs, where the smaller horizontal 
+dimension is at least 50 m. 
+
+Smaller 
+dimension (m) 
+
+50 
+
+75 
+100 
+
+Ratio of larger to smaller dimension 
+
+1 
+1.0 
+
+1.1 
+1.2 
+
+2 
+1.1 
+
+1.2 
+1.25 
+
+In determining the snow load, in accordance with clause 5.2(8) of the standard, when the thermal insulating properties 
+of the roof structure are insignificant, the thermal coefficient Ct may be reduced on the basis of a more exact study.
+
+
+The value to be used for snow load s, however, is at least 0.5 kN/m2.
+
+
+When  dimensioning  continuous  structures,  the  uneven  removal  of  snow 
+from a roof is taken into account by means of a load arrangement where the snow load varies 
+between 50% and 100% in different fields.
+
+
+Multi-span roofs  
+
+Ministry of the Environment Decree (6/16) 
+concerning national choices for snow loads, when applying standard SFS-EN 1991-1-3 
+Section 4 Multi-span roofs 
+
+When the slope of the roof is greater than 60° as given in clause 5.3.4(4) of the standard, the value μ3 = 1.6 shall be used.
+
+
+Scope  
+
+Ministry of the Environment Decree (7/16) 
+concerning national choices for wind actions, when applying standard SFS-EN 1991-1-4 
+Section 1 Scope 
+
+This Decree is applied in the selection of wind actions on structures and is used in conjunction with the latest version of 
+standard SFS-EN 1991-1-4.
+
+
+When designing slender special structures, the value of the air density shall be calculated at the altitude and temperature 
+relevant to the site and load conditions concerned.
+
+
+Pressure and force coefficients for vertical walls of rectangular plan 
+
+buildings 
+
+Ministry of the Environment Decree (7/16) 
+concerning national choices for wind actions, when applying standard SFS-EN 1991-1-4 
+Section 5 Pressure and force coefficients for vertical walls of rectangular plan buildings 
+
+The reference heights, ze, for leeward walls and sidewalls, clause 7.2.2(1) of the standard, shall be calculated as for 
+
+windward walls.
+
+
+For the values of external pressure coefficients, clause 7.2.2(2) of the standard, when h/d is greater than 5, the values of 
+
+coefficients cpe,10 and cpe,1 in row h/d = 5 in Table 7.1 of the standard shall be used.
+
+
+Annex A: Terrain effects 
+
+Ministry of the Environment Decree (7/16) 
+concerning national choices for wind actions, when applying standard SFS-EN 1991-1-4 
+Section 6 Annex A: Terrain effects 
+
+For the transition between terrain categories, Procedure 1 under clause A.2(1) in Annex A to the standard shall be 
+
+followed.
+
+
+Therefore, of the approaches given in Annex E, clause 
+E.1.5.1(1) of the standard, the approach given in clause E.1.5.3 shall be used.
+
+
+Scope 
+
+Ministry of the Environment Decree (8/16) 
+concerning national choices for thermal actions, when applying standard SFS-EN 1991-1-5 
+Section 1 Scope 
+
+ This Decree is applied when selecting thermal actions and is used together with the latest version of standard SFS-EN 
+1991-1-5.
+
+
+Indicative temperatures for buildings above ground level 
+
+Ministry of the Environment Decree (8/16) 
+concerning national choices for thermal actions, when applying standard SFS-EN 1991-1-5 
+Section 3 Indicative temperatures for buildings above ground level  
+
+The values in Table 5.2 of clause 5.3(2) of the standard for indicative temperatures for buildings above ground level 
+shall apply as follows.
+
+
+Indicative temperatures for underground parts of buildings  
+
+Ministry of the Environment Decree (8/16) 
+concerning national choices for thermal actions, when applying standard SFS-EN 1991-1-5 
+Section 4 Indicative temperatures for underground parts of buildings  
+
+For indicative temperatures for underground parts of buildings, the values in Table 5.3 of clause 5.3(2) of the standard 
+shall be applied, where T6 = 6 °C, T7 = 4 °C, T8 = -7 °C and T9 = -4 °C.
+
+
+The  minimum  shade  air  temperatures  represent  values  with  an  annual  probability  of  falling  below  of  0.02,  and  the 
+maximum shade air temperatures represent values with an annual probability of being exceeded of 0.02.’ 
+
+The values of shade air temperature may be adjusted for height above sea level by subtracting 0.5°C per 100 m of height 
+for minimum shade air temperatures and 1.0°C per 100 m of height for maximum shade air temperatures.
+
+
+Scope (Ministry of the Environment Decree xx/2016, Section 1) 
+
+This Decree is applied in the selection of actions during execution and is used in conjunction with the latest version of 
+standard SFS-EN 1991-1-6.
+
+
+Construction loads 
+
+Ministry of the Environment Decree (9/16) 
+concerning national choices for actions during execution, when applying standard SFS-EN 1991-1-6 
+Section 2 Construction loads 
+
+The limits of the area where construction loads may be moved shall be marked in the plans, in accordance with clause 
+
+2.2(4) of the standard, when the magnitude of the actions is significant in terms of the structure.
+
+
+Design situations to be verified 
+
+Ministry of the Environment Decree (9/16) 
+concerning national choices for actions during execution, when applying standard SFS-EN 1991-1-6 
+Section 3 Design situations to be verified 
+
+The design situation for wind actions during exceptional weather conditions shall be interpreted as an accidental design 
+situation, in accordance with clause 3.1(1)P of the standard.
+
+
+There are no recommended values for return periods in clause 3.1(5) of the standard for the determination of 
+characteristic values of variable actions during execution regarding the nominal duration of a design situation lasting no 
+more than three days.
+
+
+In such a case, the magnitude of the action shall be 
+chosen according to the meteorological predictions.
+
+
+For the combination of snow loads and wind actions, in accordance with clause 3.1(7) of the standard, no reductions are 
+allowed if the snow loads and wind actions that are used are less than in persistent design situations.
+
+
+However, when the 
+snow load can occur, the minimum value of the load s should be at least 0.5 kN/m2.
+
+
+Imperfections and restraint actions  
+
+Ministry of the Environment Decree (9/16) 
+concerning national choices for actions during execution, when applying standard SFS-EN 1991-1-6 
+Section 4 Imperfections and restraint actions  
+
+For a persistent design situation during execution, in accordance with clause 3.1(8) of the standard, the imperfections in 
+the geometry of the structure and of structural members shall be those imperfections due to normal use of the 
+completed structure.
+
+
+The imperfections to be defined, however, shall be determined on a project-by-project basis when the execution includes 
+stages where a structure or a structural member has an imposed load in a different position or location than when the 
+structure or the structural member is in the final state.
+
+
+The imperfections caused by restraint actions and their deflections during erection work shall be taken into consideration.
+
+
+The imperfections caused by deflections in auxiliary construction works shall be taken into account if they differ from the 
+imperfections of the persistent design situation.
+
+
+Serviceability limit states 
+
+Ministry of the Environment Decree (9/16) 
+concerning national choices for actions during execution, when applying standard SFS-EN 1991-1-6 
+Section 5 Serviceability limit states 
+
+Any deformation during execution shall not cause damage to adjacent structures nor to the surface materials of the 
+structural members, in accordance with clause 3.3(2) of the standard.
+
+
+The deformation during execution can, however, 
+be greater than the allowed deformation for the completed structure if the deformation is reversible when the actions 
+due to execution are removed.
+
+
+The design situation during execution, compared to the persistent design situation, shall not cause larger crack widths 
+in the structure and the cracking shall not reduce the stiffness of the structure, if this has not been taken into 
+consideration in the persistent design situation.
+
+
+Auxiliary construction works shall be designed so that the tolerances of the completed structure are not exceeded, in 
+accordance with clause 3.3(6) of the standard.
+
+
+Actions due to atmospheric icing 
+
+Ministry of the Environment Decree (9/16) 
+concerning national choices for actions during execution, when applying standard SFS-EN 1991-1-6 
+Section 6 Actions due to atmospheric icing  
+
+Actions due to atmospheric icing shall be determined on a project-by-project basis, in accordance with clause 4.10(1)P  
+
+of the standard.
+
+
+Structures shall be designed to take into account a human impact load as an accidental action, when stumbling could lead 
+to a person falling or when the structure under consideration has to prevent the fall of a person.
+
+
+The durability of the fitting or rooftop safety product and its fastening and substructure are 
+
+verified by means of either testing or computational analysis.
+
+
+Testing is performed by means 
+of a drop test pursuant to clause 8.2 of standard SFS-EN 516.
+
+
+The durability of the fastening point and substructure may be verified by means of either 
+
+testing or computational analysis.
+
+
+Testing is performed by means of a drop test pursuant to 
+clause 8.2 of standard SFS-EN 516.
+
+
+When casting concrete, it shall be assumed that a variable horizontal point load acts in a random direction on the surface 
+
+level of cast concrete, with a characteristic value of 1.5 kN.
+
+
+Scope 
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 1 Scope 
+
+This Decree is applied in the selection of accidental actions and is used in conjunction with the latest version of standard 
+SFS-EN 1991-1-7.
+
+
+Accidental design situations 
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 3 Accidental design situations 
+
+The designer of a structure shall devise a strategy such that neither the whole building nor a significant part of it will 
+collapse if localised failure is sustained.
+
+
+The  adoption  of  this  strategy  shall  provide  a  building  with  sufficient  robustness  to  not  succumb  to  various  types  of 
+unspecified accidental actions.
+
+
+The minimum period that a  structure needs to remain  intact following an accident  should be that period needed to 
+facilitate the safe evacuation and rescue of personnel from the building and its surroundings.
+
+
+Accidental design situations – strategies for limiting the extent of 
+
+localised failure  
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 4 Accidental design situations — strategies for limiting the extent of localised failure  
+
+The acceptable limit of ‘localised failure’, in accordance with clause 3.3(2), Note 2 of the standard, depends on the type 
+of building: 
+1) In multi-storey buildings, the localised failure may not exceed 15% of the floor area or 100 m2/storey.
+
+
+If load-bearing walls form the vertical frame of a hall-type building, the localised failure may not exceed the length of the 
+horizontal structures supported by the wall, multiplied by 2H, where H is the height of the load-bearing wall.
+
+
+In this case, the building shall be designed pursuant to section 6, using 
+either tying systems or alternative load transfer routes.
+
+
+Accidental design situations – use of consequences classes 
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 5 Accidental design situations — use of consequences classes  
+
+In the testing of accidental design situations to verify that a building or structure can remain intact, the Ministry of the 
+Environment Decree concerning national choices for consequences classes, in accordance with standard SFS-EN 1990, 
+shall  apply.
+
+
+5)  Consequences class CC3 subclass b includes  
+a) other buildings with more than 8 storeys, including a possible basement 
+b) concert halls, theatres, sports and exhibitions halls and spectator galleries  
+
+c) heavily loaded buildings or buildings with large spans that are often occupied by a large 
+
+number of people 
+
+d) special structures according to a case-by-case assessment 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.
+
+
+Principles for ensuring the robustness of a building  
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 6 Principles for ensuring the robustness of a building 
+
+Sufficient  robustness  for  a  multi-storey  building  shall  be  ensured,  in  accordance  with  clause  3.3(2),  Note  3  of  the 
+standard, by applying three-dimensional tying for additional integrity or designing alternative load transfer path.
+
+
+The tying system shall be designed to increase the robustness and integrity of a building in the event of higher damage 
+consequences.
+
+
+Alternative load paths shall be designed so that a localised failure does not exceed the limits given in section 4.
+
+
+In the designing of key elements, in accordance with clause 3.3(2), Note 1 of the standard, accidental action Ad shall be 
+determined by carrying out a risk assessment and the grounds for the values used shall be included and recorded in the 
+design documentation.
+
+
+For buildings in consequences class CC3b, a systematic risk assessment of the building shall be undertaken, taking into 
+account both foreseeable and unforeseeable hazards.
+
+
+If accidental actions can be determined by the risk assessment, 
+they shall be taken into consideration in the design.
+
+
+Buildings in consequences class CC2a: 
+
+In addition  to  the operating  principles concerning consequences class CC1, horizontal ties 
+shall be used in class CC2a buildings pursuant to clause 1.1 or horizontal structures shall be 
+
+anchored to walls pursuant to clause 1.2.
+
+
+Buildings in consequences class CC2b: 
+In  addition  to  the  operating  principles  concerning  consequences  class  CC1,  horizontal 
+
+structures shall use horizontal ties pursuant to clause 1.1, vertical ties shall be used in all load 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bearing columns and walls pursuant to clause 2, and vertical structures shall be bound to 
+
+horizontal structures pursuant to clause 1.2.
+
+
+Buildings in consequences class CC3a: 
+In  addition  to  the  operating  principles  concerning  consequences  class  CC1,  horizontal 
+
+structures shall use horizontal ties pursuant to clause 1.1, vertical ties shall be used in all load 
+bearing columns and walls pursuant to clause 2, and vertical structures shall be bound to 
+
+horizontal structures pursuant to clause 1.2.
+
+
+Buildings in consequences class CC3b: 
+In addition to the operating principles concerning consequences class CC1, a systematic risk 
+
+assessment of the building should be undertaken in order to account for both foreseeable 
+and unforeseeable hazards.
+
+
+Regardless of the results of the risk assessment, the building shall 
+
+meet the requirements of consequences class CC3a.
+
+
+Those parts of the building where the notional removal of a column or a load-bearing wall 
+section pursuant to the definition in clause 3 would cause a horizontal structure that contains 
+
+horizontal ties to act as an overhang that is the height of the horizontal structure shall also 
+be  inspected.
+
+
+If  such  a  notional  removal  of  a  structural  member  results  in  damage  that 
+
+exceeds the acceptable limit, the structure marked for notional removal shall be considered 
+a key structural member in the risk assessment.
+
+
+Horizontal ties 
+
+1.1 Peripheral and internal ties 
+
+Horizontal peripheral and internal ties shall be provided around the perimeter of each floor 
+
+and roof level and internally in two right angle directions.
+
+
+The ties shall be continuous and 
+be arranged as closely as practicable to the edges of floors and lines of columns and walls.
+
+
+At least 30% of the ties shall be located in the immediate vicinity of the grid lines of the 
+columns and the walls.
+
+
+The ties shall have such deformation capacity that they can act as a replacement load 
+
+transfer structure or as part of a replacement load transfer structure.
+
+
+Each continuous tie, including its end connections, should be capable of sustaining a design 
+tensile force for the accidental limit state, equal to the following values: 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consequences classes CC2a and CC2b 
+
+The tie forces T are based on the characteristic value of the permanent actions gk for the 
+horizontal structure.
+
+
+If the internal ties must 
+be centred on the supporting line, the minimum value of the tie force, 70 kN, will also be 
+
+applied to internal ties (e.g.
+
+
+If the internal ties must 
+be centred on the supporting line, the minimum value of the tie force, 10 kN, will also be 
+applied to internal ties (e.g.
+
+
+In consequences classes CC3a and CC3b, the characteristic value for 
+the permanent actions gk is usually greater than 3.0 kN/m2.
+
+
+Peripheral and internal ties: 
+When the characteristic value of the permanent actions for the horizontal structure is gk ≥ 
+
+3.0 kN/m2:  
+
+F
+t
+
+⋅
+
+⋅
+0,8 (
+
+g
+
+T
+i
+
+=
+
+6
+
++
+k
+kN
+2
+m
+
+∑
+
+ψ
+i
+
+q
+k
+
+)
+
+z
+m
+5
+
+⋅
+
+s
+
+ but at least 
+
+T
+i
+
+=
+
+⋅
+F s
+t
+
+(3) 
+
+where: 
+Ft 
+gk 
+
+is 48 kN/m or (16 + 2.1 ns) kN/m, whichever is smaller 
+is the characteristic value of the permanent actions for the horizontal structure.
+
+
+1.2 Horizontal ties to columns and walls 
+
+Edge columns and walls shall be tied to every floor and roof.
+
+
+The ties should 
+be capable of sustaining the following forces in accidental limit state: 
+
+Consequences classes CC2a and CC2b 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+F
+tie
+
+=
+
+20
+
+kN
+m
+
+⋅
+
+s
+
+  when the characteristic value of the permanent actions for the horizontal 
+
+structure is gk ≥ 3.0 kN/m2 
+
+(4) 
+
+F
+
+tie
+
+=
+
+3
+
+kN
+m
+
+⋅
+
+s
+
+  when the characteristic value of the permanent actions for the horizontal 
+
+structure is gk ≤ 2.0 kN/m2 
+
+but no more than 
+
+tieF
+
+=
+
+150
+
+kN
+
+(5) 
+
+where: 
+s is the calculation width of the tie force, which is measured from centre to centre of the 
+clear distance of vertical structures or to the edge of the building when the vertical 
+structures are located in the outer corner (see Fig.
+
+
+F
+tie
+
+=
+
+⋅
+
+F
+t
+
+h
+2,5
+
+m
+
+⋅
+
+s
+
+ , but no more than 
+
+F
+tie
+
+= ⋅
+2
+
+⋅
+F s
+t
+
+(6) 
+
+where: 
+Ft  
+h 
+s  
+
+is 48 kN/m or (16 + 2.1 ns) kN/m, whichever is smaller 
+is the storey height 
+is the calculation width of the tie force, which is measured from centre to centre of the 
+clear distance of vertical structures or to the edge of the building when the vertical 
+
+structures are located in the outer corner (see Fig.
+
+
+Vertical ties 
+
+Each column and wall shall be supplied with continuous vertical ties from the foundations 
+
+to the roof level.
+
+
+The columns and walls carrying vertical actions shall be capable of resisting an accidental 
+design tensile force equal to the largest design vertical permanent and variable load 
+
+reaction applied to the column from any one storey.
+
+
+Instruction 
+
+Definition of key components of building structure 
+
+The vertical structures of the building shall mainly be designed as non-key components of 
+
+building structure.
+
+
+Principles for ensuring the robustness of a hall-type building 
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 7 Principles for ensuring the robustness of a hall-type building 
+
+Sufficient robustness of a hall-type building, in accordance with clause 3.3(2), Note 3 of the standard, shall be ensured so that a 
+localised failure does not exceed the limits given in section 4.
+
+
+Localised failure is limited by means of structural measures.
+
+
+For buildings in consequences class CC3b, a systematic risk assessment of the building should be undertaken, thereby taking into 
+account both foreseeable and unforeseeable hazards.
+
+
+If accidental actions can be specified by risk assessment, they shall be taken 
+into consideration.
+
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instruction 
+
+Localised damage can be limited by means of one of the following actions: 
+−  designing alternative load transfer routes 
+−  increasing the static indeterminacy of the structure and ensuring the toughness  
+
+of the structural joints  
+
+−  by using a sufficient number of bracing structures on the roofs and walls 
+−  by ensuring that the stability of the main supports is retained even after localised 
+
+damage 
+
+−  by designing secondary structures in a manner that prevents them from expanding the 
+
+collapsed area  
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+8.
+
+
+Impact on supporting substructures 
+
+Ministry of the Environment Decree (10/16) 
+concerning national choices for accidental actions, when applying standard SFS-EN 1991-1-7 
+Section 8 Impact on supporting substructures 
+
+ The values given in Table 1 for actions due to impact shall be complied with, in accordance with clause 4.3.1(1) of the 
+standard.
+
+
+The design forces for building structures given in Table 1 for the category of traffic may be multiplied by a reduction 
+factor taken from Figure 1 as a function of distance d and the maximum permitted speed of the vehicle ν0, provided that 
+the maximum speed limit is less than 80 km/h.
+
+
+The  design  forces  shall  meet,  at  the  least,  the  requirements  for  the  category  of  traffic 
+courtyards and parking garages in Table 1.
+
+
+The reduction factors given in Figure 1 can be applied when the downward slope 
+between the centreline of the nearest trafficked lane and the point of impact, measured perpendicularly to the lane, is 
+no more than 1:5.
+
+
+The effect of slopes steeper than this and the effect of upward slopes, as well as the effect of rails and 
+other measures to avoid impact, shall be specified for the individual project, in accordance with clause 4.3.1(1), Note 2 
+of the standard.
+
+
+b If the horizontal distance from the structure to the edge of the courtyard area planned for vehicular traffic 
+is at least 2.0 m, it is not necessary to design the structure for vehicular impact.
+
+
+c The term ‘lorries’ refers to vehicles with a maximum gross weight of more than 3.5 tonnes.
+
+
+When 
+distance d is greater than 5 m, no requirements are specified for Class B structures, in accordance with clause 4.5.1.5(1) 
+of the standard.
+
+
+Scope  
+
+Ministry of the Environment Decree (11/16) 
+concerning national choices for actions induced by cranes and machinery, when applying standard SFS-EN 1991-3 
+Section 1 Scope 
+
+This Decree is applied in the selection of actions induced by cranes and machinery and is used in conjunction with the 
+latest version of standard SFS-EN 1991-3.
+
+
+Actions induced by hoists and cranes on runway beams 
+
+Ministry of the Environment Decree (11/16) 
+concerning national choices for actions induced by cranes and machinery, when applying standard SFS-EN 1991-3 
+Section 2 Actions induced by hoists and cranes on runway beams 
+
+Where the crane supplier is known at the time of design of crane runway beams, in accordance with clause 2.1(2) of 
+the  standard,  the  wheel  loads  specified  by  the  crane  manufacturer  shall  be  primarily  used  for  actions  induced  on 
+runways.
+
+
+The actions should be given as static values without partial safety factors.
+
+
+The actions shall be classified as 
+permanent actions and variable and accidental actions.
+
+
+The dynamic factors for different actions shall be reported.
+
+
+For 
+designing the building frame, the simultaneous actions on different crane runways shall be reported.
+
+
+For the purpose 
+of fatigue analysis, the rate of planned load accumulation of all cranes running on crane runways shall be reported.
+
+
+The inaccuracies of the 
+crane wheels should be determined together with the crane supplier.
+
+
+Annex A: Basis of design — supplementary clauses to EN 1990 for 
+
+runway beams loaded by cranes 
+
+Ministry of the Environment Decree (11/16) 
+concerning national choices for actions induced by cranes and machinery, when applying standard SFS-EN 1991-3 
+Section 3 Annex A: Basis of design — supplementary clauses to EN 1990 for runway beams loaded by cranes 
+
+The partial safety factors given in Table 1 shall be applied to crane actions in accordance with clause A.2.2(1) of the 
+
+standard.
+
+
+The values given in the table shall also be applied when designing load-bearing structures carrying crane runway 
+
+beams.
+
+
+Design values of crane actions (STR/GEO) 
+
+Persistent and transient design situations 
+
+Eq.6.10a 
+
+Eq.6.10b 
+
+Permanent 
+actions 
+
+Unfavourable 
+
+Favourable 
+
+Crane action is the leading variable action 
+
+Crane action is an accompanying variable action 
+
+1.35KFIGkj,sup 
+
+1.15KFIGkj,sup 
+
+1.0Gkj,inf 
+
+1.0Gkj,inf 
+1.35KFI Qk,1 
+
+1.35KFI ψ0,iQk,i 
+
+The values γGsup = 1.1 and γGinf = 0.9, set out in the Ministry of the Environment Decree concerning national choices for 
+standard SFS-EN 1990, shall be applied to the partial safety factors in accordance with clause A.2.2(2) of the standard.
+
+
+Instruction 
+
+A.2.2(1) 
+As regards other actions, the Decree of the Ministry of the Environment concerning the 
+
+national choices for standard SFS-EN 1990 shall be followed.
+
+
+In the project specification, special attention shall be paid 
+to the rescue routes and attack routes for the fire brigade, for which the crane runway may 
+
+have to be locally dimensioned for fire actions.
+
+
+Scope 
+
+Ministry of the Environment Decree (12/16) 
+concerning national choices for loads on silos and tanks, when applying standard SFS-EN 1991-4 
+Section 1 Scope 
+
+This Decree is applied in the selection of loads on silos and tanks and is used in conjunction with the latest version of 
+standard SFS-EN 1991-4.
+
+
+The combination factors 
+
+shall be selected in accordance with Annex A and Annex B and shall comply with the Ministry of the Environment Decree 
+
+concerning national choices for the basis of structural design, when applying standard SFS-EN 1990; 
+2) for actions on silos, in accordance with clause A.2.1(1) of the standard, the value of the partial safety factor is γF=1.5.
+
+
+With regard to other actions in the design of silos, the Ministry of the Environment Decree concerning national choices 
+
+for the basis of structural design, when applying standard SFS-EN 1990, shall be complied with; and 
+
+3) in design situations and action combinations for Action Assessment Classes 2 and 3 for actions on silos, in accordance 
+with clause A.4 of the standard, the value of the combination factor ψ0 shall be 1.0, the value of the frequent combination 
+factor ψ1 shall be 0.9, and the value of the quasi-permanent combination factor ψ2 shall be 0.8.
+
+
+Annex B to the standard: Actions, partial factors and combinations of 
+
+actions on tanks 
+
+Ministry of the Environment Decree (12/16) 
+concerning national choices for loads on silos and tanks, when applying standard SFS-EN 1991-4 
+Section 3 Annex B to the standard: Actions, partial factors and combinations of actions on tanks 
+
+Annex B provides supplementary guidance applicable to actions on tanks concerning partial factors and on combinations 
+
+of actions on tanks:  
+
+1) the party engaging the building project shall specify the accidental actions to be considered, in accordance with clause 
+
+B.2.14 of the standard; 
+
+2) during operation, the value of the partial factor for the liquid induced loads and the actions on the tank due to weight 
+
+γF is 1.35, in accordance with clause B.3(2) of the standard.
+
+
+The values in Annex A, clause A.2.1(2), are not applied; or 
+3) for the liquid induced loads and the actions on the tank due to weight, the value of the combination factor ψ0 shall be 
+1.0, the value of the frequent combination factor ψ1 shall be 0.9, and the value of the quasi-permanent combination 
+factor ψ2 shall be 0.8.
+
+

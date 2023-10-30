@@ -1,0 +1,43 @@
+ID,Text
+1_UK_DocQ_Security_Dwellings,Requirement.
+2_UK_DocQ_Security_Dwellings,PART Q SECURITY.
+3_UK_DocQ_Security_Dwellings,Unauthorised access.
+4_UK_DocQ_Security_Dwellings,Reasonable provision must be made to resist unauthorised access to(a)  any dwelling; and(b)  any part of a building from which access can be gained to a flat within the building.
+5_UK_DocQ_Security_Dwellings,Section 1: Doors.
+6_UK_DocQ_Security_Dwellings,General.
+7_UK_DocQ_Security_Dwellings,1.1  All easily accessible doorsets (including garage doorsets and communal entrance doorsets) that provide access into a dwelling or into a building containing a dwelling should be secure doorsets in accordance with paragraphs 1.2 to 1.4.
+8_UK_DocQ_Security_Dwellings,"Where access to the dwelling can be gained via an interconnecting doorset from the garage, then either the garage doorset (pedestrian and vehicular) or the interconnecting doorset should be a secure doorset."
+9_UK_DocQ_Security_Dwellings,Design of secure doorsets.
+10_UK_DocQ_Security_Dwellings,"1.2  Secure doorsets should be either:a.  manufactured to a design that has been shown by test to meet the security requirements of British Standards publication PAS 24:2012, or b.  designed and manufactured in accordance with Appendix B."
+11_UK_DocQ_Security_Dwellings,"1.4  The main doors for entering a dwelling (usually the front door) should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset."
+12_UK_DocQ_Security_Dwellings,Installation and fixing of secure doorsets.
+13_UK_DocQ_Security_Dwellings,1.5  Frames should be mechanically fixed to the structure of the building in accordance with the manufacturers installation instructions.
+14_UK_DocQ_Security_Dwellings,"The resilient layer should be timber sheathing at least 9mm thick, expanded metal or a similar resilient material."
+15_UK_DocQ_Security_Dwellings,The resilient layer should be to the full height of the door and 600mm either side of the doorset.
+16_UK_DocQ_Security_Dwellings,Section 2: Windows.
+17_UK_DocQ_Security_Dwellings,General.
+18_UK_DocQ_Security_Dwellings,"2.1  Ground floor, basement and other easily accessible windows (including easily accessible rooflights) should be secure windows in accordance with paragraphs 2.2 and 2.3."
+19_UK_DocQ_Security_Dwellings,Design of secure windows.
+20_UK_DocQ_Security_Dwellings,2.2  Windows should be made to a design that has been shown by test to meet the security requirements of British Standards publication PAS 24:2012.
+21_UK_DocQ_Security_Dwellings,Installation and fixing of secure windows.
+22_UK_DocQ_Security_Dwellings,2.3  Frames should be mechanically fixed to the structure of the building in accordance with the manufacturers installation instructions.
+23_UK_DocQ_Security_Dwellings,"Easily accessible Either:  a window or doorway, any part of which is within 2m vertically of an accessible level surface such as the ground or basement level, or an access balcony, or   a window within 2m vertically of a flat or sloping roof (with a pitch of less than 30) that is within 3.5m of ground level."
+24_UK_DocQ_Security_Dwellings,NOTE 2: Any test evidence used to confirm the security of a construction should be carefully checked to ensure that it demonstrates compliance that is adequate and that applies to the intended use.
+25_UK_DocQ_Security_Dwellings,Material.
+26_UK_DocQ_Security_Dwellings,B.2 The doorset should be manufactured from solid or laminated timber with a minimum density of 600kg/m3.
+27_UK_DocQ_Security_Dwellings,Dimensions.
+28_UK_DocQ_Security_Dwellings,"B.3 Door rails, stiles and muntins should be at least 44mm thick."
+29_UK_DocQ_Security_Dwellings,"After rebating, frame components should retain at least 32mm of timber."
+30_UK_DocQ_Security_Dwellings,B.4 Any panel within the doorset should be at least 15mm thick.
+31_UK_DocQ_Security_Dwellings,The panel should be securely held in place.
+32_UK_DocQ_Security_Dwellings,Beading should be mechanically fixed and glued in position.
+33_UK_DocQ_Security_Dwellings,B.5 The smaller dimension of each panel  which can be either the width or height of the panel  should be 230mm or less.
+34_UK_DocQ_Security_Dwellings,"Locks, hinges and letter plates."
+35_UK_DocQ_Security_Dwellings,"B.6  The main doors for entering a dwelling (usually the front doorset) should be fitted with a multipoint locking system that meets the requirements of:   PAS 3621 (key locking on both sides), or   PAS 8621 (nonkey locking on the internal face), or   PAS 10621 (nonkey locking on the internal face, but with an external locking override facility)."
+36_UK_DocQ_Security_Dwellings,"Between the locking points for the mortice lock and surfacemounted rim lock, the distance should be 400600mm."
+37_UK_DocQ_Security_Dwellings,"B.7  The non-primary doors for entering a dwelling (for example, back door or garage inter-connecting doors) should be fitted with a multipoint locking system that meets the requirements of:  PAS 3621 (key locking on both sides), or   PAS 8621 (nonkey locking on the internal face), or    PAS 10621 (nonkey locking on the internal face, but with an external locking override facility)."
+38_UK_DocQ_Security_Dwellings,"The morticed bolts should have a minimum projection of 20mm, should be at least 100mm from the top and bottom corners of the door, and should avoid any door construction joints."
+39_UK_DocQ_Security_Dwellings,Door limitation and caller identification.
+40_UK_DocQ_Security_Dwellings,"B.10  The main doors for entering a dwelling (usually the front door) should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset."
+41_UK_DocQ_Security_Dwellings,Glazing.
+42_UK_DocQ_Security_Dwellings,"B.11  Any glazing which, if broken, would permit someone to insert their hand and release the locking device on the inside of the door should be a minimum of class P1A in accordance with BS EN 356:2000."

@@ -1,0 +1,589 @@
+Decree of the Ministry of the Environment on the Moisture Performance of Buildings. 
+
+By decision of the Ministry of the Environment, the following is hereby laid down pursuant 
+
+to Section 103 h, subsection 3 and Section 117 c, subsection 3 of the Land Use and Building 
+
+Act (132/1999), as laid down in Section 103 h, subsection 3 of Act 682/2014 and Section 117 
+
+c, subsection 3 of Act 958/2012.
+
+
+Section 1 Scope. 
+
+This Decree concerns the design and construction of the moisture performance of new build
+
+ings.
+
+
+Section 2 Definitions. 
+
+vapour barrier means a material layer which prevents damage by water vapour diffusion 
+
+to the structure or in the structure.   
+
+air  barrier  means  a  material  layer  which  prevents  damaging  air  current  from  passing 
+
+through the structure. 
+
+capillary flow means the liquid transfer in porous materials due to local differences of porous negative pressure. 
+
+moisture means chemically unbound water in a gaseous, liquid or solid state. 
+
+wet room means a nonresidential room where the floor surface is exposed to water due to 
+
+the rooms intended use and water can be spilled or condensed on the wall surfaces in normal 
+
+use. 
+
+building moisture means moisture exceeding the buildings inservice equilibrium moisture 
+
+absorbed in the building or construction materials during or before the construction phase that 
+
+needs to escape.  
+
+crawl space means a purposefully constructed ventilated air space confined by the build
+
+ings base floor, foundation wall and foundation.  
+
+technical service life means the period when the structure or the building part will be tech
+
+nically viable. 
+
+ventilation opening or slot means an opening or slot from outside leading to the ventilation 
+
+clearance or space allowing air flow to enter in the structure or to escape from it.  
+
+ventilation space means a continuous air space in a structure for the flow of ventilation 
+
+air.
+
+
+Such a space shall have a perpendicular height or width against the air flow of at least 0.2 
+
+metres.  
+
+Directive 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1.
+
+
+ventilation gap means a continuous air gap within a structure for the flow of ventilation 
+
+air.
+
+
+Such a gap shall have a perpendicular height or width against the air flow of no more than 
+
+0.2 metres.  
+
+waterproofing means a material layer which withstands continuous exposure to water and 
+
+hazardous penetration of water into the structure. 
+
+water pressure barrier means a material layer with seams and support structures which 
+
+withstands the continuous water pressure loads imposed on the structure and prevents hazardous 
+
+penetration of water into the structure due to water pressure.  
+
+water vapour diffusion means water vapour molecule movement in a gas mixture under 
+
+constant total pressure, with the aim of balancing the gas mixtures vapour content or partial 
+
+pressure differences in said gas mixture.  
+
+water vapour convection means the flow of water vapour together with the gas mixture 
+
+contained therein, as a result of the total pressure difference.
+
+
+water vapour resistance means the ratio between the water vapour concentration prevail
+
+ing on the surface in various parts of a level layer of material or a layered structure composed 
+
+of such level layered material or difference between partial pressures of water vapour and a 
+
+layer of material or water vapour stream diffusing through a structure in a continuous state per 
+
+area unit.  
+
+roof means the structure composed of the roofing and a possible underlay and the struc
+
+tural components immediately supporting them.
+
+
+Section 3 Essential technical requirements for a buildings moisture performance. 
+
+The principal designer, building designer and special designer shall, in accordance with their 
+
+respective duties, design the building so that it meets the essential technical requirements for 
+
+moisture performance in accordance with its intended use.
+
+
+For alteration and repair work or 
+
+alteration of the intended use, the designer shall determine the buildings initial construction 
+
+method and moisture performance.
+
+
+Considering the internal and external moisture stresses, the building, structures and building 
+
+elements must be functional in terms of their moisture performance through their planned tech
+
+nical service life.
+
+
+The buildings excessive moisture content or moisture accumulation in the 
+
+buildings parts or interior surfaces must not damage the building or cause health hazard to the 
+
+occupants.
+
+
+If the structure does not have defects in its design or construction which 
+
+require modifications to its moisture performance, the alteration and repair work or the altera
+
+tion of the intended use shall primarily be carried out in accordance with the functionality of the 
+
+original structure.
+
+
+Alteration and repair work or alteration of the intended use may be conducted 
+
+in compliance with this Decree, if the intent is to improve the buildings moisture performance, 
+
+If  the  structure  is  likely  to  cause  health  hazard  or  damages  the  moisture  performance  of the 
+
+building, alteration and repair work or alteration of the intended use shall be conducted in com
+
+pliance with this Decree.  
+
+ . 
+
+Chapter 2 General principles of moisture performance. 
+
+Section 5 Buildings moisture performance.  
+
+Water vapour, water, snow or ice from external or internal moisture sources must not cause 
+
+damage by passing through the structures.
+
+
+The buildings enclosure together with its 
+
+construction layers and joints must form a whole, preventing the transfer of water across the 
+
+surface of the enclosure into the construction by wind, slanting rain and wind pressure.
+
+
+Building moisture and internal or external moisture transferred occasionally to the structures 
+
+must be able to escape without causing damage.
+
+
+Structures with surfaces exposed to moisture 
+
+must be resistant to the effects of water.
+
+
+Section 6 Air and vapour tightness of structures.  
+
+The buildings enclosure together with its joints and air and vapour tightness of its internal 
+
+structures must prevent the type of transfer of water vapour into the structures that damages 
+
+their moisture performance.
+
+
+Section 7 Ventilation spaces and gaps of structures. 
+
+The ventilation openings or slots leading to the ventilation space or gap of a structure equipped 
+
+with a ventilation space or gap must be positioned so that the ventilation space or gap is fully 
+
+usable as a ventilation air flow path and that the ventilation space or  gap is free of enclosed, 
+
+nonventilated areas.
+
+
+Section 8 Elevation of the building. 
+
+As regards the selection of the elevation of the building, the building designer and special 
+
+designer shall, in accordance with their respective duties, consider the surface water and ground
+
+water level and the flood risk.
+
+
+In order to mitigate the risk of moisture damage, the structures exposed to moisture and the 
+
+drainage systems of the foundation must be reliable throughout their planned service life.
+
+
+Section 9 Base fills and gravel backfills of buildings.  
+
+Humus soil, organic substances decomposing or rotting from moisture or building waste must 
+
+not be left under new buildings, in their crawl spaces and in their gravel backfills functioning 
+
+as a drainage layer.
+
+
+During alteration or repair work of the buildings foundation, foundation wall or base floor, 
+
+subsection 1 shall only be applicable to the repaired or modified parts. 
+
+
+Section 10 Water leak detection, freezing and water condensing in ventilation, heating and cooling 
+
+equipment and other systems.  
+
+In new buildings, the structural solutions must direct water leaks in ventilation, heating and 
+
+cooling equipment or other systems or their attached devices to a visible location.
+
+
+If there is a 
+
+risk of water leakage from such systems or devices, these must be available for inspections, 
+
+repairs  and  replacement.
+
+
+Water must not freeze in the systems pipes, channels or devices.
+
+
+Condensed water on the 
+
+systems pipes, channels or devices must not cause harm or the condensed water must be re
+
+movable without causing damage.
+
+
+Section 11 Essential technical requirements of building products. 
+
+The properties of building products used in the structures shall meet the requirements pre
+
+sented in the respective design and the building products must be suitable for the conditions of 
+
+the construction site.
+
+
+When installed, the building product must be in a suitable condition for its 
+
+intended use.
+
+
+The building product must sustain any stresses caused by installation and operat
+
+ing conditions throughout the service life of the structure or during the planned maintenance 
+
+and repair interval.
+
+
+Chapter 3 Moisture control of a construction project. 
+
+Section 12 Drafting and content of the moisture control statement of a construction project. 
+
+A party engaging in a construction project shall be responsible for preparing a moisture con
+
+trol statement for the construction project.
+
+
+The construction projects moisture control statement shall contain general construction pro
+
+ject information, moisture control requirements at different stages of the project, procedures and 
+
+measures for the verification of moisture control requirements and personnel in charge of mois
+
+ture  control.
+
+
+The  construction  projects  moisture  control  statement  shall  also  contain  infor
+
+mation regarding the person responsible for moisture control of a construction project.
+
+
+Section 13 Drafting and content of the site moisture control plan.  
+
+The responsible site manager must manage the preparation of the sites moisture control plan 
+
+based on the construction projects moisture control statement.
+
+
+Additionally, the sites moisture control plan must contain information on the persons re
+
+sponsible for moisture control at the site for each construction phase.  
+
+
+Section 14 Protection of building products and parts. 
+
+The person responsible for each construction phase shall be responsible for the protection of 
+
+building products and unfinished building parts from becoming wet and from impurities during 
+
+storage at the site and during construction.
+
+
+Section 15 Drying of structures. 
+
+The person responsible for the construction phase shall be responsible for that the moisture 
+
+content in the structures and the drying ratio of building moisture makes it possible to cover the 
+
+structure with a layer of drying retarder, coating or construction without damaging the structure.
+
+
+The person responsible for the construction phase shall use moisture measurements to guarantee 
+
+proper moisture content of structures before moving on to the next work phase.
+
+
+Chapter 4 Drainage of the building ground.
+
+Section 16 Removal of storm water. 
+
+The building designer and special designer shall, in accordance with their respective duties, 
+
+design the drainage of the ground surface and storm water management in such a way that storm 
+
+water is removed away from the proximity of the building with the help of a storm water system.
+
+
+Section 17  Drainage of the building ground. 
+
+The building designer and special designer shall, in accordance with their respective duties, 
+
+design the drainage of the building ground for interrupting the capillary flow and keeping the 
+
+level of ground water sufficiently far away from the buildings base floor and for removing the 
+
+foundation drainage water away from the proximity of the foundation and from below the build
+
+ing.
+
+
+The building ground may be left without drainage if the special designer has determined on 
+
+the basis of the report on the foundation and building ground conditions that the water permea
+
+bility of the foundation soil and the groundwater level are not likely to cause harm to the build
+
+ings moisture performance.  
+
+ . 
+
+Chapter 5 Buildings base floor and wall structures facing the ground.
+
+Section 18 Base floor in contact with the ground. 
+
+The upper surface of the floor of the base floor structure must be located at the minimum 0.3 
+
+metres above the ground surface outside the building except for the floors of the spaces that are 
+
+either partially or wholly below the ground surface.
+
+
+If the upper surface of the floor is, for some specific reason, less than 0.3 metres above the 
+
+ground compared to the surrounding ground surface, the building designer and special designer 
+
+shall, in accordance with their respective duties, pay particular attention to the moisture perfor
+
+mance of the structure.
+
+
+Section 19 Base floor with the crawl space. 
+
+No water must accumulate in the crawl space under the base floor.
+
+
+The crawl space must be 
+
+ventilated.
+
+
+Moisture in the crawl space must not damage the functionality or durability of struc
+
+tures.
+
+
+Section 20 Crawl space height and access. 
+
+In a new building, the crawl space height must be 0.8 metres on average at the minimum.
+
+
+The 
+
+crawl space must be accessible for inspections and maintenance of the equipment and systems 
+
+located there.
+
+
+Section 21 Wall structures against the ground. 
+
+The structure of the exterior wall against the ground must be waterproofed or isolated against 
+
+water pressure or a structurally managed water removal system allowing the cellar wall to dry 
+
+in  an  outward  direction  must  be  used  to  prevent  moisture  from  the  surrounding  ground  and 
+
+storm water from penetrating the wall structure.
+
+
+Waterproofing or water pressure barrier must 
+
+be located on the outer surface of the exterior wall structure against the ground or inside the 
+
+exterior thermal insulation facing the ground.
+
+
+Section 22 Moisture transferred from the foundation wall and base floor. 
+
+Moisture from the foundation wall and the base floors concrete slab must not transfer harm
+
+fully to the wooden sole plates or upper wall and floor structures.
+
+
+Section 23 Structures exposed to water pressure. 
+
+Structures  exposed  to  water  pressure  must  withstand  continuous  water  pressure  effects 
+
+throughout the planned service life of the structure.
+
+
+Such structures must have water pressure barrier which prevents external water from penetrating harmfully into the structure. 
+ 
+
+Chapter 6 Attic floor and also wall and roof structures in contact with external air. 
+
+Section 24 External wall structures. 
+
+External walls and their various layers must form a whole that prevents water from harmfully 
+
+penetrating into the structures.
+
+
+The water vapour resistance and air tightness of external walls 
+
+and their various layers as well as the structures attached to the external wall and joints to the 
+
+external wall must prevent the accumulation of moisture content of wall structures from internal 
+
+water vapour diffusion or convection that is harmful from the viewpoint of moisture perfor
+
+mance of structures.
+
+
+If air barriers or vapour barriers have been used in the structure, the seams, 
+
+edges and penetrations must be tight.
+
+
+Section 25  External cladding. 
+
+No water may enter behind the wall structures external cladding or the water and moisture 
+
+from behind the external cladding must be drained without damaging the structure.
+
+
+Unless moisture is removed by other methods, the space behind the external cladding must be ventilated.
+
+
+Section 26 Water drainage from the roof.  
+
+Water must be able to drain off the roof without causing damage to the building.
+
+
+The roof 
+
+structures and joints must be properly inclined and sealed for water drainage.
+
+
+Section 27 Structures of the attic floor. 
+
+The layers of attic floor structures and the ventilation must prevent the accumulation of dam
+
+aging moisture into the roof structure resulting from water vapour diffusion or airflow.
+
+
+If air 
+
+barriers or vapour barriers have been used in the structure, the seams, edges and penetrations 
+
+must be tight.
+
+
+Chapter 7 Wet rooms. 
+
+Section 28 Wet room waterproofing and structures.  
+
+Water must not drift into or migrate as a capillary flow from the wet rooms to the surrounding 
+
+structures  and  rooms.
+
+
+Constructions  behind  surfaces  exposed  to  running  water,  repetitious 
+
+splash water or water condensation must be waterproofed.
+
+
+The flooring and wall covering must 
+
+provide waterproofing, or separate waterproofing must be installed under the flooring and be
+
+hind the wall covering.
+
+
+Due to the way wet rooms are used, the coating of the ceiling must withstand.
+
+Wet room waterproofing must form a whole which is impermeable on all waterproofed sur
+
+faces as well as on their seams, penetrations and joints.
+
+
+The flooring functioning as waterproof
+
+ing or waterproofing located underneath the flooring in wet rooms must have a watertight con
+
+nection with the waterproofing of the wall.
+
+
+The structures of the wet rooms must be rigid enough that the thermal and moisture move
+
+ments do no damage the wet room waterproofing or surface structures.
+
+
+If, for a specific reason, 
+
+no waterproofing is used in the wet room structures, the building designer or special designer 
+
+shall, in accordance with their respective duties, prove in their design that the lack of water
+
+proofing does not risk the fulfilment of essential technical requirements referred to in Section 
+
+117 c of the Land Use and Building Act.
+
+
+Section 29 Wet room floor slopes and penetrations.  
+
+The slope of the wet room floor must allow water to flow into the floor drain.
+
+
+The joint be
+
+tween waterproofing and the floor drain must be tight.
+
+
+Section 30 Entry into force. 
+
+This Decree shall enter into force on 1 January 2018.
+
+
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at 
+
+the time of entry into force of this Decree.
+
+

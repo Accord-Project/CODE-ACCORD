@@ -1,0 +1,862 @@
+Unofficial translation.  
+Legally binding only in Finnish and Swedish 
+
+Decree of the Ministry of the Environment  
+
+on water and sewerage systems of buildings 
+
+By decision of the Ministry of the Environment, the following is hereby laid down pursuant 
+to section 117 c, subsection 3; section 117 d, subsection 2; section 117 f, subsection 3; section 
+117 g, subsection 4; section 117 i, subsection 4; section 122 a, subsection 3; and section 150 f, 
+subsection 4 of the Land Use and Building Act (132/1999), as laid down in section 117 c, sub-
+section 3; section 117 d, subsection 2; section 117 f, subsection 3; and section 117 i, subsection 
+4 of Act 958/2012, and section 117 g, subsection 4 by Act 1151/2016, and section 122 a, sub-
+section 3 and section 150 f, subsection 4 of Act 41/2014: 
+
+Chapter 1 
+
+General 
+
+Section 1 
+
+Scope  
+
+This Decree applies to the design and construction of water and sewerage systems of new 
+buildings as well as those located on property. The Decree also applies to building extensions, 
+increases of calculated floor area, alteration and renovation work as well as alteration of the 
+intended use of the building. 
+
+Section 2 
+
+Definitions 
+
+In this Decree: 
+1) special water system means equipment for the conveyance of other than household water;  
+2) storm water means rainwater or meltwater to be conveyed from the ground surface, the 
+
+roof of a building or from other similar surfaces; 
+
+3)  air  gap  means  the  free  vertical  distance  between  the  bottom  edge  (or  equivalent)  of  a 
+plumbing fixture’s supply pipe and the highest possible water level in the tank (or equivalent) 
+below it; 
+
+4) service pipe means a water pipe that serves two or more water points; 
+5) waste water means, in general, water to be conveyed away via the sewerage system that is 
+
+chemically, microbiologically, physically or otherwise polluted; 
+
+6) support means a holder that supports a pipe or sewer; 
+7) throttling valve means a device for regulating the water flow;  
+8) fixed point means the anchorage of a water pipe or sewer which prevents movement of the 
+
+pipe from its place of support; 
+
+Directive 2015/1535/EU (32015L1535) of the European Parliament and of the Council; OJ L 241, 17.9.2015, p. 1  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9) collector sewer means a sewer to which two or more drainage points are connected; 
+10) connector pipe means a water pipe by which the plumbing fixtures are connected to the 
+
+service pipe; 
+
+11) connector sewer means a sewer by which a drainage point is connected to the collector 
+
+sewer; 
+
+12)  connecting  point  means  a  point  at  which the  building’s  water  and  sewerage  system  is 
+
+connected to the water and sewerage system network of a water supply plant; 
+
+13) domestic hot water means water produced by the heating of household water; 
+14) design rainfall means the maximum rainfall occurring within ten minutes; 
+15) design flow means the base flow value used to design water pipes or sewers; 
+16) standard flow means the base flow value either obtainable from a water point or to be 
+
+conveyed to a drainage point; 
+
+17) height of backwater means the approved maximum level to which the water level in a 
+
+sewer can rise at the point where it joins the property; 
+
+18) backwater valve means a valve which permits the flow of sewage in one direction only; 
+19) pressure drainage means a sewerage system in which waste water, storm water or foun-
+
+dation drainage water is pumped; 
+
+20) foundation drainage water means water that has infiltrated into the ground and is con-
+veyed to a sewer or other place of discharge in order to dry the base and foundations of a build-
+ing; 
+
+21) vertical (riser) sewer means a sewer whose gradient relative to the vertical plane is less 
+
+than 45°; 
+
+22) fire-prevention water system means equipment intended to extinguish fires; 
+23) shutoff valve means a device to open up or shut off water flow; 
+24) household water means water that is used for drinking water, for preparing food and for 
+other household use as well as for preparing, processing, storage and marketing of food products 
+in compliance with the provisions of section 16 on household potable water of the Health Pro-
+tection Act (763/1994); 
+
+25) service water pipe means a water pipe that connects the property’s water system to the 
+
+common water pipe of a number of properties; 
+
+26) service sewer means a sewer that connects a property’s sewer to the common sewer of a 
+
+number of properties; 
+
+27) stack vent means a pipe to ventilate a sewer and to even out pressure fluctuations therein; 
+28) vacuum relief valve means a device which, when a specified degree of negative pressure 
+occurs in a pipe or device, opens a link to the surrounding air and thus prevents the occurrence 
+of a siphonage effect, which causes back-siphonage; 
+
+29) horizontal sewer means a sewer whose gradient relative to the vertical plane is greater 
+
+than or equal to 45°; 
+
+30) replaceable water pipe means a pipe that can be replaced and repaired without excessive 
+
+work or without breaking any structures; 
+
+31) placement of the water pipe or sewer within the building means a water pipe or sewer 
+
+installed within or above a building’s foundation panel; 
+
+32) placement of the water pipe or sewer in the ground means a water pipe or sewer installed 
+
+in the ground below a building’s foundation panel or outside the foundation wall; 
+
+33) plumbing fixtures mean devices intended to draw water, such as taps, mixers or the like; 
+34) water system means the system for conveying household water and domestic hot water; 
+35) water seal means a device that prevents sewer gases from escaping from a sewer; 
+36) water point means a place where water is drawn and which is equipped with plumbing 
+
+37) drainage appliances mean devices intended for sewerage, such as sinks, floor drains, toilet 
+
+fixtures; 
+
+pans or the like; 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38)  sewerage  system  means  the  system  to remove  waste  water,  storm  water  or foundation 
+
+drainage water; 
+
+39) drainage point means a place of drainage that is equipped with a drainage appliance; 
+40) gradient sewer means a sewerage system in which waste water, storm water and founda-
+
+tion drainage water are removed by gravity; 
+
+41) minimum gradient means the smallest permitted gradient of a gradient sewer at which the 
+
+sewer operates in a self-cleaning manner; 
+
+42)  back  check valve  means  a  valve  that permits  the  flow  of  water  in  a  water pipe  in  one 
+
+direction only; 
+
+43) overflow pipe means a pipe that prevents the device from overfilling. 
+
+Section 3 
+
+Design of a water and sewerage system of a building 
+
+When designing a building, the principal designer, specialist designer and construction de-
+signer shall each in accordance with their respective duties ensure that the building, in accord-
+ance with its intended use, meets the requirements regarding the safety, healthiness, operational 
+reliability, durability and energy efficiency of the water and sewerage systems. The design plan 
+shall  indicate the  components,  products  and  materials  to  be  used  in  the  water  and  sewerage 
+systems. 
+
+Chapter 2 
+
+Water system of a building 
+
+Section 4 
+
+Water quality 
+
+The  quality  of  the  water  intended  to  be  conveyed  to  the  building’s  water  system  shall  be 
+known to the specialist designer for the technical design of the system and for corrosion pre-
+vention.  Only water that meets the quality requirements set on household water may be con-
+veyed to the water system.  
+
+Water drawn from the water system may not endanger health and it may not contain taste or 
+
+odour nuisance. 
+
+Section 5 
+
+Protection against health risks and other harm 
+
+Water systems connected to the network of a water supply plant may not be in direct contact 
+with any water system, sewerage system or special water system that obtains its water from 
+some other water source.  
+
+Products to be used in the water system shall be suitable for conveying household water. 
+The water system shall be designed to prevent the back-siphoning of water and the risk of 
+contamination caused by the penetration of liquids and gases. If the water pipe is located in 
+contaminated ground or there is a risk of contamination, diffusion-tight pipe material shall be 
+used. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 6 
+
+Water temperature 
+
+The cold water pipe shall be designed and installed so that the temperature in the cold water 
+system may not exceed 20 degrees Celsius. After a period of non-use of at least eight hours, the 
+water temperature may not exceed 24 degrees Celsius.  
+
+The water temperature of the water in the hot water system shall be at least 55 degrees Celsius 
+and available from the hot water plumbing fixture within 20 seconds. The temperature of the 
+water available from the hot water system may not exceed 65 degrees Celsius.  
+
+The water system shall be designed so as to prevent detrimental cross-flow of water from the 
+
+hot water pipe to the cold water pipe or vice versa.  
+
+Section 7 
+
+Dimensioning of the water system 
+
+The water system shall withstand internal excess pressure of at least 1 000 kilopascals.  
+The plumbing fixtures shall provide a flow, which is steady in view to its intended use without 
+
+annoying noise and detrimental pressure shocks.  
+
+Section 8 
+
+ Domestic hot water ring duct 
+
+The domestic hot water ring duct of a new building may not have heat emitters or floor heating 
+
+connected to it.  
+
+In connection with repair and alteration work, the heat emitters connected to the domestic hot 
+water ring duct may be replaced so that the heat emission capacity of the heat emitters to be 
+installed does not exceed 200 Watts per room. Domestic hot water may, however, not be used 
+for floor heating. 
+
+Section 9 
+
+Plumbing fixtures 
+
+The plumbing fixtures shall be suitable for their intended use. The functions and directions of 
+movement of the appliances for controlling water volume and temperature shall be safe. The 
+structure of the control appliance of the plumbing fixture shall be such that its surface tempera-
+ture does not arise above 40 degrees Celsius. 
+
+Section 10 
+
+Water meters 
+
+The water meter of a property shall be located in a place where it is easy to install, read and 
+
+service and where it cannot freeze.  
+
+A building shall have apartment-specific water meters for measuring the cold and hot water 
+entering the apartment so that the water consumption indicated by the meters can be used as 
+basis for billing. The apartment-specific water meters shall be located in a place where they are 
+easy to install, read and service. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 11 
+
+Connecting a fire-prevention water system to a building’s water system 
+
+A fire-prevention water system may be connected to a building’s water system with the per-
+
+mission of the water supply plant. 
+
+The fire-prevention water system may not cause health-related or other detriment to the build-
+ing’s water system or to its functioning. A fire-prevention water system that uses substances 
+that are harmful to health may not be connected to the water system. 
+
+The fire-prevention water system may not cause backflow into the building’s water system. 
+
+Section 12 
+
+Installation of a special water system 
+
+In a special water system, water for technical use other than household water may only be 
+
+conveyed if the equipment is separated from the household water system by an air gap. 
+
+Each water point and network component of the special water system shall have a clear and 
+
+permanent marking stating the quality and intended use of the water.  
+
+Chapter 3 
+
+Operational reliability of the water system 
+
+Section 13 
+
+Detectability of leaks 
+
+The specialist designer shall design the water pipes and devices connected thereto to be in-
+stalled to the building so that any leak is easily detectable and the water pipes and devices can 
+be easily inspected, repaired and replaced.  The connector pipes in the wall structures shall be 
+seamless. Lead-through holes for water pipes may not be made in the floor of a wet room.  
+
+In order to detect water leaks, structural solutions that direct the leaked water in sight shall be 
+used. Vertical service pipes shall be equipped with mechanical or structural leak detectors at 
+each floor if the service pipes are not visible. 
+
+Section 14 
+
+Integrity of a water system 
+
+The water system shall be leakproof. The integrity of the water system shall be ensured by 
+
+using compatible products, components and materials.  
+
+Section 15 
+
+Prevention of freezing 
+
+The water in the water system may not be allowed to freeze. Water pipes that are located in 
+cold premises shall be thermally insulated. Water pipes to be installed in the ground shall be 
+situated below the frost depth unless the freezing of the water pipes is prevented otherwise.  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 16 
+
+Supports and fasteners 
+
+The supports and fastening points of water pipes shall be such that neither heat expansion nor 
+forces generated by water flow cause the pipes to shift, loosen, break or make disturbing noises. 
+The supports and products used in fastening shall be corrosion resistant in their environment of 
+use. 
+
+Section 17 
+
+Shut-off and safety devices of a water system 
+
+A water system shall incorporate shut-off options to ensure that the equipment is easy to use, 
+
+service and repair.  
+
+The shut-off valves shall be located: 
+1) at each house; 
+2) at each apartment; 
+3) in vertical service pipes; 
+4) on both sides of devices installed in the service pipes; 
+5) before a device or fixture that is connected to the connector pipe;  
+6) on both sides of the water meters. 
+The domestic hot water equipment shall have a safety device to prevent excess pressure. 
+
+Section 18 
+
+Measurement and regulating devices of a water system 
+
+A water system shall have a measurement and regulating option to control the principal oper-
+
+ating values. The water system shall incorporate: 
+
+1) a pressure gauge; 
+2) thermometers in the water pipe of mixed domestic hot water from the water heater and in 
+
+the domestic hot water ring duct to measure the temperature of return water; 
+
+3) throttling valves. 
+
+Section 19 
+
+Changing the water pipe pressure 
+
+The specialist designer shall draw up a pressure loss calculation for the water system.  
+If the water pressure in the service pipe exceeds 500 kilopascals, a reducing valve shall be 
+
+used to reduce the pressure to the level required by the design of the water system.   
+
+If the pressure level is so low that the water system does not provide the discharge flow re-
+quired by its design, water pressure booster equipment shall be used. The booster equipment 
+shall be fitted with regulating devices to control the outlet pressure so that no disturbing pressure 
+fluctuations or noises are generated as well as with safety fittings to prevent excessively high 
+overpressure.  
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 4 
+
+Water system commissioning measurements 
+
+Section 20 
+
+Establishing the integrity of the water system 
+
+The specialist supervisor shall ensure that the integrity of the water system has been tested 
+before commissioning a building. The integrity of the water system shall be ensured with pres-
+sure testing using water. The test shall be carried out so that the water pipes and their joints are 
+uninsulated and easily visible.  
+
+The person in charge of the construction phase shall make an entry in the construction inspec-
+
+tion document regarding the establishment of integrity of the water system. 
+
+Section 21 
+
+Water system flushing 
+
+The specialist  supervisor  shall  ensure that  the  water pipe  equipment  is  flushed prior  to its 
+commissioning. The flushing shall be carried out with household water to remove any dirt and 
+debris from the pipe network.  
+
+The person in charge of the construction phase shall make an entry in the construction inspec-
+
+tion document of the flushing. 
+
+Section 22 
+
+Cleansing and disinfection of the water system 
+
+If there is reason to suspect that the water system has been exposed to the effects of pathogenic 
+micro-organisms or other substances that are hazardous or harmful to health, the specialist su-
+pervisor shall ensure that the equipment is cleansed and disinfected prior to commissioning. 
+
+The person in charge of the construction phase shall make the necessary entries in the con-
+
+struction inspection document of the cleansing measures. 
+
+Measurement and regulation of water system pressure and flow for plumbing fixtures 
+
+Section 23 
+
+The specialist supervisor shall ensure that the water system pressure and the flow for plumbing 
+fixtures are measured, regulated and established to comply with the plans prior to commission-
+ing.  
+
+The person in charge of the construction phase shall make an entry in the construction inspec-
+
+tion document stating that the measurement and regulation work complies with the plans. 
+
+Section 24 
+
+Regulation of flow in the domestic hot water ring duct 
+
+The specialist supervisor shall ensure that the flow rate of the ring duct is measured and reg-
+
+ulated prior to commissioning. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The person in charge of the construction phase shall make an entry in the construction inspec-
+
+tion document of the regulation of the flow. 
+
+Chapter 5 
+
+Waste water system of a building 
+
+Section 25 
+
+Removal of waste water 
+
+The waste water system of a building may not cause health hazards, odour nuisance, sewer 
+
+overflows, noise or environmental harm.  
+
+Waste water shall be conveyed to the sewer of the water supply plant or for purification prop-
+
+erty-specifically or to a cesspit. 
+
+The size of the sewer pipe may not diminish in the flow direction. 
+
+Section 26 
+
+Arrangement of drainage 
+
+A water point shall incorporate a drainage point that is connected to the sewer via a drainage 
+fixture. No drainage point is required for irrigation posts, fire posts, emergency sprinklers or 
+individual refrigeration or drinking appliance. 
+
+No more than two drainage wells may be connected to a floor drain and they may be located 
+at a maximum distance of three meters from the floor drain. In the construction of a new building 
+as well as in repair and alteration work corresponding to the construction of a new building, the 
+premises to be fitted with a floor drain shall be: 
+
+1. showers and bathrooms as well as wash rooms in connection with saunas; 
+2. laundry room; 
+3. heat distribution room; 
+4. ventilation unit room; 
+5. toilet facility intended for public use;  
+6. technical utility room with a possibility to water damage; 
+7. car wash facility; 
+8. special facilities cleansed by water rinsing. 
+
+Section 27 
+
+Waste water pumping station 
+
+If waste water cannot be conveyed from the drainage points of a building with gravity unload-
+ing via a gradient sewer, the waste water shall be pumped. The pumping station shall be water-
+tight and resistant to earth pressure and it may not cause odour problem. The waste water pump-
+ing station shall be ventilated. 
+
+The pumping station shall be equipped with a malfunction detector. The pumping station shall 
+be located in a place where it can be easily inspected and serviced. The waste water may not be 
+allowed to flow back to the pumping station. 
+
+If a drainage point is located below the height of backwater, the waste water must be pumped. 
+In repair and alteration work, a drainage point located below the height of backwater may be 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fitted with a backwater valve instead of pumping with the exception of waters from a water 
+toilet. 
+
+Section 28 
+
+Prevention of spread of sewer odours 
+
+The sewerage system may not cause odour nuisance. 
+A drainage point shall be equipped with a cleansable water seal. 
+Sewers shall be connected to a stack vent that extends above the roofing of a building. A stack 
+
+vent located in cold premises shall be thermally insulated.  
+
+Section 29 
+
+Drainage of overflow and discharge waters 
+
+Overflow and discharge waters from water tanks and discharge water from washing machines 
+
+and dishwashers may not be allowed to flow from the drain back to the appliances.  
+
+Chapter 6 
+
+Operational reliability of the waste water system 
+
+Section 30 
+
+Supporting and fixing sewers to structures 
+
+Sewers shall be supported and fixed to structures so that mechanical forces and heat expansion 
+do not cause dents or detrimental changes in the sewers. A sewer shall be anchored if the forces 
+generated by the flow of the waste water are so strong that the sewer will not otherwise remain 
+in place without causing problems. The supports and products used in fastening- shall be corro-
+sion resistant in their environment of use.  
+
+The supports of a sewer that is cured-in-place by coating or lining shall be of such condition 
+
+that they withstand the stress generated by the use of the repaired sewer.  
+
+Section 31 
+
+Observance of conditions in the location of a sewer 
+
+A sewer installed in the ground shall withstand the load imposed by soil, soil corrosion as 
+well as subsidence of soil. Leakage from a pressure sewer located in a groundwater zone shall 
+be detectable.   
+
+Water pipes and sewers installed in the ground shall be identifiable and they shall be located 
+
+separate from one another. 
+
+The sewerage system may not be allowed to freeze. 
+
+Section 32 
+
+Integrity of the sewerage system 
+
+The sewerage system shall be leakproof. The materials and fittings shall be compatible. 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The person in charge of the construction phase shall make an entry in the construction inspec-
+
+tion document regarding the establishment of integrity of the sewerage system. 
+
+Section 33 
+
+Separators of the sewerage system 
+
+If sand, sludge, grease, petrol, oil or other detrimental physical or chemical substances may 
+end up in the sewerage system or network or in the environment, the sewerage system shall be 
+equipped with a separator or treatment device. 
+
+The separator devices shall be located so that they can be serviced and emptied easily and 
+
+without causing problems. 
+
+The oil and grease separators shall be equipped with a filling alarm. The sewer pipe located 
+
+behind the separator shall provide a sampling possibility. 
+
+Section 34 
+
+ Cleanouts of waste water sewers 
+
+The sewerage system shall be equipped with cleanouts that are easy to handle and lockable in 
+both horizontal and vertical sewers. The cleanouts shall be located so that the entire pipeline 
+may be cleansed.  
+
+Chapter 7 
+
+Storm water system 
+
+Section 35  
+
+Design of the storm water system 
+
+The principal designer and specialist designer shall each in accordance with their respective 
+duties design the storm water system so that the first solution for the removal of storm water is 
+its delaying and infiltration within the property. If storm water infiltration is not possible due to 
+the characteristics of the soil, the property shall have a storm water system through which the 
+storm water flows into a ditch, a body of water or the municipal storm water sewer.  Waste 
+water may not be conveyed to the storm water system.   
+
+The design of the storm water system shall be such that the flow, equivalent to the design 
+
+rainfall which is conveyed into the sewer, does not cause the sewer to overflow. 
+
+Section 36 
+
+Location of the storm water system 
+
+Storm water sewers within a building may not generate noise. A storm water sewer installed 
+in the ground shall withstand, without sustaining damage or loss of function, the effects of soil 
+pressure, stress and soil corrosion as well as any subsidence of its location. The storm water 
+system shall be cleansable via manholes and fittings. 
+
+The storm water sewer may not be allowed to freeze. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 37  
+
+Integrity and operational reliability of storm water sewers within a building 
+
+The specialist supervisor shall ensure that the integrity of the storm water sewers within the 
+building is checked. The storm water sewer shall be fixed to structures so that no harmful dent 
+can arise thereon and so that a possible heat expansion will not cause problems as well as so 
+that the forces generated by the flow of storm water cannot result in harmful movement of the 
+pipes. The storm water sewers within the building shall be equipped with condensation insula-
+tion.  
+
+The person in charge of the construction phase shall make an entry in the construction inspec-
+tion  document  regarding the  establishment  of integrity  of the  storm  water sewers  within the 
+building. 
+
+Section 38 
+
+Removal of the foundation drainage water of a building 
+
+Drains shall convey foundation drainage water via drainage wells to a collection well. The 
+foundation drainage water shall flow away from the property in such a way that it does not cause 
+problems to the waste water and storm water systems. Depending on the sewerage system of 
+the area, the foundation drainage waters of a building may flow into an open ditch, a water body, 
+the municipal storm water sewer or they may infiltrate into the ground. Waste and storm waters 
+may not be conveyed into the foundation drainage water sewers. 
+
+Chapter 8 
+
+Entry into force and transitional provisions 
+
+Section 39 
+
+Entry into force 
+
+This Decree enters into force on 1 January 2018. 
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at 
+
+the time of entry into force of this Decree. 
+
+Helsinki, 22 December 2017 
+
+Kimmo Tiilikainen, Minister of the Environment, Energy and Housing 
+
+Kaisa Kauko, Senior Engineer 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

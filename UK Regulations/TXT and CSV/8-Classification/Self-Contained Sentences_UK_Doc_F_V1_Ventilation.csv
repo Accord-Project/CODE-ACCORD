@@ -1,0 +1,74 @@
+﻿ID,Text
+4_UK_DocF_V1_Ventilation,"For emergency repairs, if it is not possible to notify the building control body in advance, the building control body should be notified as soon as possible."
+7_UK_DocF_V1_Ventilation,A unit that contains both living accommodation and space for commercial purposes (e.g. for a workshop or office) should be treated as a dwelling if the commercial part can be reverted to domestic use.
+11_UK_DocF_V1_Ventilation,Combustion appliances must operate safely whether or not fans are running.
+15_UK_DocF_V1_Ventilation,There shall be adequate means of ventilation provided for people in the building.
+21_UK_DocF_V1_Ventilation,"Mechanical ventilation systems, including both continuous and intermittent mechanical ventilation, should be designed and installed to minimise noise."
+22_UK_DocF_V1_Ventilation,"Ensuring that equipment is appropriately and securely fixed, such as using resilient mountings where noise carried by the structure of the building could be a problem."
+23_UK_DocF_V1_Ventilation,"For mechanical ventilation systems, fan units should be appropriately sized so that fans operating in normal background ventilation mode are not overly noisy."
+24_UK_DocF_V1_Ventilation,Account should be taken of outside noise when considering whether openable windows are appropriate for purge ventilation.
+30_UK_DocF_V1_Ventilation,Other ventilation systems may be acceptable if they can be shown to meet an equal level of performance.
+36_UK_DocF_V1_Ventilation,The cooker hood should span at least the full width of the cooker.
+43_UK_DocF_V1_Ventilation,"If the dwelling only has one habitable room, a minimum ventilation rate of 13l/s should be used."
+46_UK_DocF_V1_Ventilation,A system for purge ventilation should be provided in each habitable room.
+47_UK_DocF_V1_Ventilation,Purge ventilation should be capable of extracting at least four air changes per hour per room directly to the outside.
+53_UK_DocF_V1_Ventilation, Hinged or pivot windows with an opening angle of less than 15 degrees are not suitable for purge ventilation.
+55_UK_DocF_V1_Ventilation,The air flow resistance of all components should be considered when specifying ventilation systems.
+58_UK_DocF_V1_Ventilation,Background ventilators should meet the performance standards for both of the following: a. air flow from outside to inside the dwelling; b. air flow from inside the dwelling to outside.
+63_UK_DocF_V1_Ventilation,Ventilation should be controllable.
+64_UK_DocF_V1_Ventilation,"Background ventilators should be at least 1700mm above floor level, to reduce cold draughts, but still be easy for the occupant to reach."
+65_UK_DocF_V1_Ventilation,Continuously running fans should be set up to operate without occupant intervention but may have manual or automatic controls for selecting the high rate of operation.
+66_UK_DocF_V1_Ventilation,"Any manual high rate controls should be provided locally to the spaces being served, e.g. bathrooms and kitchens."
+71_UK_DocF_V1_Ventilation,The part of the dwelling above ground level should be considered separately.
+72_UK_DocF_V1_Ventilation,The basement should be treated separately as a single-storey dwelling above ground level.
+73_UK_DocF_V1_Ventilation,"If the basement has no bedrooms, it should be treated as having one bedroom when calculating the ventilation required for the purposes of meeting the ventilation standards."
+74_UK_DocF_V1_Ventilation,A dwelling that is only a basement should be treated as a single-storey dwelling above ground level.
+82_UK_DocF_V1_Ventilation,Intermittent extract fans should be fitted in all wet rooms.
+83_UK_DocF_V1_Ventilation,"In a room with no openable window, an intermittent extract fan should be provided with controls which continue to operate the fan for at least 15 minutes after the room is vacated."
+85_UK_DocF_V1_Ventilation,"If the dwelling has more than one exposed facade, the area of background ventilators on each faade should be similar, to allow cross-ventilation."
+86_UK_DocF_V1_Ventilation,"If an exposed facade is close to an area of sustained and loud noise (e.g. a main road), then a noise-attenuating background ventilator should be fitted."
+88_UK_DocF_V1_Ventilation,"If fans and background ventilators are fitted in the same room, they should be at least 500mm apart."
+89_UK_DocF_V1_Ventilation,The total number of ventilators installed in the dwellings habitable rooms and kitchens should be at least the following: Five ventilators if the dwelling has more than one bedroom.
+94_UK_DocF_V1_Ventilation,"Where a kitchen and living room accommodation are not separate rooms (i.e. open plan), no fewer than three ventilators of the same equivalent area as for other habitable rooms should be provided within the open-plan space."
+96_UK_DocF_V1_Ventilation,"The total number of ventilators installed in a dwellings habitable rooms and kitchens should be no fewer than five, except in one bedroom properties, where there should be no fewer than four."
+100_UK_DocF_V1_Ventilation,"If an exhaust air terminal is located on a facade that is exposed to the prevailing wind, measures should be taken to minimise likely wind effects."
+105_UK_DocF_V1_Ventilation,The total supply air flow should be distributed proportionately to the volume of each habitable room.
+106_UK_DocF_V1_Ventilation,Mechanical supply terminals should be located and directed to avoid draughts.
+107_UK_DocF_V1_Ventilation,Mechanical ventilation with heat recovery systems should be designed to avoid the moist air from the wet rooms recirculating to the habitable rooms.
+110_UK_DocF_V1_Ventilation,Adequate space should be available for access to maintain ventilation equipment.
+111_UK_DocF_V1_Ventilation,Rigid ducts should be used wherever possible.
+113_UK_DocF_V1_Ventilation,Any flexible ducts should be installed so that the full internal diameter is maintained and flow resistance is minimised.
+115_UK_DocF_V1_Ventilation,Each air terminal should have a free area of at least 90 of the free area of its associated duct.
+116_UK_DocF_V1_Ventilation, Duct connections should be both mechanically secured and adequately sealed to prevent leaks.
+117_UK_DocF_V1_Ventilation,Rigid connectors and jubilee clips should be used for flexible ducting to ensure a good seal.
+124_UK_DocF_V1_Ventilation,Ventilation intakes should be located away from the direct impact of the sources of local pollution.
+130_UK_DocF_V1_Ventilation,"Where there is a prevailing wind direction, exhaust outlets should be downwind of intakes."
+131_UK_DocF_V1_Ventilation,NOTE: Ventilation through infiltration should be considered to be part of the ventilation provision of a dwelling.
+155_UK_DocF_V1_Ventilation,"If the dwelling already has mechanical ventilation, the centralised system could be extended into the additional room."
+160_UK_DocF_V1_Ventilation,"The general ventilation rate for a new conservatory and, if necessary, adjoining rooms could be achieved using background ventilators."
+168_UK_DocF_V1_Ventilation,"Where building work is carried out in a kitchen or bathroom, any existing fans (including cooker hoods, where they extract to the outside) should be retained or replaced."
+180_UK_DocF_V1_Ventilation,Mechanical ventilation systems must be commissioned to provide adequate ventilation.
+181_UK_DocF_V1_Ventilation,A commissioning notice must be given to the building control body.
+182_UK_DocF_V1_Ventilation,Air flow rates for mechanical ventilation in new dwellings must be measured.
+183_UK_DocF_V1_Ventilation,A notice of the measured air flow rates must be given to the building control body.
+189_UK_DocF_V1_Ventilation,The actual equivalent area and location of installed background ventilators should be recorded.
+191_UK_DocF_V1_Ventilation,The quality of the installation of the ventilator product should be checked to ensure it is correctly mounted within the wall or window aperture.
+192_UK_DocF_V1_Ventilation,"For continuous mechanical ventilation systems, such as continuous mechanical extract ventilation or mechanical ventilation with heat recovery, the system should be balanced to achieve design air flow rates at each room terminal."
+197_UK_DocF_V1_Ventilation,The fan speed should be set to achieve the desired continuous flow rate.
+198_UK_DocF_V1_Ventilation,The index terminal flow rate should be set with the terminal fully open and all other terminals should be adjusted to achieve the required flows at each terminal.
+199_UK_DocF_V1_Ventilation,"If the total flow rate cannot be achieved through all the terminals, then the fan speed should be increased."
+200_UK_DocF_V1_Ventilation,"If all the terminals have to be set to a significantly closed position to achieve the required air flow rate, then the fan speed should be reduced and the terminals rebalanced."
+201_UK_DocF_V1_Ventilation,The fan should be set at a speed that will approximately achieve the desired continuous flow rate.
+202_UK_DocF_V1_Ventilation,The index terminal flow rate should be set with the terminal fully open and all other terminals should be adjusted to achieve the required flows at each terminal.
+203_UK_DocF_V1_Ventilation,"If the index terminal has to be set to a significantly closed position to achieve the required air flow rate, then the fan speed should be reduced and the terminals rebalanced."
+205_UK_DocF_V1_Ventilation,The fan speed should be set to achieve the desired continuous flow rate.
+206_UK_DocF_V1_Ventilation,The index terminal flow rate should be set with the terminal fully open and all other terminals should be adjusted to achieve the required flow rates at each terminal.
+208_UK_DocF_V1_Ventilation,"For fixed terminals with automatic flow adjustment at the fan unit, the fan speed should be set to achieve the desired continuous flow rate."
+210_UK_DocF_V1_Ventilation,4.9  The air flow rate of all mechanical ventilation fans should be tested.
+218_UK_DocF_V1_Ventilation,The correct operation of each control function should be tested where it is practical.
+220_UK_DocF_V1_Ventilation,controls should be inspected to ensure that the following have been achieved.
+228_UK_DocF_V1_Ventilation,That background ventilators allow fresh air into the home and should be left open.
+243_UK_DocF_V1_Ventilation,Purge ventilation may be provided by natural means (e.g. an openable window) or mechanical means (e.g. a fan).
+262_UK_DocF_V1_Ventilation,All three parts of the installation and commissioning checklist should be completed.
+264_UK_DocF_V1_Ventilation,The three-part form should be completed for each installation address.
+265_UK_DocF_V1_Ventilation,"A copy should be submitted to the building control body as evidence that the system has been correctly installed, inspected and commissioned."

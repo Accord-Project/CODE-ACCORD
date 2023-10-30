@@ -1,0 +1,3443 @@
+MATERIALS AND WORKMANSHIP
+
+Any building work which is subject to the 
+
+requirements imposed by Schedule 1 to the 
+
+Building Regulations shall be carried out in 
+
+accordance with regulation 7.
+
+
+Appropriate safety codes should be 
+
+followed including procedures for working in 
+
+confined spaces.
+
+
+(1)  An adequate system of drainage shall be provided to 
+
+carry foul water from appliances within the building to one of 
+
+the following, listed in order of priority:
+
+Requirement H1 does not apply to the diversion of water which 
+
+has  been  used  for  personal  washing  or  for  the  washing  of 
+
+clothes, linen or other articles to collection systems for reuse.
+
+
+(2)  In  this  Part  foul  water  means  waste  water  which 
+
+comprises or includes:
+
+(a)  waste  from  a  sanitary  convenience,  bidet  or 
+
+appliance used for washing receptacles for foul waste; or
+
+(b)  water which has been used for food preparation, 
+
+cooking or washing.
+
+
+The capacity of the system should be large 
+
+a.  conveys the flow of foul water to a foul water 
+
+outfall (a foul or combined sewer, a cesspool, 
+
+septic tank or holding tank);
+
+The capacity depends on the size and 
+
+gradient of the pipes.
+
+
+The pipe sizes quoted in this document are 
+
+nominal sizes used as a numerical designation in 
+
+convenient round numbers approximately equal 
+
+to a manufacturers size.
+
+
+Complex systems in larger 
+
+buildings should be designed in accordance with 
+
+BS EN 12056 (see paragraph 1.39).
+
+
+Where WCs with major flush 
+
+volumes less than 5 litres are used, consideration 
+
+should be given to the increased risk of blockages.
+
+
+Traps
+
+All points of discharge into the system 
+
+should be fitted with a trap (e.g.
+
+
+1.5  Pressure fluctuation  To prevent the 
+
+water seal from being broken by the pressures 
+
+which can develop in the system the branch 
+
+discharge pipes should be designed as described 
+
+in paragraphs 1.7 to 1.25.
+
+
+All other traps should be fitted 
+
+directly after the appliance and should be 
+
+removable or be fitted with a cleaning eye.
+
+
+2  Where these appliances discharge directly to a gully the depth 
+
+of seal may be reduced to not less than 38mm.
+
+
+Traps used on appliances with flat bottom (trailing waste 
+
+discharge) and discharging to a gully with a grating may have 
+
+a reduced water seal of not less than 38mm.
+
+
+Diagram 1    Direct connection of 
+
+ground floor WC to a drain
+
+Approved Document H Drainage and waste disposal 
+
+SANITARY PIPEWORK
+
+Diagram 2   Branch connection to stacks  crossflow prevention
+
+1.10  A branch pipe should not discharge into a 
+
+stack in a way which could cause crossflow into 
+
+any other branch pipe.
+
+
+1.11  A branch discharge pipe should not 
+
+discharge into a stack lower than 450mm above 
+
+the invert of the tail of the bend at the foot of the 
+
+stack in single dwellings of up to 3 storeys (see 
+
+Diagram 2).
+
+
+The connection 
+
+should be made using pipework of minimum 
+
+diameter 22mm through a 75mm condensate 
+
+trap.
+
+
+If an additional trap is provided externally 
+
+to the boiler to provide the 75mm seal, an air gap 
+
+should be provided between the boiler and the trap.
+
+
+If the connection is made to a branch pipe, 
+
+the connection should be made downstream 
+
+of any sink waste connection.
+
+
+c.  All sanitary pipework receiving condensate 
+
+should be made from materials resistant to 
+
+a pH value of 6.5 and lower.
+
+
+The installation 
+
+should be in accordance with BS 6798.
+
+
+1.15  Sizes of branch pipes  Pipes serving a 
+
+single appliance should have at least the same 
+
+diameter as the appliance trap (see Table 1).
+
+
+If a pipe serves more than one appliance, and is 
+
+unventilated, the diameter should be at least the 
+
+size shown in Table 2.
+
+
+1.16  Bends in branch pipes should be avoided 
+
+if possible.
+
+
+1.17  Junctions on branch pipes of about the 
+
+same diameter should be made with a sweep 
+
+of 25mm radius or at 45.
+
+
+Connection of branch 
+
+pipes of 75mm diameter or more to a stack of 
+
+equal diameter should be made with a sweep 
+
+of 50mm minimum radius or at 45.
+
+
+1.19  Ventilation of branch pipes  separate 
+
+ventilation will not be needed to prevent the 
+
+water seals in traps from being lost by pressures 
+
+which can develop in the system if the length 
+
+and slope of the branch discharge pipes do not 
+
+exceed those shown in Table 2 or Diagram 3.
+
+
+2   May be reduced to 9mm on long drain runs where space is restricted, but only if more than one WC is connected.
+
+
+4   Slab urinals longer than seven persons should have more than one outlet.
+
+
+Diagram 3   Branch connections
+
+Approved Document H Drainage and waste disposal 
+
+3 storeys discharge stacks should be located 
+
+inside the building.
+
+
+Stacks serving 
+
+urinals should be not less than 50mm, stacks 
+
+serving closets with outlets less than 80mm 
+
+should be not less than 75mm and stacks serving 
+
+closets with outlets greater than 80mm should 
+
+be not less than 100mm.
+
+
+The internal diameter 
+
+of the stack should be not less than that of the 
+
+largest trap or branch discharge pipe.
+
+
+For larger 
+
+buildings the maximum flow should be checked.
+
+
+Not more than 1 WC with outlet size 80mm.
+
+
+1.29  Ventilation of discharge stacks  To 
+
+prevent water seals in the traps from being lost 
+
+by pressures which can develop in the system, 
+
+discharge stacks should be ventilated.
+
+
+Discharge 
+
+stacks connected to drains liable to surcharging 
+
+or near an intercepting trap require ventilating 
+
+pipes of not less than 50mm diameter connected 
+
+to the base of the stack above the likely flood level.
+
+
+1.30  Stub stacks  A stub stack may be used 
+
+if it connects into a ventilated discharge stack or 
+
+into a ventilated drain not subject to surcharging 
+
+and no connected water closet has a floor level 
+
+more than 1.3m and no other branch into the 
+
+stub stack has a centreline more than 2m to the 
+
+centre line above the invert of the connection or 
+
+drain (see Diagram 5).
+
+
+SANITARY PIPEWORK
+
+If the figures in Table 2 and Diagram 3 are 
+
+1.20 
+
+exceeded the branch pipe should be ventilated 
+
+by a branch ventilating pipe to external air, to a 
+
+ventilating stack (ventilated branch system) or 
+
+internally by use of an air admittance valve.
+
+
+1.22  Branch ventilating pipes  should be 
+
+connected to the discharge pipe within 750mm 
+
+of the trap and should connect to the ventilating 
+
+stack or the stack vent, above the highest 
+
+spillover level of the appliances served (see 
+
+Diagram 4).
+
+
+Diagram 4    Branch ventilation pipes
+
+1.23  Branch ventilating pipes which run direct 
+
+to outside air should finish at least 900mm above 
+
+any opening into the building nearer than 3m 
+
+(see Diagram 6 and paragraph 1.31).
+
+
+1.24  Branch ventilating pipes to branch pipes 
+
+serving one appliance should be at least 25mm 
+
+diameter or where the branch is longer than 15m 
+
+or has more than 5 bends, should be at least 32mm.
+
+
+1.25  Rodding points should be provided to 
+
+give access to any lengths of discharge pipe 
+
+which cannot be reached by removing traps or 
+
+appliances with internal traps (see paragraph 1.6).
+
+
+The 
+
+bend at the foot of the stack should have as large 
+
+a radius as possible and at least 200mm at the 
+
+centre line.
+
+
+1.27  Offsets in the wet portion of a discharge 
+
+stack should be avoided.
+
+
+If they are unavoidable 
+
+then in a building of not more than 3 storeys there 
+
+should be no branch connection within 750mm 
+
+of the offset.
+
+
+In buildings over 
+
+Drainage and waste disposal Approved Document H 
+
+SANITARY PIPEWORK 
+
+Diagram 5    Stub stack
+
+1.31  Ventilating pipes open to outside air 
+
+should finish at least 900mm above any opening 
+
+into the building within 3m and should be finished 
+
+with a wire cage or other perforated cover, fixed 
+
+to the end of the ventilating pipe, which does not 
+
+restrict the flow of air (see Diagram 6).
+
+
+In areas 
+
+where rodent control is a problem (see paragraph 
+
+2.22) these should be metallic.
+
+
+Diagram 6    Termination of ventilation 
+
+stacks or ventilation part of 
+
+discharge
+
+1.32  Sizes of stack ventilation pipes  stack 
+
+ventilation pipes (the dry part above the highest 
+
+branch) may be reduced in size in one and two 
+
+storey houses, but should be not less than 75mm.
+
+
+Air admittance 
+
+valves should be located in areas which have 
+
+adequate ventilation, should be accessible for 
+
+maintenance and should be removable to give 
+
+access for clearance of blockages.
+
+
+Where there is no open 
+
+ventilation on a drainage system or through 
+
+connected drains, alternative arrangements to 
+
+relieve positive pressures should be considered.
+
+
+1.34  Access for clearing blockages  rodding 
+
+points should be provided in discharge stacks to 
+
+give access to any lengths of pipe which cannot 
+
+be reached from any other part of the system.
+
+
+All 
+
+pipes should be reasonably accessible for repair.
+
+
+Rodding points in stacks should be above the 
+
+spillover level of appliances.
+
+
+Where 
+
+necessary different metals should be separated 
+
+by nonmetallic material to prevent electrolytic 
+
+corrosion.
+
+
+Care should be taken to ensure 
+
+continuity of any electrical earth bonding 
+
+requirements.
+
+
+Pipes should be firmly supported 
+
+without restricting thermal movement.
+
+
+Workmanship should be in accordance with  
+
+BS 8000 Workmanship on Building Sites Part 13: 
+
+Code of practice for above ground drainage.
+
+
+Air tightness
+
+1.38  The pipes, fittings and joints should be 
+
+capable of withstanding an air test of positive 
+
+pressure of at least 38mm water gauge for at 
+
+least 3 minutes.
+
+
+Every trap should maintain a 
+
+water seal of at least 25mm.
+
+
+Outlets
+
+Foul drainage should be connected to a 
+
+public foul or combined sewer wherever this is 
+
+reasonably practicable.
+
+
+For small developments 
+
+connection should be made to a public sewer 
+
+where this is within 30m provided that the 
+
+developer has the right to construct the drainage 
+
+over any intervening private land.
+
+
+Where levels 
+
+do not permit drainage by gravity a pumping 
+
+installation should be provided (see paragraphs 
+
+2.36 to 2.39).
+
+
+For developments 
+
+comprising more than one curtilage, the developer 
+
+may requisition a sewer from the sewerage 
+
+undertaker who has powers to construct sewers 
+
+over private land (see Appendix H1C, C.4).
+
+
+The sewerage undertaker should be 
+
+notified at least three weeks before it is intended 
+
+to connect to the public sewer (see Appendix 
+
+H1C, C.7).
+
+
+The sewer 
+
+should be in satisfactory condition and have 
+
+sufficient capacity to take the additional flows.
+
+
+2.7  Where none of these options is reasonably 
+
+practicable, a wastewater treatment system or 
+
+cesspool should be provided (see Approved 
+
+Document H2).
+
+
+For lowlying sites 
+
+(where the ground level of the site or the level of 
+
+a basement is below the ground level at the point 
+
+where the drainage connects to the public sewer) 
+
+care should be taken to ensure that the property 
+
+is not at increased risk of flooding.
+
+
+In all such 
+
+cases the sewerage undertaker should be 
+
+consulted to determine the extent and possible 
+
+frequency of the likely surcharge.
+
+
+For basements containing sanitary 
+
+appliances, where the risk of flooding due to 
+
+surcharge of the sewer is considered by the 
+
+sewerage undertaker to be high, the drainage from 
+
+the basement should be pumped (see paragraphs 
+
+2.36 to 2.39).
+
+
+Where the risk is considered to be 
+
+low an antiflooding valve should be installed on 
+
+the drainage from the basement.
+
+
+not basements) 
+
+where risk is considered low, sufficient protection 
+
+for the building may be possible by provision of 
+
+a gully outside the building at least 75mm below 
+
+the floor level.
+
+
+This should be positioned so that 
+
+any flooding from the gully will not damage any 
+
+buildings.
+
+
+In higher risk areas an antiflooding 
+
+valve should be provided, or the drainage system 
+
+pumped (see paragraph 2.36 to 2.39).
+
+
+2.11  Antiflooding valves should preferably be 
+
+of the double valve type, and should be suitable 
+
+for foul water and have a manual closure device.
+
+
+A single valve should not normally 
+
+serve more than one building.
+
+
+Changes of direction and gradient 
+
+should be minimised and as easy as practicable.
+
+
+Access points should be provided only if 
+
+blockages could not be cleared without them.
+
+
+2.14  Connection of drains to other drains or 
+
+private or public sewers, and of private sewers to 
+
+public sewers, should be made obliquely, or in 
+
+the direction of flow.
+
+
+2.15  Connections should be made using 
+
+prefabricated components.
+
+
+Where holes are cut 
+
+in pipes a drilling device should be used to avoid 
+
+damaging the pipe.
+
+
+2.16  Where connections made to existing 
+
+drains or sewers involve removal of pipes and 
+
+insertion of a junction, repair couplings should be 
+
+used to ensure a watertight joint and the junction 
+
+should be carefully packed to avoid differential 
+
+settlement with adjacent pipes.
+
+
+Approved Document H Drainage and waste disposal 
+
+FOUL DRAINAGE
+
+2.17  Sewers (serving more than one property) 
+
+should be kept as far as is practicable away from 
+
+the point on a building where a future extension 
+
+is likely (e.g.
+
+
+2.18  The system should be ventilated by a flow 
+
+of air.
+
+
+A ventilating pipe should be provided at 
+
+or near the head of each main drain.
+
+
+An open 
+
+ventilating pipe (without an air admittance valve) 
+
+should be provided on any drain fitted with an 
+
+intercepting trap (particularly on a sealed system), 
+
+and on any drain subject to surcharge.
+
+
+2.19  Pipes should be laid to even gradients and 
+
+any change of gradient should be combined with 
+
+an access point (see paragraph 2.49).
+
+
+Any bends should be limited to positions in or 
+
+close to inspection chambers or manholes (see 
+
+paragraph 2.49) and to the foot of discharge and 
+
+ventilating stacks.
+
+
+2.21  Drainage serving kitchens in commercial 
+
+hot food premises should be fitted with a grease 
+
+separator complying with BS EN 18251:2004 and 
+
+designed in accordance with BS EN 18252:2002 
+
+or other effective means of grease removal.
+
+
+Special protection  
+
+rodent control
+
+2.22  Where the site has been previously 
+
+developed the local authority should be consulted 
+
+to determine whether any special measures are 
+
+necessary for control of rodents.
+
+
+Intercepting trap stoppers should be of the 
+
+locking type that can be easily removed from 
+
+the chamber surface and securely replaced 
+
+after blockage clearance.
+
+
+Solid plastic 
+
+covers or metal gratings which can be fixed 
+
+in place should be used to discourage rats 
+
+from leaving the system.
+
+
+Protection from settlement
+
+2.23  A drain may run under a building if at least 
+
+100mm of granular or other flexible filling is 
+
+provided round the pipe.
+
+
+2.24  At any points where pipes are built into 
+
+a structure, including an inspection chamber, 
+
+manhole, footing, ground beam or wall, suitable 
+
+measures should be taken to prevent damage or 
+
+misalignment.
+
+
+This may be achieved by either:
+
+a.  building in a length of pipe (as short as 
+
+possible) with its joints as close as possible 
+
+to the wall faces (within at most 150mm) and 
+
+connected on each side of rocker pipes by a 
+
+length of at most 600mm and flexible joints 
+
+(see Diagram 7(a)); or
+
+b.  forming an opening to give at least 50mm 
+
+clearance all round the pipe and the opening 
+
+masked with rigid sheet material to prevent 
+
+ingress of fill or vermin.
+
+
+2.25  A drain trench should not be excavated 
+
+lower than the foundations of any building nearby 
+
+(see Diagram 8) unless either:
+
+a.  where the trench is within 1m of the 
+
+foundation the trench is filled with concrete 
+
+up to the lowest level of the foundation; or
+
+b.  where the trench is further than 1m from the 
+
+building, the trench is filled with concrete 
+
+to a level below the lowest level for the 
+
+building equal to the distance from the 
+
+building, less 150mm.
+
+
+Depth of pipe cover
+
+2.27  The depth of cover will usually depend on 
+
+the levels of the connections to the system, the 
+
+gradients at which the pipes should be laid and 
+
+the ground levels.
+
+
+a drain serving more than 
+
+one property) should normally have a minimum 
+
+diameter of 100mm when serving no more than 
+
+10 dwellings.
+
+
+Sewers serving more than 10 
+
+dwellings should normally have a minimum 
+
+diameter of 150mm.
+
+
+2.33  A drain carrying foul water should have an 
+
+internal diameter of at least 75mm.
+
+
+A drain carrying 
+
+effluent from a WC or trade effluent should have 
+
+an internal diameter of at least 100mm.
+
+
+2.34  Table 6 shows the flattest gradients at 
+
+which drains should be laid (depending on the 
+
+flow and the appliances connected to them) 
+
+and the capacity they will then have (see also 
+
+paragraphs 0.10.3).
+
+
+Pumping installations 
+
+for use inside buildings should be designed in 
+
+accordance with BS EN 120564.
+
+
+2.39  Where foul water drainage from a building 
+
+is to be pumped, the effluent receiving chamber 
+
+should be sized to contain 24hour inflow to 
+
+allow for disruption in service.
+
+
+The minimum daily 
+
+discharge of foul drainage should be taken as 
+
+150 litres per head per day for domestic use.
+
+
+For other types of building, the capacity of the 
+
+receiving chamber should be based on the 
+
+calculated daily demand of the water intake for 
+
+the building.
+
+
+Where only a proportion of the foul 
+
+sewage is to be pumped, then the capacity 
+
+should be based prorata.
+
+
+In all pumped systems 
+
+the controls should be so arranged to optimise 
+
+pump operation.
+
+
+Joints should be appropriate to 
+
+the material of the pipes.
+
+
+Different 
+
+metals should be separated by nonmetallic 
+
+materials to prevent electrolytic corrosion.
+
+
+2.42  Rigid pipes  The types of bedding and 
+
+backfilling which should be used for rigid pipes 
+
+of standard strength laid in a trench of any width 
+
+are shown in Diagram 10 and Tables 8 and 9.
+
+
+The bedding and backfilling 
+
+should be as shown in Diagram 10.
+
+
+2.44  Where pipes have less than the minimum 
+
+recommended cover in Table 8, 9 or 10, the pipes 
+
+should, where necessary, be protected from 
+
+damage by a reinforced concrete cover slab with a 
+
+Diagram 10   Bedding for pipes
+
+Approved Document H Drainage and waste disposalH1 
+
+FOUL DRAINAGE
+
+flexible filler and at least 75mm of granular material 
+
+between the top of the pipe and the underside of 
+
+the flexible filler below the slabs (see Diagram 11 
+
+and paragraphs 2.28, 2.42 and 2.43).
+
+
+2.45  Where it is necessary to backfill the trench 
+
+with concrete in order to protect nearby foundations 
+
+(see paragraph 2.25) movement joints formed 
+
+with compressible board should be provided at 
+
+each socket or sleeve joint face (see Diagram 12).
+
+
+For drains and sewers less than 1.5m deep and there is a risk of excavation adjacent to the drain and depth, special calculation is necessary, see  
+
+  BS EN 1295.
+
+
+Drainage and waste disposal Approved Document H 
+
+FOUL DRAINAGE 
+
+Diagram 11    Protection for pipes 
+
+Diagram 12    Joints for concrete  
+
+laid at shallow depths  
+
+(minimum sizes)
+
+encased pipes 
+
+(minimum sizes)
+
+Clearance of blockages
+
+2.46  Sufficient and suitable access points 
+
+should be provided for clearing blockages from 
+
+drain runs which cannot be reached by any 
+
+other means.
+
+
+2.47  The provisions described below are for 
+
+normal methods of rodding (which need not be in 
+
+the direction of flow) and not mechanical means 
+
+of clearing.
+
+
+2.48  Access points should be one of four types.
+
+
+Tables 11 and 12 show the depth at which each 
+
+type should be used and the recommended 
+
+dimensions it should have.
+
+
+The dimensions 
+
+should be increased at junctions if they do not 
+
+allow enough space for branches.
+
+
+150 x 100  
+
+225 x 100  
+
+0.6 or less, 
+
+except where  
+
+situated in a  
+
+chamber
+
+150 x 100  
+
+225 x 100  
+
+150  
+
+225  
+
+150 x 100 1  
+
+225 x 100 1  
+
+Same size as 
+
+access fitting 
+
+Inspection chamber 
+
+shallow  
+
+deep  
+
+0.6 or less  
+
+1.2 or less  
+
+ 1.2  
+
+225 x 100  
+
+450 x 450  
+
+450 x 450  
+
+190 2  
+
+450  
+
+450  
+
+Min.
+
+
+clear space between ladder or steps and the opposite face of the shaft should be approximately 900mm.
+
+
+any drain serving more than one property) should be 1200mm x 675mm rectangular  
+
+or 1200mm diameter.
+
+
+2.50  Access should be provided to long runs.
+
+
+The distances between access points depend 
+
+on the types of access used but should not be 
+
+more than shown in Table 13 for drains up to and 
+
+including 300mm.
+
+
+2.51  Access points to sewers (serving more 
+
+than one property) should be in places where 
+
+they are accessible and apparent for use in an 
+
+emergency.
+
+
+A branch with a diameter 150mm should be 
+
+set with the soffit level with that of the main drain.
+
+
+Where the angle of the branch is more than 45 
+
+a three quarter section branch should be used.
+
+
+Channels and branches should be benched up 
+
+at least to the top of the outgoing pipe and at a 
+
+slope of 1 in 12.
+
+
+The benching should be rounded 
+
+at the channel with a radius of at least 25mm.
+
+
+and 150 x 100  
+
+large 225 x 100  
+
+Inspection chamber  
+
+shallow
+
+Manhole and inspection  
+
+chamber deep
+
+Small 
+
+Large 
+
+To Junction 
+
+To Inspection chamber 
+
+To Manhole
+
+90 2 
+
+Notes:
+
+1.
+
+
+Small lightweight access 
+
+covers should be secured (for example with 
+
+screws) to deter unauthorised access (for example 
+
+by children).
+
+
+Workmanship should be in accordance with 
+
+BS 8000 Workmanship on Building Sites Part 14: 
+
+Code of practice for below ground drainage.
+
+
+2.56  During construction, drains and sewers 
+
+which are left open should be covered when 
+
+work is not in progress to prevent entry by rats.
+
+
+2.57  Any drain or sewer should be protected 
+
+from damage by construction traffic and heavy 
+
+machinery.
+
+
+2.58  Where piling works are being carried out 
+
+care should be taken to avoid damage to any 
+
+drain or sewer.
+
+
+The position of the drain or sewer 
+
+should be established by survey.
+
+
+Piling should not be 
+
+carried out where the distance from the outside 
+
+of the sewer to the outside of the pile is less than 
+
+two times the diameter of the pile.
+
+
+Testing and inspection
+
+2.59  Water tightness  after laying, including 
+
+any necessary concrete or other haunching or 
+
+surrounding and backfilling, gravity drains and 
+
+private sewers should be tested for water tightness 
+
+using either an air test or a water test.
+
+
+2.60  Air test  for pipes up to 300mm diameter, 
+
+the pipe should be pressurised up to a pressure of 
+
+110mm water gauge and held for approximately 
+
+5 minutes prior to testing.
+
+
+Following this the pipe 
+
+should be able to hold an initial 100mm pressure 
+
+with a maximum loss of head on a manometer 
+
+of 25mm in a period of 7 minutes.
+
+
+Approved Document H Drainage and waste disposal 
+
+FOUL DRAINAGE
+
+2.61  Water test  For pipes up to 300mm 
+
+diameter the system should be filled with water 
+
+up to a depth of 5m above the lowest invert in 
+
+the test section and a minimum depth of 1m 
+
+measured at the highest invert in the test section.
+
+
+The losses per 
+
+square metre of surface area should not exceed 
+
+0.15 litres for test lengths with only pipelines or 
+
+0.20 litres for test lengths including pipelines and 
+
+manholes, or 0.40 litres for tests with only manholes 
+
+and inspection chambers alone (i.e.
+
+
+2.62  Connectivity  Where separate drainage 
+
+systems are provided (see Approved Document 
+
+H5), connections should be proven to ensure that 
+
+they are connected to the correct system.
+
+
+of trap   Depth of seal 
+
+(mm)  
+
+Sanitary towel macerator  
+
+Food waste disposal unit 
+
+(industrial type)  
+
+Urinal stall  
+
+(1 to 6 person position) 
+
+Branch discharge pipes
+
+(see paragraph 1.10)
+
+A.5  A branch pipe should not discharge into 
+
+a stack less than 750mm above the invert of the 
+
+tail of the bend at the foot of the stack in a multi
+
+storey building up to 5 storeys.
+
+
+If the building has more than 5 storeys 
+
+ground floor appliances, unless discharging to 
+
+a gully or drain, should discharge into their own 
+
+stack.
+
+
+If the building has more than 20 storeys 
+
+ground floor appliances, unless discharging to 
+
+a gully or drain, and first floor appliances should 
+
+discharge into their own stack.
+
+
+A.8  Ventilation stacks serving buildings with 
+
+not more than 10 storeys and containing only 
+
+dwellings should be at least 32mm diameter (for 
+
+all other buildings see paragraph 1.29).
+
+
+Approved Document H Drainage and waste disposal 
+
+ADDITIONAL GUIDANCE FOR LARGER BUILDINGS
+
+Greywater recovery systems
+
+A.10  Sanitary pipework and underground 
+
+drainage used to collect greywater for recovery 
+
+and reuse within the building should be designed 
+
+and constructed in accordance with the guidance 
+
+in this Approved Document.
+
+
+A.11  All pipework carrying greywater for 
+
+reuse should be clearly marked with the word 
+
+GREYWATER in accordance with Water Regulations 
+
+Advisory Scheme Information Guidance Note 
+
+090205 Marking and Identification of Pipework 
+
+for Reclaimed and Grey Water Systems.
+
+
+of 
+
+the Public Health Act 1961, as amended, local 
+
+authorities have powers to repair or remove 
+
+blockages on drains or private sewers which are 
+
+not sufficiently maintained or kept in good repair 
+
+or are stopped up, provided the cost does not 
+
+exceed 250.
+
+
+They must first give notice to the 
+
+owner.
+
+
+of drain) of the Building Act 1984, 
+
+any person intending to repair, reconstruct or 
+
+alter a drain must, except in an emergency, give 
+
+24 hours notice to the local authority of their 
+
+intention to carry out the works.
+
+
+Where the works 
+
+are carried out in an emergency they shall not 
+
+cover over the work without giving such notice.
+
+
+They must also give free access to the local 
+
+authority to inspect the works.
+
+
+They could also collapse causing subsidence.
+
+
+B.11  Under Section 62 (Disconnection of drain) 
+
+of the Building Act 1984, any person who carries 
+
+out works which result in any part of a drain 
+
+becoming permanently disused, they shall seal 
+
+the drain at such points as the local authority 
+
+may direct.
+
+
+Repairs and alterations
+
+B.15  Repairs, reconstruction and alterations to 
+
+existing drains and sewers should be carried out 
+
+to the same standards as new drains and sewers 
+
+(see Approved Document H1 Section 2).
+
+
+B.16  Where new pipework is connected to 
+
+existing pipework, particular consideration 
+
+should be given to the following points.
+
+
+In order to prevent this 
+
+disused drains or sewers should be disconnected 
+
+from the sewer system as near as possible to the 
+
+point of connection.
+
+
+This should be done in a 
+
+manner which does not damage any pipe which 
+
+is still in use and ensures that the sewer system is 
+
+water tight.
+
+
+Where the connection was to a public sewer the 
+
+sewerage undertaker should be consulted.
+
+
+B.18  Drains or sewers less than 1.5m deep which 
+
+are in open ground should as far as is practicable 
+
+be removed.
+
+
+Other pipes should be sealed at 
+
+both ends and at any point of connection, and 
+
+grout filled to ensure that rats cannot gain access.
+
+
+The sewer should be in good condition and 
+
+accessible.
+
+
+Drains which could be used to 
+
+drain other developments
+
+C.10  Section 112 of the Water Industry Act 
+
+1991 enables the sewerage undertaker to require 
+
+that a drain or sewer be constructed in a different 
+
+manner so that it may form part of the general 
+
+system of drainage.
+
+
+Approved Document H Drainage and waste disposal 
+
+ADOPTION OF SEWERS AND CONNECTION TO PUBLIC SEWERS
+
+Table C1    Characteristics that should be considered when designing or laying a 
+
+shared drain/sewer so that it meets the basic requirements for adoption
+
+a.  Sewers should be designed and constructed in accordance with the Protocol on Design 
+
+Construction and Adoption of Sewers in England and Wales
+
+b.  Sewers should be laid at an appropriate distance from buildings so as to avoid damage 
+
+to the foundations
+
+c.  The manholes and chambers, especially in private land, should be located so that they 
+
+are, and continue to be, easily accessible manually or, if necessary, with maintenance 
+
+equipment such as pipe jetters or miniexcavators.
+
+
+Consult sewerage undertaker 
+
+about access for plant
+
+d.  The last access point on the house drain should be sized to allow man entry and should 
+
+be located in an accessible position.
+
+
+If 
+
+these depths are not practicable, special protection measures such as a concrete slab 
+
+should be provided
+
+H12.27 and BS EN 12951
+
+g.  Sizing and design of manholes and chambers should depend on the depth and on 
+
+H12.48
+
+whether man entry is required.
+
+
+Manholes on or near highways or other roads need to 
+
+be of robust construction
+
+h.  Sewers should be laid in straight lines in both vertical and horizontal alignments
+
+H12.19
+
+j.
+
+
+The first preference should be to provide separate foul and surface water sewerage 
+
+systems.
+
+
+Where combined or partially combined sewerage is unavoidable, the sizing 
+
+and the design of that sewer should be enhanced in accordance with the current codes 
+
+and design methodologies to make additional provisions to deal with the runoff
+
+Requirement H5, H12.35 and H33.5.
+
+
+(1)  Any septic tank and its form of secondary treatment, 
+
+other wastewater treatment system or cesspool shall be so sited 
+
+and constructed that:
+
+(a)  it is not prejudicial to the health of any person;
+
+(b)  it will not contaminate any watercourse, underground 
+
+water or water supply;
+
+(c)  there are adequate means of access for emptying 
+
+and maintenance; and
+
+(d)  where  relevant,  it  will  function  to  a  sufficient 
+
+standard  for  the  protection  of  health  in  the  event  of  a 
+
+power failure.
+
+
+(2)  Any  septic  tank,  holding  tank  which  is  part  of  a 
+
+wastewater treatment system or cesspool shall be:
+
+(a)  of adequate capacity;
+
+(b)  so  constructed  that  it  is  impermeable  to  liquids; 
+
+(c)  adequately ventilated.
+
+
+(3)  Where a foul water drainage system from a building 
+
+discharges  to  a  septic  tank,  wastewater  treatment  system  or 
+
+cesspool, a durable notice shall be affixed in a suitable place 
+
+in  the  building  containing  information  on  any  continuing 
+
+maintenance required to avoid risks to health.
+
+
+Introduction to provisions
+
+A wastewater treatment system may be 
+
+a septic tank, together with a drainage field or 
+
+other means of secondary treatment, or other 
+
+wastewater treatment system.
+
+
+This should be done before an application 
+
+is made for Building Regulations approval as it 
+
+may have a direct bearing on the type of system 
+
+that may be installed.
+
+
+Septic tanks with some form of secondary 
+
+treatment will normally be the most economic 
+
+means of treating wastewater from small 
+
+developments (e.g.
+
+
+1.24  Septic tanks should be provided with 
+
+access for emptying and cleaning.
+
+
+Access covers 
+
+should be of durable quality having regard to the 
+
+corrosive nature of the tank contents.
+
+
+The access 
+
+should be lockable or otherwise engineered to 
+
+prevent personnel entry.
+
+
+Siting
+
+Marking
+
+1.16  Septic tanks should be sited at least 
+
+7m from any habitable parts of buildings, and 
+
+preferably downslope.
+
+
+1.17  Where they are to be emptied using a 
+
+tanker, the septic tank should be sited within 30m 
+
+of a vehicle access provided that the invert level 
+
+of the septic tank is no more than 3m below the 
+
+level of the vehicle access.
+
+
+This distance may 
+
+need to be reduced where the depth to the invert 
+
+of the tank is more than 3m.
+
+
+Design and construction
+
+1.18  Septic tanks should have a capacity below 
+
+the level of the inlet of at least 2,700 litres (2.7m) 
+
+for up to 4 users.
+
+
+The size should be increased 
+
+by 180 litres for each additional user.
+
+
+Brickwork should be of engineering bricks 
+
+and be at least 220mm thick.
+
+
+In situ concrete 
+
+should be at least 150mm thick of C/25/P mix 
+
+(see BS 5328).
+
+
+Ventilation should be kept away 
+
+from buildings.
+
+
+Where the width of the tank does not 
+
+exceed 1200mm the inlet should be via a dip 
+
+pipe.
+
+
+To minimise turbulence, provision should be 
+
+made to limit the flow rate of the incoming foul 
+
+water.
+
+
+1.23  The inlet and outlet pipes of a septic tank 
+
+should be provided with access for sampling 
+
+and inspection (see Approved Document H1, 
+
+paragraph 2.48).
+
+
+1.25  A notice should be fixed within the building 
+
+describing the necessary maintenance.
+
+
+Siting
+
+1.27  A drainage field or mound serving a 
+
+wastewater treatment plant or septic tank should 
+
+be located:
+
+a.  at least 10m from any watercourse or 
+
+permeable drain;
+
+b.  at least 50m from the point of abstraction of 
+
+any groundwater supply and not in any Zone 
+
+1 groundwater protection zone;
+
+c.  at least 15m from any building;
+
+d.  sufficiently far from any other drainage fields, 
+
+drainage mounds or soakaways so that the 
+
+overall soakage capacity of the ground is not 
+
+exceeded.
+
+
+1.28  The disposal area should be downslope of 
+
+groundwater sources.
+
+
+1.29  No water supply pipes or underground 
+
+services other than those required by the 
+
+disposal system itself should be located within 
+
+the disposal area.
+
+
+1.30  No access roads, driveways or paved 
+
+areas should be located within the disposal area.
+
+
+1.32  A preliminary assessment should be 
+
+carried out including consultation with the 
+
+Environment Agency and local authority to 
+
+determine the suitability of the site.
+
+
+1.33  A trial hole should be dug to determine 
+
+the position of the standing groundwater table.
+
+
+The trial hole should be a minimum of 1m2 in area 
+
+and 2m deep, or a minimum of 1.5m below the 
+
+invert of the proposed drainage field pipework.
+
+
+If the test is carried out in 
+
+summer, the likely winter groundwater levels 
+
+should be considered.
+
+
+1.34  Percolation test method  A hole 
+
+300mm square should be excavated to a depth 
+
+300mm below the proposed invert level of the 
+
+effluent distribution pipe.
+
+
+Diagram 1   Drainage field
+
+1.35  Fill the 300mm square section of the hole 
+
+to a depth of at least 300mm with water and 
+
+allow it to seep away overnight.
+
+
+1.36  Next day, refill the test section with water 
+
+to a depth of at least 300mm and observe the 
+
+time, in seconds, for the water to seep away from 
+
+75 full to 25 full level (i.e.
+
+
+1.37  The test should be carried out at least 
+
+three times with at least two trial holes.
+
+
+The 
+
+average figure from the tests should be taken.
+
+
+Design and construction
+
+1.39  Drainage fields or mounds (see Diagrams 
+
+1 and 2) should be designed and constructed 
+
+to ensure aerobic contact between the liquid 
+
+effluent and the subsoil.
+
+
+1.40  Drainage fields should be constructed 
+
+using perforated pipe, laid in trenches of a 
+
+uniform gradient which should be not steeper 
+
+than 1:200.
+
+
+1.41  Pipes should be laid on a 300mm layer of 
+
+clean shingle or broken stone graded between 
+
+20mm and 50mm.
+
+
+Surface water runoff and uncontaminated seepage from the surrounding soil may be cut off by shallow interceptor drains and diverted away from 
+
+the mound.
+
+
+There must be no seepage of wastewater to such an interceptor drain.
+
+
+Where the permeable soil is slow draining and overlaid on an impervious layer, the mound filter system should be constructed on a gently sloping site.
+
+
+1.42  Trenches should be filled to a level 
+
+50mm above the pipe and covered with a layer 
+
+of geotextile to prevent the entry of silt.
+
+
+The 
+
+remainder of the trench can be filled with soil; 
+
+the distribution pipes should be laid at a minimum 
+
+depth of 500mm below the surface.
+
+
+Drainage trenches should be from 300mm to 
+
+900mm wide, with areas of undisturbed ground 
+
+2m wide being maintained between parallel 
+
+trenches (see Diagram 1).
+
+
+1.43  An inspection chamber should be installed 
+
+between the septic tank and the drainage field.
+
+
+1.44  Drainage fields should be set out as a 
+
+continuous loop fed from the inspection chamber 
+
+(see Diagram 1).
+
+
+To calculate the floor area of the 
+
+drainage field (At in m), the following formula 
+
+should be used:
+
+At  p x Vp x 0.25
+
+where p is the number of persons served by 
+
+the tank, Vp is the percolation value (secs/mm) 
+
+obtained as described in paragraphs 1.341.38.
+
+
+This should be taken into consideration during 
+
+the design stage.
+
+
+Approved Document H Drainage and waste disposalH2 
+
+GUIDANCE
+
+Diagram 3   Typical horizontal flow reed bed treatment system
+
+Diagram 4   Typical vertical flow reed bed treatment system
+
+Drainage and waste disposal Approved Document HGUIDANCE 
+
+1.51  Reed bed treatment systems should be 
+
+designed and constructed in accordance with 
+
+BRE Good Building Guide No.
+
+
+Other forms of 
+
+constructed wetland treatment system should be 
+
+designed and constructed by specialists.
+
+
+Marking
+
+1.52  A notice should be fixed within the 
+
+building describing the necessary maintenance.
+
+
+Packaged treatment works
+
+Siting
+
+1.54  The discharge from the wastewater 
+
+treatment plant should be sited at least 10m 
+
+away from watercourses and any other buildings.
+
+
+Design and construction
+
+1.55  Packaged treatment works should be 
+
+typetested in accordance with BS 7781 or 
+
+otherwise tested by a notified body.
+
+
+If the packaged treatment works requires 
+
+1.56 
+
+power to operate it should be able to adequately 
+
+function without power for up to 6 hours or have 
+
+an uninterruptable power supply.
+
+
+Marking
+
+1.57  A notice should be fixed within the 
+
+building describing the necessary maintenance.
+
+
+Maintenance is required insert frequency and 
+
+should be carried out by the owner in accordance 
+
+with the manufacturers instructions.
+
+
+1.59  Cesspools should be sited at least 7m 
+
+from any habitable parts of buildings and 
+
+preferably downslope.
+
+
+1.60  Cesspools should be sited within 30m of 
+
+a vehicle access and at such levels that they can 
+
+be emptied and cleaned without hazard to the 
+
+building occupants or the contents being taken 
+
+through a dwelling or place of work.
+
+
+Design and construction
+
+1.61  Cesspools should have a capacity below 
+
+the level of the inlet of at least 18,000 litres (18m) 
+
+for 2 users.
+
+
+This size should be increased by 
+
+6800 litres (6.8m) for each additional user.
+
+
+1.64  Cesspools should be provided with 
+
+access for emptying and cleaning.
+
+
+Access covers 
+
+should be of durable quality having regard to the 
+
+corrosive nature of the tank contents.
+
+
+The access 
+
+should be lockable or otherwise engineered to 
+
+prevent personnel entry.
+
+
+Brickwork should be of engineering bricks and be 
+
+at least 220mm thick.
+
+
+The mortar should be a mix 
+
+of 1:3 cementsand ratio.
+
+
+In situ concrete should be 
+
+at least 150mm thick of C/25/P mix (see BS 5328).
+
+
+1.67  The inlet of a cesspool should be provided 
+
+with access for inspection (see Approved 
+
+Document H1 Section 2).
+
+
+Marking
+
+1.68  A notice should be fixed within the 
+
+building describing the necessary maintenance.
+
+
+The system should be 
+
+emptied approximately every insert design 
+
+emptying frequency by a licensed contractor 
+
+and inspected fortnightly for overflow.
+
+
+1.70  Greywater and rainwater tanks should:
+
+a.  prevent leakage of the contents and ingress 
+
+of subsoil water, and should be ventilated;
+
+b.  have an antibackflow device on any overflow 
+
+connected to a drain or sewer to prevent 
+
+contamination of the stored greywater or 
+
+rainwater in the event of surcharge in the 
+
+drain or sewer;
+
+c.  be provided with access for emptying and 
+
+cleaning.
+
+
+Access covers should be of durable 
+
+quality having regard to the corrosive nature 
+
+of the tank contents.
+
+
+The access should be 
+
+lockable or otherwise engineered to prevent 
+
+personnel entry.
+
+
+It should be noted that under this section 
+
+action could be taken against a builder who 
+
+had caused the problem, and not just against 
+
+the owner.
+
+
+Septic tanks
+
+A.11  Septic tanks should be inspected monthly 
+
+to check they are working correctly.
+
+
+The effluent 
+
+in the outlet from the tank should be freeflowing 
+
+and clear.
+
+
+A.13  The septic tank should be emptied at least 
+
+once a year.
+
+
+Drainage fields and mounds
+
+A.15  The drainage field/mound should be 
+
+checked on a monthly basis to ensure that it is 
+
+not waterlogged and that the effluent is not 
+
+backing up towards the septic tank.
+
+
+Packaged treatment works
+
+A.16  The outlet of the works should be 
+
+inspected regularly.
+
+
+The effluent should be free
+
+flowing and clear.
+
+
+Approved Document H Drainage and waste disposal 
+
+MAINTENANCE OF WASTEWATER TREATMENT 
+
+SYSTEMS AND CESSPOOLS
+
+A.17  Maintenance will vary depending on the 
+
+type of plant; regular maintenance and inspection 
+
+should be carried out in accordance with the 
+
+manufacturers instructions.
+
+
+Cesspools
+
+A.20  Cesspools should be inspected fortnightly 
+
+for overflow and emptied as required.
+
+
+If the cesspool does not fill within the 
+
+estimated period, the tank should be checked 
+
+for leakage.
+
+
+(1)  Adequate provision shall be made for rainwater to be 
+
+carried from the roof of the building.
+
+
+(2)  Paved areas around the building shall be so constructed 
+
+Requirement H3(2) applies only to paved areas:
+
+as to be adequately drained.
+
+
+(3)  Rainwater  from  a  system  provided  pursuant  to  sub
+
+paragraphs (1) or (2) shall discharge to one of the following, 
+
+listed in order of priority:
+
+(a)  an  adequate  soakaway  or  some  other  adequate 
+
+infiltration system; or, where that is not reasonably practicable,
+
+(b)  a  watercourse;  or,  where  that  is  not  reasonably 
+
+practicable,
+
+(c)  a sewer.
+
+
+Guidance
+
+Performance
+
+In the Secretary of States view the requirements 
+
+of H3 will be met if:
+
+a.  rainwater from roofs and paved areas is 
+
+carried away from the surface either by a 
+
+drainage system or by other means;
+
+b.  a rainwater drainage system:
+
+i.  carries the flow of rainwater from the roof 
+
+to an outfall (a soakaway, a watercourse, 
+
+a surface water or a combined sewer),
+
+(a)  which  provide  access  to  the  building  pursuant 
+
+to  requirement  M1  (access  and  use  of  buildings  other  than 
+
+dwellings),  or  requirement  M2  (access  to  extensions  to 
+
+buildings other than dwellings), or requirement M4(1), (2) or 
+
+(3) (access to and use of dwellings);
+
+(b)  which provide access to or from a place of storage 
+
+pursuant to requirement H6(2) (solid waste storage); or
+
+(c)  in  any  passage  giving  access  to  the  building, 
+
+where this is intended to be used in common by the occupiers 
+
+of one or more other buildings.
+
+
+provided in accordance with requirement 
+
+H6 to give access from the building to 
+
+the place for storing refuse, and from the 
+
+place of storage to the collection point 
+
+(see Approved Document H6);
+
+b.  which are yards or other forms of access 
+
+intended to be used in common by more than 
+
+one building.
+
+
+The capacity of the drainage system 
+
+should be large enough to carry the expected 
+
+flow at any point in the system.
+
+
+Section 1: Gutters and rainwater pipes
+
+Design rainfall intensities
+
+should be obtained from Diagram 1.
+
+
+For eaves, gutters the rainfall intensity 
+
+1.2  Where the design incorporates valley 
+
+gutters, parapet gutters, siphonic or drainage 
+
+systems from flat roofs, and where overtopping 
+
+of these systems would have particularly high 
+
+consequences such as water entering the 
+
+building, wetting of insulation or other dampness 
+
+the design should be carried out in accordance 
+
+with BS EN 12056 (see paragraph 1.17).
+
+
+Table 2 shows the largest effective area 
+
+which should be drained into the gutter sizes 
+
+which are most often used.
+
+
+These sizes are for 
+
+a gutter which is laid level, half round in section 
+
+with a sharp edged outlet at only one end and 
+
+where the distance from a stop end to the outlet 
+
+is not more than 50 times the water depth.
+
+
+The Table shows the smallest size of 
+
+outlet which should be used with the gutter.
+
+
+1.5  Where the outlet is not at the end, the 
+
+gutter should be of the size appropriate to the 
+
+larger of the areas draining into it.
+
+
+Table 1   Calculation of drained area
+
+Type of surface  
+
+Effective design area
+
+Flat roof  
+
+plan area of relevant portion
+
+Pitched roof at 30  
+
+Pitched roof at 45  
+
+Pitched roof at 60  
+
+plan area of portion x 1.29 
+
+plan area of portion x 1.50 
+
+plan area of portion x 1.87
+
+Pitched roof over 70  
+
+or any wall
+
+elevational area x 0.5 
+
+Drainage and waste disposal Approved Document H 
+
+GUTTERS AND RAINWATER PIPES 
+
+Diagram 1   Rainfall intensities for design of gutter and rainfall pipes  
+
+(litres per second per square metre)
+
+1.6  Gutters should be laid with any fall 
+
+towards the nearest outlet.
+
+
+Where rainwater from a roof with an effective 
+
+area greater than 25m discharges through a 
+
+single downpipe onto a lower roof, a distributor 
+
+pipe should be fitted to the shoe to ensure that 
+
+the flow width at the receiving gutter is sufficient 
+
+so that it does not overtop the gutter.
+
+
+Approved Document H Drainage and waste disposalH3 
+
+GUTTERS AND RAINWATER PIPES
+
+1.10  The size of a rainwater pipe should be 
+
+at least the size of the outlet from the gutter.
+
+
+A 
+
+down pipe which serves more than one gutter 
+
+should have an area at least as large as the 
+
+largest of the contributing outlets and should be 
+
+of sufficient size to take the flow from the whole 
+
+contributing area.
+
+
+Overflow arrangements should be provided to 
+
+prevent gutters from overtopping.
+
+
+Where these 
+
+are used, they should be designed taking into 
+
+account the following:
+
+a.  storage tanks should comply with requirement 
+
+H2 (see Approved Document H2 paragraphs 
+
+1.69 to 1.71);
+
+b.  pipework, washouts and valves should be 
+
+clearly identified on marker plates (see Water 
+
+Regulations Advisory Scheme Information 
+
+Guidance Note 090205 Marking and 
+
+Identification of Pipework for Reclaimed 
+
+and Grey Water Systems).
+
+
+Materials for gutters, rainwater 
+
+pipes and joints
+
+1.16  The materials used should be of adequate 
+
+strength and durability, and
+
+a.  all gutter joints should remain water tight 
+
+under working conditions.
+
+
+Pipes inside a 
+
+building should be capable of withstanding 
+
+the air tightness test described in paragraph 
+
+1.32 of Approved Document H1, and
+
+b.  pipework in siphonic roof drainage systems 
+
+should be able to resist to negative pressures 
+
+in accordance with the design, and
+
+c.  gutters and rainwater pipes should be firmly 
+
+supported without restricting thermal 
+
+movement, and
+
+a.  the protection of the fabric of the building 
+
+from ingress of water, caused by water 
+
+splashing on the external walls;
+
+d.  different metals should be separated by 
+
+nonmetallic material to prevent electrolytic 
+
+corrosion.
+
+
+For 
+
+the design of systems serving larger catchments, 
+
+reference should be made to BS EN 7524 (see 
+
+paragraph 2.19).
+
+
+Where the levels would otherwise cause water to 
+
+concentrate along the wall of a building, a reverse 
+
+gradient should be created, for at least 500mm 
+
+from the wall of the building, to divert the water 
+
+away from the wall.
+
+
+Drainage systems
+
+2.14  Where it is not possible for surfaces to be 
+
+freedraining, or to use pervious paving, impervious 
+
+paving should be used with gullies or channels 
+
+discharging to a drainage system.
+
+
+2.15  Gullies should be provided at low points 
+
+where water would otherwise pond.
+
+
+Intermediate 
+
+gullies should be provided at intervals to ensure 
+
+that gullies are not overloaded and the depth of 
+
+flow in channels is not excessive.
+
+
+2.16  Gully gratings should be set approximately 
+
+5mm below the level of the surrounding paved 
+
+area in order to allow for settlement.
+
+
+2.17  Provision should be made to prevent silt 
+
+and grit entering the system, either by provision 
+
+of gully pots of suitable size or by catchpits.
+
+
+A gradient of at least 1 in 60 
+
+is recommended.
+
+
+The gradient across a path 
+
+should not exceed 1 in 40.
+
+
+Where ponding of rainfall is undesirable rainfall 
+
+intensities should be obtained from Diagram 2.
+
+
+For very high risk areas, where ponding 
+
+would lead to flooding of buildings, the drainage 
+
+should be designed in accordance with BS EN 
+
+7524 (see paragraph 2.19).
+
+
+Freedraining surfaces
+
+of paving should be freedraining to a pervious 
+
+area such as grassland, provided that:
+
+Paths, driveways and other narrow areas 
+
+a.  the water is not discharged adjacent 
+
+to buildings where it could damage 
+
+foundations; and
+
+b.  the soakage capacity of the ground is 
+
+not overloaded.
+
+
+They should be considered for larger 
+
+paved areas where it is not possible to drain 
+
+the rainwater to an adjacent pervious area.
+
+
+2.10  For steeply sloping surfaces, a check 
+
+should be made to ensure that the water level 
+
+can rise sufficiently in the granular storage layer 
+
+to allow the storage capacity to be mobilised.
+
+
+For the 
+
+design of systems serving larger catchments, 
+
+reference should be made to BS EN 7524 
+
+(see paragraph 3.36).
+
+
+3.4  Where other forms of outlet are not 
+
+practicable, discharge should be made to a 
+
+sewer.
+
+
+Some private sewers (drains 
+
+serving more than one building that have not 
+
+been adopted by the sewerage undertaker) also 
+
+carry both foul water and surface water.
+
+
+3.9  Where low levels of surface flooding could 
+
+cause flooding of buildings the rainfall intensities 
+
+should be obtained from BS EN 7524 (see 
+
+paragraph 3.36).
+
+
+3.14  Drains should be at least 75mm diameter.
+
+
+Surface water sewers (serving more than one 
+
+building) should have a minimum size of 100mm.
+
+
+3.15  75mm and 100mm rainwater drains should 
+
+be laid at not less than 1:100.
+
+
+150mm drains and 
+
+sewers should be laid at gradients not less than 
+
+1:150 and 225mm drains should be laid at gradients 
+
+not less than 1:225.
+
+
+Contaminated runoff
+
+3.21  Where any materials which could cause 
+
+pollution are stored or used, separate drainage 
+
+systems should be provided.
+
+
+This should include 
+
+an appropriate form of separator or treatment 
+
+system or the flow should be discharged into a 
+
+system suitable for receiving polluted effluent.
+
+
+3.22  On car parks, petrol filling stations or other 
+
+areas where there is likely to be leakage or spillage 
+
+of oil, drainage systems should be provided with 
+
+oil interceptors (see Appendix H3A).
+
+
+3.25 
+
+Infiltration devices should not be built:
+
+a.  within 5m of a building or road or in areas of 
+
+unstable land (see Planning Policy Guidance 
+
+Note 14 Annex 1);
+
+b.  in ground where the water table reaches the 
+
+bottom of the device at any time of the year;
+
+c.  sufficiently far from any drainage fields, 
+
+drainage mounds or other soakaways so that 
+
+the overall soakage capacity of the ground is 
+
+not exceeded and the effectiveness of any 
+
+drainage field is not impaired (see Approved 
+
+Document H2);
+
+d.  where the presence of any contamination in 
+
+the runoff could result in pollution of a 
+
+groundwater source or resource.
+
+
+3.26  Soakaways for areas less than 100m 
+
+are generally formed from square or circular pits, 
+
+filled with rubble or lined with dryjointed masonry 
+
+or perforated ring units.
+
+
+3.27  Soakaways should be designed to a return 
+
+period of once in ten years.
+
+
+The design should be 
+
+carried out with storms of differing durations to 
+
+determine the duration which gives the largest 
+
+storage volume.
+
+
+3.28  Percolation tests should be carried 
+
+out to determine the capacity of the soil (see 
+
+Approved Document H2 paragraphs 1.34 to 
+
+1.38).
+
+
+Where the test is carried out in accordance 
+
+with Approved Document H2, the soil infiltration 
+
+rate (f) is related to the value Vp derived from 
+
+the test by the equation:
+
+3.29  The storage volume should be calculated 
+
+so that, over the duration the storm, it is sufficient 
+
+to contain the difference between the inflow 
+
+volume and the outflow volume.
+
+
+A.3  Premises keeping petrol must be licensed 
+
+under the Petroleum (Consolidation) Act 1928.
+
+
+Technical guidance
+
+For most paved areas around buildings or 
+
+car parks where a separator is required, a bypass 
+
+separator should be provided which has a nominal 
+
+size (NSB) equal to 0.0018 times the contributing 
+
+area.
+
+
+In addition it should have a silt storage 
+
+volume in litres equal to 100 times NSB.
+
+
+These 
+
+should have a nominal size (NS) equal to 0.018 
+
+times the contributing area.
+
+
+In addition it should 
+
+have a silt storage volume in litres equal to 100 
+
+times NS.
+
+
+A.8  Separators discharging to infiltration 
+
+devices or surface water sewers should be Class I.
+
+A.9  Separators should be leak tight.
+
+
+Adequate ventilation should be provided.
+
+
+A.11  Separators should be maintained regularly 
+
+to ensure their continued effectiveness.
+
+
+Provision 
+
+should be made for access for inspection and 
+
+maintenance.
+
+
+(1)  The  erection  or  extension  of  a  building  or  work 
+
+involving the underpinning of a building shall be carried out 
+
+in  a  way  that  is  not  detrimental  to  the  building  or  building 
+
+extension or to the continued maintenance of the drain, sewer 
+
+or disposal main.
+
+
+(2)  In  this  paragraph  disposal  main  means  any  pipe, 
+
+tunnel or conduit used for the conveyance of effluent to or from 
+
+a sewage disposal works, which is not a public sewer.
+
+
+(3)  In this paragraph and paragraph H5 map of sewers 
+
+means any records kept by a sewerage undertaker under section 
+
+199 of the Water Industry Act 1991 (a).
+
+
+A satisfactory diversionary route should 
+
+be available so that the drain or sewer could 
+
+be reconstructed without affecting the building.
+
+
+Where the drain or sewer is more than 
+
+1.5m deep and the drain or sewer is accessible 
+
+to mechanical excavators the alternative route 
+
+should also have such access.
+
+
+Special measures will not be needed if the 
+
+invert of the drain or sewer is:
+
+a.  above the level of the foundations; and
+
+b.  above the groundwater level; and
+
+c.  no more than 1m deep.
+
+
+Maintaining access
+
+1.3  Buildings or extensions should not be 
+
+constructed over a manhole or inspection 
+
+chamber or other access fitting on any sewer 
+
+(serving more than one property).
+
+
+Approved 
+
+Document H1 Section 2, paragraph 2.53 provides 
+
+that access points to sewers (serving more than 
+
+one property) should be in places where they are 
+
+accessible and apparent for use in an emergency.
+
+
+The length of drain or sewer under a 
+
+building should not exceed 6m except with 
+
+the permission of the owners of the drain or 
+
+sewer (i.e.
+
+
+1.6  Buildings or extensions should not be 
+
+constructed over or within 3m of any drain or 
+
+sewer more than 3m deep, or greater than 
+
+225mm in diameter except with the permission 
+
+of the owners of the drain or sewer (i.e.
+
+
+Protection of the drain or sewer 
+
+during construction
+
+Any drain or sewer should be protected 
+
+from damage by construction traffic and heavy 
+
+machinery.
+
+
+1.8  Where piling works are being carried out 
+
+care should be taken to avoid damage to any 
+
+drain or sewer.
+
+
+The position of the drain or sewer 
+
+should be established by survey.
+
+
+Protection from settlement
+
+1.9  Where a drain or sewer runs under a 
+
+building at least 100mm of granular or other 
+
+suitable flexible filling should be provided round 
+
+the pipe.
+
+
+Where the crown of the pipe is within 
+
+300mm of the underside of the slab, special 
+
+protection should be provided (see Approved 
+
+Document H1, Section 2, paragraph 2.44).
+
+
+1.10  Where a drain or sewer running below 
+
+a building is less than 2m deep, the foundation 
+
+should be extended locally so that the drain or 
+
+sewer passes through the wall (see paragraph 1.11).
+
+
+1.11  Where a drain or sewer runs through a 
+
+wall or foundation suitable measures should be 
+
+taken to prevent damage or misalignment.
+
+
+Approved Document H Drainage and waste disposalH4 
+
+GUIDANCE
+
+1.12  Where the drain or sewer is more than 2m 
+
+deep to invert and passes beneath the foundations, 
+
+the foundations should be designed as a lintel 
+
+spanning over the line of the drain or sewer.
+
+
+The 
+
+span of the lintel should extend at least 1.5m 
+
+either side of the pipe and should be designed so 
+
+that no load is transmitted onto the drain or sewer.
+
+
+1.13  A drain trench should not be excavated 
+
+lower than the foundations of any building 
+
+nearby.
+
+
+Any  system  for  discharging  water  to  a  sewer  which  is 
+
+provided pursuant to paragraph H3 shall be separate from that 
+
+provided for the conveyance of foul water from the building.
+
+
+Contaminated runoff
+
+Approved Document H3 paragraph 3.21 
+
+deals with drainage from areas where materials 
+
+are stored which could contaminate runoff.
+
+
+This could cause pollution if discharged to a 
+
+surface water sewer.
+
+
+(1)  Adequate  provision  shall  be  made  for  storage  of 
+
+solid waste.
+
+
+(2)  Adequate means of access shall be provided:
+
+(a)  for people in the building to the place of storage; and
+
+(b)  from  the  place  of  storage  to  a  collection  point 
+
+(where one has been specified by the waste collection authority 
+
+under Section 46 (household waste) or Section 47 (commercial 
+
+waste)  of  the  Environmental  Protection Act  1990  (a)  or  to  a 
+
+street (where no collection point has been specified).
+
+
+The waste collection authority has powers 
+
+under Section 46 (Receptacles for household 
+
+waste) and Section 47 (Receptacles for commercial 
+
+or industrial waste) to specify the type and 
+
+number of receptacles to be used and the 
+
+location where the waste should be placed for 
+
+collection.
+
+
+Where collections are 
+
+less frequent than once per week, this allowance 
+
+should be increased accordingly.
+
+
+Low rise domestic developments  
+
+In low rise domestic developments (houses, 
+
+bungalows and flats up to 4th floor) any dwelling 
+
+should have, or have access to, a location where 
+
+at least two movable individual or communal 
+
+waste containers, meeting the requirements of 
+
+the waste collection authority, can be stored.
+
+
+1.4  Where communal storage areas are 
+
+provided space requirements should be 
+
+determined in consultation with the waste 
+
+collection authority.
+
+
+Alternatively 
+
+storage compounds or rooms should be provided.
+
+
+In such a case a satisfactory management 
+
+arrangement for conveying refuse to the storage 
+
+area should be assured.
+
+
+Siting
+
+Storage areas for waste containers and 
+
+chutes should be sited so that the distance 
+
+householders are required to carry refuse does 
+
+not usually exceed 30m (excluding any vertical 
+
+distance).
+
+
+Containers should be within 25m of 
+
+the waste collection point specified by the waste 
+
+collection authority.
+
+
+The location for storage of waste 
+
+containers should be sited so that, unless it is 
+
+completely unavoidable, the containers can be 
+
+taken to the collection point without being taken 
+
+through a building, unless it is a porch or garage, 
+
+or a car port or other open covered space (this 
+
+provision applies only to new buildings except 
+
+that extensions or conversions should not 
+
+remove such a facility where one already exists).
+
+
+1.10  For waste containers up to 250 litres, steps  
+
+should be avoided between the container store 
+
+and collection point wherever possible and should  
+
+not exceed 3 in number.
+
+
+Slopes should not exceed  
+
+1:12.
+
+
+Exceptionally this may be exceeded 
+
+provided that the lengths are not excessive and it 
+
+is not part of a series of slopes.
+
+
+For storage 
+
+areas where larger containers are to be used steps  
+
+should be avoided.
+
+
+Where this is not otherwise 
+
+possible, the storage area should be relocated.
+
+
+1.11  The collection point should be reasonably 
+
+accessible to the size of waste collection vehicles 
+
+typically used by the waste collection authority.
+
+
+1.12  External storage areas for waste containers 
+
+should be away from windows and ventilators and 
+
+preferably be in shade or under shelter.
+
+
+Design
+
+1.13  Unsightly bins can damage the visual 
+
+amenity of an area and contribute to increased 
+
+levels of antisocial nuisance such as odour and 
+
+litter, so bin storage should be planned carefully.
+
+
+in a front garden) an enclosure or 
+
+shelter should be considered.
+
+
+Enclosures, compounds or storage rooms for 
+
+communal containers should be a minimum of 
+
+2m high.
+
+
+Enclosures for individual containers 
+
+should be sufficiently high to allow the lid to 
+
+be opened for filling.
+
+
+The enclosure should be 
+
+permanently ventilated at the top and bottom 
+
+and should have a paved impervious floor.
+
+
+1.16  Any room for the open storage of waste 
+
+should be secure to prevent access by vermin.
+
+
+1.17  Where storage rooms are provided, 
+
+separate rooms should be provided for the 
+
+storage of waste which cannot be recycled, 
+
+and waste which can be recycled.
+
+
+1.18  Highrise domestic developments 
+
+ where chutes are provided they should be at 
+
+least 450mm diameter and should have a smooth 
+
+nonabsorbent surface and close fitting access 
+
+doors at each storey which has a dwelling and 
+
+be ventilated at the top and bottom.
+
+
+1.21  Any room for the open storage of waste 
+
+should be secure to prevent access by vermin.
+
+
+1.22  Waste storage areas should be marked 
+
+and signs should be provided.
+
+
+A.2  Under Section 46 (Receptacles for household 
+
+waste) of the Environmental Protection Act 1990, 
+
+the local authority may require:
+
+a.  waste of certain types to be stored separately 
+
+so that it can be recycled;
+
+b.  occupiers of dwellings to provide containers 
+
+of a specified type for storage of waste;
+
+c.  additional containers to be provided for 
+
+separate storage of recyclable waste;
+
+d.  locations where containers should be placed 
+
+for emptying.
+
+
+A.4  Under Section 47 (Receptacles for 
+
+commercial or industrial waste) of the Environmental 
+
+Protection Act 1990, the local authority may 
+
+still require:
+
+a.  waste of certain types to be stored separately 
+
+so that it can be recycled;
+
+b.  occupiers to provide containers of a specified 
+
+type for storage of waste;
+
+c.  additional containers to be provided for 
+
+separate storage of recyclable waste;
+
+d.  locations where containers should be placed 
+
+for emptying.
+
+
+In giving their 
+
+consent, the local authority may specify conditions 
+
+regarding the provision of an alternative means of 
+
+access for removal of refuse.
+
+
+BS 6798:2000 
+
+Specification for installation of gasfired hot 
+
+water boilers of rated input not exceeding 70kW.
+
+
+Specifications for ancillary 
+
+fittings including shallow inspection chambers.)
+
+

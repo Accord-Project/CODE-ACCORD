@@ -1,0 +1,4619 @@
+Under regulation 4 of the Building 
+
+Regulations 2010 (as amended), building work 
+
+should be carried out in such a way that, on 
+
+completion of work,
+
+the building complies with the applicable 
+
+Parts of Schedule 1 to the Building 
+
+Regulations,
+
+in the case of an extension or material 
+
+alteration of a building, or the provision, 
+
+extension or material alteration of a controlled 
+
+service or fitting, where it did not comply with 
+
+any such requirement, it is no more 
+
+unsatisfactory in relation to that requirement 
+
+than before the work was carried out.
+
+
+Where 
+
+there is a material change of use the Building 
+
+Regulations set requirements that must be met 
+
+before the building can be used for its new 
+
+purpose.
+
+
+a building which contains at least one 
+
+dwelling contains a greater or lesser number 
+
+of dwellings than it did previously.
+
+
+a building which contains at least one room for  
+
+residential puposes contains a greater or lesser  
+
+number of such rooms than it did previously.
+
+
+Parts J1 to J4 will apply to all the material 
+
+changes of use mentioned above which means 
+
+that whenever such changes occur the building 
+
+must be brought up to the standards required by 
+
+Parts J1 to J4.
+
+
+In determining what is appropriate in the 
+
+circumstances, the advice of the local authoritys 
+
+conservation officer should be sought.
+
+
+In order to join 
+
+such a scheme a person must demonstrate 
+
+competence to carry out the type of work the 
+
+scheme covers, and also the ability to comply 
+
+with all relevant requirements in the Building 
+
+Regulations.
+
+
+Materials and workmanship
+
+Any building work which is subject to the 
+
+requirements imposed by Schedule 1 to the 
+
+Building Regulations shall be carried out in 
+
+accordance with regulation 7.
+
+
+This means 
+
+that it is an offence to emit a substantial amount 
+
+of smoke from a chimney of a building, from a 
+
+furnace or from any fixed boiler if located in a 
+
+designated smoke control area.
+
+
+Requirement J6 applies only to:
+
+(a)  fixed oil storage tanks with capacities greater than 90 litres 
+
+and connecting pipes; and
+
+(b)  fixed  liquefied  petroleum  gas  storage  installations  with 
+
+capacities greater than 150 litres and connecting pipes, which 
+
+are  located  outside  the  building  and  which  serve  fixed 
+
+combustion appliances (including incinerators) in the building.
+
+
+Combustion appliances shall be so installed that there is an 
+
+adequate  supply  of  air  to  them  for  combustion,  to  prevent 
+
+overheating and for the efficient working of any flue.
+
+
+Combustion appliances shall have adequate provision for 
+
+the discharge of products of combustion to the outside air.
+
+
+Where a fixed combustion appliance is provided, appropriate 
+
+provision  shall  be  made  to  detect  and  give  warning  of  the 
+
+release of carbon monoxide.
+
+
+Combustion appliances and fluepipes shall be so installed, 
+
+and fireplaces and chimneys shall be so constructed and installed, 
+
+as to reduce to a reasonable level the risk of people suffering 
+
+burns or the building catching fire in consequence of their use.
+
+
+Where  a  hearth,  fireplace,  flue  or  chimney  is  provided 
+
+or  extended,  a  durable  notice  containing  information  on  the 
+
+performance capabilities of the hearth, fireplace, flue or chimney 
+
+shall  be  affixed  in  a  suitable  place  in  the  building  for  the 
+
+purpose of enabling combustion appliances to be safely installed.
+
+
+Liquid fuel storage systems and the pipes connecting them 
+
+to combustion appliances shall be so constructed and separated 
+
+from buildings and the boundary of the premises as to reduce 
+
+to a reasonable level the risk of the fuel igniting in the event of 
+
+fire in adjacent buildings or premises.
+
+
+Oil  storage  tanks  and  the  pipes  connecting  them  to 
+
+combustion appliances shall: 
+
+(a)  be so constructed and protected as to reduce to a reasonable 
+
+level the risk of the oil escaping and causing pollution; and
+
+(b)  have affixed in a prominent position a durable notice 
+
+containing information on how to respond to an oil escape so as 
+
+to reduce to a reasonable level the risk of pollution.
+
+
+Particular reference should be made to:
+
+Approved Document B for guidance on 
+
+compartmentation of buildings for fire safety 
+
+purposes and for appropriate degrees of fire 
+
+resistance for compartment boundaries.
+
+
+Part J 
+
+does not include specific provisions relating to 
+
+the storage of solid fuel (including solid biofuel) 
+
+but the relevant guidance in Approved Document 
+
+B should be followed.
+
+
+The designation system in BS EN 1443:2003 
+
+expresses the performance characteristics of 
+
+a chimney or its components, as assessed in 
+
+accordance with an appropriate European 
+
+product standard, by means of a code such 
+
+as EN 1234  T400 N1 D1 Gxx.
+
+
+The 
+
+equivalent area of a simple ventilator will be 
+
+less than the geometrical free area and for 
+
+complex products may be significantly less.
+
+
+A fire wall is a means of shielding a fuel tank 
+
+from the thermal radiation from a fire.
+
+
+For  
+
+LPG tanks, it also ensures that gas accidentally  
+
+leaking from the tank or fittings must travel by 
+
+a longer path and therefore disperse safely, 
+
+before reaching a hazard such as an opening 
+
+in a building, a boundary or other potential 
+
+ignition source.
+
+
+Typical examples of such materials to be 
+
+found in buildings include totally inorganic 
+
+materials such as concrete, fired clay, 
+
+ceramics, metals, plaster and masonry 
+
+containing not more than 1 per cent by 
+
+weight or volume of organic material.
+
+
+(Use 
+
+in buildings of combustible metals such as 
+
+magnesiumaluminium alloys should be 
+
+assessed in each individual case.)
+
+
+A Notified Body, for the purposes of the Gas 
+
+Appliances (Safety) Regulations (1995), means:
+
+a.  a body which is approved by the Secretary of 
+
+State for Trade and Industry as being 
+
+competent to carry out the required Attestation 
+
+procedures for gas appliances and whose 
+
+name and identification number has been 
+
+notified by him/her to the Commission of the 
+
+European Community and to other member 
+
+States in accordance with the Gas Appliances 
+
+(Safety) Regulations (1995);
+
+b.  a body which has been similarly approved for 
+
+the purposes of the Gas Appliances Directive 
+
+by another member State and whose name 
+
+and identification number has been notified to 
+
+the Commission and to other member States 
+
+pursuant to the Gas Appliances Directive.
+
+
+A roomsealed appliance means an 
+
+appliance whose combustion system is 
+
+sealed from the room in which the appliance 
+
+is located and which obtains air for 
+
+combustion from a ventilated uninhabited 
+
+space within the building or directly from the 
+
+open air outside the building and which vents 
+
+the products of combustion directly to open 
+
+air outside the building (see Diagram 4 (b), (d) 
+
+and (f)).
+
+
+Solid biofuel means, for the purpose of this 
+
+Approved Document, a solid fuel derived 
+
+from plants and trees.
+
+
+The size a flue or duct (area, diameter etc) 
+
+Measuring the size of flues 
+
+and ducts
+
+should be measured at right angles to the 
+
+direction in which gases flow.
+
+
+Where offset 
+
+components are used, they should not reduce 
+
+the flue area to less than the minimum required 
+
+for the combustion appliance (see Diagram 7).
+
+
+c.  incorporate an appropriate means of warning 
+
+of a release of carbon monoxide for fixed 
+
+appliances that burn solid fuels, gas fuels 
+
+(excluding gas appliances used solely for 
+
+cooking) and oil fuels;
+
+d.  enable normal operation of appliances 
+
+without their causing danger through damage 
+
+by heat or fire to the fabric of the building;
+
+e.  have been inspected and tested to establish 
+
+suitability for the purpose intended;
+
+f.  have been labelled to indicate performance 
+
+capabilities.
+
+
+The air supply provisions will usually need to be 
+
+increased where a room contains more than one 
+
+appliance (such as a kitchen containing an 
+
+openflued boiler and an openflued cooker).
+
+
+An open
+
+flued appliance must receive a certain amount of 
+
+air from outside (combustion air in Diagram 8) 
+
+dependent upon its type and rating.
+
+
+Permanent ventilation of appliance 
+
+compartments
+
+1.5  Appliance compartments that enclose 
+
+openflued combustion appliances should be 
+
+provided with vents large enough to admit all of 
+
+the air required by the appliance for combustion 
+
+and proper flue operation, whether the compartment 
+
+draws its air from a room or directly from outside 
+
+(see Diagram 8 (b) and (c)).
+
+
+1.6  Where appliances require cooling air, 
+
+appliance compartments should be large enough 
+
+to enable air to circulate and high and lowlevel 
+
+vents should be provided (see Diagram 8 (d), (e), 
+
+(f) and (g)).
+
+
+1.7  Where appliances are to be installed within 
+
+balanced compartments (see paragraph 0.4(2)), 
+
+special provisions will be necessary and the 
+
+appliance and ventilation system manufacturers 
+
+instructions should be followed.
+
+
+Permanently open air vents
+
+1.10  Permanently open air vents should be 
+
+nonadjustable, sized to admit sufficient air for 
+
+the purpose intended and positioned where they 
+
+are unlikely to become blocked.
+
+
+1.12  Where ventilation is to be provided via a 
+
+single proprietary assembly, for example when  
+
+it is proposed to use a proprietary ventilator with 
+
+integral grilles to bridge a cavity wall, the equivalent 
+
+area of the ventilator should be taken as that 
+
+declared by the manufacturer having been 
+
+measured by the method in BS EN 131411:2004.
+
+
+1.13  Where two or more components are to be 
+
+used to provide a nonproprietary assembly, the 
+
+assembly should be kept as simple and smooth as 
+
+possible.
+
+
+The assembly should be taken to have 
+
+an equivalent area equal to that of the component 
+
+with the smallest equivalent area in the assembly.
+
+
+1.14  The equivalent area stated in the ventilator 
+
+manufacturers literature or marked on the air vent 
+
+should be used whenever it is available, as this can 
+
+differ considerably from the free area measured at 
+
+one end of the air vent.
+
+
+Transfer or connecting ventilation should be at 
+
+low level to reduce the transfer of smoke in the 
+
+event of a fire and otherwise meet the guidance 
+
+given in Approved Document B.
+
+
+In buildings 
+
+where it is intended to install openflued combustion 
+
+appliances and extract fans, the combustion 
+
+appliances should be able to operate safely whether 
+
+or not the fans are running.
+
+
+For gas appliances: where a kitchen contains 
+
+an openflued appliance, the extract rate of 
+
+the kitchen extract fan should not exceed 
+
+20 litres/second (72m/hour).
+
+
+which is established at the time of the test 
+
+(when fans should be on their maximum useable 
+
+setting), and the specific combination causing 
+
+the greatest depressurisation at the appliance 
+
+depends upon the circumstances in each case.
+
+
+The effect of ceiling fans should be 
+
+checked during the tests.
+
+
+1.28  Liners should be installed in accordance 
+
+with their manufacturers instructions.
+
+
+Appropriate 
+
+components should be selected to form the flue 
+
+without cutting and to keep joints to a minimum.
+
+
+Bends and offsets should be formed only with 
+
+matching factorymade components.
+
+
+Joints should be sealed 
+
+with fire cement, refractory mortar or installed in 
+
+accordance with their manufacturers instructions.
+
+
+In the absence of liner manufacturers instructions, 
+
+the space could be filled with a weak insulating 
+
+concrete such as mixtures of:
+
+a.  one part ordinary Portland cement to 20 parts 
+
+suitable lightweight expanded clay aggregate, 
+
+minimally wetted; or
+
+b.  one part ordinary Portland cement to 6 parts 
+
+Vermiculite; or
+
+c.  one part ordinary Portland cement to 10 parts 
+
+Perlite.
+
+
+Construction of flueblock 
+
+chimneys
+
+1.29  Flueblock chimneys should be constructed 
+
+of factorymade components suitable for the 
+
+intended application installed in accordance with 
+
+the manufacturers instructions.
+
+
+Ways of meeting 
+
+the requirement for solid fuel appliances (and 
+
+generally suitable for other fuels) include using:
+
+a.  flueblocks whose performance is at least 
+
+equal to that corresponding to the 
+
+designation T400 N2 D 3 G, as described  
+
+in BS EN 1443:2003, such as:
+
+i.  clay flueblocks at least meeting the 
+
+requirements for Class FB1 N2 as 
+
+described in BS EN 1806:2006
+
+ii.
+
+
+1.30  Joints should be sealed in accordance 
+
+with the flueblock manufacturers instructions.
+
+
+Bends and offsets should be formed only with 
+
+matching factorymade components.
+
+
+Flues 
+
+designed to serve more than one appliance can 
+
+meet the requirements by following the guidance 
+
+in BS 54101:1997 for oil and BS 54401:2008 
+
+for gasfired systems.
+
+
+Construction of masonry 
+
+chimneys
+
+1.27  New masonry chimneys should be 
+
+constructed with flue liners and masonry suitable 
+
+for the intended application.
+
+
+Liners suitable for 
+
+solid fuel appliances (and generally suitable for 
+
+other fuels) could be:
+
+a.  liners whose performance is at least equal to 
+
+that corresponding to the designation T400 
+
+N2 D 3 G, as described in BS EN 1443:2003, 
+
+such as:
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+PROVISIONS WHICH APPLY GENERALLY TO
+
+COMBUSTION INSTALLATIONS 
+
+Material change of use
+
+1.31  Where a building is to be altered for 
+
+different use (e.g.
+
+
+1.33  Fluepipes with spigot and socket joints 
+
+should be fitted with the socket facing upwards 
+
+to contain moisture and other condensates in 
+
+the flue.
+
+
+Joints should be made gastight.
+
+
+Building work and 
+
+must not be undertaken without prior notification 
+
+to the local authority.
+
+
+Anyone in doubt about whether or not any 
+
+renovation, refurbishment or repair work involving 
+
+a flue is notifiable building work, could consult 
+
+the building control department of their local 
+
+authority, or an approved inspector.
+
+
+Reuse of existing flues
+
+1.36  Where it is proposed to bring a flue in an 
+
+existing chimney back into use or to reuse a flue 
+
+with a different type or rating of appliance, the 
+
+flue and the chimney should be checked and, if 
+
+necessary, altered to ensure that they satisfy the 
+
+requirements for the proposed use.
+
+
+Before relining flues, they 
+
+should be swept to remove deposits.
+
+
+Flexible flue liners should be used only to reline a 
+
+chimney and should not be used as the primary 
+
+liner of a new chimney.
+
+
+Factorymade metal chimneys
+
+1.42  Ways of meeting the requirements when 
+
+proposing factorymade metal chimneys include:
+
+designated in accordance with BS EN1856
+
+1:2003 to suit the appliance and types of fuels 
+
+to be burnt and installing them in accordance 
+
+with the relevant recommendations of  
+
+BS EN 152871:2007;
+
+b.  for gas and for oil appliances where flue 
+
+temperatures will not normally exceed 250C, 
+
+using twinwalled component systems (and, 
+
+for gas, singlewalled component systems) 
+
+appropriately designated in accordance with 
+
+BS EN18561:2003 to suit the appliance and 
+
+types of fuels to be burnt and installing gas 
+
+appliances in accordance with BS 5440
+
+1:2008;
+
+c.  using any other chimney system that is 
+
+suitable for the intended purpose and 
+
+installed in accordance with the relevant 
+
+recommendations in BS EN 152871:2007 or 
+
+BS 54401:2008, as appropriate to the type 
+
+of appliance being installed.
+
+
+1.43  Where a factorymade metal chimney 
+
+passes through a wall, sleeves should be provided 
+
+to prevent damage to the flue or building through 
+
+thermal expansion.
+
+
+1.44  When providing a factorymade metal 
+
+chimney, provision should be made to withdraw 
+
+the appliance without the need to dismantle the 
+
+chimney.
+
+
+1.45  Factorymade metal chimneys should be 
+
+kept a suitable distance away from combustible 
+
+materials.
+
+
+Ways of meeting the requirement for 
+
+chimneys designated to BS EN 18561:2003 
+
+comprise:
+
+a.  locating the chimney not less than distance 
+
+xx from combustible material, where xx is 
+
+defined in BS EN 18561:2003 as shown in 
+
+Diagram 13;
+
+b.  where a chimney passes through a cupboard, 
+
+storage space or roof space, providing a 
+
+guard placed no closer to the outer wall of 
+
+the chimney than the distance in a) above.
+
+
+1.46  Where a factorymade metal chimney 
+
+penetrates a fire compartment wall or floor, it 
+
+must not breach the fire separation requirements 
+
+of Part B.
+
+
+See Approved Document B for more 
+
+guidance but the requirements may be met by:
+
+a.  using a factorymade metal chimney of the 
+
+appropriate level of fire resistance installed in 
+
+accordance with BS EN 18561:2003 Annex 
+
+NA; or
+
+b.  casing the chimney in noncombustible 
+
+material giving at least half the fire resistance 
+
+recommended for the fire compartment wall 
+
+or floor.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+PROVISIONS WHICH APPLY GENERALLY TO
+
+COMBUSTION INSTALLATIONS 
+
+Diagram 13   The separation of combustible material from a factorymade metal 
+
+chimney designated to BS EN 18561:2003
+
+Distance xx
+
+distance (xxmm) as
+
+designated to BS EN 18561
+
+Concealed flues
+
+1.47  Where a flue is routed within a void, 
+
+appropriate means of access at strategic 
+
+locations should be provided to allow the 
+
+following aspects to be visually checked and 
+
+confirmed.
+
+
+It is not intended that the means 
+
+of access should be sized to allow full physical 
+
+access to the flue system.
+
+
+Any means of access should not impair any 
+
+fire, thermal or acoustic requirements of the 
+
+Building Regulations.
+
+
+Refer to the relevant 
+
+guidance in Approved Documents B, L and E. 
+
+Where necessary, inspection panels or hatches 
+
+should be fitted with resilient seals and provide 
+
+the similar standards of fire, thermal and acoustic 
+
+isolation to the surrounding structure.
+
+
+Access hatches should be at least 300mm x 
+
+300mm or larger where necessary to allow 
+
+sufficient access to the void to look along the 
+
+length of the flue.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+PROVISIONS WHICH APPLY GENERALLY TO 
+
+COMBUSTION INSTALLATIONS
+
+Diagram 14   Example locations of access panels for concealed horizontal flues
+
+Flue terminal
+
+Flue terminal
+
+External wall
+
+Inspection hatch
+
+Inspection hatch
+
+Any intervening joints
+
+to be visible within 
+
+1.5m of an inspection
+
+hatch
+
+Any intervening joints
+
+to be visible within 
+
+1.5m of an inspection
+
+hatch
+
+Accessible
+
+flue connection
+
+Inspection hatch
+
+Concealed
+
+flue connection
+
+Boiler A
+
+Boiler B
+
+Inspection hatch
+
+All voids containing concealed flues should have at least one inspection hatch
+
+measuring at least 300mm square.
+
+
+No flue joint within the void should be more than 1.5m distant from the edge of 
+
+the nearest inspection hatch, i.e.
+
+
+dimension x in the diagram should be less than 1.5m.
+
+
+Where possible inspection hatches should be located at changes of direction.
+
+
+Where this is not possible then bends should be viewable from both directions.
+
+
+A way 
+
+of meeting the requirement would be to build 
+
+flues so that they are straight and vertical except 
+
+for the connections to combustion appliances 
+
+with rear outlets where the horizontal section 
+
+should not exceed 150mm.
+
+
+Where bends are 
+
+essential, they should be angled at no more than 
+
+45 to the vertical.
+
+
+1.49  Provisions should be made to enable flues 
+
+to be swept and inspected.
+
+
+A way of making 
+
+reasonable provision would be to limit the 
+
+number of changes of direction between the 
+
+combustion appliance outlet and the flue outlet 
+
+to not more than four (each up to 45), with not 
+
+more than two of these being between an 
+
+intended point of access for sweeping and either 
+
+another point of access for sweeping or the flue 
+
+outlet.
+
+
+(90 factorymade bends, elbows or Tee 
+
+pieces in fluepipes may be treated as being equal 
+
+to two 45 bends (see Diagram 15)).
+
+
+1.51  Openings for inspection and cleaning 
+
+should be formed using purpose factorymade 
+
+components compatible with the flue system, 
+
+having an access cover that has the same level 
+
+of gastightness as the flue system and an equal 
+
+level of thermal insulation.
+
+
+After the 
+
+appliance has been installed, it should be 
+
+possible to sweep the whole flue.
+
+
+A way of achieving this where 
+
+owners of adjacent land could build up to the 
+
+boundary would be to adopt the suggestions in 
+
+Diagram 34 or 41, as relevant.
+
+
+Dry lining around fireplace 
+
+openings
+
+1.53  Where a decorative treatment, such as 
+
+a fireplace surround, masonry cladding or dry 
+
+lining, is provided around a fireplace opening, 
+
+any gaps that could allow flue gases to escape 
+
+from the fireplace opening into the void behind 
+
+the decorative treatment should be sealed to 
+
+prevent such leakage.
+
+
+The sealing material 
+
+should be capable of remaining in place despite 
+
+any relative movement between the decorative 
+
+treatment and the fireplace recess.
+
+
+In order to document the steps taken to achieve 
+
+compliance with the requirements, a report 
+
+should be drawn up showing that materials and 
+
+components appropriate to the intended 
+
+application have been used and that flues have 
+
+passed appropriate tests.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+PROVISIONS WHICH APPLY GENERALLY TO 
+
+COMBUSTION INSTALLATIONS
+
+1.55  Flues should be checked at completion 
+
+to show that they are free from obstructions, 
+
+satisfactorily gastight and constructed with 
+
+materials and components of sizes which suit 
+
+the intended application.
+
+
+A spillage test to 
+
+check for compliance with J2 should be carried 
+
+out with the appliance under fire, as part of 
+
+the process of commissioning to check for 
+
+compliance with Part L, and (in relevant cases) 
+
+as required by the Gas Safety (Installation and 
+
+Use) Regulations.
+
+
+1.56  Hearths should be constructed with 
+
+materials and components of sizes to suit the 
+
+intended application and should show the area 
+
+where combustible materials should not intrude.
+
+
+Notice plates for hearths and flues 
+
+(Requirement J5)
+
+1.57  Where a hearth, fireplace (including a flue 
+
+box), flue or chimney is provided or extended 
+
+(including cases where a flue is provided as part 
+
+of the refurbishment work), information essential 
+
+to the correct application and use of these 
+
+facilities should be permanently posted in the 
+
+building.
+
+
+1.58  Notice plates should be robust, indelibly 
+
+marked and securely fixed in an unobtrusive but 
+
+obvious position within the building such as:
+
+a.  next to the electricity consumer unit; or
+
+b.  next to the chimney or hearth described; or
+
+c.  next to the water supply stopcock.
+
+
+Access to combustion appliances 
+
+for maintenance
+
+1.60  There should be a permanent means of 
+
+safe access to appliances for maintenance.
+
+
+Flues should be at least the size shown in 
+
+Table 2 relevant to the particular appliance, and 
+
+not less than the size of the appliance flue outlet 
+
+or that recommended by the appliance 
+
+manufacturer.
+
+
+Any room or space containing an 
+
+appliance should have a permanent air vent 
+
+opening of at least the size shown in Table 1.
+
+
+For 
+
+appliances designed to burn a range of different 
+
+solid fuels the air supply should be designed to 
+
+accommodate burning the fuel that produces the 
+
+highest heating output.
+
+
+In these cases, manufacturers 
+
+installation instructions should be followed 
+
+subject to any minimum ventilation provisions  
+
+of this Approved Document.
+
+
+Permanently open air vent(s) with a total equivalent area of at least 50 of the cross 
+
+sectional area of the flue.
+
+
+Permanently open air vent(s) with a total equivalent area of at least 50 of the throat 
+
+opening area.
+
+
+Example: an appliance with a flue draught stabiliser and a rated output of 7kW would require an equivalent area of: 5 x 300  2 x 850  3200mm2 
+
+It is unlikely that a dwelling constructed prior to 2008 will have an air permeability of less than 5.0m3/(h.m2) at 50 Pa unless extensive measures have 
+
+been taken to improve airtightness.
+
+
+Table 2  Size of flues in chimneys
+
+Installation (1)
+
+Minimum flue size
+
+Fireplace with an opening of up to 500mm x 550mm
+
+200mm diameter or rectangular/square flues having the same cross
+
+sectional area and a minimum dimension not less than 175mm
+
+Fireplace with an opening in excess of 500mm x 
+
+550mm or a fireplace exposed on two or more sides
+
+See paragraph 2.7.
+
+
+If rectangular/square flues are used the minimum 
+
+dimension should be not less than 200mm
+
+Closed appliance of up to 20kW rated output which: 
+
+burns smokeless or lowvolatiles fuel (2) 
+
+ is an appliance which meets the requirements of 
+
+the Clean Air Act when burning an appropriate 
+
+bituminous coal (3)
+
+ is an appliance which meets the requirements of 
+
+the Clean Air Act when burning wood (3) 
+
+Pellet burner or pellet boiler which meets the 
+
+requirements of the Clean Air Act (3)
+
+125mm diameter or rectangular/square flues having the same cross
+
+sectional area and a minimum dimension not less than 100mm for straight 
+
+flues or 125mm for flues with bends or offsets
+
+125mm diameter 
+
+This may be reduced to no less than 100mm when permitted by the 
+
+appliance manufacturer and supported by calculation according to BS EN 
+
+133841:2002.
+
+
+Other closed appliance of up to 30kW rated output 
+
+burning any fuel
+
+150mm diameter or rectangular/square flues having the same cross
+
+sectional area and a minimum dimension not less than 125mm
+
+Closed appliance of above 30kW and up to 50kW rated 
+
+output burning any fuel
+
+175mm diameter or rectangular/square flues having the same cross
+
+sectional area and a minimum dimension not less than 150mm
+
+Notes:
+
+1.
+
+
+For fireplaces with openings larger than 
+
+500mm x 550mm or fireplaces exposed on two 
+
+or more sides (such as a fireplace under a canopy 
+
+or open on both sides of a central chimney 
+
+breast) a way of showing compliance would be to 
+
+provide a flue with a crosssectional area equal 
+
+to 15 per cent of the total face area of the 
+
+fireplace opening(s) (see Appendix B).
+
+
+However, 
+
+specialist advice should be sought when 
+
+proposing to construct flues having an area of:
+
+a.  more than 15 per cent of the total face area of 
+
+the fireplace openings; or
+
+b.  more than 120,000mm (0.12m).
+
+
+Flues should be high enough to ensure 
+
+Height of flues
+
+sufficient draught to clear the products of 
+
+combustion.
+
+
+However, a minimum flue 
+
+height of 4.5m could be satisfactory if the 
+
+guidance in Paragraphs 2.10 to 2.12 is adopted.
+
+
+The 
+
+highest point of air entry into the fireplace could 
+
+be the top of the fireplace opening or, for a fire 
+
+under a canopy, the bottom of the canopy.
+
+
+Outlets from flues
+
+2.10  The outlet from a flue should be above 
+
+the roof of the building in a position where the 
+
+products of combustion can discharge freely and 
+
+will not present a fire hazard, whatever the wind 
+
+conditions.
+
+
+The chimney heights and/
+
+or separations shown may need to be increased 
+
+in particular cases where wind exposure, 
+
+surrounding tall buildings, high trees or high 
+
+ground could have adverse effects on flue draught.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW 
+
+Diagram 17   Flue outlet positions for solid fuel appliances
+
+Adjacent building
+
+Regulated building
+
+Point where flue passes through 
+
+weather surface (Notes 1, 2)
+
+A At or within 600mm of the 
+
+ridge
+
+B Elsewhere on a roof 
+
+(whether pitched or flat)
+
+C Below (on a pitched roof) or 
+
+within 2300mm horizontally 
+
+to an openable rooflight, 
+
+dormer window or other 
+
+opening (Note 3)
+
+D Within 2300mm of an 
+
+adjoining or adjacent 
+
+building, whether or not 
+
+beyond the boundary 
+
+(Note 3)
+
+Notes
+
+Clearances to flue outlet
+
+At least 600mm above the 
+
+ridge
+
+At least 2300mm horizontally 
+
+from the nearest point on the 
+
+weather surface and:
+
+a) at least 1000mm above the 
+
+highest point of intersection 
+
+of the chimney and the 
+
+weather surface; or
+
+b) at least as high as the 
+
+ridge.
+
+
+2)  A flat roof has a pitch less than 10.
+
+
+4)   A vertical flue fixed to an outside wall should be treated as 
+
+equivalent to an inside flue emerging at the nearest edge of the 
+
+roof.
+
+
+Location and shielding of 
+
+connecting fluepipes
+
+2.14  Connecting fluepipes should be used only 
+
+to connect appliances to their chimneys.
+
+
+Connecting 
+
+fluepipes should also be guarded if they could 
+
+be at risk of damage or if the burn hazard they 
+
+present to people is not immediately apparent.
+
+
+2.15  Connecting fluepipes should be located so 
+
+as to avoid igniting combustible material.
+
+
+Ways 
+
+of meeting the requirement include minimising 
+
+horizontal and sloping runs and:
+
+a.  following the guidance in Paragraph 1.45 
+
+where the connecting fluepipe is a factory
+
+made metal chimney whose performance is 
+
+at least equal to designation T400 N2 D3 G 
+
+according to BS EN 18561:2003 or BS EN 
+
+18562:2004, and installed to BS EN 15827
+
+1; or
+
+b.  separation by shielding in accordance with 
+
+Diagram 19.
+
+
+Debris collection space
+
+2.16  Where a chimney cannot be cleaned 
+
+through the appliance, a debris collecting space 
+
+which is accessible for emptying and suitably 
+
+sized opening(s) for cleaning should be provided 
+
+at appropriate locations in the chimney.
+
+
+Masonry and flueblock chimneys
+
+2.17  Masonry chimneys should be built in 
+
+accordance with Paragraphs 1.27 and 1.28.
+
+
+Flueblock chimneys should be built in 
+
+accordance with Paragraphs 1.29 and 1.30.
+
+
+The minimum chimney thickness and distance 
+
+to combustibles (xxmm) should be no less than 
+
+the manufacturers product declaration (Gxx) 
+
+based on testing to BS EN 1858:2008 (concrete 
+
+flue blocks) or BS EN 1806:2006 (clay/ceramic 
+
+flueblocks).
+
+
+Other masonry chimney products 
+
+should exceed the minimum thickness indicated 
+
+in Diagram 20.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW
+
+Diagram 20   Wall thicknesses for masonry and flueblock chimneys
+
+Separation of combustible 
+
+material from fireplaces and 
+
+masonry flues
+
+2.18  Combustible material should not be 
+
+located where it could be ignited by the heat 
+
+dissipating through the walls of fireplaces or 
+
+masonry flues.
+
+
+A way of meeting the requirement 
+
+would be to follow the guidance in Diagram 21 so 
+
+that combustible material is at least:
+
+a.
+
+
+200mm from the inside surface of a flue or 
+
+fireplace recess; or
+
+b.  at least xxmm from a flue product with 
+
+designated separation distance (Gxx); or
+
+c.  40mm from the outer surface of a masonry 
+
+chimney or fireplace recess unless it is a 
+
+floorboard, skirting board, dado or picture 
+
+rail, mantelshelf or architrave.
+
+
+Metal fixings 
+
+in contact with combustible materials should 
+
+be at least 50mm from the inside surface of 
+
+a flue.
+
+
+Lining and relining of flues in 
+
+chimneys
+
+2.20  Lining or relining flues may be building 
+
+work and, in any case, such work should be 
+
+carried out so that the objectives of J2 to J5 are 
+
+met (see Paragraphs 1.34 and 1.35).
+
+
+Existing 
+
+flues being reused should be checked as 
+
+described in Paragraph 1.36.
+
+
+Ways of meeting 
+
+the requirements include the use of:
+
+a.  liners whose performance is at least equal to 
+
+that corresponding to the designation T400 
+
+N2 D3 G, as described in BS EN 1443:2003, 
+
+such as:
+
+factorymade flue lining systems 
+
+manufactured to BS EN 18561:2003 or 
+
+BS EN 18562:2004.
+
+ii.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW 
+
+Diagram 21   Minimum separation distances from combustible material in or  
+
+near a chimney 
+
+Table 3   Minimum performance 
+
+designations for chimney and 
+
+fluepipe components for 
+
+use with new solid fuel fired 
+
+appliances
+
+Appliance 
+
+Minimum 
+
+designation
+
+Fuel type
+
+All solid fuel 
+
+appliances
+
+Masonry or flueblock 
+
+flue with liner to T400 
+
+N2 D3 Gxx
+
+Coal, Smokeless 
+
+Fuel, Peat, wood 
+
+and other biomass
+
+Clay flue blocks 
+
+FB1N2
+
+Clay/ceramic liners 
+
+Concrete liners B2
+
+Factory made metal 
+
+chimneys to T400 N2 
+
+D3 Gxx
+
+See paragraph 1.271.29 and 1.42
+
+Formation of gathers
+
+2.21  To minimise resistance to the proper 
+
+working of flues, tapered gathers should be 
+
+provided in fireplaces for open fires.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW
+
+Diagram 22   Construction of fireplace gathers
+
+Diagram 23   Canopy for an open solid fuel fire
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW 
+
+Hearths
+
+2.22  Hearths should be constructed of suitably 
+
+robust materials and to appropriate dimensions 
+
+such that, in normal use, they prevent combustion 
+
+appliances setting fire to the building fabric and 
+
+furnishings, and they limit the risk of people being 
+
+accidentally burnt.
+
+
+The hearth should be able to accommodate  
+
+the weight of the appliance and its chimney if the 
+
+chimney is not independently supported.
+
+
+2.23  Appliances should stand wholly above:
+
+a.  hearths made of noncombustible board/
+
+sheet material or tiles at least 12mm thick, if 
+
+the appliance is not to stand in an appliance 
+
+recess and has been tested to an applicable 
+
+appliance standard to verify that it cannot 
+
+cause the temperature of the upper surface 
+
+of the hearth to exceed 100C; or
+
+b.  constructional hearths in accordance with the 
+
+paragraphs below.
+
+
+2.24  Constructional hearths should:
+
+a.  have plan dimensions as shown in Diagram 
+
+24; and
+
+b.  be made of solid, noncombustible material, 
+
+such as concrete or masonry, at least 125mm 
+
+thick, including the thickness of any non
+
+combustible floor and/or decorative surface.
+
+
+2.25  Combustible material should not be 
+
+placed beneath constructional hearths unless 
+
+there is an airspace of at least 50mm between 
+
+the underside of the hearth and the combustible 
+
+material, or the combustible material is at 
+
+least 250mm below the top of the hearth (see 
+
+Diagram 25).
+
+
+Components should be supplied as sets for 
+
+assembly and jointing in accordance with the 
+
+manufacturers instructions.
+
+
+2.26  An appliance should be located on a 
+
+hearth so that it is surrounded by a surface free 
+
+of combustible material as shown in Diagram 26.
+
+
+The boundary of this surface should be 
+
+visually apparent to provide a warning to the 
+
+building occupants and to discourage combustible 
+
+floor finishes such as carpet from being laid too 
+
+close to the appliance.
+
+
+2.27  Dimensions shown in Diagram 26 may be 
+
+reduced to manufacturers recommendations for 
+
+appliances with surface temperatures not 
+
+exceeding 85C when in normal operation and 
+
+where there is no risk of spillage of fuel or ash.
+
+
+2.28  Combustible material placed on or beside 
+
+a constructional hearth should not extend under 
+
+a superimposed hearth by more than 25mm or to 
+
+closer than 150mm measured horizontally to the 
+
+appliance.
+
+
+Thinner material could be used provided it 
+
+gives the same overall level of protection as the 
+
+solid noncombustible material.
+
+
+2.33  Clearances shown in Diagram 30 may be 
+
+reduced to manufacturers recommendations for 
+
+appliances with surface temperatures not 
+
+exceeding 85C when in normal operation.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW 
+
+Carbon monoxide alarms
+
+2.34  Where a new or replacement fixed solid 
+
+fuel appliance is installed in a dwelling, a carbon 
+
+monoxide alarm should be provided in the room 
+
+where the appliance is located.
+
+
+2.36  The carbon monoxide alarm should be 
+
+located in the same room as the appliance:
+
+a.  on the ceiling at least 300mm from any wall 
+
+or, if it is located on a wall, as high up as 
+
+possible (above any doors and windows) but 
+
+not within 150mm of the ceiling; and
+
+b.  between 1m and 3m horizontally from the 
+
+appliance.
+
+
+Diagram 29   Open fireplaces: throat and fireplace components
+
+ JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+ADDITIONAL PROVISIONS FOR APPLIANCES BURNING SOLID 
+
+FUEL WITH A RATED OUTPUT UP TO 50kW
+
+Diagram 30   Wall adjacent to hearths
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+Section 3: Additional provisions for gas 
+
+burning appliances with a rated input up to 
+
+70kW (net)
+
+Gas Safety (Installation and Use) 
+
+Regulations
+
+All combustion installations must be 
+
+accommodated in ways that meet the requirements 
+
+of the Building Regulations.
+
+
+Any gas engineering business, 
+
+whether an employer or self employed, must be a 
+
+member of a class of persons approved by the 
+
+Health and Safety Executive (HSE).
+
+
+The following 
+
+paragraphs give builders and lay readers an 
+
+outline of some of the main requirements of the 
+
+Gas Safety (Installation and Use) Regulations, but 
+
+for further information reference should be made 
+
+to the Health and Safety Commissions Approved 
+
+Code of Practice (see below) or Building Control 
+
+Bodies.
+
+
+The Gas Safety (Installation and Use) 
+
+Regulations require that (a) gas fittings, appliances 
+
+and gas storage vessels must be installed only 
+
+by a person with the required competence and 
+
+(b) any person having control to any extent of gas 
+
+work must ensure that the person carrying out 
+
+that work has the required competence and (c) 
+
+any gas installation businesses, whether an 
+
+employer or selfemployed, must be a member of 
+
+a class of persons approved by the HSE; for the 
+
+time being this means they must be registered 
+
+with Gas Safe Register.
+
+
+The Regulations may be 
+
+amended from time to time and whichever 
+
+Regulations are currently in force at the time 
+
+an installation is carried out must be complied 
+
+with.
+
+
+Important 
+
+elements of the Regulations include that:
+
+a.  any appliance installed in a room used or 
+
+intended to be used as a bath or shower 
+
+room must be of the roomsealed type;
+
+b.  a gas fire, other gas space heater or gas 
+
+water heater of more than 14kW (gross) heat 
+
+input (12.7kW (net) heat input) must not be 
+
+installed in a room used or intended to be 
+
+used as sleeping accommodation unless the 
+
+appliance is room sealed;
+
+c.  a gas fire, other space heater or gas water 
+
+heater of up to 14kW (gross) heat input 
+
+(12.7kW (net) heat input) must not be 
+
+installed in a room used or intended to be 
+
+used as sleeping accommodation unless it 
+
+is room sealed or equipped with a device 
+
+designed to shut down the appliance before 
+
+there is a buildup of a dangerous quantity 
+
+of the products of combustion in the room 
+
+concerned;
+
+d.  the restrictions in (a)(c) above also apply in 
+
+respect of any cupboard or compartment 
+
+within the rooms concerned, and to any 
+
+cupboard, compartment or space adjacent 
+
+to, and with an air vent into, such a room;
+
+instantaneous water heaters (installed in any 
+
+room) must be room sealed or have fitted a 
+
+safety device to shut down the appliance as 
+
+in (c) above;
+
+f.  precautions must be taken to ensure that all 
+
+installation pipework, gas fittings, appliances 
+
+and flues are installed safely.
+
+
+When any gas 
+
+appliance is installed, checks are required for 
+
+ensuring compliance with the Regulations, 
+
+including the effectiveness of the flue, the 
+
+supply of combustion air, the operating 
+
+pressure or heat input (or where necessary 
+
+both), and the operation of the appliance to 
+
+ensure its safe functioning;
+
+g.  any flue must be installed in a safe position 
+
+and must be adequate, suitable and effective 
+
+for use with the appliance which it serves;
+
+ JApproved Document J Combustion appliances and fuel storage systems 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net)
+
+h.  no alteration is allowed to any premises in 
+
+which a gas fitting or gas storage vessel is 
+
+fitted which would adversely affect the safety 
+
+of that fitting or vessel, causing it no longer to 
+
+comply with the Regulations;
+
+i.  LPG storage vessels and LPGfired appliances 
+
+fitted with automatic ignition devices or pilot 
+
+lights must not be installed in cellars or 
+
+basements.
+
+
+Diagram 31   Types of gas fire
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net) 
+
+3.12 
+
+In dwellings with an air permeability 
+
+greater than 5.0 m3/hr/m2 (see Appendix F), 
+
+permanently open air vents may not be necessary 
+
+for DFE fires with ratings not exceeding 7kW (net) 
+
+that have a flue gas clearance rate (without 
+
+spilling) not exceeding 70 m3/hour.
+
+
+3.16  A room containing a gas point intended for 
+
+use with a flueless appliance (such as a gas point 
+
+for a cooker or a gas point for a space or water 
+
+heater, the gas point not being adjacent to a flue) 
+
+should have the ventilation provision required for 
+
+the installation of that appliance (calculated on 
+
+the basis that an appliance with the largest rating 
+
+consistent with the table to Diagram 33 could be 
+
+installed there).
+
+
+The Gas Appliances (Safety) 
+
+Regulations 1995 require that particular 
+
+combinations of appliance, flue box (where 
+
+required) and flue must be selected from those 
+
+stated in the manufacturers instructions as 
+
+having been shown to be safe by a Notified 
+
+Body.
+
+
+A flueless instantaneous water heater 
+
+should not be installed in a room or space having 
+
+a volume of less than 5 m.
+
+Air supply to gas fires and  
+
+other appliances
+
+3.10  A way of meeting the requirements would 
+
+be to follow the general guidance given in 
+
+Section 1, beginning at Paragraph 1.2, in 
+
+conjunction with the guidance below.
+
+
+Flued Decorative Fuel Effect  
+
+(DFE) fires
+
+3.11  Any room or space intended to contain a 
+
+DFE fire should have permanently open air vents 
+
+as described in (a) or (b) below, unless the 
+
+installation is in accordance with Paragraph 3.12:
+
+a.  for a DFE fire in a fireplace recess with a 
+
+throat, the air vent equivalent area should be 
+
+at least 10,000mm (100cm)
+
+b.  for a DFE fire in a fireplace with no throat, 
+
+such as a fire under a canopy, the air vent 
+
+should be sized in accordance with Section 2 
+
+of this Approved Document, as if the room 
+
+were intended to contain a solid fuel fire  
+
+(see Table 1).
+
+
+In older dwellings with an air permeability which is more than 5.0m3/h/m2 the first 7kW(net) can be ignored.
+
+
+An internal space here means one which communicates with several other rooms or spaces.
+
+
+Example: for a space heater in a lounge measuring 4m x 4m x 2.4m ( 38.4m3), the appliance rated input should not 
+
+exceed 38.4 x 0.045  1.73kW (net).
+
+
+If an existing flue is to be used it should be 
+
+3.18 
+
+checked in accordance with Paragraph 1.36.
+
+
+3.19  For appliances that are CE marked as 
+
+compliant with the Gas Appliances (Safety) 
+
+Regulations, flues should be sized in accordance 
+
+with the manufacturers installation instructions.
+
+
+3.20  Connecting fluepipes should be the same 
+
+size in terms of diameter and/or equivalent 
+
+crosssectional area as the appliance flue outlet.
+
+
+The chimney flue should have at least the same 
+
+crosssectional area as that of the appliance  
+
+flue outlet.
+
+
+Some ILFE and DFE appliances require a circular flue of at least 125mm diameter.
+
+
+Height of natural draught flues  
+
+for openflued appliances
+
+3.21  Flues should be high enough to ensure 
+
+sufficient draught to safely clear the products of 
+
+combustion.
+
+
+Outlets from flues
+
+3.23  Outlets from flues should be so situated 
+
+externally as to allow the dispersal of products of 
+
+combustion and, if a balanced flue, the intake of 
+
+air.
+
+
+Whilst this nuisance is 
+
+not considered to be within the scope of building 
+
+regulations, such installations could be 
+
+considered as a Statutory Nuisance as set out 
+
+in the Environmental Protection Act.
+
+
+For 
+
+any other terminal, 
+
+as given in 
+
+BS 54401:2008
+
+Above the highest point of 
+
+intersection with the roof
+
+Site in 
+
+accordance with 
+
+manufacturers 
+
+instructions
+
+Site in 
+
+accordance with 
+
+BS 54401:2008
+
+Notes:
+
+ An opening here means an openable element, such as an openable window, or a fixed opening such as an air vent.
+
+
+N/A means not applicable.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net) 
+
+Diagram 35   Location of outlets near roof windows from flues serving gas appliances
+
+3.24  Flue outlets should be protected where 
+
+flues are at significant risk of blockage.
+
+
+3.25  Flues serving natural draught openflued 
+
+appliances should be fitted with outlet terminals if 
+
+the flue diameter is no greater than 170mm.
+
+
+The risk of blockage of flues of more than 
+
+170mm diameter should be assessed in the light 
+
+of local conditions.
+
+
+In areas where nests of 
+
+squirrels or jackdaws are likely, the fitting of a 
+
+protective cage designed for solid fuel use and 
+
+having a mesh size no larger than 25mm (but 
+
+no smaller than 6mm) may be an acceptable 
+
+provision if the total free area of its outlet 
+
+openings is at least twice the crosssectional 
+
+area of the flue.
+
+
+3.26  A flue outlet should be protected with a 
+
+guard if persons could come into contact with it 
+
+or if it could be damaged.
+
+
+If a flue outlet is in a 
+
+vulnerable position, such as where the flue 
+
+discharges within reach from the ground, or a 
+
+balcony, veranda or a window, it should be 
+
+designed to prevent the entry of any matter that 
+
+could obstruct the flow of flue gases.
+
+
+Provision of flues
+
+3.27  Satisfactory provision of chimneys and 
+
+fluepipes for gas appliances may be achieved by:
+
+a.  following the guidance on the selection of 
+
+components and the manner of their 
+
+installation as given in Paragraphs 3.28 to 
+
+3.35 and the references to Section 1; or (if  
+
+the intended appliance is new and of  
+
+known type)
+
+or (if the intended appliance is new and of  
+
+known type):
+
+b.  i)  using factorymade components that 
+
+achieve a performance at least equal to 
+
+that corresponding to the designation 
+
+given in Table 6 for the intended appliance 
+
+type when tested to an appropriate 
+
+European chimney standard (BS EN); and
+
+ii)  installing these components in accordance 
+
+with the guidance in Paragraphs 3.28 to 
+
+3.35 and Section 1, as relevant, and in 
+
+accordance with the appliance manufacturers 
+
+and component manufacturers 
+
+installation instructions.
+
+
+Masonry chimneys
+
+3.29  Masonry chimneys should be built in 
+
+accordance with Paragraphs 1.27 and 1.28 in 
+
+Section 1.
+
+
+They can 
+
+also be constructed from factorymade flueblock 
+
+systems comprising straight blocks, recess units, 
+
+lintel blocks, offset blocks, transfer blocks and 
+
+jointing materials complying with:
+
+a.  BS EN 18581:2003 for concrete flueblocks of 
+
+at least class D2; or
+
+b.  BS EN 1806:2006 for clay/ceramic flueblocks 
+
+with a performance class of at least FB4 N2.
+
+
+3.31  Flueblock chimneys should be installed 
+
+with sealed joints in accordance with the 
+
+flueblock manufacturers installation instructions.
+
+
+Where bends or offsets are required, these 
+
+should be formed using matching factorymade 
+
+components.
+
+
+Factory
+
+made metal chimneys should be guarded if they 
+
+could be at risk of damage or the burn hazard 
+
+they present to people is not immediately apparent.
+
+
+Location and shielding of flues
+
+3.33  Combustible materials in the building 
+
+fabric should be protected from the heat 
+
+dissipation from flues so that they are not at risk 
+
+of catching fire.
+
+
+3.34  Where a fluepipe or chimney penetrates a 
+
+fire compartment wall or floor, it must not breach 
+
+the fire separation requirements of Part B.
+
+
+Table 7   Protecting buildings from 
+
+hot flues
+
+Flue within
+
+Protection measures
+
+Connecting fluepipe
+
+Factorymade 
+
+chimney appropriately 
+
+designated to BS EN 
+
+18561:2003
+
+Flues should be at least 25mm 
+
+from any combustible material 
+
+(measured from the outer surface 
+
+of the flue wall, or the outer 
+
+surface of the inner wall in the 
+
+case of multiwalled products).
+
+
+(The air
+
+space could be wholly or partially 
+
+filled with noncombustible 
+
+insulating material).
+
+
+Masonry chimney
+
+Provide at least 25mm of 
+
+masonry between flues and 
+
+any combustible material.
+
+
+Flueblock chimney
+
+Provide flueblock walls at least 
+
+25mm thick.
+
+
+3.35  Connecting fluepipes and factorymade 
+
+chimneys should also be guarded if they could 
+
+be at risk of damage or if they present a burn 
+
+hazard to people that is not immediately apparent
+
+Relining of flues in chimneys
+
+3.36  Lining or relining flues may be building 
+
+work and, in any case, such work should be 
+
+carried out so that the objectives of requirements 
+
+J2 to J5 are met (see Paragraphs 1.34 and 1.35).
+
+
+Existing flues being reused should be checked 
+
+as described in Paragraph 1.36.
+
+
+3.37  Flexible metal flue liners should be 
+
+installed in one complete length without joints 
+
+within the chimney.
+
+
+Other than for sealing at the 
+
+top and the bottom, the space between the 
+
+chimney and the liner should be left empty unless 
+
+this is contrary to the manufacturers instructions.
+
+
+Doubleskin flexible flue liners should be installed 
+
+in accordance with the manufacturers installation 
+
+instructions.
+
+
+BS 715 liners should be installed in 
+
+accordance with BS 54401:2008.
+
+
+Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net) 
+
+Diagram 36   Bases for back boilers (installation using a proprietary back boiler 
+
+enclosure shown)
+
+Debris collection space  
+
+for chimneys
+
+3.38  A debris collection space should be 
+
+provided at the base of a flue unless it is lined, or 
+
+constructed of flue blocks, or is a factorymade 
+
+metal chimney with a flue box.
+
+
+This can be 
+
+achieved by providing a space having a volume 
+
+of not less than 12 litres and a depth of at least 
+
+250mm below the point where flue gases 
+
+discharge into the chimney.
+
+
+For gas 
+
+fires of the type illustrated in Diagram 31 (a) and 
+
+(b), there should be at least 50mm clearance 
+
+between the end of the appliance flue outlet 
+
+and any surface.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsJ 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net)
+
+Diagram 37   Hearths for decorative fuel effect (DFE) and inset live fuel effect (ILFE) 
+
+fires: minimum plan dimensions of noncombustible surfaces
+
+Shielding of appliances
+
+3.42  Gasfired appliances should be located 
+
+where accidental contact is unlikely and 
+
+surrounded by a noncombustible surface which 
+
+provides adequate separation from combustible 
+
+materials.
+
+
+An alternative approach would be to protect 
+
+combustible fabric with:
+
+a.  a shield of noncombustible material, such as 
+
+insulating board, with a fireresistant surface; or
+
+b.  an air space of at least 75mm (see Diagram 39).
+
+
+Hearths
+
+3.40  Appliances should be placed on hearths 
+
+unless:
+
+a.  they are to be installed so that every part of 
+
+any flame or incandescent material will be at 
+
+least 225mm above the floor; or
+
+b.  the manufacturers instructions state that a 
+
+hearth is not required.
+
+
+Hearths should comprise at 
+
+least a (top) layer of noncombustible, nonfriable 
+
+material not less than 12mm thick.
+
+
+The edges of 
+
+hearths should be marked to provide a warning 
+
+to the building occupants and to discourage 
+
+combustible floor finishes such as carpet from 
+
+being laid too close to the appliance.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR GAS BURNING APPLIANCES 
+
+WITH A RATED INPUT UP TO 70kW (net) 
+
+Diagram 38   Hearths for other appliances: 
+
+plan dimension of non 
+
+combustible surfaces
+
+At least 150mm
+
+or to a suitably
+
+heatresistant wall
+
+Hearth
+
+surface
+
+free of
+
+combustible
+
+material
+
+At least
+
+225mm
+
+beyond
+
+front
+
+Diagram 39   Shielding of appliances
+
+Alternative approach
+
+The requirements may also be met by adopting 
+
+the relevant recommendations in the publications 
+
+listed below to achieve an equivalent level of 
+
+performance to that obtained by following the 
+
+guidance in this Approved Document:
+
+BS 5440 Installation and maintenance of flues 
+
+and ventilation for gas appliances of rated input 
+
+not exceeding 70kW net (1st, 2nd and 3rd family 
+
+gases), Part 1:2008 Specification for installation 
+
+and maintenance of flues; Part 2:2009 
+
+Specification for installation and maintenance 
+
+of ventilation for gas appliances.
+
+
+BS 5546:2000 Specification for installation of 
+
+hot water supplies for domestic purposes, 
+
+using gasfired appliances of rated input not 
+
+exceeding 70kW.
+
+
+BS 5864:2004 Specification for installation in 
+
+domestic premises of gasfired ductedair 
+
+heaters of rated input not exceeding 60kW.
+
+
+BS 5871 Specification for installation of gas fires, 
+
+convector heaters, fire/back boilers and 
+
+decorative fuel effect gas appliances, Part 1:2005 
+
+Gas fires, convector heaters and fire/back boilers 
+
+and heating stoves (1st, 2nd and 3rd family 
+
+gases); Part 2:2005 Inset live fuel effect gas fires 
+
+of heat input not exceeding 15kW and fire/back 
+
+boilers (2nd and 3rd family gases); Part 3:2005 
+
+Decorative fuel effect gas appliances of heat input 
+
+not exceeding 20kW (2nd and 3rd family gases).
+
+
+BS 6798:2009 Specification for installation of 
+
+gasfired boilers of rated input not exceeding 
+
+70kW net.
+
+
+Carbon monoxide alarms
+
+3.43  Where a new or replacement fixed gas 
+
+burning appliance (excluding gas appliances used 
+
+solely for cooking) is installed in a dwelling, a 
+
+carbon monoxide alarm should be provided in 
+
+the room where the appliance is located.
+
+
+3.45  The carbon monoxide alarm should be 
+
+located in the same room as the appliance:
+
+ on the ceiling at least 300mm from any wall or, 
+
+if it is located on a wall, as high up as possible 
+
+(above any doors and windows) but not within 
+
+150mm of the ceiling; and
+
+b.  between 1m and 3m horizontally from the 
+
+appliance.
+
+
+An example calculation illustrating 
+
+the use of this guidance is given in Appendix D. 
+
+Where manufacturers installation instructions 
+
+require greater areas of permanently open air 
+
+vents than those shown in Diagram 40, the 
+
+manufacturers advice should be followed.
+
+
+A way of meeting the requirements 
+
+would be to use:
+
+Flues should be sized to suit the intended 
+
+a.  connecting fluepipes of the same size as the 
+
+appliance flue outlet; and
+
+b.  flues in chimneys of the same crosssectional 
+
+area as the appliance flue outlet.
+
+
+Outlets from flues and flue heights
+
+The outlet from a flue should be so 
+
+situated externally as to ensure: the correct 
+
+operation of a natural draught flue; the intake of 
+
+air if a balanced flue; and dispersal of the 
+
+products of combustion.
+
+
+A way of meeting the requirement could 
+
+be to follow the guidance in Diagram 41.
+
+
+The 
+
+separations given in the Table to Diagram 41 are 
+
+minimum values that may have to be increased 
+
+where there is a risk that local factors such as 
+
+wind patterns could disrupt the operation of the 
+
+flue or where a natural draught flue would not be 
+
+tall enough to clear the products of combustion 
+
+of an openflued appliance.
+
+
+For flues in proximity 
+
+to roof windows the minimum separation 
+
+distances identified in Diagram 35 should be 
+
+applied.
+
+
+Whilst this nuisance is 
+
+not considered to be within the scope of building 
+
+regulations, such installations could be 
+
+considered as a Statutory Nuisance as set out 
+
+in the Environmental Protection Act.
+
+
+Flue outlets should be protected with 
+
+terminal guards if persons could come into 
+
+contact with them or if they could be damaged.
+
+
+If a flue outlet is in a vulnerable position, such as 
+
+where the flue discharges at a point within reach 
+
+of the ground, balcony, veranda or a window, it 
+
+should be designed to prevent the entry of any 
+
+matter that could obstruct the flow.
+
+
+In older dwellings with an air permeability which is more than 5.0m3/hr/m2 the first 5kW(net) can be ignored.
+
+
+JApproved Document J Combustion appliances and fuel storage systemsADDITIONAL PROVISIONS FOR OIL BURNING APPLIANCES 
+
+WITH A RATED OUTPUT UP TO 45kW
+
+Diagram 41   Location of outlets from flues serving oilfired appliances
+
+Table to Diagram 41   Location of outlets from flues serving oilfired appliances
+
+Minimum separation distances for terminals in mm
+
+Location of outlet (1)
+
+Appliance with 
+
+pressure jet burner
+
+Appliance with 
+
+vaporising burner
+
+Below an opening (2, 3)
+
+Horizontally to an opening (2, 3)
+
+Below a plastic/painted gutter, drainage pipe or eaves if combustible material 
+
+protected (4)
+
+Below a balcony or a plastic/painted gutter, drainage pipe or eaves without 
+
+protection to combustible material
+
+From vertical sanitary pipework
+
+From an external or internal corner or from a surface or boundary alongside 
+
+the terminal
+
+Above ground or balcony level
+
+From a surface or boundary facing the terminal
+
+From a terminal facing the terminal
+
+Vertically from a terminal on the same wall
+
+Horizontally from a terminal on the same wall
+
+Above the highest point of an intersection with the roof
+
+From a vertical structure to the side of the terminal
+
+Above a vertical structure which is less than 750mm (pressure jet burner) or 
+
+2300mm (vaporising burner) horizontally from the side of the terminal
+
+From a ridge terminal to a vertical structure on the roof
+
+600 (6)
+
+750 (6)
+
+600 (6)
+
+Notes:
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+Should not be used
+
+1000 (5)
+
+1000 (5)
+
+Should not be used
+
+1.
+
+
+An opening means an openable element, such as an openable window, or a permanent opening such as a permanently open air vent.
+
+
+Notwithstanding the dimensions above, a terminal should be at least 300mm from combustible material, e.g.
+
+
+A way of providing protection of combustible material would be to fit a heat shield at least 750mm wide.
+
+
+Where a terminal is used with a vaporising burner, the terminal should be at least 2300mm horizontally from the roof.
+
+
+Outlets for vertical balanced flues in locations M, N and O should be in accordance with manufacturers instructions.
+
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+ADDITIONAL PROVISIONS FOR OIL BURNING APPLIANCES 
+
+WITH A RATED OUTPUT UP TO 45kW 
+
+Satisfactory provision of chimneys and 
+
+Flues for oilfired appliances:  
+
+flue gas temperature
+
+fluepipes depends upon the flue gas temperature 
+
+to be expected in normal service and separate 
+
+guidance is given in this Approved Document 
+
+according to whether the proposed installation 
+
+will have a flue gas temperature more than or less 
+
+than 250C as measured by a suitable method 
+
+such as those in OFTEC Standards A100 or 
+
+A101.
+
+
+Modern boilers bearing the CE mark, indicating 
+
+compliance with the Boiler (Efficiency) 
+
+Regulations (1993), normally have flue gas 
+
+temperatures not exceeding 250C.
+
+
+Information for 
+
+individual appliances should be sought from the 
+
+manufacturers installation instructions, from the 
+
+manufacturers themselves or from OFTEC.
+
+
+Where this is not available, flues should be 
+
+constructed for an assumed flue gas temperature 
+
+greater than 250C.
+
+
+Provisions for flue gas 
+
+temperatures not exceeding 250C
+
+4.12  Satisfactory provision of chimneys and 
+
+fluepipes for oil appliances in these cases may 
+
+be achieved by:
+
+a.  following the guidance on the selection of 
+
+components and the manner of their 
+
+installation as given in Paragraphs 4.13 to 
+
+4.20 and the references to Section 1 or  
+
+(if the intended appliance is new and of 
+
+known type);
+
+b.  i)  using factorymade components that 
+
+achieve a performance at least equal to 
+
+that corresponding to the designation 
+
+given in Table 8 (for the intended appliance 
+
+type) when tested to an appropriate 
+
+European chimney standard (BS EN); and
+
+installing these components in accordance 
+
+with the guidance in Paragraphs 4.13 to 
+
+4.20 and Section 1, as relevant, and in 
+
+accordance with the appliance manufacturers 
+
+and component manufacturers 
+
+installation instructions.
+
+
+Table 8   Minimum performance 
+
+designations for chimney and 
+
+fluepipe components for use with 
+
+new oilfired appliances with flue 
+
+gas temperature less than 250C
+
+Appliance type
+
+Minimum 
+
+designation
+
+Fuel type
+
+Condensing boiler, 
+
+including combination 
+
+boiler, range cooker, 
+
+range cooker/boiler  
+
+with pressurejet burners
+
+Condensing boiler, 
+
+including combination 
+
+boiler, range cooker, 
+
+range cooker/boiler  
+
+with pressurejet burners
+
+Noncondensing boiler, 
+
+including combination 
+
+boiler, range cooker, 
+
+range cooker/boiler  
+
+with pressurejet burners
+
+Noncondensing boiler, 
+
+including combination 
+
+boiler, range cooker, 
+
+range cooker/boiler  
+
+with pressurejet burners
+
+T120 N2 W1 O
+
+Class C2 oil 
+
+(kerosene) 
+
+Liquid biofuel 
+
+conforming to 
+
+EN 14213:2003
+
+T160 N2 W2 O
+
+Class D oil 
+
+(heating oil)
+
+T250 N2 D1 O
+
+Class C2 oil 
+
+(kerosene) 
+
+Liquid biofuel 
+
+conforming to 
+
+EN 14213:2003
+
+T250 N2 D2 O
+
+Class D oil 
+
+(heating oil)
+
+Cooker and room heater 
+
+ with vaporising burner
+
+T160 N2 D1 O
+
+Cooker and room heater 
+
+ with vaporising burner
+
+T250 N2 D2 O
+
+Class C2 oil 
+
+(kerosene)
+
+Class D oil 
+
+(heating oil)
+
+Notes:
+
+1.
+
+
+Where the appliance 
+
+manufacturers installation instructions specify a higher 
+
+designation, this should be complied with.
+
+
+They can 
+
+also be constructed from factorymade flueblock 
+
+systems comprising straight blocks, recess units, 
+
+lintel blocks, offset blocks, transfer blocks and 
+
+jointing materials complying with:
+
+a.  BS EN 1858:2003 for concrete flueblocks; or
+
+b.  BS EN 1806:2006 for clay/ceramic flueblocks, 
+
+with a performance at least equal to the 
+
+designation given in Table 8 for the intended 
+
+appliance type.
+
+
+4.16  Flueblock chimneys should be installed 
+
+with sealed joints in accordance with the 
+
+flueblock manufacturers installation instructions.
+
+
+Where bends or offsets are required, these 
+
+should be formed using matching factorymade 
+
+components.
+
+
+Location and shielding of flues
+
+4.18  A way of protecting the building fabric 
+
+from the heat dissipation from flues, where flue 
+
+gas temperatures are not expected to exceed 
+
+250C, would be to follow the guidance in Table 9.
+
+
+4.19  Where a fluepipe or chimney penetrates a 
+
+fire compartment wall or floor, it must not breach 
+
+the fire separation requirements of Part B.
+
+
+4.20  Fluepipes and factorymade chimneys 
+
+should also be guarded if they could be at risk of 
+
+damage or if they present a hazard to people that 
+
+is not immediately apparent such as when they 
+
+traverse intermediate floors out of sight of the 
+
+appliance.
+
+
+Table 9   Protecting buildings from hot 
+
+flues for flue gas temperatures 
+
+not more than 250C
+
+Flue within:
+
+Protection measures
+
+Connecting fluepipe
+
+Factorymade 
+
+chimney designated in 
+
+accordance with BS EN 
+
+18561:2003
+
+Flues should be at least 25mm 
+
+from any combustible material 
+
+(measured from the outer surface 
+
+of the flue wall, or the outer 
+
+surface of the inner wall in the 
+
+case of multiwalled products).
+
+
+(The 
+
+airspace could be wholly or 
+
+partially filled with non
+
+combustible insulating material.)
+
+
+Masonry chimney
+
+Provide at least 25mm of 
+
+masonry between flues and 
+
+any combustible material.
+
+
+Flueblock chimney
+
+Provide flueblock walls at least 
+
+25mm thick.
+
+
+Flue assemblies 
+
+for roomsealed 
+
+appliances 
+
+a)   flues passing through 
+
+combustible walls should 
+
+be surrounded by insulating 
+
+material at least 50mm thick.
+
+
+b)   provide a clearance of at least 
+
+50mm from the edge of the flue 
+
+outlet to any combustible wall 
+
+cladding.
+
+
+Relining of flues in chimneys
+
+4.21  Lining or relining flues may be building 
+
+work and, in any case, such work should be 
+
+carried out so that the objectives of requirements 
+
+J2 to J5 are met (see Paragraphs 1.34 and 1.35).
+
+
+For flue liners serving oil appliances, ways of 
+
+meeting the requirements include the use of:
+
+a.  linings suitable for use if the flue gas 
+
+temperature can be expected to exceed 
+
+250C such as:
+
+liners as described in Paragraph 1.27;
+
+liners as described in Paragraph 2.20;
+
+iii.
+
+
+The perimeter 
+
+of this safe region should be marked to provide 
+
+a warning to the building occupants and to 
+
+discourage combustible floor finishes such as 
+
+carpet from being laid too close to the appliance.
+
+
+Special measures may be unnecessary 
+
+if the materials will not be subjected to 
+
+temperatures in excess of 100C, but otherwise 
+
+a way of meeting the requirement would be to 
+
+protect combustible fabric with:
+
+a.  a shield of noncombustible material, such as 
+
+insulating board with fireresistant surface; or
+
+b.  an airspace of at least 75mm (see Diagram 
+
+39 in Section 3).
+
+
+4.29  Appliances having surface temperatures 
+
+during normal operation of no more than 100C 
+
+would not normally require shielding.
+
+
+b.  linings suitable for use if the flue gas 
+
+temperature is unlikely to exceed 250C  
+
+such as:
+
+i.  any of the linings described in (a) above;
+
+ii.
+
+
+(if the appliance is new and of known 
+
+type) flue lining systems that have a 
+
+performance at least equal to that 
+
+corresponding to the designation given in 
+
+Table 8 for the intended appliance type.
+
+
+4.22  Flexible metal flue liners should be 
+
+installed in one complete length without joints 
+
+within the chimney.
+
+
+Other than for sealing at the 
+
+top and the bottom, the space between the 
+
+chimney and the liner should be left empty unless 
+
+this is contrary to the manufacturers instructions.
+
+
+Doubleskin flexible flue liners should be installed 
+
+in accordance with the manufacturers installation 
+
+instructions.
+
+
+Liners should be installed in 
+
+accordance with BS EN 158271:2007.
+
+
+Flues for appliances burning  
+
+Class D oil
+
+4.23  Flues which may be expected to serve 
+
+appliances burning Class D oil should be made 
+
+of materials which are resistant to acids of 
+
+sulphur, i.e.
+
+
+4.25 
+
+If the operation of an appliance is unlikely 
+
+to cause the temperature of the floor below it to 
+
+exceed 100C, as shown using an appropriate 
+
+test procedure such as those in OFTEC Standards 
+
+A 100 and A 101, special measures may be 
+
+unnecessary beyond the provision of a rigid, 
+
+imperforate, and nonabsorbent sheet of non
+
+combustible material such as a steel tray.
+
+
+If the appliance could cause the temperature 
+
+4.26 
+
+of the floor below it to exceed 100C, a more 
+
+substantial hearth is required.
+
+
+A way of meeting 
+
+the requirement would be to provide a hearth of 
+
+solid noncombustible material at least 125mm 
+
+thick (which may include the thickness of any 
+
+noncombustible floor) with plan dimensions not 
+
+less than those shown in Diagram 24 in Section 
+
+2.
+
+
+It should have no combustible material below 
+
+it unless there is an airspace of at least 50mm 
+
+between the material and the underside of the 
+
+hearth, or there is a distance of at least 250mm 
+
+ JApproved Document J Combustion appliances and fuel storage systemsADDITIONAL PROVISIONS FOR OIL BURNING APPLIANCES 
+
+WITH A RATED OUTPUT UP TO 45kW
+
+Diagram 42   Location of an oilfired appliance in relation to its hearth.
+
+
+Carbon monoxide alarms
+
+4.30  Where a new or replacement fixed oil 
+
+burning appliance is installed in a dwelling, a 
+
+carbon monoxide alarm should be provided in 
+
+the room where the appliance is located.
+
+
+4.32  The carbon monoxide alarm should be 
+
+located in the same room as the appliance:
+
+a.   on the ceiling at least 300mm from any wall 
+
+or, if it is located on a wall, as high up as 
+
+possible (above any doors and windows) but 
+
+not within 150mm of the ceiling; and
+
+J Combustion appliances and fuel storage systems Approved Document J 
+
+Section 5: Provisions for liquid fuel storage 
+
+and supply
+
+Performance
+
+In the Secretary of States view 
+
+requirements J6 and J7 will be met if:
+
+a.  oil and LPG fuel storage installations 
+
+including the pipework connecting them to 
+
+the combustion appliances in the buildings 
+
+they serve are located and constructed so 
+
+that they are reasonably protected from fires 
+
+which may occur in buildings or beyond 
+
+boundaries;
+
+b.  oil storage tanks, their ancillary equipment 
+
+and the pipework connecting them to 
+
+combustion appliances in buildings used 
+
+wholly or mainly for private dwellings:
+
+i.  are reasonably resistant to physical 
+
+damage and corrosion and are designed 
+
+and installed so as to minimise the risk 
+
+of oil escaping during the filling or 
+
+maintenance of the tank; and
+
+incorporate secondary containment when 
+
+there is a significant risk of pollution; and
+
+iii.
+
+
+5.3  Requirement J7 does not apply to oil 
+
+storage systems where the capacity of the tank 
+
+exceeds 3500 litres, or where the tank is fully 
+
+buried or where the building served is not wholly 
+
+or mainly used as one or more private dwellings.
+
+
+However, requirement J6 applies to oil storage 
+
+systems serving buildings of all descriptions, 
+
+where the capacity of the tank exceeds 90 litres, 
+
+with no upper capacity limit on application, and 
+
+including cases where the tank is buried.
+
+
+This can be 
+
+achieved with a hard surface beneath the tank 
+
+such as concrete, or paving slabs at least 42mm 
+
+thick, extending out at least 300mm beyond the 
+
+perimeter of the tank (or its external skin if it is of 
+
+the integrally bunded type).
+
+
+Table 10   Fire protection for oil 
+
+storage tanks
+
+Location of tank
+
+Protection usually satisfactory
+
+Locate tanks in a place of special fire 
+
+hazard which should be directly 
+
+ventilated to outside.
+
+
+a)   Make building walls imperforate (1) 
+
+within 1800mm of tanks with at least 
+
+30 minutes fire resistance (2) to 
+
+internal fire and construct eaves 
+
+within 1800mm of tanks and 
+
+extending 300mm beyond each side 
+
+of tanks with at least 30 minutes fire 
+
+resistance to external fire and with 
+
+noncombustible cladding; or 
+
+b)   Provide a fire wall (3) between the 
+
+tank and any part of the building 
+
+within 1800mm of the tank and 
+
+construct eaves as in (a) above.
+
+
+The fire wall should extend at least 
+
+300mm higher and wider than the 
+
+affected parts of the tank.
+
+
+Provide a fire wall between the tank and 
+
+the boundary or a boundary wall having 
+
+at least 30 minutes fire resistance to fire 
+
+on either side.
+
+
+The fire wall or the 
+
+boundary wall should extend at least 
+
+300mm higher and wider than the top 
+
+and sides of the tank.
+
+
+Within a building
+
+Less than 1800mm 
+
+from any part of a 
+
+building
+
+Less than 760mm 
+
+from a boundary
+
+At least 1800mm 
+
+from the building and 
+
+at least 760mm from 
+
+a boundary
+
+Notes:
+
+1.
+
+
+JApproved Document J Combustion appliances and fuel storage systems 
+
+PROVISIONS FOR LIQUID FUEL STORAGE AND SUPPLY
+
+Fire walls should be built to be stable so 
+
+as not to pose a danger to people around them.
+
+
+Oil supply pipe systems:  
+
+means of automatic isolation
+
+A way of meeting the requirement would 
+
+be to install fuel pipework which is resistant to 
+
+the effects of fire and to fit a proprietary fire 
+
+valve system in accordance with the relevant 
+
+recommendations in BS 54101:1997, Sections 
+
+8.2 and 8.3.
+
+
+In such cases, secondary 
+
+containment should be provided where there is a 
+
+significant risk of oil pollution.
+
+
+For the purposes 
+
+of requirement J6, there is a significant risk of 
+
+pollution if the oil storage installation:
+
+a.  has a total capacity of more than 2500 litres; or
+
+b.  is located within 10m of inland freshwaters 
+
+or coastal waters; or
+
+c.  is located where spillage could run into an 
+
+open drain or to a loosefitting manhole  
+
+cover; or
+
+d.  is located within 50m of sources of potable 
+
+water, such as wells, boreholes or springs; or
+
+e.  is located where oil spilled from the 
+
+installation could reach the waters listed 
+
+above by running across hard ground; or
+
+is located where tank vent pipe outlets 
+
+cannot be seen from the intended filling point.
+
+
+However:
+
+c.  where the bund walls are part of the walls of a 
+
+chamber or building enclosing the tank, any 
+
+door through such walls should be above 
+
+bund level; and
+
+d.  specialist advice should be sought where 
+
+the bund has a structural role as part of a 
+
+building.
+
+
+5.11  Bunds, whether part of prefabricated tank 
+
+systems or constructed on site, should have a 
+
+capacity of at least 110 per cent of the largest 
+
+tank they contain.
+
+
+A storage installation 
+
+may be shown to comply with the legislation by 
+
+constructing it in accordance with an appropriate 
+
+industry Code of Practice, prepared in 
+
+Combustion appliances and fuel storage systems Approved Document JPROVISIONS FOR LIQUID FUEL STORAGE AND SUPPLY 
+
+5.18  A fire wall should be at least as high as the 
+
+pressure relief valve.
+
+
+Satisfactory building 
+
+work provisions would be to provide a firm level 
+
+base such as concrete at least 50mm thick or 
+
+paving slabs bedded on mortar at a location so 
+
+that cylinder valves will be:
+
+a.  at least 1m horizontally and 300mm vertically 
+
+from openings in the building or heat sources 
+
+such as flue terminals and tumbledryer 
+
+vents; and
+
+b.  at least 2m horizontally from drains without 
+
+traps, unsealed gullies or cellar hatches 
+
+unless an intervening wall not less than 
+
+250mm high is provided.
+
+
+Tank location and protective 
+
+measures
+
+5.14  For LPG storage systems of up to 1.1 
+
+tonne capacity, comprising one tank standing in 
+
+the open air, a way of meeting the requirement 
+
+J6 would be to comply with the relevant 
+
+recommendations in the UKLPG Code Of 
+
+Practice 1: Bulk LPG Storage at Fixed 
+
+Installations Part 1 (2009) and BS 54821:2005 
+
+(see Appendix F and Other Publications referred 
+
+to) whilst also adopting the following guidance:
+
+5.15  The LPG tank should be installed outdoors 
+
+and not within an open pit.
+
+
+The tank should be 
+
+adequately separated from buildings, the 
+
+boundary and any fixed sources of ignition to 
+
+enable safe dispersal in the event of venting or 
+
+leaks and in the event of fire to reduce the risk of 
+
+fire spreading.
+
+
+Drains, 
+
+gullies and cellar hatches within the separation 
+
+distances should be protected from gas entry.
+
+
+Where a fire wall is part of the 
+
+building or a boundary wall, it should be located 
+
+in accordance with Diagram 43(c) and, if part of 
+
+the building, constructed in accordance with 
+
+Diagram 43(d).
+
+
+They should have a fire resistance 
+
+(insulation, integrity and stability (REI)) of at least 
+
+30 minutes but, if part of the building as shown in 
+
+Diagram 43 (d), they should have a fire resistance 
+
+(REI) of at least 60 minutes.
+
+
+To ensure good 
+
+ventilation, fire walls should not normally be built 
+
+on more than one side of a tank.
+
+
+Table 11  Fire protection for LPG storage tanks (see Diagram 43)
+
+Capacity of tank not exceeding (tonnes):
+
+Minimum separation distances from buildings, 
+
+boundaries or fixed sources of ignition (metres)
+
+To a tank with no fire wall or 
+
+to a tank around a fire wall
+
+To a tank shielded by 
+
+a fire wall
+
+Approved Document J Combustion appliances and fuel storage systemsJ 
+
+PROVISIONS FOR LIQUID FUEL STORAGE AND SUPPLY
+
+Diagram 43   Separation or shielding of liquefied petroleum gas tanks of up to 1.1 
+
+tonne capacity from buildings, boundaries and fixed sources of ignition
+
+Table 11
+
+Column (B)
+
+Table 11
+
+Column (C)
+
+Table 11
+
+Column (C)
+
+Table 11
+
+Column (B)
+
+Table 11
+
+Column (C)
+
+Table 11 Column (B)
+
+(See Diagram (c) above)
+
+Combustion appliances and fuel storage systems Approved Document JPROVISIONS FOR LIQUID FUEL STORAGE AND SUPPLY 
+
+Diagram 44   Location of LPG cylinders
+
+5.22 
+
+In respect of installation pipework subject 
+
+to the provisions of the GSIUR, Regulation 19(6) 
+
+of the GSIUR requires that installation pipework 
+
+should not be installed in any shaft, duct or void 
+
+which is not adequately ventilated.
+
+
+LPG pipework (Informative)
+
+5.21  For the puposes of the Gas Safety 
+
+(Installation and Use) Regulations 1998 (GSIUR), 
+
+where the LPG service pipework runs underground 
+
+from the LPG tank to the premises it should be 
+
+manufactured of noncorroding material.
+
+
+Pipe 
+
+entering the building should be manufactured 
+
+from metallic material and the transition joints 
+
+between the nonmetallic and metallic pipe 
+
+should be located outdoors.
+
+
+The sleeve should be continuous through the 
+
+external wall and be sealed at the inner wall to 
+
+ensure that any escapes of gas are vented to the 
+
+outside only.
+
+
+If you are a sub
+
+contractor, a copy should be offered to the main contractor.
+
+
+If 
+
+you are a subcontractor, a copy should be offered to the main contractor.
+
+
+JApproved Document J Combustion appliances and fuel storage systems 
+
+Appendix B: Opening areas of large or 
+
+unusual fireplaces 
+
+(SEE PARAGRAPH 2.7)
+
+calculated from the following formula:
+
+The opening area of a fireplace should be 
+
+Examples of L and H for large and unusual 
+
+fireplace openings are shown in Diagram 45.
+
+
+6kW more than the rating at which permanent 
+
+ventilation openings become necessary for the 
+
+adjoining room.
+
+
+In addition, appliance performance 
+
+tests, including flue spillage tests to check for 
+
+compliance with J2, should be carried out when 
+
+an appliance is commissioned to check for 
+
+compliance with Part L and as required by the 
+
+Gas Safety (Installation and Use) Regulations.
+
+
+Tests on flues should be carried out at the 
+
+most appropriate time during the building work.
+
+
+Where possible, for example, smoke tests should 
+
+be performed when the structure of a chimney is 
+
+visible and before the application of finishes such 
+
+as plaster or dry lining that could obscure sight of 
+
+smoke leakage during testing.
+
+
+Tar 
+
+deposits caused by burning wood may be 
+
+especially hard to dislodge and should be 
+
+removed.
+
+
+The debris that comes down the 
+
+chimney when sweeping should be examined 
+
+for excessive quantities of lining or brick that 
+
+are signs that further repairs are necessary.
+
+
+Deterioration in the structure, connections 
+
+or linings which could affect the flues 
+
+gastightness and safe performance with 
+
+the proposed combustion appliance.
+
+
+Following 
+
+inspection, the chimney should be subjected to a 
+
+smoke test.
+
+
+Appliances
+
+E8  Where a combustion appliance is provided 
+
+and connected up to the flue system as part of 
+
+the work, the complete system of appliance and 
+
+flue should be tested for gastightness in addition 
+
+to testing the flue separately as above.
+
+
+It should be 
+
+carried out before smoke testing.
+
+
+E10  A heavy ball, with a diameter about 25mm 
+
+less than that of the flue, is lowered on a rope 
+
+from the flue outlet to the bottom of the flue.
+
+
+Other smoke testing procedures could be used 
+
+where these form part of the procedure for the 
+
+installation of an approved flue or relining system
+
+Smoke test I
+
+E13  All doors and windows in the room served 
+
+by the flue should be closed.
+
+
+When 
+
+smoke starts to form, the base of the flue or 
+
+fireplace opening should be sealed or the 
+
+appliance should be closed, so that the smoke 
+
+can only enter the flue.
+
+
+(For example, the recess 
+
+opening should be closed off with a board or 
+
+plate, sealed at the edges or, if the pellets are in 
+
+the appliance, its doors, ashpit covers and vents 
+
+should be closed.)
+
+
+E14  Smoke should be seen to issue freely 
+
+from the flue outlet or terminal.
+
+
+The test should be 
+
+allowed to continue for at least 5 minutes.
+
+
+Smoke test II
+
+E15  All doors and windows in the room served 
+
+by the flue should be closed.
+
+
+E16  Smoke should be seen to issue freely from 
+
+the flue outlet or terminal and not to spill back 
+
+into the room.
+
+
+There should be no significant 
+
+leakage of smoke from the length of the chimney 
+
+inside or outside of the building.
+
+
+Notes in relation to testing
+
+E18  Where warming of the flue is specified, this 
+
+is intended to establish a draught, but this may 
+
+take more than 10 minutes in the case of large or 
+
+cold flues.
+
+
+When checking for smoke 
+
+leakage from a flue, it should be borne in mind 
+
+that smoke from a faulty flue can emerge some 
+
+distance away from the original fault.
+
+
+In such 
+
+cases, the smoke could emerge from such places 
+
+as barge overhangs in the end of terrace 
+
+dwellings or from window reveals in cavity walls.
+
+
+It should be noted that smoke pellets 
+
+create a pressure significantly higher than the 
+
+pressure required in the product standards for 
+
+natural draught chimneys and for flues having a 
+
+gastightness designation of N1.
+
+
+If forceful plumes, or large volumes of 
+
+smoke are seen, this could indicate a major fault 
+
+such as an incorrectly made connection or joint, 
+
+or a damaged section of chimney that requires 
+
+investigation and remedial action followed by a 
+
+repeat of the test.
+
+
+Approved Document J Combustion appliances and fuel storage systemsAppendix F: Assessing air permeability of 
+
+older dwellings in relation to permanent 
+
+ventilation requirements
+
+Failure to implement even a few of these 
+
+measures will typically mean that the overall air 
+
+permeability will probably exceed 5.0 m3/(h.m2) at 
+
+50 Pa.
+
+
+If in doubt then assume 
+
+that the air permeability is lower than 5.0 m3/
+
+(h.m2) at 50 Pa and fit the appropriate permanent 
+
+ventilation or seek specialist advice.
+
+
+Older houses are unlikely to have been 
+
+tested but are unlikely to achieve an air 
+
+permeability of less than 5.0 m3/(h.m2) at 50 Pa 
+
+unless the building fabric has been substantially 
+
+upgraded.
+
+
+for clay flue 
+
+liners a designation Liner  EN 1457300A1N2 
+
+means it is suitable for a chimney with the 
+
+designation T600 N2 D 3 G, with a nominal 
+
+size of 300mm.
+
+
+In selecting an appliance for a given 
+
+chimney designation, the appliance, irrespective 
+
+of the fuel used, is required to generate 
+
+combustion products with characteristics equal 
+
+or less than those designated for the chimney.
+
+
+When selecting a chimney suitable for a given 
+
+appliance, any chimney with performance 
+
+characteristics equal to or higher than those 
+
+appropriate for the appliance may be used.
+
+
+Temperature classes
+
+Temperature classes are set out in Table 
+
+G1 and expressed as T followed by a number 
+
+which is less than or equal to the nominal 
+
+working temperature, i.e., the average flue  
+
+gas temperature obtained during the nominal/
+
+rated output test (usually the maximum  
+
+operating level);
+
+Table G1  Temperature classes
+
+Temperature class
+
+Nominal working 
+
+temperature C
+
+T 080
+
+T 100
+
+T 120
+
+T 140
+
+T 160
+
+T 200
+
+T 250
+
+T 300
+
+T 400
+
+T 450
+
+T 600
+
+ 100
+
+ 120 
+
+ 140
+
+ 160
+
+ 200
+
+ 250
+
+ 300
+
+ 400
+
+ 450
+
+ 600
+
+Pressure classes
+
+Pressure classes are set out in Table G2 
+
+and expressed as either N, P or H followed 
+
+by either 1 or 2.
+
+
+BS 715:2005  
+
+Specification for metal flue pipes, fittings, terminals 
+
+and accessories for gasfired appliances with a 
+
+rated input not exceeding 60kW.
+
+
+BS 54401:2008  
+
+Installation and maintenance of flues and 
+
+ventilation for gas appliances of rated input not 
+
+exceeding 70kW net (1st, 2nd and 3rd family 
+
+gases).
+
+
+BS 54402:2000  
+
+Installation and maintenance of flues and 
+
+ventilation for gas appliances of rated input not 
+
+exceeding 70kW net (1st, 2nd and 3rd Family 
+
+Gases).
+
+
+Installations at 
+
+permanent dwellings, residential park homes and 
+
+commercial premises, with installation pipework 
+
+sizes not exceeding DN 25 for steel and DN 28 
+
+for corrugated stainless steel or copper.
+
+
+BS 5546:2000  
+
+Specification for installation of hot water 
+
+supplies for domestic purposes, using gas fired 
+
+appliances of rated input not exceeding 70kW.
+
+

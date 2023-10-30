@@ -1,0 +1,128 @@
+For blocks of flats with shared communal rooms, this approved document should be consulted for those rooms.
+0.8  The local authoritys conservation officer should be consulted when undertaking work to a building in paragraphs 0.5a or 0.5b.
+Emergency repairs.
+0.9  For emergency repairs, if it is not possible to notify the building control body in advance, the building control body should be notified as soon as possible.
+Minor works.
+0.10  Minor works must comply with the relevant requirements of the Building Regulations, but the building control body does not need to be notified.
+for a workshop or office) should be treated as a dwelling if the commercial part can be reverted to domestic use.
+What constitutes a substantial proportion should be assessed on a casebycase basis by the building control body.
+The larger of the window openings specified in Approved Document B or Approved Document F should be applied in all cases.
+0.18  The guidance in Approved Document J should be followed when installing and testing ventilation appliances.
+Combustion appliances must operate safely whether or not fans are running.
+Interaction with Part L.0.19  Energy efficiency should be considered when specifying ventilation systems.
+Interaction with Part K and Part M.0.20 Manual controls, where provided for a ventilation device, should be within reasonable reach of the occupants.
+In this case, the higher of the two standards should be followed.
+(1)   There shall be adequate means of ventilation provided for people in the building.
+Limits on application.
+Requirement F1 does not apply to a building or space within a building.
+Intention.
+In the Secretary of States view, requirement F1(1) is met in a new building other than a dwelling if it has a means of ventilation that achieves all of the following.
+Noise.
+1.5  Mechanical ventilation systems, including both continuous and intermittent mechanical ventilation, should be designed and installed to minimise noise.
+Ensuring that equipment is appropriately and securely fixed, such as using resilient mountings where noise carried by the structure of the building could be a problem.
+1.6  For mechanical ventilation systems, fan units should be appropriately sized so that fans operating in normal background ventilation mode are not overly noisy, taking into consideration the use and likely background level of noise from other sources.
+Access for maintenance.
+1.7  Reasonable access should be provided for maintaining ventilation systems, including all of the following.
+Other ventilation systems may be acceptable if they can be shown to meet an equal level of performance.
+Where lower ventilation rates are proposed, expert advice should be obtained to demonstrate that the solution meets the performance standards in Appendix B.
+Installation of ventilation systems.
+1.16  Ventilation systems should be installed to meet both of the following conditions.
+1.17  Rigid ducts should be used wherever possible.
+Where necessary, flexible ducts may be used for final connections, but their lengths should be kept to a minimum.
+1.18  Ductwork installations should be designed and installed to minimise the overall pressure losses within the system by taking all of the following steps.
+1.19  Duct connections should be both mechanically secured and adequately sealed to prevent leaks.
+Rigid connectors and jubilee clips should be used for flexible ducting to ensure a good seal.
+1.20  Mechanical ventilation systems must be commissioned in accordance with an approved procedure.
+Indoor air quality monitoring.
+1.21  In new buildings, the following types of occupiable room, unless they are rooms of the size described in paragraph 1.22, should have a means of monitoring the indoor air quality.
+This may be achieved using CO2 monitors or other means of measuring indoor air quality.
+d.  Be placed at least 500mm from people where practicable.
+NOTE: Additional details on CO2 monitoring for indoor air quality can be found in Appendix C.Ventilation for offices.
+Extract ventilation for offices.
+1.24  Extract ventilation should be provided in offices in all the following areas.
+e.  Rooms that are designed to contain printers and photocopiers in substantial use (more than  30 minutes per hour).
+NOTE: Rooms that are designed to contain printers and photocopiers in substantial use (more than 30 minutes per hour) should not be designed to be occupied.
+1.25  For rooms designed to contain printers and photocopiers in substantial use (more than 30 minutes per hour), both of the following should apply.
+The air extract rate should be 20 litres per second per machine during use.
+The whole building ventilation rate should be met.
+1.27  Extract ventilators in sanitary accommodation should be capable of continuous operation if required.
+The locations of extract ventilators should be both of the following.
+Where used, passive stack ventilation terminals should be located in the ceiling.
+Whole building ventilation rates for offices.
+1.32  Outdoor air should be supplied for occupiable rooms in offices at whichever of the following will provide the higher total rate.
+1.33  Common spaces in offices, including rooms or spaces used solely or mainly for circulation, such as corridors and lift lobbies, should be provided with either of the following.
+Natural ventilation by appropriately located ventilation opening(s) with a total opening area of at least 1/50 of the floor area of the common space.
+Purge ventilation for offices.
+1.35  Each office should have the means to provide purge ventilation, to reduce pollutants before the office space is occupied or after activities such as painting.
+Controls for offices.
+1.36  Controls should be provided for ventilators so that the ventilation in each room can be adjusted.
+Recirculation of air within ventilation systems in offices.
+1.37  Ventilation systems that, under normal operation, recirculate air between more than one space, room or zone should also be able to operate in a mode that reduces the risk of the transmission of airborne infection.
+Ventilation of car parks.
+1.38  For car parks below ground level, enclosed car parks and multistorey car parks, the ventilation rate should be designed, and equipment installed, to limit carbon monoxide to both of the following:a.  natural ventilation by appropriately located ventilation opening(s) with a total opening area of at least 1/50 of the floor area of the common space; b.  mechanical ventilation installed to provide a supply of fresh air of 0.5 litres per second per m2 of floor area.
+Act 1974 BESA TR 40 Guide to Good Practice for Local Exhaust Ventilation (2020).
+CIBSE Guide B2 Ventilation and Ductwork (2016).
+NOTE: Requirements are often exceeded by other criteria, such as the ventilation requirements of the particular manufacturing process.
+Extract ventilators in sanitary accommodation should be capable of continuous operation if required.
+Section 2: Minimising the ingress of external pollutants.
+2.1  Ventilation systems should be designed to minimise the intake of external air pollutants following paragraphs 2.2 to 2.6 if either of the following applies.
+The pollutant values in the location of the building exceed any of the limits in Table 2.1.
+Where modelling or monitoring data is required, expert advice should be sought.
+Control of ventilation intakes.
+2.2  Ventilation intakes should be located away from the direct impact of the sources of local pollution.
+2.3  Where urban traffic is a source of pollution, the air intakes for buildings next to busy urban roads should be both of the following.
+If this is unavoidable, intakes should be located to meet both of the following conditions.
+NOTE: In these circumstances, expert advice should be sought.
+Location of exhaust outlets.
+2.7  Exhaust outlets should be located so that both of the following are achieved.
+2.8  Where there is a prevailing wind direction, exhaust outlets should be downwind of intakes.
+NOTE: Ventilation through infiltration should be considered to be part of the ventilation provision of a building.
+Guidance in Section 1 should be followed.
+In these circumstances, any useful ventilation which was lost should be replaced in order to maintain a healthy indoor environment.
+When carrying out work which is likely to increase the airtightness of the building, it should be demonstrated to the building control body that the work meets the requirements of Part F1(1), where it is an applicable requirement.
+Refer to paragraphs 3.1 and 3.2 for the relevant standards that should be met.
+For floor areas greater than 10m2  minimum 250mm2 equivalent area per m2 of floor area.
+NOTE: If an exposed façade is close to an area of sustained and loud noise (e.g.
+a main road), then anoise attenuating background ventilator should be fitted.
+(2)   Fixed systems for mechanical ventilation and any associated controls must be commissioned by testing and adjusting as necessary to secure that the objective referred to in subparagraph (1) is Requirement F1 does not apply to a building or space within a building:into which people do not normally go;b.  which is used solely for storage; orc.  which is a garage used solely in connection with a single dwelling.
+(2)   The person carrying out the work shall not later than five days after the work has been completed give sufficient information to the owner about the buildings ventilation system and its maintenance requirements so that the ventilation system can be operated in such a manner as to provide adequate means of ventilation.
+(3)   Where this regulation applies the person carrying out the work shall, for the purpose of ensuring compliance with paragraph F1(2) or L1(b) of Schedule 1, give to the local authority a notice confirming that the fixed building services have been commissioned in accordance with a procedure approved by the Secretary of State.
+(4)  The notice shall be given to the local authority(a)  not later than the date on which the notice required by regulation 16(4) is required to be given; or(b)  where that regulation does not apply, not more than 30 days after completion of the work.
+Section 4: Commissioning and providing information.
+Commissioning of ventilation systems.
+4.1  Mechanical ventilation systems must be commissioned to provide adequate ventilation.
+commissioning notice must be given to the building control body.
+4.2  Commissioning should be carried out in accordance with CIBSEs Commissioning Code M.4.3  Ventilation ductwork commissioning should take account of guidance in BESAs DW 144 for metal ductwork, DW 154 for plastic ductwork and DW 143 for ductwork air leakage testing.
+Operating and maintenance instructions.
+4.4  Sufficient information about the ventilation system and its maintenance requirements must be given to the building owner to allow the system to be operated effectively.
+4.5  For new and existing buildings other than dwellings, information should be provided in a new or existing building log book.
+4.6  A copy of the completed commissioning sheet should be given to the owner of the building.
+Information should also be provided to suggest when, and how, the system components should be cleaned and maintained.
+4.8  The following information should be provided where relevant.
+That background ventilators allow fresh air into the building and should be left open.
+e.  How cleaning and maintenance of the system and its components should be carried out.
+f.  How to access ducts for cleaning, how to undertake cleaning of plant and ducts and the intervals at which cleaning should be undertaken.
+Extract ventilation may be by natural means or by mechanical means (e.g.
+by an extract fan or acentral system).
+Material change of use Defined in regulation 5 as: Where there is a change in the purposes for which or the circumstances in which a building is used, so that after that change:a.  the building is used as a dwelling, where previously it was not;b.  the building contains a flat, where previously it did not; c.  the building is used as an hotel or a boarding house, where previously it was not;d.  the building is used as an institution, where previously it was not;e.  the building is used as a public building, where previously it was not;the building is not a building described in classes 1 to 6 in Schedule 2, where previously it g.  the building, which contains at least one dwelling, contains a greater or lesser number of dwellings than it did previously;h.  the building contains a room for residential purposes, where previously it did not;the building, which contains at least one room for residential purposes, contains a greater or lesser number of such rooms than it did previously;the building is used as a shop, where it previously was not; ork.  the building is a building described in regulation 7(4)(a), where previously it was not.
+Purge ventilation may be provided by natural means (e.g.
+an openable window) ormechanical means (e.g.
+a fan).
+Ventilation opening: Any means of purposeprovided ventilation (whether permanent or closable) that opens directly to external air, such as the openable parts of a window, a louvre or a background ventilator.
+This ratio, in steadystate conditions, is numerically equal to the equilibrium relative humidity of the air, except that the latter is commonly expressed as a percentage.
+Ventilation: The supply and removal of air (by natural and/or mechanical means) to and from a space or spaces in a building.
+There should be a supply rate, in the absence of tobacco smoke or other excessive pollutants, of 10 litres per second per person.
+There should be no visible mould on the inner surfaces of external walls of a properly heated building with typical moisture generation.
+c.  Mould can grow whether the building is occupied or unoccupied, so the performance criteria for surface water activity (as given in Table B2) should be met at all times, regardless of whether there are occupants.
+Even if the designer and builder choose to reduce volatile organic compound (VOC) levels in buildings by controlling them at source, the ventilation requirements must still be met.
+Public Health Englands Indoor Air Quality Guidelines for Selected Volatile Organic Compounds (VOCs) in the UK should be used.
+Where the Health and Safety Executive gives guidance for specific situations, that guidance should be followed in preference to the guidance given here.
+Assumptions used in applying performance criteria for offices in Section 1.
+General.
+B4  For the purposes of this approved document, for all offices (both new and existing, where Part F applies), the moisture criteria are likely to be met if, during the colder months of the year, the moving average surface water activity of the internal surfaces of external walls is always less than the value in Table B2, evaluated over each moving average period.
+Monitors should therefore be positioned at least 500mm away from room occupants.
+Instantaneous or snapshot CO2 readings can be misleading, so several measurements should be taken throughout the day.
+The frequency of measurements should be sufficient to ensure that changes in the use of the room or space throughout the day are represented in the readings.
+How the measurements can help you take actionCO2 measurements should be used as a broad guide to ventilation within a space, rather than treated as safe thresholds.
+A consistent indoor CO2 value of less than 800ppm is likely to indicate that a space is well ventilated.
+Action should be taken to improve ventilation if CO2 readings are consistently higher than 1500ppm.

@@ -1,0 +1,770 @@
+Decree of the Ministry of the Environment on the Indoor Climate and Ventilation of New Buildings. 
+
+By decision of the Ministry of the Environment, the following is enacted by virtue of section 
+
+117c,  subsection  3;  section  117d,  subsection  2;  section  117f,  subsection  3;  section  117g, 
+
+subsection 4; section 117i, subsection 4 and section 150f, subsection 4 of the Land Use and 
+
+Building Act (132/1999), as amended by section 117c, subsection 3; section 117d, subsection 
+
+2;  section  117f,  subsection  3  and  section  117i,  subsection  4  of  Act  958/2012;  section  117g, 
+
+subsection 4 of Act 1151/2016; and section 150f, subsection 4 of Act 41/2014. 
+
+
+Section 1 Scope of application. 
+
+This Decree applies to the design and construction of the indoor climate and ventilation of 
+
+new buildings.
+
+
+The  Decree  does  not,  however,  apply  to  the  design  and  construction  of  agricultural 
+
+production buildings or such new residential buildings that are intended for occupancy for a 
+
+period of less than four months a year.
+
+
+Section 2 Definitions. 
+
+For the purposes of this Decree: 
+
+room temperature means air temperature in the occupied zone. 
+
+ventilation means maintaining and improving indoor air quality by changing the air of a 
+
+room. 
+
+specific  fan  power  of  ventilation  system  (kW/(m3/s))  means  the  combined  amount  of 
+
+electrical power taken from the power supply by all of the fans and any connected frequency 
+
+converters  and  other  power  control  equipment  in  a  buildings  entire  ventilation  system, 
+
+divided by the exhaust air flow rate or outdoor air flow rate of the design operating time of the 
+
+ventilation system, whichever of these is greater. 
+
+air  conditioning  means  the  control  of  indoor  air  purity,  temperature,  humidity  and 
+
+velocity by treating supply air or secondary air. 
+secondary air means air that is returned only to the same room or dwelling. 
+
+mechanical  extract  ventilation  system  means  a  system  by  which  air  is  mechanically 
+
+extracted from a building  with a fan and replaced by outdoor air via externally mounted air 
+
+transfer devices. 
+
+mechanical  supply  and  extract  ventilation  system  means  a  system  by  which  air  is 
+
+mechanically  extracted  from  a  building  with  a  fan  and  replaced  by  outdoor  air  supplied  by 
+
+means of a fan. 
+
+occupiable  space  means  a  room  intended  for  residence  or  work  that  is  intended  for 
+
+continuous occupancy exceeding 30 minutes.  
+
+occupied  zone  means  the  part  of  a  room  where  the  requirements  concerning  indoor 
+
+climate  are  designed  to  be  implemented  and  the  lower  boundary  of  which  is  the  floor,  the 
+
+upper  boundary  of  which  is  at  the  height  of  1.8  metres  from  the  floor  and  the  vertical 
+
+boundaries  of  which  are  at  a  distance  of  0.6  metres  from  an  exterior  or  interior  wall  or  a 
+
+corresponding fixed element of the building.  
+
+natural ventilation system means a system the functioning of which is based on pressure 
+
+differences caused mainly by differences in height and temperature and the action of the wind 
+
+in a manner whereby indoor air flows out of the building and is replaced by outdoor air via 
+
+externally mounted air transfer devices.
+
+recirculation air means air which is returned as supply air or as part of supply air in a 
+
+manner whereby the recirculation air contains extract air from two or more rooms. 
+
+extract air means air that is conducted out of a room. 
+
+transfer air means air that is conducted from one space to another. 
+
+design  life  means  the  service  life  requirement  set  for  a  ventilation  system,  its  part  or 
+
+component that is determined by the party engaging in the building project, the contractee or 
+
+the designer. 
+
+indoor  climate  means  the  synthesis  of  the  chemical,  physical  and  microbiological 
+
+conditions prevailing in a building.
+
+design occupancy period means the period of time during which a building or space is 
+
+occupied and the building or space is used in accordance with its designed intended use. 
+
+supply air means air that is conducted into a room. 
+
+outdoor  air  means  air  that  is  conducted  in  a  controlled  manner  via  ventilation  from 
+
+outdoors to indoor spaces.
+
+exhaust air means extract air that is conducted out of a building.
+
+
+Chapter 2  Indoor climate of buildings. 
+
+Section 3 Design of indoor climate.  
+
+When  designing  a  building,  a  principal  designer,  special  designer  and  building  designer 
+
+shall,  in  accordance  with  their  respective  duties,  take  into  account  the  following  factors 
+
+affecting the indoor climate of the building: 
+
+1)  internal  load  factors,  such  as:  thermal  and  moisture  loads,  equipment,  lighting,  human 
+
+loads, noise sources, processes, construction product emissions and other impurities related to 
+
+the buildings use; 
+
+2)  external  load  factors,  such  as:  weather  and  acoustic  conditions,  outdoor  air  quality  and 
+
+other environmental factors; 
+
+3) the location of the building and the building site.
+
+
+A principal designer, special designer and building designer shall, in accordance with their 
+
+respective duties, take into account the indoor climate in line with the buildings intended use 
+
+when:  
+
+1)  designing  the  buildings  thermal  insulation  and  vapour  barriers  and  the  properties  and 
+
+solar protection of windows; 
+
+2) designing the buildings energy performance; 
+
+3)  determining  the  airtightness  of  a  building  envelope,  base  floor  and  shafts  and  the 
+
+airtightness of structures between spaces; 
+
+4) designing a buildings soundproofing and noise control; 
+
+5) designing the lighting of spaces and utilisation of daylight; 
+
+6) selecting construction materials; 
+
+7)  designing  a  buildings  heating  and  cooling  as  well  as  other  building  services  systems, 
+
+their reliability in operation and space requirements; 
+
+8) planning moisture control at the building site; 
+
+9) designing the control of cleanliness of the building work and the ventilation system; 
+
+10) drawing up the timetables for the building site, acceptance and commissioning; 
+
+11)  designing  the  usability,  appropriate  use  and  maintenance  of  a  building  and  technical 
+
+systems and drawing up usage and maintenance instructions for the building.
+
+
+In order to create an indoor climate which is in accordance with the buildings intended use, 
+
+structural  means  may  be  used,  internal  load  factors  reduced,  the  impact  of  external  and 
+
+internal load factors limited, and heating, cooling, ventilation and air conditioning technology 
+
+means and related control and regulation employed.
+
+
+Section 4  Design values for room temperature. 
+
+During the design period of occupancy, a buildings room temperature shall be comfortable 
+
+and  not  adversely  affected  by  air  velocity,  thermal  radiation,  temperature  fluctuation, 
+
+temperature differences or surface temperatures.
+
+
+A temperature of 21 C shall be used as the design value for room temperature during the 
+
+heating  season.
+
+
+The design weather data used as a basis for room temperature control design shall be the test 
+
+reference year weather data provided for the various climatic zones and the design outdoor air 
+
+temperatures  for  the  heating  season  provided  for  the  various  climatic  zones  presented  in 
+
+Annex 1.
+
+
+Section 5 Indoor air quality. 
+
+Particulate  impurities  or  physical,  chemical  or  microbiological  factors  in  quantities  which 
+
+could endanger health or odours continuously adversely affecting comfort shall not be present 
+
+in indoor air.
+
+
+The design value for the instantaneous concentration of carbon dioxide in indoor air during 
+
+the design occupancy period of a room shall be at most 1,450 mg/m3 (800 ppm) greater than 
+
+the concentration in outdoor air.
+
+
+Section 6 Indoor air humidity. 
+
+Indoor  air  humidity  shall  remain  within  values  that  are  in  accordance  with  the  designed 
+
+intended  use  of  the  spaces,  so  as  to  avoid  moisture  damage,  microbial  growth  or  health 
+
+hazards caused by indoor air humidity.
+
+
+Section 7 Lighting conditions. 
+
+In a buildings indoor spaces, it shall be possible to maintain the lighting required for visual 
+
+tasks during the design occupancy period of the spaces.
+
+
+The grouping and control of lighting shall be designed so that lighting can be controlled in 
+
+accordance with activities.
+
+
+Chapter 3  Ventilation and ventilation systems. 
+
+Section 8 Ventilation. 
+
+Ventilation  shall  provide  healthy,  safe  and  comfortable  indoor  air  quality  in  occupiable 
+
+spaces.
+
+
+The ventilation system shall produce an adequate outdoor air flow to the building and 
+
+extract from indoor air substances that are harmful to health, excessive humidity, odours with 
+
+adverse  effects  on  comfort  and  indoor  air  impurities  arising  from  humans,  construction 
+
+products and activities.
+
+
+The ventilation system shall be designed so that: 
+
+1)  the  functions  central  to  the  functioning  of  the  selected  ventilation  system  can  be 
+
+measured, controlled and monitored; 
+
+2)  when  correctly  used,  serviced and  maintained,  the  system  will remain  in  good  working 
+
+order for its design life;  
+
+3) the functioning of the system can be brought to a complete stop.
+
+
+In a mechanical system, 
+
+there  shall  be  a  clearly  labelled  stop  switch,  which  shall  be  located  in  an  easily  accessible 
+
+place.
+
+
+In a natural ventilation system, the ventilation valves shall be easy to close.
+
+
+Section 9 Outdoor air flows. 
+
+A special designer shall design the ventilation system so that an outdoor air flow required 
+
+for healthy, safe and comfortable indoor air quality can be delivered to the occupiable spaces.
+
+
+The outdoor air flow to the occupiable spaces shall be designed to be a minimum of 6 dm3/s 
+
+per person during the design occupancy period where there is no need for additional air flow 
+
+arising  from  the  intended  use  of  the  space.
+
+
+The  outdoor  air  flow  of  the  entire  building, 
+
+however, shall be designed to be a minimum of 0.35 (dm3/s)/m2 of floor surface area during 
+
+the design  occupancy  period  where there is  no  need for additional air  flow arising  from  the 
+
+special  nature  of  the  intended  use  of  a  space  in  the  building.
+
+
+The  outdoor  air  flow  of  a 
+
+dwelling unit, however, shall be designed to be a minimum of 18 dm3/s.
+
+
+Section 10 Control of air flows.  
+
+It shall be possible to control air flows in accordance with load or air quality according to 
+
+the occupancy situation.
+
+
+The  control  of  air  flows  in  a  dwelling  unit  shall  be  designed in  a  manner  whereby  supply 
+
+and extract air flows can be controlled either at building or dwelling unit level so that they can 
+
+be  increased  to  a  level  at  least  30  above  the  air  flows  of  the  design  occupancy  period.
+
+
+The outdoor air flow for a building other than a residential building shall be a minimum of 
+
+0.15 (dm/s)/m of floor surface area outside the design occupancy period and the air shall be 
+
+exchanged in all rooms.
+
+
+Section 11 Air flows in parking garages for motor vehicles.  
+
+A  special  designer  shall  design  the  ventilation  air  flows  of  a  parking  garage  for  motor 
+
+vehicles  so  that  air  impurities  do  not  cause  health  hazards  for  users.
+
+
+The  air  flows  shall  be 
+
+designed  so  that  the  average  carbon  monoxide  concentration  in  a  parking  garage  for  motor 
+
+vehicles  during  the  hour  of  use  assessed  as  the  most  critical  does  not  exceed  35  mg/m3  (30 
+
+ppm).
+
+
+Air flows in the continuous working area of a parking garage for motor vehicles shall 
+
+be  designed  so  that  the  instantaneous  carbon  monoxide  concentration  does  not  exceed 
+
+7 mg/m3 (6 ppm).
+
+
+Section 12 Air filtration. 
+
+A  special  designer  shall  design  the  level  of  air  filtration  on  the  basis  of  the  outdoor  air 
+
+quality and the objectives set for indoor air quality.
+
+
+When selecting a ventilation system, the 
+
+special  designer  shall  take  into  account  the  systems  suitability  for  the  required  level  of 
+
+filtration.
+
+
+Section 14 Installation location of externally mounted air transfer devices and exhaust air devices  
+
+Outdoor air shall not be introduced via a structure or a structural component which impairs 
+
+air quality or from the vicinity of sources of outdoor air pollutants.
+
+
+Snow  or  rainwater  shall  not  be  allowed  to  ingress  the  ventilation  system  via  externally 
+
+mounted air transfer devices in quantities causing damage to the system, lowering air quality 
+
+or impairing the functioning of the system.
+
+
+The conducting of exhaust air out of a building shall be designed so that no health or other 
+
+hazards  are  caused  to  the  building  or  to  other  buildings,  the  environment  or  their  users.
+
+
+Exhaust air shall be conducted to above the buildings roof, unless otherwise required by the 
+
+functioning  of  the  ventilation  system.
+
+
+Section 15 Recirculation, transfer and secondary air.  
+
+A special designer shall design the ventilation of a building so that only air from spaces with 
+
+equivalent or higher air purity can be used as recirculation or transfer air and this air shall not 
+
+contain  quantities  of  impurities  that  impair  air  quality.
+
+
+The  use  of  recirculation,  transfer  or 
+
+secondary air shall not cause any harmful spread of impurities, in particular odours.
+
+
+Extract air of categories 2, 3 and 4 shall not be used as recirculation air.
+
+
+Recirculation air shall not be used as supply air in the following spaces: 
+
+1) dwelling units; 
+
+2) professional kitchens; 
+
+3)  accommodation  sections  of  accommodation  and  catering  establishments  and  boarding 
+
+schools; 
+
+4)  teaching  spaces  of  educational  institutions  and  rest,  play  and  group  rooms  of  daycare 
+
+centres;  
+
+5)  accommodation  sections  of  medical  care,  welfare  and  penal 
+
+institutions  and 
+
+corresponding facilities; 
+
+6) restaurants and cafs;  
+
+7)  other  spaces  to  be  kept  particularly  clean,  unless  the  recirculation  air  is  purified  to  the 
+
+level required by the intended use of the space.
+
+
+Section 16 Spreading of impurities in heat recovery units. 
+
+If a ventilation system is equipped with heat recovery, a special designer shall design heat 
+
+recovery so as to avoid the spreading of impurities or odours causing adverse effects to health 
+
+or comfort via the process.
+
+
+When heat is recovered from extract air of category 4, there shall 
+
+be no leaks between supply and extract air.
+
+
+When heat is recovered from extract air of other 
+
+extract air categories, the direction of the leakage air flow shall be primarily from the supply 
+
+air side towards the extract air side.
+
+
+Section 17 Distribution and extraction of air. 
+
+The distribution and extraction of air in a building shall be such that air flows to the entire 
+
+occupied zone while avoiding air velocity causing discomfort, with the exception of any need 
+
+for enhanced ventilation, and that impurities generated in a room are efficiently extracted.
+
+
+The 
+
+air in a building shall flow from spaces of higher indoor air purity to spaces of lower indoor 
+
+air purity.
+
+
+Section 18 Combining ventilation. 
+
+Combining of ventilation ducts must not give rise to a risk of impurities spreading or impair 
+
+the functioning of the ventilation system.
+
+
+If  the  air 
+
+flows of extract air categories 1 and 2 are combined into the same duct and category 2 air flow 
+
+accounts  for  more  than  10  of  the  combined  air  flow,  the  combined  air  flow  is  classified 
+
+under category 2. 
+
+extract air of category 3 shall be conducted through individual ducts, or common ducts 
+
+serving spaces of the same type as regards level of air purity, to the outdoors, into a collection 
+
+duct installed above the spaces it serves or into an extract air chamber.
+
+
+Extract air from toilets, 
+
+washrooms and cleaning spaces may be conducted to vertical ducts for extract air categories 1 
+
+and 2 if the total extract air flow from these spaces does not exceed 10 of the total air flow 
+
+in the vertical duct.
+
+
+In such cases, the combined air flow shall not be used as recirculation air.
+
+
+In 
+
+natural  ventilation,  the  vertical  ducts  of  a  single  dwelling  may  not  be  combined,  nor  may 
+
+common vertical ducts of more than one dwelling be used.   
+
+extract air of category 4 shall be conducted to the outdoors through individual extract air 
+
+ducts.
+
+
+If  significant  quantities  of  substances  that  are  hazardous  to  health  or  that  generate  a 
+
+strong odour are handled or stored in a space, outdoor air and extract air ducts that are separate 
+
+from the rest of the ventilation system shall be provided for that room and the space shall be 
+
+designed to be at negative pressure in relation to adjacent spaces.
+
+
+Any  connection  of  two  or  more  air  handling  units  to  the  same  duct  or  chamber  shall  be 
+
+designed so that the pressures of the rooms or the directions of air flow between the rooms and 
+
+in the ductworks do not change when the air flows of the units are being controlled.
+
+
+A natural 
+
+ventilation system, a mechanical extract ventilation system or a mechanical supply and extract 
+
+ventilation system shall not be designed to be combined in such a way that the directions of air 
+
+flow  between  the  rooms  and  in  the  ductworks  may  change  when  the  air  flows  are  being 
+
+controlled.
+
+
+Section 19 Ventilation airtightness classes.  
+
+The maximum permissible leakage air flow rates for ventilation systems, air ducts and parts 
+
+of  ducts  per  casing  surface  area  qVlA  (dm3/s/m2)  at  test  pressure  ps  (Pa)  for  the  various 
+
+airtightness classes are as follows.  
+
+Section 20 Requirements for ventilation system airtightness and strength.  
+
+The  natural  or  mechanical  ventilation  system  of  a  building  shall  be  strong  and  its 
+
+airtightness  shall  be  at  least  class  B.
+
+
+If  the  extract  air  contains  significant  amounts  of 
+
+impurities other than of human origin, the airtightness class shall be at least C. 
+
+In a mechanical ventilation system, the extract air ducts within the building that are located 
+
+outside the plant room shall be designed to be at negative pressure.
+
+
+Extract air ducts in extract 
+
+air categories 1 and 2 may, however, be at positive pressure within the building, provided that 
+
+the ductwork is at least of airtightness class C. 
+Extract air ducts in extract air category 3 and 
+
+exhaust air ducts for individual dwelling units may be at positive pressure within the building, 
+
+provided that the  ductwork  is  at  least  of  airtightness class  D.  
+Extract  air  ducts  in  extract  air 
+
+category 4 may be at positive pressure within the building if the ductwork does not leak.
+
+
+In natural and mechanical ventilation systems, the stiffening and support of air ducts shall be 
+
+designed so that the ducts remain firmly in place and can withstand any pressure fluctuations, 
+
+cleaning and other stresses that may occur in the ventilation system.
+
+
+In  a  mechanical  ventilation  system,  the  air  handling  units  and  chambers  shall  be  able  to 
+
+withstand the loads caused by fan pressure while the shutoff dampers are closed.
+
+
+If the cross
+
+sectional area of a mechanical ventilation systems air duct is designed to be greater than 0.06 
+
+m2,  the  outdoor  air  and  exhaust  air  ducts  shall  be  fitted  with  shutoff  dampers  that  close 
+
+automatically when the system shuts down.
+
+
+Section 21 Pressures caused by air flows and airtightness of structures. 
+
+A  special  designer  shall  design  a  buildings  outdoor  air  and  exhaust  air  flows  so  that 
+
+structures  are  not  exposed  to  any  longterm  moisture  loads  damaging  the  structures  due  to 
+
+positive  pressure  or  any  transfer  of  impurities  to  indoor  air  due  to  negative  pressure.
+
+
+A 
+
+principal  designer,  special  designer  and  building  designer  shall,  in  accordance  with  their 
+
+respective duties, design the airtightness of a buildings envelope and internal structures and 
+
+its  chimney  effect  management  so  that  the  prerequisite  conditions  for  the  functioning  of 
+
+ventilation  can  be  secured,  the  transfer  to  indoor  air  of  impurities  from  structures,  soil 
+
+impurities and radon is avoided and the transfer of moisture into structures is avoided.
+
+
+Section 22 Fuelfired appliances and separate extract systems. 
+
+A special designer shall design the supply of additional outdoor air flow required by the use 
+
+of  any  fuelfired  appliance  and  separate  extract  systems  so  that  the  buildings  ventilation 
+
+system functions in a controlled manner and there are no detrimental changes in pressures in 
+
+the building or rooms.
+
+
+Section 23 Air humidification. 
+
+If the ventilation system is equipped with air humidification, a special designer shall design 
+
+the air humidification so as to avoid the conditions for microbial growth that is hazardous to 
+
+health.
+
+
+Section 24 Ventilation system cleanability and serviceability. 
+
+A  special  designer  shall  design  the  ventilation  system  and  its  maintenance  and  servicing 
+
+access  routes  so  that  the  parts  of  the  ventilation  system  can  be  easily  and  safely  cleaned, 
+
+serviced,  repaired  and  replaced.
+
+
+For  the  maintenance,  servicing  and  repair  of  air  handling 
+
+units, space which is at least the size of the units to be maintained or serviced shall be reserved 
+
+in the access direction.
+
+
+Section 25 Ventilation system insulation. 
+
+A  special  designer  shall  design  the  thermal  insulation  and  vapour  barriers  of  ventilation 
+
+ducts, chambers and air handling units so that air will not cool down or warm up in a way that 
+
+causes  adverse  effects  on  temperature  control  or  comfort  and  so  that  there  will  not  be  any 
+
+condensation of moisture damaging structures or reducing indoor air quality.
+
+
+Chapter 4  Ventilation system commissioning measurements.  
+
+Section 26 Airtightness. 
+
+The party engaging in the building project shall see to the measurement of the airtightness of 
+
+the  ventilation  system  prior  to  the  commissioning  of  a  building.
+
+
+As  regards  ventilation 
+
+systems  serving  a  single  space  in  a  building  or  a  single  dwelling  unit,  the  airtightness 
+
+measurement  may  be  replaced  by  an  installation  survey  if  the  ductwork  consists  entirely  of 
+
+ducts  and  duct  components  at  least  of  airtightness  class  C.  The  person  responsible  for  the 
+
+construction  stage  shall  make  an  entry  in  the  building  inspection  documents  concerning 
+
+compliance of the airtightness of the ventilation system with design specifications.
+
+
+Section 27 Verification of ventilation system compliance with design specifications. 
+ 
+
+The party engaging in the building project shall see to the measurement and adjustment of 
+
+the air flows of the ventilation system, the determination of the systems specific fan power 
+
+and  the  compliance  of  the  functioning  of  the  ventilation  system  with  design  specifications 
+
+prior  to  the  commissioning  of  a  building.
+
+
+The  building  and  its  ventilation  system  shall  be 
+
+clean  before  air  flow  measurement  and  adjustment  and  before  system  commissioning.
+
+
+The 
+
+person  responsible  for  the  construction  stage  shall  make  an  entry  in  the  building  inspection 
+
+documents concerning compliance of the ventilation system with design specifications.
+
+
+Permissible tolerances in respect of design values may be as follows: 
+
+1) air flow at system and dwelling unit level  10; 
+
+2) air flow at room level  20, with, however, the deviation always permitted to be at least 
+
+1 dm3/s; 
+
+3) specific fan power of ventilation system  10.
+
+
+The permissible tolerances include both measurement result deviations and the measurement 
+
+uncertainty, which shall be stated in conjunction with measurement results.
+
+
+The measurement 
+
+method and measuring instruments shall suitable for measuring the air flow to be measured.
+
+
+The measuring instruments shall be calibrated, the calibration shall be currently valid, and the 
+
+measurement value shall be corrected in accordance with the calibration.
+
+
+Chapter 5  Transitional provisions and entry into force. 
+
+Section 28 Entry into force. 
+
+This Decree enters into force on 1 January 2018.
+
+
+This Decree repeals the Decree of the Ministry of the Environment on the Indoor Climate 
+
+and Ventilation of Buildings of 30 March 2011.
+
+
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid 
+
+at the time of entry into force of this Decree.
+
+

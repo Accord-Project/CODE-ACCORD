@@ -1,0 +1,2784 @@
+  
+
+ 
+
+Decree of the Ministry of the Environment 
+
+on the Fire safety of Buildings 
+
+By decision of the Ministry of the Environment, the following is hereby laid down pursuant 
+
+to section 117b of the Land Use and Building Act (132/1999), as amended by Act 958/2012: 
+
+Chapter 1 
+
+General  
+
+Section 1 
+
+Scope of application 
+
+This Decree shall apply to the construction of new buildings and to the extension of buildings 
+
+or to the addition of space that is to be counted in a buildings floor area.
+
+
+The Decree shall also 
+
+apply to repair and alteration work carried out on a building if the building or a part thereof will 
+
+become more fire hazardous as a result of such repair or alteration work, and the improvement 
+
+of the buildings fire safety is thereby justified, taking account of the nature of the repair and 
+
+alteration work and the prevention of risk to personal safety.
+
+
+Section 2 
+
+Definitions 
+
+For the purposes of this Decree: 
+
+1) automatic fireextinguishing system refers to equipment that detects a fire and extinguishes 
+
+it at its initial stage, or else keeps it under control until final extinguishing can be carried out; 
+
+2) passageway refers to a passable route from each point of the floor area leading to an exit; 
+
+3) thermal insulation product refers to a construction product used for thermal insulation made 
+
+from one or more materials; 
+
+4) fire door refers to a door that fulfils the requirements of a prescribed fire class; 
+
+5) fireseparating building element refers to a building element that separates fire compart
+
+ments, meeting the requirements of a prescribed fire class; 
+
+6) exit passageway refers to a compartmented area through which safe evacuation from the 
+
+building can be made; 
+
+7) partitioning refers to the division of a fire compartment or void into smaller areas or vol
+
+umes by building elements that meet the requirements of a prescribed class in order to limit the 
+
+spread of fire; 
+
+8) potentially flammable or explosive atmosphere refers to an area with a significant or major 
+
+fire or explosion hazard;  
+
+9) fire alarm system refers to an installation that automatically and immediately indicates a 
+
+beginning fire, and also warns of defects endangering its operational reliability; 
+
+Directive  2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 
+
+10) fire load refers to all combustible material in a room and the total thermal energy released 
+
+through their complete combustion.
+
+
+These materials include the loadbearing, bracing, fire com
+
+partmenting and other building elements and furnishings; 
+
+11) fire load density refers to the fire load per floor area expressed in megajoules per square 
+
+metre (MJ/m2); 
+
+12) fire and smokeproof exit refers to an exit passageway that is accessed only though a fire
+
+compartmented space on storey level (exit enclosure) and further through a balcony or other 
+
+space facing the open air in order to prevent the release of fire and combustion gases into the 
+
+exit; 
+
+13) fireproof exit refers to an exit passageway that is accessed only through a firecompart
+
+mented space (exit enclosure) on storey level; 
+
+14) fire wall refers to a wall that prevents the spread of fire to the other side of the wall for a 
+
+stated period of time and withstands the collapse of adjoining buildings or parts thereof and 
+
+impacts caused by the collapse; 
+
+15) fire resistance refers to the ability of a building element to fulfil the requirements pre
+
+scribed for it for a specified period of time (loadbearing requirement or compartmentation re
+
+quirement, or both) at a specified load and a specified fire exposure; 
+
+16) fire resistance time refers to the period of time, expressed in minutes, for which a building 
+
+element has been verified to meet the prescribed requirements; 
+
+17) exit enclosure refers to a compartmented space between two fire compartments.
+
+
+An exit 
+
+enclosure has doors that open separately into each adjoining fire compartment without a need 
+
+to open the doors at the same time; 
+
+18) fire compartment refers to an interior area of the building from which the spread of fire is 
+
+prevented  for  a  stated  period  of  time  by  fireseparating  building  elements  or  by  some  other 
+
+effective means; 
+
+19) emergency access road refers to a driveway or other drive access by which fire engines 
+
+can get sufficiently close to the building and to water supply facilities in case of fire; 
+
+20) surface refers to the surface part of walls, ceilings and floors, the properties of which have 
+
+an influence on the ignition and spread of fire; 
+
+21) evacuation area refers to a part of a building that is continuous in the building and fit for 
+
+purpose in relation to the arrangements for evacuation;  
+
+22) building element refers to a fixed part of a building, such as a wall, dividing wall, floor, 
+
+roof, beam, column, door or duct, which may mean both separate construction products with 
+
+their connections and elements that consist of one or more products; 
+
+23) extinguishing route refers to a passageway for firefighters that leads from the outside to 
+
+basement floors; 
+
+24) smoke extraction refers to the removal of smoke and heat generated by fire from a build
+
+ing, mechanically or by gravity; 
+
+25) internal corridor refers to a corridor in an evacuation area that leads to an exit; 
+
+26) protective covering refers to a construction product or object composed of a number of 
+
+construction products that protects a building material behind it from ignition, charring or other 
+
+fire damage for a stated period of time; 
+
+27) smoke detector and fire alarm connected to mains power supply refers to a device that 
+
+detects a beginning fire, alerts those in the area, is connected to the electrical mains power sup
+
+ply and whose supply of electrical current is ensured; 
+
+28) building material refers to a construction product, material or component that is used in 
+
+construction; 
+
+is possible to move about; 
+
+29) attic refers to the space between the uppermost floor and the roof of a building, where it 
+
+30) exit refers to a door leading directly out from an evacuation area, or a space in the building 
+
+or outside of it, through which safe evacuation to the ground level or to some other safe place 
+
+is possible in case of fire; 
+
+31) fire escape refers to a route that is less passable than an exit, through which it is possible 
+
+to escape from a fire to safety; 
+
+32) void in the uppermost floor (roof void) refers to a space where it is not possible to move 
+
+about due to insufficient height, the shape of the space or for some other reason.
+
+
+Section 3 
+
+Demonstration of compliance with essential technical requirements regarding fire safety 
+
+The chief designer, building designer and specialist designer shall, in accordance with their 
+
+respective duties, take care of the design of the building so that the building meets the essential 
+
+technical requirements set for fire safety in accordance with its intended use.
+
+
+The 
+
+meeting of the requirement shall be attested on a casebycase basis, taking into account the 
+
+properties and use of the building.
+
+
+In a design that is based on a design fire scenario, methods 
+
+that are of demonstrated validity must be used.
+
+
+The basis for the design, the models used and 
+
+the obtained results shall be presented in connection with the building permit procedure.
+
+
+Section 5  
+
+Intended use of the building 
+
+A building or its fire compartment shall be classified on the basis of its intended primary use.
+
+
+For the purposes of this Decree: 
+
+1) dwellings refers to premises used as residences, such as residential apartments and leisure 
+
+apartments; 
+
+2) accommodation premises refers to premises such as hotels, holiday homes and residential 
+
+homes that are normally in use 24 hours a day and where no one is under care or in confinement; 
+
+3) institutions refers to premises such as hospitals, homes for the elderly, closed prisons and 
+
+daycare centres that are in use 24 hours a day, and where people are under care or in confine
+
+ment; 
+
+4) assembly and business premises refers to premises such as restaurants, shops, schools, day
+
+care centres and other early childhood education premises, sports halls, exhibition halls, thea
+
+tres, churches, libraries and daycare institutions that are generally in daytime or evening use 
+
+and occupied by a considerable number of members of the public or customers; 
+
+5)  office  premises refers  to  premises  such  as  offices that are  generally  in  daytime  use  and 
+
+where the majority of the personnel are familiar with the premises; 
+
+6) production and storage premises refers to premises associated with industrial activity and 
+
+storage,  such  as  ordinary  industrial  premises,  premises  for  agricultural  production  and  large 
+
+warehouses with a generally regular personnel familiar with the local conditions; 
+
+7) garages refers to premises intended for the keeping of cars and similar motor vehicles.
+
+
+An area with a potentially flammable or explosive atmosphere must not be located in a build
+
+ing where there are dwellings, accommodation premises, institutions or assembly and business 
+
+premises.
+
+
+Section 6 
+
+Fire load and determination of fire load category 
+
+The fire loads that form the basis of the design of a P0 fire class building shall be determined.
+
+
+The fire load categories of the fire compartments of a P1 fire class building shall be deter
+
+mined.
+
+
+The fire load categories are as follows:  
+
+1) less than 600 MJ/m2;  
+
+2) at least 600 MJ/m2, but not more than 1,200 MJ/m2; 
+
+3) over 1,200 MJ/m2.
+
+
+The fire load category shall be determined on the basis of the use of the fire compartment, or 
+
+the fire load and the fire load category determined on the basis of this shall be determined by 
+
+calculation.
+
+
+Areas  belonging  to  fire  load  category  less  than  600 MJ/m2  are  dwellings,  accommodation 
+
+premises, institutions, office premises, garages and some assembly and business premises, such 
+
+as restaurants, schools, sports halls, theatres, churches, daycare centres, daycare institutions 
+
+and shops with a fire compartment size not exceeding 300 square metres.
+
+
+Areas belonging to fire load category at least 600 MJ/m2 but not more than 1,200 MJ/m2 are 
+
+some assembly and business premises such as shops (fire compartment size over 300 square 
+
+metres), exhibition halls and libraries, fire compartments of residential buildings that contain 
+
+storage areas for personal property, storage spaces of no more than 50 square meters, and prem
+
+ises for the repair and servicing of motor vehicles.
+
+
+Areas belonging to fire load category over 1,200 MJ/m2 are storage areas that form separate 
+
+fire compartments and have a floor area exceeding 50 square meters.
+
+
+Section 8 
+
+Restrictions on the size, number of occupants and use of buildings 
+
+The size and number of occupants of a P2 and a P3 fire class building shall, depending on the 
+
+use  of  the  building,  be  restricted  in  order  to  guarantee  personal  safety  and  to  facilitate  fire
+
+fighting and rescue operations.
+
+
+Number of 
+
+storeys no 
+
+more than 
+
+1 2) 
+
+Table 1 a.
+
+
+Building 
+
+Height 1) 
+
+no more 
+
+than 
+
+Gross floor area no 
+
+more than 
+
+14 m 
+
+18 m 
+
+2,400 m2 (4,800 m2 ) 
+
+1,600 m2 (2,400 m2 ) 
+
+2,400 m2 
+
+no restriction 
+
+no restriction 
+
+onestorey, general 
+
+twostorey, general 
+
+Institution 
+
+Production or storage building  
+
+Curing barn for agricultural products that forms a separate 
+
+building 
+
+Garage 
+
+Residential building where successive storeys belong to 
+
+different apartments 
+
+1) The height of a building is calculated from the ground level to the point of intersection of the roof and the face 
+
+of the elevation (section 58 of the Land Use and Building Decree).
+
+
+If necessary, the mean height of the buildings 
+
+corner points shall be calculated.
+
+
+2) In a building consisting primarily of one storey, no more than 200 m2 of firecompartmented and no more than 
+
+50 m2 of nonfirecompartmented areas that essentially relate to the business of the building may be located on the 
+
+level of second storey.
+
+
+Building 
+
+General 
+
+onestorey production or storage building  
+
+Fire hazard class 2 production or storage building  
+
+Number of 
+
+storeys no 
+
+more than 
+
+Height1) 
+
+no more than 
+
+no restriction 
+
+no restriction 
+
+Gross floor 
+
+area no 
+
+more than 
+
+no re
+
+striction 
+
+no re
+
+striction 
+
+no re
+
+striction 
+
+12,000 m2  
+
+ 8  
+
+28 m  
+
+Residential building, institution (excluding closed prisons), ac
+
+commodation building and office building of more than two sto
+
+reys 3) 
+
+Assembly and business building of more than two storeys3) 
+
+A residential building of more than two storeys, where all the sto
+
+reys of each housing unit belong to one and the same apartment 3) 
+
+1) The height of a building is calculated from the ground level to the point of intersection of the roof and the face of 
+
+the elevation (section 58 of the Land Use and Building Decree).
+
+
+If necessary, the mean height of the buildings cor
+
+ner points shall be calculated.
+
+
+2) In a building consisting primarily of one storey, no more than 200 m2 of firecompartmented and no more than 
+
+50 m2 of nonfirecompartmented areas that essentially relate to the business of the building may be located on the 
+
+level of second storey.
+
+
+3) Storage premises with a fire load exceeding 1,200 MJ/m2 are not permitted within the building.
+
+
+P2 and P3 fire class building: maximum permissible number of persons 
+
+Fire class of building 
+
+Storeys 
+
+over two sto
+
+reys 
+
+25 (50 ) 
+
+100 (200 ) 
+
+1,000 
+
+no restriction 
+
+150 (250 ) 
+
+250 (500 ) 
+
+50 (100 ) 
+
+no restriction 
+
+50 (100 ) 
+
+no restriction 
+
+150 (300 ) 
+
+Dwellings, persons 
+
+Accommodation premises, number of 
+
+places not exceeding  
+
+Institutions, number of places not ex
+
+ceeding 
+
+Assembly and business premises, per
+
+sons 
+
+Office premises, persons 
+
+Production and storage premises, per
+
+sons 
+
+The restrictions on the number of occupants of twostorey buildings relate to cases where the premises of the stated use are en
+
+tirely or partly located on the second storey of the building.
+
+
+If the building comprises premises of different categories of use, the safety level of the building shall be assessed by considering 
+
+the building as a whole.
+
+
+An exception is a resi
+
+dential building of no more than 14 metres height, where all the storeys of each housing unit belong to one and the same apart
+
+ment.
+
+
+1,000 
+
+not permitted 
+
+not permitted 
+
+250 (500 ) 
+
+no restriction 
+
+no restriction 
+
+50 (100 ) 
+
+no restriction 
+
+no restriction 
+
+not permitted 
+
+500 (1000 ) 
+
+250 (500 ) 
+
+10 (25 ) 
+
+1,000 
+
+Section 9 
+
+Limitation signs 
+
+If the fire class of the building is P0 or if an application for a permit relates to a design that is 
+
+based on a smaller number of occupants than the size of the building would normally permit, or 
+
+on an exceptionally small fire load, this limitation must be stated in the building permit decision.
+
+
+A  fixed  sign  indicating  the  limitation  shall  be  placed  in  the  building  in  an  easily  noticeable 
+
+place.
+
+
+Section 10 
+
+Prevention of ignition 
+
+The hazard of ignition of fire within a building must be as low as possible.
+
+
+Technical installations shall be made in such a way that the hazards of ignition of fire and 
+
+spread of fire and smoke within the building is not essentially increased thereby.
+
+
+Fireplaces, chimneys and heating devices shall be located and built or installed in such a man
+
+ner that their use will not create a hazard of fire or explosion.
+
+
+Chapter 2 
+
+Maintaining the loadbearing capacity of structures 
+
+Section 11 
+
+Loadbearing capacity of structures in a fire situation 
+
+A building and the building elements therein must not cause danger through collapse within 
+
+a specified period of time after the start of a fire.
+
+
+If necessary for the safety of people or with 
+
+regard to the extent of the damage, the building must sustain the combustion of the entire fire 
+
+load and the cooling phase without collapse.
+
+
+If a loadbearing element is required to have a longer fire resistance time with respect to in
+
+tegrity E and insulation I than with respect to loadbearing capacity R, the longer fire resistance 
+
+time shall also be applied to the loadbearing capacity.
+
+
+Fulfilment of the class requirement shall be attested by testing, calculation, combining the 
+
+results of testing and calculation, or by using an acceptable design method based on the use of 
+
+tables.
+
+
+Building 
+
+Buildings fire class and fire load categories MJ/m2 
+
+one or twostorey building, general 
+
+  institutions, accommodation premises 
+
+  uppermost basement storey 
+
+ uppermost floor in a building where there is no attic and the 
+
+structure is an essential part of the structural body 1) 
+
+  singlestorey production and storage building 
+
+ uppermost floor in a building where there is no attic and the 
+
+structure is not an essential part of the structural body 1) 
+
+Building of over two storeys with a height not exceeding 
+
+28 m, general 
+
+  uppermost basement storey 
+
+ residential building, dwelling, uppermost storey 
+
+ residential building, dwelling, two uppermost storeys 2) 
+
+ a residential building of more than two storeys, with a 
+
+height not exceeding 14 m and where all the storeys of each 
+
+housing unit belong to one and the same apartment 
+
+Building of over two storeys with a height greater than 
+
+28 m but not exceeding 56 m 
+
+Building of over two storeys with a height exceeding 56 m  
+
+ Basement storeys below uppermost basement storey 
+
+more than 
+
+1,200 
+
+6001,200 
+
+R 120 (R60 )  R 90 (R60 ) 
+
+R 120, A2 
+
+(R60 , A2) 
+
+R 120, A2 
+
+(R90 , A2) 
+
+R 60  
+
+R 60 
+
+(R30 ) 
+
+(R15, A2 ) 
+
+R 15 
+
+R 180, A2 
+
+(R90 , A2) 
+
+R 180, A2 
+
+(R90 , A2) 
+
+R 60  
+
+R60   
+
+R 45, A2 
+
+(R30, A2 ) 
+
+R 90, A2 
+
+(R60 , A2) 
+
+R 90, A2 
+
+(R60 , A2) 
+
+R 60  
+
+R 60 
+
+(R30 ) 
+
+(R15, A2 ) 
+
+R 15 
+
+R 120, A2 
+
+(R60 , A2) 
+
+R 120, A2 
+
+(R60 , A2) 
+
+R 60  
+
+R60   
+
+R 45, A2 
+
+(R30, A2 ) 
+
+less than 600 
+
+R 60 
+
+R 60, A2 
+
+R 30 
+
+R 30 
+
+R 60, A2 
+
+R 60, A2 
+
+R 60  
+
+R 30 
+
+R 60 
+
+(R30 ) 
+
+(R15, A2 ) 
+
+R 15 
+
+R 30  
+
+(R15 ) 
+
+(R15, A2) 
+
+R 15 
+
+R 60, A2 
+
+R 60   3) 4)  
+
+R 60, A2 
+
+R 60  A2 
+
+R 60  
+
+R60   
+
+R 45, A2 
+
+(R30, A2 ) 
+
+R 240, A2 
+
+(R180 , A2) 
+
+R180 , A2 
+
+R 180, A2 
+
+(R120 , A2) 
+
+R120, A2 
+
+R 120, A2 
+
+(R90 , A2) 
+
+R 120 , A2 
+
+R 240, A2 
+
+(R180 , A2) 
+
+R 180, A2 
+
+(R120 , A2) 
+
+R 120, A2 
+
+R 60   3) 
+
+R 60   3) 
+
+R 45  
+
+(R30  ) 
+
+not possible 
+
+not possible 
+
+R 120, A2 
+
+(R90 , A2) 
+
+  The fire resistance time requirement for balconies is half that of the loadbearing structures of the storey.
+
+
+Loadbearing structures must be made of building materials of at least class Ds2, d2, unless otherwise stated in the table.
+
+
+Flights of 
+
+stairs and staircase landings of the exit of a building of over two storeys and P1 fire class must be made of at least A2s1, d0
+
+class building materials.
+
+
+Thermal insulation products and other fillings must be at least A2s1, d0class.
+
+
+The essential insulating part of thermal insulation products and other fillings must be at least Ds2, d2class.
+
+
+Loadbearing structures must be at least A2s1, d0class.
+
+
+Building 
+
+Restrictions 
+
+Onestorey, general 
+
+Onestorey, general 
+
+Onestorey 
+
+ accommodation premises  
+
+ institution 
+
+ assembly and business 
+
+premises 
+
+Twostorey, general 
+
+Twostorey, general 
+
+Twostorey 
+
+ accommodation premises  
+
+ institution 
+
+ assembly and business 
+
+premises  
+
+More than two storeys  
+
+More than two storeys 
+
+Height no greater than 9 
+
+Height exceeding 9 m 
+
+More than 50 places  
+
+More than 25 places  
+
+More than 250 people 
+
+Height no greater than 9 
+
+Height exceeding 9 m 
+
+More than 50 places  
+
+More than 25 places  
+
+More than 250 people 
+
+Height no greater than 28 
+
+Height exceeding 28 m 
+
+Resistance of essential loadbearing 
+
+structures in a fire 
+
+30 minutes without cooling phase 
+
+Design fire load  
+
+density MJ/m2 
+
+Qfi,k 
+
+60 minutes without cooling phase 
+
+60 minutes without cooling phase 
+
+Qfi,k 
+
+Qfi,k 
+
+30 minutes without cooling phase 
+
+Qfi,k, at least 600 MJ/m2 
+
+60 minutes without cooling phase 
+
+Qfi,k, at least 600 MJ/m2 
+
+Fire and cooling phase  
+
+Qfi,k, at least 600 MJ/m2 
+
+Fire and cooling phase 
+
+Qfi,k, at least 600 MJ/m2 
+
+Fire and cooling phase 
+
+2,0Qfi,k, at least 900 MJ/m2 
+
+Qfi,k is the statistically or computationally determined characteristic value of the total fire load density (80  fractile).
+
+
+Flashover is regarded as having taken place if the average temperature of the hot smoke layer reaches 
+
+500 degrees Celsius, or if the radiation from the smoke layer to the floor exceeds 20 kW/m2.
+
+
+Chapter 3 
+
+Prevention of the spread of fire from a fire compartment 
+
+Section 14 
+
+Fire compartmentation of a building and partitioning of a fire compartment 
+
+A building shall, if its size, number of storeys or an intended purpose of a premises within the 
+
+building so requires, be divided into fire compartments in order to restrict the spread of fire and 
+
+smoke, to provide safe evacuation and to facilitate rescue and extinguishing measures.
+
+
+The various storeys, basement storeys and the attic of a P1 and P2 fire class building must be 
+
+made into separate fire compartments (fire compartmentation by storey), and the same applies 
+
+to the basement storeys of fire class P3 that serve more than one apartment.
+
+
+A fire compartment 
+
+may, however, comprise several storeys, excluding compartments with rooms for accommoda
+
+tion or patient rooms, with the following restrictions: 
+
+1) in a building whose height exceeds 28 metres, no more than two storeys above this height 
+
+of 28 metres may comprise a single fire compartment, excluding the staircase, and the size of a 
+
+single fire compartment must not exceed 2,400 square metres; and 
+
+2) at a height of over 56 metres, a fire compartment is restricted to a single storey, apart from 
+
+residential apartments, where twostorey fire compartments are permitted, and staircases.
+
+
+In this 
+
+case, access must be arranged to an exit from both storeys of the residential apartment.
+
+
+The size of a fire compartment must be limited so that a fire igniting in the compartment does 
+
+not cause unreasonably vast damages (compartmentation by area).
+
+
+Premises with essentially different uses, or with essentially different fire loads, must be set up 
+
+as  separate  fire  compartments  (compartmentation  by  use).
+
+
+If necessary, fire compartments shall be partitioned in order to restrict the spread of fire and 
+
+smoke, to provide safe evacuation and to facilitate rescue and extinguishing measures.
+
+
+Maximum area (square metres) of fire compartment by use, and partitioning of fire 
+
+compartments 
+
+Use  
+
+Buildings fire class and number of storeys 
+
+STOREYS 
+
+Residential buildings 
+
+Accommodation premises and insti
+
+tutions 
+
+  overnight accommodation areas 
+
+  other premises 
+
+Assembly and business premises and 
+
+office premises 
+
+  Onestorey 
+
+  Twostorey 
+
+  More than two storeys, office prem
+
+ises 
+
+ More than two storeys, shop premises 
+
+ More than two storeys, other prem
+
+ises 
+
+Production and storage premises, 
+
+fire hazard class 1 
+
+ Onestorey, general 
+
+building without thermal in
+
+sulation  
+
+greenhouse 
+
+ Twostorey 
+
+ More than two storeys 
+
+Production and storage premises, 
+
+fire hazard class 2 
+
+P2 more than 
+
+two storeys 1) 
+
+P2 one or two sto
+
+reys 
+
+by apartment 
+
+by apartment 
+
+by apartment 
+
+by apartment 
+
+8002 (1,200 2) 
+
+1,600 (3,200 ) 
+
+8002 
+
+1,200 
+
+8002 (1,2002 ) 
+
+1,600 (2,400 ) 
+
+4002 (6002 ) 
+
+400 (1,200 ) 
+
+2,400 (24,000 ) 
+
+2,400 (12,000 ) 
+
+2,400 (9,600 ) 
+
+not possible 
+
+not possible 
+
+2,400 
+
+2,400 (9,600 ) 
+
+2,400 (4,800 ) 
+
+not possible 
+
+2,400 (4,800 ) 
+
+2,400 (4,800 ) 
+
+1,200 
+
+not possible 
+
+not possible 
+
+400 (1,200 ) 
+
+400 (600 ) 
+
+not possible 
+
+not possible 
+
+not possible 
+
+6,000 5) (60,000 ) 
+
+12,000 (60,000 ) 
+
+not possible 
+
+not possible 
+
+4,000 5) (36,000 ) 
+
+12,000 (36,000 ) 
+
+2,000 (12,000 ) 
+
+12,000 
+
+24,000 5) 
+
+4,000 5) (24,000 ) 
+
+3,000 (9,000 ) 
+
+not possible 
+
+not possible 
+
+not permitted 
+
+24,000 5) 
+
+2,000 5) (12,000 ) 
+
+not possible 
+
+24,000 5) 
+
+not permitted 
+
+not possible 
+
+2,000 5) (12,000 ) 
+
+1,000 (6,000 ) 
+
+ Onestorey 
+
+ More than one storey 
+
+Garages 
+
+3,000 3) 5) (24,000 ) 
+
+  as part of an abovesurface building 
+
+  separate garage above ground surface  3,000 3) 4) 5) (24,000 ) 
+
+  underground 
+
+ATTICS 
+
+1,500 5) (10,000 ) 
+
+1,600 
+
+not possible 
+
+not permitted 
+
+1,000 5) (6,000 ) 
+
+not permitted 
+
+2,000  
+
+not permitted 
+
+not possible 
+
+not possible 
+
+not possible 
+
+1,600 
+
+3,000 (24,000 ) 
+
+3,000 3) (24,000 ) 
+
+1,500 5) (10,000 ) 
+
+1,600 
+
+400 (3,000 ) 
+
+1,000 (6,000 ) 
+
+not permitted 
+
+according to com
+
+partments below 
+
+800 (2,400 ) 
+
+800 (2,400 ) 
+
+400 (1,200 ) 
+
+800 (2,400 ) 
+
+BASEMENT STOREYS 
+
+Attics and uppermost floor voids shall be divided into 400 m2 parts.
+
+
+Base floor voids shall be divided into 400 m2 parts if the areas surfaces (apart from minor parts) do not meet the Ds2, d2class 
+
+requirements.
+
+
+1) The building is provided with an automatic fireextinguishing system that is suitable for its purpose, apart from a residential 
+
+building of two to four storeys, where all storeys of each housing unit belong to one and the same apartment and whose height 
+
+does not exceed 14 m. 
+
+2) The fire compartment shall be partitioned by accommodation room.
+
+
+4) In an open garage of no more than five storeys, the maximum area may be used as the surface area of the storeys, even though 
+
+the driveways between the various storeys are combined.
+
+
+Section 16 
+
+Fire compartmenting building elements and partitioning building elements 
+
+Fireseparating building elements together with any attached installations and equipment must 
+
+prevent the spread of fire from one fire compartment to another for a specified period of time.
+
+
+In this case, the exit of persons must 
+
+not be endangered nor must the fire spread to another fire compartment within the required fire 
+
+resistance time.
+
+
+Class requirements for fireseparating building elements 
+
+Buildings fire class and number of storeys, and fire load category MJ/m2 
+
+6001,200 
+
+less than 600 
+
+P2 over 
+
+two sto
+
+reys 
+
+P2 one or two 
+
+storeys 
+
+EI 60 1) 
+
+EI 60 2) 
+
+EI 30 
+
+EI 30 
+
+more than 
+
+1,200 
+
+EI 120 1) 
+
+(EI 60 ) 1) 
+
+EI 90, A2  
+
+EI 90 1) 
+
+(EI 60 ) 1) 
+
+EI 60, A2  
+
+EI 60 
+
+EI 60 
+
+EI 60 
+
+EI 60, A2  
+
+not possi
+
+EI 60 2) 
+
+not possible 
+
+not possible 
+
+EI 30 
+
+EI 30 
+
+EIM 90, A1 
+
+(EIM 60, A1 ) 
+
+EIM 90, A1 
+
+(EIM 60, A1 ) 
+
+EIM 90, A1 
+
+(EIM 60, A1 ) 
+
+not possi
+
+EIM 90, A1 
+
+(EIM 60, A1 ) 
+
+EIM 90, A1 
+
+(EIM 60, A1 ) 
+
+EIM 120, A1 
+
+(EIM 60, A1 ) 
+
+EIM 120, A1 
+
+(EIM 60, A1 ) 
+
+EIM 120, A1 
+
+(EIM 60, A1 ) 
+
+not possi
+
+EIM 120, A1 
+
+(EIM 60, A1 ) 
+
+EIM 60, A1  
+
+EI 60, A2 
+
+EI 60, A2 
+
+EI 60, A2 
+
+EI 30 
+
+EI 30 
+
+EI 30 
+
+not possi
+
+EI 30 
+
+EI 60 
+
+EI 30 
+
+EI 30 
+
+EI 30 
+
+EI 120, A2 
+
+(EI 90, A2 ) 
+
+EI 90, A2 
+
+(EI 60, A2 ) 
+
+EI 60, A2 
+
+EI 60, A2  EI 60, A2 
+
+EI 30, A2 3) 
+
+Storeys, general 
+
+ building over 56 metres high 
+
+ uppermost floor, if a fire 
+
+compartmentation requirement 
+
+ production and storage prem
+
+ises, fire hazard class 1, com
+
+partmentation by area 
+
+ production and storage prem
+
+ises, fire hazard class 2, com
+
+partmentation by area 
+
+ garages, compartmentation 
+
+by area 
+
+Compartmenting walls of the 
+
+attic, 
+
+compartmentation by area 
+
+Basement storeys 
+
+1) Fireseparating building elements of exits of a building of over two storeys and P1 fire class must be made of at least A2s1, d0
+
+class building materials.
+
+
+A1 Building materials A1 class 
+
+A2 Building materials at least A2s1, d0class 
+
+ When the building or premises is provided with an automatic fireextinguishing system that is suitable for its purpose.
+
+
+Section 17 
+
+Fire doors, windows and shutters 
+
+The fire resistance time of a door, small window and other building elements covering rela
+
+tively small openings in a fireseparating building element shall have at least half of the fire 
+
+resistance time required for the fireseparating building element.
+
+
+The fire resistance time of a 
+
+building element that protects an opening in an intermediate floor and in the fire compartment
+
+ing wall of a basement storey whose floor is at a distance greater than 14 metres from the build
+
+ings entry level must be the same as that of the fireseparating building element.
+
+
+A fire door must be selfclosing and selfbolting.
+
+
+However, no door closer is required in sto
+
+reylevel doors of residential apartments in buildings of less than 56 metres in height.
+
+
+If a fire door is kept open in normal use, it shall be equipped with devices that will close the 
+
+door in the event of fire.
+
+
+Partitioning doors in accommodation premises shall be equipped with closing devices.
+
+
+Section 18 
+
+Penetrations in firecompartmented structures 
+
+Pipes, shafts, ducts, cables and flues, and penetrations required by conveyors that are mounted 
+
+through a fireseparating building element must not essentially reduce the fire compartmenting 
+
+capacity of the building element.
+
+
+Section 19 
+
+Ventilation system 
+
+The ventilation system must not increase the hazard of spreading fire or gaseous combustion 
+
+products.
+
+
+The walls of ventilation ducts servicing more than one fire compartment or partition must be 
+
+made of building materials of at least class A2s1, d0.
+
+
+Section 20 
+
+Attics and voids 
+
+Attics and voids shall be built in such a way that the hazard of ignition of fire and spread of 
+
+fire and smoke within the building is not essentially increased thereby.
+
+
+Extensive voids must be partitioned in order to restrict the spread of fire.
+
+
+The spread of fire in voids of walltype building elements must be restricted at least by storey.
+
+
+Section 21 
+
+External walls and balconies 
+
+External walls and balconies shall be constructed so that a fire will not spread from one fire 
+
+compartment to another through them for a specified period of time.
+
+
+In glazed balconies, the spread of fire from one balcony to another and to an adjacent fire 
+
+compartment must be restricted.
+
+
+The fire compartmenting requirement for the balcony slab of a 
+
+glazed balcony of a building exceeding two storeys is EI 30; however, minor sealing parts and 
+
+penetrations may be class E 15.
+
+
+If the free gap between facing walls of adjacent glazed balconies 
+
+or the distance of the wall to the window of an adjacent fire compartment is less than 2 metres, 
+
+the wall in question must be class EI 15.
+
+
+Chapter 4 
+
+Limitation of development of fire 
+
+Section 22 
+
+General requirements 
+
+The building materials used in the building must not contribute to the development of a fire 
+
+in a hazardous manner.
+
+
+Nor do the requirements apply to beams and columns that meet the class requirements R 30 and 
+
+Ds2, d2 and are located in a building of no more than two storeys.
+
+
+Class requirements for internal surfaces 
+
+Dwellings 
+
+Accommodation premises 
+
+Institutions 
+
+Assembly and business premises 
+
+  fire compartment maximum 300 m2: restaurants, shops, 
+
+schools, sports halls, theatres, churches, daycare centres and 
+
+daycare institutions  
+
+ fire compartment exceeding 300 m2: restaurants, schools, 
+
+sports halls, theatres, churches, daycare centres and daycare 
+
+institutions  
+
+ fire compartment exceeding 300 m2: shops, exhibition halls 
+
+and libraries  
+
+Office premises   
+
+Production and storage premises 
+
+ fire hazard class 1 
+
+ fire hazard class 2 
+
+Car repair shops and service stations, garages 
+
+Attics and uppermost floor voids  
+
+ attics and voids in the uppermost floor that have been fire
+
+compartmented from the premises below 
+
+ An attic of a residential building, intended for storage of 
+
+moveable property or for drying laundry  
+
+ voids in the uppermost floor that have not been firecom
+
+partmented from the premises below This requirement does 
+
+not apply to a thermal insulation products ventilation slots.
+
+
+In the case of pipelike insulating materials, the values of the table shall apply, with the subindex L added to 
+
+the entry depicting fire participation for walls and roofs.
+
+
+5) In a separate garage, not exceeding 1,000 square metres, and in a garage (forming part of a building) not exceeding 60 square me
+
+tres, the class requirement (apart from basement level) is Ds2, d2.
+
+
+no requirement 
+
+Section 24 
+
+Protective coverings of internal surfaces 
+
+The internal wall and roof surfaces of a building of fire class P2 and of one to two storeys 
+
+must be fitted with a protective covering of K2 10 class, made of at least Bs1, d0class building 
+
+materials.
+
+
+However, no protective covering is required: 
+
+1) if the insulating parts of thermal insulation products are at least class Bs1, d0;  
+
+2) for walls, where the construction product forming their inner and outer surface, including 
+
+joints, meets class requirement Bs1, d0 (inner surface) and EI 15 (as building element).
+
+
+The surfaces of an exit and an exit enclosure of a building of fire class P2 and more than two 
+
+storeys, apart from the top and front surface of landings and stairs, must be fitted with a protec
+
+tive  covering  of  K2 10  class,  made  of  at  least  A2s1,  d0class  building  materials.
+
+
+Protective 
+
+covering is not, however, required for minor building elements or for building elements that 
+
+(apart from minor structural parts) are made of building materials of at least A2s1, d0 class.
+
+
+The inner surfaces of a building of fire class P2 and more than two storeys, apart from exit 
+
+and exit enclosure surfaces, must be fitted with a protective covering of K2 30 class, made of at 
+
+least  A2s1,  d0class  building  materials.
+
+
+Nor is protective covering required for a wall or roof surface when its share of the total surface 
+
+area of the loadbearing, fire compartmenting and exterior walls and roof of the fire compart
+
+ment is: 
+
+1) no more than 20 per cent;  
+
+2) over 20 per cent, but no more than 80 per cent and the fire resistance time of loadbearing 
+
+and fireseparating building elements has been extended by 30 minutes; 
+
+3) over 80 per cent and the fire resistance time of loadbearing and fireseparating building 
+
+elements has been extended by 60 minutes.
+
+
+However, the internal surfaces of a residential building of fire class P2, of three or four storeys 
+
+and with a height not exceeding 14 metres may be fitted with a protective covering of at least 
+
+K2 10 class made of building materials of at least A2s1, d0 class, if the surfaces are given a 
+
+protective covering in their entirety.
+
+
+The inner surfaces of a building of fire class P1 and more than two storeys, whose skeletal 
+
+framework is not at least A2s1, d0 class, must be fitted with a protective covering of K2 30 
+
+class, made of at least A2s1, d0class building materials.
+
+
+Section 25 
+
+General requirements for external wall 
+
+The external wall of a building of fire class P1 must be mainly constructed of building mate
+
+rials of at least class A2s1, d0.
+
+
+The thermal insulation products and other fillings of a P2 fire class building of over two sto
+
+reys and of a P1 fire class building of over 56 metres in height must be at least A2s1, d0 class.
+
+
+In a P1 fire class building not exceeding 56 metres in height, a thermal insulation product may 
+
+be used whose insulating part meets the Bs1, d0class requirements, or a thermal insulation 
+
+product that is protected and positioned in such a way that the spread of fire into the thermal 
+
+insulation  product  is  limited  for  a  time  that  in  the  case  of  the  building  interior  and  sides  of 
+
+openings  is  at  least  half  of  the  fire  resistance  time  requirement  of  the  areas  fireseparating 
+
+building elements.
+
+
+A thermal insulation product whose insulating part does not meet the Ds2, 
+
+d2class requirement must be cut with fire partitionat most twostorey intervals up to a height 
+
+of  28  metres,  and  thereafter  at  singlestorey  intervals,  by  a  building  material  that  limits  the 
+
+spread of fire in the thermal insulation product.
+
+
+The frame of a nonloadbearing external wall of a P1 fire class building no more than 56 
+
+metres in height can consist of Ds2, d2class building materials.
+
+
+The fire performance of the external wall structure of a building no more than 56 metres in 
+
+height may also be demonstrated by a fullscale test.
+
+
+Class requirements for surfaces of external walls and ventilation gaps 
+
+Use and fire class 
+
+Building over 56 metres high 
+
+Building of P1 fire class and no more than 56 m in height, 
+
+general 
+
+Residential and office building no more than 28 m in height, 
+
+general 
+
+residential building, when additional thermal insula
+
+tion whose insulating part does not meet the Bs1, d0 
+
+requirement and whose thickness does not exceed 
+
+100 mm has been used in repair and alteration work 
+
+external surface part of external wall, if the structures 
+
+surrounding that part protect the wall surface from the 
+
+spread of fire 
+
+residential building, uppermost storey 
+
+Residential and office building with a height exceeding 14 m 
+
+but no more than 28 m 
+
+Residential and office building of no more than 14 m in 
+
+height  
+
+Production and storage building or assembly and business 
+
+building of one or two storeys and no more than 28 m in 
+
+height 
+
+P2 fire class building 
+
+Building of over two storeys and no more than 28 m in 
+
+height, general 
+
+residential, accommodation and office building, and 
+
+assembly and business building 
+
+Residential building of more than two storeys and no more 
+
+than 14 m in height, whose basement and storeys of each 
+
+housing unit belong to one and the same apartment 
+
+Building of no more than two storeys, general 
+
+institutions 
+
+External sur
+
+face of exter
+
+nal wall 
+
+External sur
+
+face of venti
+
+lation gap 
+
+Internal surface of 
+
+ventilation gap 
+
+A2s1, d0 
+
+Bs1, d0 
+
+A2s1, d0 
+
+Bs1, d0 
+
+A2s1, d0 
+
+Bs1, d0 
+
+Bs2, d0 
+
+Bs2, d0 
+
+Bs1, d0 
+
+Bs2, d0 
+
+Bs2, d0 
+
+Bs1, d0 
+
+Condi
+
+tions for 
+
+use of 
+
+classes 
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs1, d0 
+
+Ds2, d2 
+
+Ds2, d2  
+
+Ds2, d2 
+
+Ds2, d2  
+
+A2s1, d0 
+
+Bs1, d0  
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs1, d0 
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs1, d0 
+
+6) 4)  
+
+1) 2) 3) 4) 
+
+1) 2) 3) 4) 
+
+3) 4) 5) 6) 
+
+Bs2, d0  
+
+Bs2, d0  
+
+K2 10, A2s1, d0  
+
+Ds2, d2  
+
+Ds2, d2  
+
+K2 10, A2s1, d0  
+
+2) 3) 4) 5) 
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs1, d0 
+
+2) 3) 4) 
+
+Ds2, d2 
+
+Bs2, d0  
+
+(Ds2, d2 ) 3) 
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs2, d0  
+
+(Ds2, d2 ) 3) 
+
+Ds2, d2 
+
+Ds2, d2 
+
+Bs1, d0 
+
+no requirement 
+
+P3 fire class building 
+
+Balconies shall comply with the requirements set for the outer surface of an exterior wall.
+
+
+However, the requirement for the surfaces 
+
+(excluding floors) of a balcony designed for use as a fire escape of a building not exceeding 28 metres in height is Bs2, d0.
+
+
+By way 
+
+of derogation from the above, the beams and columns of a balcony of a P2 fire class building of more than two storeys may be class 
+
+Ds2, d2, if the balcony is provided with an automatic fireextinguishing system that is suitable for its purpose.
+
+
+The requirements 
+
+shall not apply to minor surfaces such as hand railings.
+
+
+In the case of an openaccess balcony, compliance shall be made with the requirements set for an exit.
+
+
+However, the walls and col
+
+umns of the openaccess balcony of a P2 fire class building of not more than two storeys may be class Ds2, d2.
+
+
+The beams and 
+
+columns of an openaccess balcony of a P2 fire class building of more than two storeys may be class Ds2, d2, if the access balcony 
+
+is provided with an automatic fireextinguishing system that is suitable for its purpose.
+
+
+The requirements shall not apply to minor 
+
+surfaces such as hand railings.
+
+
+The mounting accessories for the facade cladding may, to a small extent, be of class Ds2, d2 in a building with a height not exceed
+
+ing 28 m. 
+
+1) If the insulating part of a thermal insulation product does not meet the Bs1, d0 requirements, the surface structures of the external 
+
+surface must protect the thermal insulation product from fire in such a way that the protection corresponds to an EI 30 building ele
+
+ment, or the inner surface of the ventilation gap must be fitted with K2 30, A2s1, d0 protective covering.
+
+
+3) The spread of fire in a ventilation gap must be restricted at each storey, and the spread of fire in a horizontal direction to the venti
+
+lation gap in the external wall of a firecompartmented staircase must be prevented.
+
+
+4) The spread of fire from the facade into an attic and the uppermost floor must be restricted so that this corresponds to an EI 30
+
+building element.
+
+
+5) The collapse of extensive parts of the facade structure in the event of a fire must be restricted.
+
+
+6) If the insulating part of a thermal insulation product does not meet the Bs1, d0 requirements, the surface structures of the external 
+
+surface must protect the thermal insulation product from fire in such a way that the protection corresponds to an EI 15 building ele
+
+ment, or the inner surface of the ventilation gap must be fitted with a K210, A2s1, d0 protective covering.
+
+
+7 The partitioning of thermal insulation products on each storey referred to in section 25 shall not be required if the requirements in 
+
+comment 6) are met.
+
+
+8) An external wall and its windows and other openings must meet the EI 30 requirement.
+
+
+Section 27 
+
+Requirements for the uppermost floor 
+
+The thermal insulation products and other filling of a P2 fire class building of over two storeys 
+
+and of a P1 fire class building of over 56 metres in height must be at least A2s1, d0 class.
+
+
+In a P1 fire class building not exceeding 56 metres in height, a thermal insulation product may 
+
+be used whose insulating part meets the Bs1, d0class requirements, or a thermal insulation 
+
+product is protected and positioned in such a way that the spread of fire into the thermal insula
+
+tion product is limited for a time that in the case of the building interior and sides of openings 
+
+is at least the same as the fire resistance time requirement of the areas fireseparating building 
+
+elements.
+
+
+By way of derogation from the above, however, it is sufficient that the spread of the 
+
+fire into the thermal insulation product be restricted for a time that is at least half of the fire 
+
+resistance time requirement of the areas fireseparating building elements: 
+
+1) In a one or twostorey building with no attic; 
+
+2) In a building not exceeding 28 metres in height, if the insulating part of the thermal insula
+
+tion product meets the class Ds2, d2 requirement.
+
+
+Penetrations and other installations must be carried out in such a way that the protection of 
+
+thermal insulation products does not deteriorate as a result of these.
+
+
+Section 28 
+
+Roof 
+
+A roof must not easily ignite from a fire at a neighbouring building.
+
+
+Fire must not spread in a roof or in its underlay in a way that causes a hazard.
+
+
+The roof must be BROOF(t2)class.
+
+
+Large  roof  surfaces  must  be  divided  into  parts  of  no  more  than  2,400 square  metres.
+
+
+This 
+
+requirement does not apply in cases where the underlay is of at least class A2s1, d0 or to other 
+
+solutions whose level of fire safety can be regarded as acceptable.
+
+
+Chapter 5  
+
+Prevention of the spread of fire to neighbouring buildings 
+
+Section 29  
+
+Distance between buildings 
+
+The spread of fire from one building to another must not endanger personal safety or cause 
+
+unacceptable economic or societal losses.
+
+
+The  distance  between  buildings  on  neighbouring  plots  or  construction  sites  (neighbouring 
+
+building) must be such that fire does not spread easily to neighbouring buildings and that the 
+
+hazard of regional fire remains small.
+
+
+If the distance between neighbouring buildings is less than 8 metres, limitation of the spread 
+
+of fire shall be ensured through structural or other means.
+
+
+Section 30 
+
+Fire wall 
+
+A building must be provided with a fire wall if it is situated adjacent to a neighbouring build
+
+ing or so close to a neighbouring building that the spread of fire is evident.
+
+
+The fire wall in a P0 and P1 fire class building and in a P2 fire class building whose height 
+
+exceeds 14 metres must be made of A1class building materials, and the doors in it must be 
+
+made of at least A2s1, d0class building materials.
+
+
+The fire resistance time of the door in a fire wall or similar building element must be at least 
+
+the same as the fire resistance time that the fire wall is required to have.
+
+
+Class requirements for fire walls 
+
+Fire class of building  
+
+Fire load MJ/m2  
+
+P0 and P1 
+
+6001,200 
+
+less than 600 
+
+EIM 180 
+
+1) The EIM 60 requirement may be replaced by fire compartmentation if the facing external walls of the buildings meet the EI 
+
+60class requirement against internal fire.
+
+
+EIM 120 
+
+EIM 120 
+
+EIM 60 1) 
+
+more than 
+
+1,200 
+
+EIM 240 
+
+Chapter 6 
+
+Leaving the building in case of fire 
+
+Section 31 
+
+General requirements 
+
+It must be possible to leave a building safely in case of fire.
+
+
+A building shall be provided with an adequate number of appropriately located exits that are 
+
+sufficiently spacious and passable, so that the time to leave the building will not be so long as 
+
+to cause danger.
+
+
+Exits shall lead outside to the ground level or to some other safe place in case of fire.
+
+
+An exit or a exit enclosure must not be constructed from such building materials or building 
+
+elements and must not house such equipment or installations that would increase the fire load 
+
+in a way that cannot be regarded as acceptable, or that would jeopardise personal safety due to 
+
+smoke formation.
+
+
+Section 32 
+
+Maximum length of passageway to nearest exit 
+
+The length of a passageway to the nearest exit must not be so long as to constitute a hazard.
+
+
+If the passageways to two separate exits partly join, the length of the 
+
+common part must be doubled in the calculation.
+
+
+When calculating the length of a passageway, 
+
+the level differences in the passageway must be taken into account.
+
+
+Maximum length of passageway to nearest exit (metres) 
+
+Use of evacuation area 
+
+General  
+
+The evacuation area is 
+
+equipped with a fire 
+
+alarm system based on 
+
+smoke detection or 
+
+with an automatic fire
+
+extinguishing system  
+
+30 m 1) 
+
+30 m 
+
+4050 m 3) 
+
+The evacuation area is 
+
+equipped with a fire 
+
+alarm system based on 
+
+smoke detection and 
+
+with an automatic fire
+
+extinguishing system 
+
+30 m 1) 
+
+30 m 
+
+4560 m 3) 
+
+30 m 1) 2) 
+
+30 m 
+
+30 m 
+
+Evacuation area from which there is only one exit 
+
+Sleeping premises at an institution 
+
+Accommodation premises, other premises of institutions, and 
+
+shops  
+
+Other premises 
+
+1) Distances may be exceeded by 20 per cent in a groundlevel storey if emergency evacuation is possible through easily opened 
+
+windows.
+
+
+6070 m 3) 
+
+5060 m 3) 
+
+45 m 2) 
+
+Section 33 
+
+Number of exits  
+
+Each evacuation area of a building where people are staying or working, apart from tempo
+
+rarily, shall be provided with a number of independent, separate and appropriate exits that are 
+
+at least in accordance with Table 11.
+
+
+Use of evacuation area 
+
+Number of exits, at least 
+
+Distance of floor of upper
+
+most storey from entry 
+
+level of staircase serving it 
+
+No more than 24 
+
+General 
+
+ dwelling, office premises of less than 
+
+300 m2, or production or storage premises of 
+
+less than 300 m2 
+
+ dwelling, office premises of less than 
+
+300 m2, or production or storage premises of 
+
+less than 300 m2 
+
+Protected 
+
+from fire 
+
+Protected 
+
+from fire 
+
+and smoke 
+
+Compart
+
+mented, or 
+
+access to safe 
+
+place 1) 
+
+Over 24 and no more than 38  General 
+
+ dwelling, or office premises less than 
+
+300 m2  
+
+Over 38 and no more than 52  General 
+
+ dwelling, or office premises less than 
+
+300 m2  
+
+General 
+
+More than 52 
+
+1) Safe place refers to access directly to the outside or to another safe place.
+
+
+If this does not pose a hazard to personal safety, one exit may also be regarded as sufficient 
+
+in a single storey: 
+
+1) accommodation building, whose rooms are entered directly from outside; 
+
+2) an institution intended for no more than 10 clients; 
+
+3) small assembly and business premises.
+
+
+Evacuation areas must have a fire escape if this is required for personal safety reasons.
+
+
+Exits of parts of the building separated by a fire wall must be constructed separately so that in 
+
+the event of a fire there is no need to use any door that may be in the fire wall.
+
+
+Section 34 
+
+Dimensions of exits 
+
+The minimum width of an exit shall be calculated on the basis of the number of occupants 
+
+evacuating through the exit.
+
+
+The highest number of occupants intended to be present in an evacuation area shall be used 
+
+as the number of occupants.
+
+
+If several evacuation areas are connected to the same exit, the width 
+
+of the exit shall be designed according to the evacuation area with the highest number of occu
+
+pants.
+
+
+The width of an exit must be at least 1,200 millimetres and its free height must be at least 
+
+2,100 millimetres.
+
+
+However, by way of derogation from the above: 
+
+1) in an evacuation area where the maximum number of occupants is 60, the second exit may 
+
+be no less than 900 millimetres in width;  
+
+2) in residential buildings of not more than two storeys, one exit of no less than 900 millime
+
+tres in width is permitted; 
+
+3) If a lift or other device for moving between levels is installed in the exit of an existing 
+
+building, the dwellings exit may be no less than 850 millimetres wide.
+
+
+If the number of occupants exceeds 120, the total minimum width of the exits shall be calcu
+
+lated by increasing the original 1,200 millimetres by 400 millimetres for each additional group 
+
+of 60 people.
+
+
+Section 35 
+
+Doors used for evacuation 
+
+The number and width of doors leading to exits and from rooms to internal corridors must be 
+
+adequate in relation to the number of occupants using them.
+
+
+The doors of exits, and of areas leading to them, must be easy to open in an emergency.
+
+
+In the 
+
+case of the storeylevel door of a dwelling, or if the number of people evacuating through the 
+
+door exceeds 60, doors must open in the direction of the exit.
+
+
+Section 37 
+
+Safety report 
+
+The safety report referred to in section 117 b of the Land Use and Building Act must state: 
+
+a) how long, on average, it will take to evacuate the occupants (by their own means or, taking 
+
+account of the use of the premises, with help) from fire compartments and from partitions of a 
+
+fire compartment (i.e.
+
+
+If the estimated time is not sufficient for evacuation or rescue from the hazardous conditions, 
+
+the  building  project  promoter  shall  order  structural  or  other  necessary  measures  in  order  to 
+
+achieve the safety level necessary from the aspect of personal safety.
+
+
+Chapter 7 
+
+Fire technical installations 
+
+Section 38 
+
+Smoke detector and fire alarm system 
+
+Dwellings, accommodation premises, institutions, daycare institutions, daycare centres and 
+
+other  early  childhood  education  premises and schools  must  be  provided  with  an  appropriate 
+
+system that gives a warning at an early stage of a beginning fire.
+
+
+Table 12 shall apply to the provision of a building with a system that gives warning at an early 
+
+stage of a beginning fire.
+
+
+Fire detection installations required at premises 
+
+Premises 
+
+Number of places 
+
+Dwellings  connected  to  power  supply 
+
+No restriction 
+
+mains 
+
+Smoke detec
+
+fire 
+
+alarm connected 
+
+to  mains  power 
+
+supply 
+
+Fire 
+
+alarm 
+
+system 
+
+Fire  alarm 
+
+system 
+
+nected 
+
+emergency 
+
+centre 
+
+Accommodation premises 
+
+No  more  than  50  accom
+
+Institutions, general 
+
+ daycare centres in use 24 hours a day 
+
+Daycare institutions 
+
+Daycare  centres  and  other  early  child
+
+hood education premises 
+
+modation places 
+
+Over  50  accommodation 
+
+places 
+
+No more than 25 beds 
+
+More than 25 beds 
+
+No more than 50 beds 
+
+More than 50 beds 
+
+No restriction 
+
+No more than 150 children 
+
+More than 150 children 
+
+Schools 
+
+No more than 250 pupils 
+
+251500 pupils 
+
+Over 500 pupils 
+
+Section 39 
+
+Automatic fireextinguishing system 
+
+There must be an automatic fireextinguishing system that is suitable for its purpose and con
+
+nected to the emergency centre: 
+
+1) in a P2 fire class building of over two storeys, including balconies that are designed for use 
+
+as fire escapes.
+
+
+This requirement does not apply to a residential building of fire class P2 and 
+
+more than two storeys, where all the storeys of each housing unit belong to one and the same 
+
+apartment and the height of the building does not exceed 14 metres; 
+
+2) in an exit that serves more than one evacuation area in a fire class P2 building of over two 
+
+storeys.
+
+
+Chapter 8 
+
+Organisation of firefighting and rescue operations 
+
+Section 40 
+
+Prerequisites for rescue and firefighting work 
+
+The prerequisites for extinguishing fires and rescuing people in a building and in its vicinity 
+
+shall be taken into account in the design.
+
+
+It must be possible for fire and service rescue equipment to have sufficiently close access to 
+
+the building (emergency access road).
+
+
+There must be access to each fire compartment of an attic for firefighting operations.
+
+
+If the 
+
+height of the building does not exceed 28 metres, access to the attic fire compartments from the 
+
+outside shall be required.
+
+
+Extinguishing routes to basement storeys shall be arranged so that basement storeys can be 
+
+reached from the ground level without a need to pass through the exits of the storeys.
+
+
+However, if a lift or other device for 
+
+moving between levels is installed in the exit of an existing building, the minimum width of an 
+
+extinguishing route shall be at least 850 millimetres.
+
+
+Extinguishing routes of basement storeys must not be connected to fire and smokeproof exits.
+
+
+Section 41 
+
+Lift used in rescue and firefighting work 
+
+A lift must be available for use in rescue and extinguishing work (firefighting lift); 
+
+1) in areas above the entrance level when the distance of the floor of the uppermost storey 
+
+exceeds 38 metres from the buildings entrance level; 
+
+2) in areas below the entrance level when the distance of the floor of the basement storey 
+
+exceeds 14 metres from the buildings entrance level and the surface area of that basement sto
+
+reys evacuation area exceeds 800 m2; 
+
+The internal dimensions of the lift cage must be suitable for the conveyance of a stretcher.
+
+
+Section 42 
+
+Smoke extraction 
+
+In  order  to  enhance  the  efficiency  of  firefighting  and  rescue  operations,  means  of  smoke 
+
+extraction shall be designed and constructed in the building so that smoke can be extracted from 
+
+the different premises in the building.
+
+
+In exit passageways and firecompartmented elevator shafts, means must be arranged for both 
+
+smoke extraction and flow of replacement air.
+
+
+Means shall be provided for smoke extraction from the spaces of the basement storey, so that 
+
+it  will  not  be  necessary  to  use  exit  passageways  or  compartmented  extinguishing  routes  for 
+
+smoke extraction.
+
+
+If so required on justified grounds, smoke extraction shall be arranged using special measures, 
+
+such as smoke vents, smoke venting windows, smoke venting fans or windows located in the 
+
+upper part of the rooms and that are easy to open.
+
+
+Section 43 
+
+Fixed dry riser 
+
+A building shall be provided with a permanently installed dry riser that is suitable for its pur
+
+pose for transporting water for fire extinguishing:  
+
+1) in the premises above the entry level of the building, when the distance of the uppermost 
+
+floor level from the entry level exceeds 24 metres; 
+
+2) in the premises below the entry level of the building, when the distance of the basement 
+
+storey floor from the entry level exceeds 14 metres.
+
+
+Section 44 
+
+Entry into force 
+
+This Decree enters into force on 1 January 2018.
+
+
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at 
+
+the time of entry into force of this Decree.
+
+

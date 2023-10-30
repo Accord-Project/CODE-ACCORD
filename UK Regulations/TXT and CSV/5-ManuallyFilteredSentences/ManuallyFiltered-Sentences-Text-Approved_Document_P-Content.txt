@@ -1,0 +1,198 @@
+Reasonable provision shall be made in the design 
+
+and installation of electrical installations in order to 
+
+protect persons operating, maintaining or altering the  
+
+installations from fire or injury.
+
+Design and installation P1.
+
+Section 1: Design and installation.
+
+General.
+
+1.1  Electrical installations should be designed and installed in accordance with BS 7671:2008 
+
+incorporating Amendment No 1:2011.
+
+
+Provision of information.
+
+1.2  Sufficient information should be provided to ensure that people can operate, maintain or alter an 
+
+electrical installation with reasonable safety.
+
+
+New dwellings.
+
+1.4  Wall-mounted socket-outlets, switches and consumer units in new dwellings should be easy to 
+
+reach, in accordance with Part M of the Building Regulations (Access to and use of buildings).
+
+
+NOTE: Approved Document M recommends that in new dwellings only, switches and socket
+
+outlets for lighting and other equipment should be between 450mm and 1200mm from finished 
+
+floor level.
+
+
+This means that in some cases the existing electrical installation will 
+
+need to be upgraded to meet current standards.
+
+
+Additions and alterations to existing electrical installations.
+
+1.6  Regulation 4(3) states that when building work is complete, the building should be no more 
+
+unsatisfactory in terms of complying with the applicable parts of Schedule 1 to the Building 
+
+Regulations than before the building work was started.
+
+
+Therefore, when extending or altering an 
+
+electrical installation, only the new work must meet current standards.
+
+
+1.7 Any new work should be carried out in accordance with BS 7671.
+
+
+The existing electrical installation 
+
+should be checked to ensure that the following conditions are all satisfied.
+
+
+Section 2 sets out:
+
+a.  the types of building and electrical installation that are within the scope of Part P
+
+b.  the types of electrical work that are notifiable and must be certified as complying with the 
+
+Building Regulations.
+
+
+However, conservatories, porches, domestic greenhouses, garages 
+
+and sheds that share their electricity with a dwelling are not exempt from Part P (by virtue of 
+
+regulation 9(3)) and must comply with its requirements.
+
+(9) In this regulation special location means
+
+within a room containing a bath or shower, the space surrounding a bath tap 
+
+(a) within a room containing a bath or shower, the space surrounding a bath tap 
+
+or shower head, where the space extends
+
+(i) vertically from the finished floor level to
+
+vertically from the finished floor level to
+
+a height of 2.25 metres; or
+
+(aa) a height of 2.25 metres; or
+
+the position of the shower head where it is attached to a wall or 
+
+(bb) the position of the shower head where it is attached to a wall or 
+
+ceiling at a point higher than 2.25 metres from that level; and
+
+ceiling at a point higher than 2.25 metres from that level; and
+
+(ii) horizontally
+
+where there is a bath tub or shower tray, from the edge of the bath 
+
+(aa) where there is a bath tub or shower tray, from the edge of the bath 
+
+tub or shower tray to a distance of 0.6 metres; or
+
+(bb) where there is no bath tub or shower tray, from the centre point 
+
+of the shower head where it is attached to the wall or ceiling to a 
+
+distance of 1.2 metres; or
+
+a room containing a swimming pool or sauna heater.
+
+Section 3: Certification, inspection and testing. 
+
+General.
+
+3.1 For notifiable electrical installation work, one of the following three procedures must be used to 
+
+certify that the work complies with the requirements set out in the Building Regulations.
+
+
+3.2 To verify that the design and installation of electrical work is adequate, and that installations will be 
+
+safe to use, maintain and alter, the electrical work should be inspected and tested in accordance 
+
+with the procedures in BS 7671.
+
+
+NOTE: Electrical inspection and test forms should be given to the person ordering the work.
+
+
+3.4 The installer or the installers registration body must within 30 days of the work being completed 
+
+do both of the following.
+
+
+3.6 Within 5 days of completing the work, the installer must notify the registered thirdparty certifier 
+
+who, subject to the results of the inspection and testing being satisfactory, should then complete 
+
+an electrical installation condition report and give it to the person ordering the work.
+
+
+NOTE: The electrical installation condition report should be the model BS 7671 form or one 
+
+developed specifically for Part P purposes.
+
+
+3.7 The registration body of the thirdparty certifier must within 30 days of a satisfactory condition 
+
+report being issued do both of the following.
+
+
+
+Certification by a building control body.
+
+If an installer is not a registered competent person and has not appointed a registered thirdparty 
+
+certifier, then before work begins the installer must notify a building control body.
+
+
+Inspection and testing of non-notifiable work.
+
+3.13  Nonnotifiable electrical installation work, like notifiable work, should be designed and installed, and 
+
+inspected, tested and certificated in accordance with BS 7671.
+
+The following are key terms used in this document.
+
+Low voltage: A voltage exceeding extra-low voltage but 
+
+not exceeding 1000V ac or 1500V dc between 
+
+conductors, or 600V ac or 900V dc between 
+
+conductors and earth.
+
+Registered competent person: A competent person registered with a Part P 
+
+competent person self-certification scheme.
+
+Electrical installation: Fixed electric cables or fixed electrical equipment 
+
+located on the consumers side of the electricity supply meter.
+
+Registered third-party certifier: A competent person registered with a Part P 
+
+competent person third-party certification scheme. 

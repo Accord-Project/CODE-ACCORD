@@ -1,0 +1,420 @@
+Reasonable provision shall be made in the design 
+
+ Reasonable provision shall be made in the design 
+
+P1.P1.
+
+
+Reasonable provision shall be made in the design 
+
+and installation of electrical installations in order to 
+
+and installation of electrical installations in order to 
+
+and installation of electrical installations in order to 
+
+protect persons operating, maintaining or altering the 
+
+protect persons operating, maintaining or altering the 
+
+protect persons operating, maintaining or altering the 
+
+installations from fire or injury.
+
+
+t P, 2013 edition
+
+Approved Document P, 2013 edition 
+
+t P, 2013 edition
+
+t P, 2013 edition
+
+
+
+
+
+
+
+Building Regulations 2010
+
+
+
+Design and installation P1
+
+Section 1: Design and installation
+
+General
+
+1.1  Electrical installations should be designed and installed in accordance with BS 7671:2008 
+
+incorporating Amendment No 1:2011.
+
+
+Provision of information
+
+1.2  Sufficient information should be provided to ensure that people can operate, maintain or alter an 
+
+electrical installation with reasonable safety.
+
+
+New dwellings
+
+1.4  Wallmounted socketoutlets, switches and consumer units in new dwellings should be easy to 
+
+reach, in accordance with Part M of the Building Regulations (Access to and use of buildings).
+
+
+NOTE: Approved Document M recommends that in new dwellings only, switches and socket
+
+outlets for lighting and other equipment should be between 450mm and 1200mm from finished 
+
+floor level.
+
+
+This means that in some cases the existing electrical installation will 
+
+need to be upgraded to meet current standards.
+
+
+Building Regulations 2010  
+
+
+
+
+
+
+
+Approved Docu
+
+Approved Document P, 2013 edition 
+
+Approved Docu
+
+Approved Docu
+
+Design and installation
+
+
+
+Additions and alterations to existing electrical installations
+
+1.6  Regulation 4(3) states that when building work is complete, the building should be no more 
+
+unsatisfactory in terms of complying with the applicable parts of Schedule 1 to the Building 
+
+Regulations than before the building work was started.
+
+
+Therefore, when extending or altering an 
+
+electrical installation, only the new work must meet current standards.
+
+
+1.7  Any new work should be carried out in accordance with BS 7671.
+
+
+The existing electrical installation 
+
+should be checked to ensure that the following conditions are all satisfied.
+
+
+Section 2 sets out:
+
+a.  the types of building and electrical installation that are within the scope of Part P
+
+b.  the types of electrical work that are notifiable and must be certified as complying with the 
+
+Building Regulations.
+
+
+However, conservatories, porches, domestic greenhouses, garages 
+
+and sheds that share their electricity with a dwelling are not exempt from Part P (by virtue of 
+
+regulation 9(3)) and must comply with its requirements.
+
+
+(9) In this regulation special location means
+
+(9) In this regulation special location means
+
+within a room containing a bath or shower, the space surrounding a bath tap 
+
+(a)(a)      within a room containing a bath or shower, the space surrounding a bath tap 
+
+or shower head, where the space extends
+
+or shower head, where the space extends
+
+(i)(i)      vertically from the finished floor level to
+
+vertically from the finished floor level to
+
+a height of 2.25 metres; or
+
+(aa)      a height of 2.25 metres; or
+
+the position of the shower head where it is attached to a wall or 
+
+(bb)      the position of the shower head where it is attached to a wall or 
+
+ceiling at a point higher than 2.25 metres from that level; and
+
+ceiling at a point higher than 2.25 metres from that level; and
+
+horizontally
+
+(ii)(ii) horizontally
+
+where there is a bath tub or shower tray, from the edge of the bath 
+
+(aa)      where there is a bath tub or shower tray, from the edge of the bath 
+
+tub or shower tray to a distance of 0.6 metres; or
+
+tub or shower tray to a distance of 0.6 metres; or
+
+where there is no bath tub or shower tray, from the centre point 
+
+(bb)      where there is no bath tub or shower tray, from the centre point 
+
+of the shower head where it is attached to the wall or ceiling to a 
+
+of the shower head where it is attached to the wall or ceiling to a 
+
+distance of 1.2 metres; or
+
+distance of 1.2 metres; or
+
+a room containing a swimming pool or sauna heater.
+
+
+t P, 2013 edition
+
+Approved Document P, 2013 edition 
+
+t P, 2013 edition
+
+t P, 2013 edition
+
+
+
+
+
+
+
+Building Regulations 2010
+
+
+
+Certification, inspection and testing P1
+
+Section 3: Certification, inspection and testing 
+
+General
+
+3.1  For notifiable electrical installation work, one of the following three procedures must be used to 
+
+certify that the work complies with the requirements set out in the Building Regulations.
+
+
+3.2  To verify that the design and installation of electrical work is adequate, and that installations will be 
+
+safe to use, maintain and alter, the electrical work should be inspected and tested in accordance 
+
+with the procedures in BS 7671.
+
+
+NOTE: Electrical inspection and test forms should be given to the person ordering the work.
+
+
+3.4  The installer or the installers registration body must within 30 days of the work being completed 
+
+do both of the following.
+
+
+3.6  Within 5 days of completing the work, the installer must notify the registered thirdparty certifier 
+
+who, subject to the results of the inspection and testing being satisfactory, should then complete 
+
+an electrical installation condition report and give it to the person ordering the work.
+
+
+NOTE: The electrical installation condition report should be the model BS 7671 form or one 
+
+developed specifically for Part P purposes.
+
+
+3.7  The registration body of the thirdparty certifier must within 30 days of a satisfactory condition 
+
+report being issued do both of the following.
+
+
+Building Regulations 2010  
+
+
+
+
+
+
+
+Approved Docu
+
+Approved Document P, 2013 edition 
+
+Approved Docu
+
+Approved Docu
+
+Certification, inspection and testing
+
+
+
+Certification by a building control body
+
+If an installer is not a registered competent person and has not appointed a registered thirdparty 
+
+certifier, then before work begins the installer must notify a building control body.
+
+
+Inspection and testing of nonnotifiable work
+
+3.13  Nonnotifiable electrical installation work, like notifiable work, should be designed and installed, and 
+
+inspected, tested and certificated in accordance with BS 7671.
+
+
+10  Approved Document P, 2013 edition 
+
+t P, 2013 edition
+
+t P, 2013 edition
+
+t P, 2013 edition
+
+
+
+
+
+
+
+Building Regulations 2010
+
+
+
+Appendix A A
+
+Appendix A: Key terms
+
+The following are key terms used in this document:
+
+Building control body  
+
+A local authority or private sector approved 
+
+inspector
+
+Extralow voltage  
+
+A voltage not exceeding 50V ac or 120V ripplefree 
+
+dc, whether between conductors or to earth
+
+Building Regulations compliance certificate  
+
+A certificate issued by an installer registered with 
+
+an authorised competent person selfcertification 
+
+scheme, or by a certifier registered with an 
+
+authorised thirdparty certification scheme stating 
+
+that the work described in the certificate complies 
+
+with regulations 4 and 7 of the Building Regulations 
+
+2010 (that is, the work complies with all applicable 
+
+requirements in the Building Regulations)
+
+Low voltage  
+
+A voltage exceeding extralow voltage but 
+
+not exceeding 1000V ac or 1500V dc between 
+
+conductors, or 600V ac or 900V dc between 
+
+conductors and earth
+
+Registered competent person  
+
+A competent person registered with a Part P 
+
+competent person selfcertification scheme
+
+Electrical installation  
+
+Fixed electric cables or fixed electrical equipment 
+
+located on the consumers side of the electricity 
+
+supply meter
+
+Registered thirdparty certifier  
+
+A competent person registered with a Part P 
+
+competent person thirdparty certification scheme 
+
+NOTE: Terms defined in regulation 2 of the Building Regulations 2010
+
+Building Regulations 2010  
+
+
+
+
+
+
+
+Approved Docu
+
+Approved Document P, 2013 edition 
+
+Approved Docu
+
+Approved Docu
+
+Appendix B
+
+
+
+Appendix B: Standards referred to
+
+BS 7671  
+
+Requirements for Electrical Installations  
+
+2008  A1:2011 (IET Wiring Regulations 17th Edition,  
+
+ISBN 9781849192699) 
+
+t P, 2013 edition
+
+Approved Document P, 2013 edition 
+
+t P, 2013 edition
+
+t P, 2013 edition
+
+
+
+
+
+
+
+Building Regulations 2010
+
+

@@ -1,0 +1,490 @@
+In a mixeduse building, Approved Document L, Volume 2: Buildings other than dwellings should be consulted for building work in parts of the building that are not dwellings.
+Common areas in buildings that contain multiple dwellings.
+0.4  For the common areas of buildings that contain more than one dwelling, the following guidance applies.
+If the common areas are heated, the guidance in Approved Document L, Volume 2: Buildings other than dwellings should be followed.
+If both (a) and (b) have been achieved, the conservatory or porch should be treated as if it were an extension being added onto an existing dwelling.
+The guidance for new elements in existing dwellings in Section 10 should be followed.
+If either or both of (a) or (b) has not been achieved, the conservatory or porch should be treated as a room in the new dwelling.
+The guidance for the whole new dwelling should be followed, including for dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate calculations.
+0.9  Work to a dwelling in paragraph 0.8 must comply with the energy efficiency requirements where this would not unacceptably alter the dwellings character or appearance.
+Historic and traditional dwellings.
+0.10  The energy efficiency of historic and traditional dwellings should be improved only if doing so will not cause longterm deterioration of the buildings fabric or fittings.
+0.12  In determining whether full energy efficiency improvements should be made, the building control body should consider the advice of the local authoritys conservation officer.
+The floor area of the extension does not exceed 30m2.
+Exemptions for covered areas.
+0.15  Where a dwelling is extended by adding a carport that is open on at least two sides, a covered yard, a covered walkway or a covered driveway, the work is exempt from the energy efficiency requirements if both of the following apply.
+The floor area of the extension does not exceed 30m2.
+for a workshop or office) should be treated as a dwelling if the commercial part can be reverted to domestic use.
+What constitutes a substantial proportion should be assessed on a casebycase basis by the building control body.
+Guidance in Approved Document C should be followed.
+Manual controls, where provided, should be within reasonable reach of the occupants.
+Regulations.
+Methodology of calculation of the energy performance.
+(1)  The Secretary of State shall approve(a)   a methodology of calculation of the energy performance of buildings, including methods for calculating asset ratings and operational ratings of buildings; and(b)   ways in which the energy performance of buildings, as calculated in accordance with the methodology, shall be expressed.
+(2)  In this regulation asset rating means an energy performance indicator determined from the amount of energy estimated to meet the different needs associated with a standardised use of the building; and operational rating means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period.
+Minimum energy performance requirements for new buildings.
+Minimum energy performance requirements shall be approved by the Secretary of State, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, for(a)  new buildings (which shall include new dwellings), in the form of target CO2 emission rates; (b)  new dwellings, in the form of target fabric efficiency rates; and(c)  new buildings in the form of target primary energy rates.
+Where a building is erected, it must be a nearly zero-energy building.
+CO2 emission rates for new buildings.
+Where a building is erected, it shall not exceed the target CO2 emission rate for the building that has been approved pursuant to regulation 25, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+Where a dwelling is erected, it shall not exceed the target fabric energy efficiency rate for the dwelling that has been approved pursuant to regulation 25, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+Where a building is erected it must not exceed the target primary energy rate for the building which has been approved pursuant to regulation 25(c), applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+(2)   Not later than the day before the work starts, the person carrying out the work shall give the local authority a notice which specifies(a)   the target CO2 emission rate for the building, calculated and expressed in accordance with the methodology approved pursuant to regulation 24,(b)   the CO2 emission rate for the building as designed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, and(c)  a list of specifications to which the building is to be constructed.
+(3)   Not later than five days after the work has been completed, the person carrying out the work shall give the local authority(a)  a notice which specifies(i)   the target CO2 emission rate for the building, calculated and expressed in accordance with the methodology approved pursuant to regulation 24,(ii)   the CO2 emission rate for the building as constructed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, and(iii)  whether the building has been constructed in accordance with the list of specifications referred to in paragraph (2)(c), and if not a list of any changes to those specifications; or(b)   a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in subparagraph (a).
+(5)   In this regulation, specifications means specifications used for the calculation of the CO2 emission rate.
+(2)   Not later than the day before the work starts, the person carrying out the work shall give the local authority a notice which specifies (a)   the target fabric energy efficiency rate for the dwelling, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; (b)   the fabric energy efficiency rate for the dwelling as designed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and (c)  a list of specifications to which the dwelling is to be constructed.
+(3)   Not later than five days after the work has been completed, the person carrying out the work shall give the local authority (a)  a notice which specifies (i)   the target fabric energy efficiency rate for the dwelling, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; (ii)   the fabric energy efficiency rate for the dwelling as constructed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and (iii)  whether the dwelling has been constructed in accordance with the list of specifications referred to in paragraph (2)(c), and if not a list of any changes to those specifications; or (b)   a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in subparagraph (a).
+(5)   In this regulation, specifications means specifications used for the calculation of the fabric energy efficiency rate.
+(2)   Not later than the day before the work starts, the person carrying out the work must give the local authority a notice which specifies(a)   the target primary energy rate for the building calculated and expressed in accordance with the methodology approved pursuant to regulation 24;(b)   the calculated target primary energy rate for the building as designed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and(c)   the list of specifications to which the building is to be constructed.
+(3)   Not later than five days after the work has been completed, the person carrying out the work must give the local authority(a)  a notice which specifies(i)   the target primary energy rate for the building calculated and expressed in accordance with the methodology approved pursuant to regulation 24;(ii)  t he calculated target primary energy rate for the building as constructed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and(iii)  whether the building has been constructed in accordance with the list of specifications referred to in paragraph (2)(c), and if not a list of any changes to those specifications; or(b)   a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in subparagraph (a).
+(5)   In this regulation, specifications means specifications used for the calculation of the target primary energy rate.
+Regulations 26, 26A and 26C.
+A newly constructed dwelling must be shown to meet regulations 26, 26A and 26C by producing calculations to show that the dwelling meets all of the following.
+Regulations 27, 27A and 27C.
+Both before and after a newly constructed dwelling is built, a notice must be given to the building control body of the calculations.
+Section 1: Calculating the target primary energy rate, target emission rate and target fabric energy efficiency rate.
+1.1  A new dwelling must be built to a minimum standard of total energy performance.
+This must be carried out both at the design stage and when work is complete.
+1.3  The target primary energy rate, target emission rate and target fabric energy efficiency rate for individual dwellings must be calculated using the Governments Standard Assessment Procedure, Appendix R. The standardised properties are summarised in Table 1.1.
+Buildings that contain multiple dwellings.
+1.4  For a building that contains more than one dwelling  for example a block of flats or a terrace of houses  an average target primary energy rate, target emission rate and target fabric energy efficiency rate may be calculated as an alternative to individual target rates for each dwelling.
+The floor-area-weighted average of the target primary energy rate, target emission rate and target fabric energy efficiency rate for all the dwellings in the building should be calculated using the following formula.
+1.5  The average target emission rate should be calculated using the formula above but replacing target primary energy rate with target emission rate.
+The average target fabric energy efficiency rate should be calculated using the formula above but replacing target primary energy rate with target fabric energy efficiency rate.
+Table 1.1  Summary of notional dwelling specification for new dwelling(1).
+Section 2: Calculating the dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate.
+2.1  The same approved calculation tool must be used to calculate the target primary energy rate, target emission rate and target fabric energy efficiency rate and the dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate.
+2.2  The dwelling primary energy rate, dwelling emission rate and dwelling energy efficiency rate must be calculated at both of the following points using the same calculation tool.
+2.3  At both of these points the dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate must not exceed the target primary energy rate, target emission rate and target fabric energy efficiency rate, respectively.
+Building control notification.
+2.4  The building control body must be notified, before the work starts, of all the following.
+2.5  The building control body must be notified, once the work is complete, of all of the following.
+Buildings that contain multiple dwellings.
+2.6  Buildings that contain more than one dwelling must comply with one of the following.
+The dwelling primary energy rate must not exceed the individual dwellings target primary energy rate.
+The dwelling emission rate must not exceed the individual dwellings target emission rate.
+The dwelling fabric energy efficiency rate must not exceed the individual dwellings target fabric energy efficiency rate.
+The average dwelling primary energy rate for the whole building, calculated in accordance with paragraph 2.6, must not exceed the average target primary energy rate.
+The average dwelling emission rate for the whole building, calculated in accordance with paragraph 2.6, must not exceed the average target emission rate.
+The average dwelling fabric energy efficiency rate for the whole building, calculated in accordance with paragraph 2.6, must not exceed the average target fabric energy efficiency rate.
+The average dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate should be calculated using the same averaging methodology.
+NOTE: Information and photographic evidence should be provided for each individual dwelling, as described in Section 9 and Appendix B.
+The value used in the calculation for the fraction of heat provided by the secondary heating system must be as defined by the Standard Assessment Procedure for the particular combination of main heating system and secondary heating appliance.
+The efficiency of the secondary heating appliance with its appropriate fuel should be used in the calculation of the dwelling primary energy rate and dwelling emission rate.
+If a chimney or flue is provided but no appliance is installed, the following appliances should be assumed when calculating the dwelling primary energy rate and dwelling emission rate.
+Community heating systems and district heat networks.
+If thermal energy is supplied from a district heat network, a CO2 emission factor and primary energy factor for the heat delivered to the dwelling by the district heat network should be calculated.
+These factors should be used in the calculations of the dwelling primary energy rate and dwelling emission rate.
+2.10  The same CO2 emission factors used to calculate the dwelling emission rate should be used to check against the minimum performance standards described in Section 6 of this approved document.
+The annual percentage of heat supplied from each heat source should be the same for each newly connected dwelling.
+c.  A submission to the building control body should be made to show that the community heating system or district heat network has the capacity to provide the percentage of heat that is assumed.
+In this way, any planned transition of the heat network to an alternative means of heat generation will be properly accounted for.
+When there will be a change in heat source up to 31 December 2027, a submission to the building control body should be made to show both of the following.
+A new district heat network should be taken as meaning any other district heat network.
+Instead, the dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate should be calculated as if the area covered by the pool were replaced with the equivalent area of floor with the same U-value as the pool surround.
+Party walls.
+2.14  When calculating the dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate, a party wall U-value for the type of construction adopted should be applied as set out in Table 2.1.
+(1)   Before construction of a new building starts, the person who is to carry out the work must analyse and take into account the technical, environmental and economic feasibility of using highefficiency alternative systems (such as the following systems) in the construction, if available(a)   decentralised energy supply systems based on energy from renewable sources;(b)  cogeneration;(c)   district or block heating or cooling, particularly where it is based entirely or partially on energy from renewable sources; and(d)  heat pumps.
+(2)  The person carrying out the work must(a)   not later than the beginning of the day before the day on which the work starts, give the local authority a notice which states that the analysis referred to in paragraph (1)(i)  has been undertaken;(ii)  is documented; and(iii) the documentation is available to the authority for verification purposes; and(b)   ensure that a copy of the analysis is available for inspection at all reasonable times upon request by an officer of the local authority.
+(5)  In this regulation(a)   cogeneration means simultaneous generation in one process of thermal energy and one or both of the following(i)  electrical energy;(ii)  mechanical energy.
+(b)   district or block heating or cooling means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network of multiple buildings or sites, for the use of space or process heating or cooling.
+(c)   energy from renewable sources means energy from renewable nonfossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases.
+(d)   heat pump means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground to buildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature.
+Section 3: Consideration of high-efficiency alternative systems.
+3.1  Before building work starts on a new dwelling, the person undertaking the building work must analyse the technical, environmental and economic feasibility of using highefficiency alternative systems in the dwelling design.
+This analysis should be considered when designing the dwelling.
+3.2  The building control body should be notified that the analysis of highefficiency alternative systems has been undertaken, that it is documented and is available to be verified.
+The documented results of the analysis should be retained for the building control body to inspect upon request.
+3.4  When a dwelling undergoes a major renovation, the technical, environmental and economic feasibility of installing highefficiency alternative systems should be considered.
+Limits on application.
+Requirement.
+Schedule 1  Part L Conservation of fuel and power Reasonable provision shall be made for the conservation of fuel and power in buildings by   (a)  limiting heat gains and losses(i)   through thermal elements and other parts of the building fabric; and(ii)   from pipes, ducts and vessels used for space heating, space cooling and hot water services;   (b)  providing fixed building services which(i)   are energy efficient to a reasonable standard;(ii)  have effective controls; and(iii)  are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances.
+Section 4: Limiting heat gains and lossesU-values.
+4.1  U-values should be assessed using the methods and conventions set out in the Building Research Establishments BR 443.
+U-values should be assessed for the whole fabric element (e.g.
+in the caseof a window, the combined performance of the glazing and the frame).
+4.2  The U-value of a window should be assessed using one of the following methods.
+4.3  The U-value of a door should be assessed using one of the following methods.
+NOTE: When a single U-value is calculated for a product range of doors, the configuration of the door chosen for the calculation should be the worst performing in the product range.
+4.5  To correctly assess whether an element meets the limiting U-value, the U-value must be calculated for the element in the appropriate plane  either horizontal or vertical.
+For windows and roof windows, U-values should be calculated based on a vertical position.
+For roof-lights, U-values should be calculated based on a horizontal position.
+If the data available for the element is in the incorrect plane, it should be adjusted according to the guidance in the Building Research Establishments BR 443.
+If performance requires thicker glass to be used, an equivalent window unit with standard thickness (6mm) glazing should be shown to meet the required standard.
+U-values for rooflights or rooflightandkerb assemblies should be based on the developed surface area of the rooflight (U-values), which is often greater than the area of the roof opening.
+An upstand built on site should not exceed a U-value of 0.35W/(m2K).
+4.9  Guidance on when a new element must meet the standards in Table 4.2 is given in Section 10.
+4.10  If windows or fully glazed external pedestrian doors cannot meet the requirements of Table 4.2 because of the need to maintain the character of the building, either of the following should be met.
+These fittings should not exceed a centre pane U-value of 1.2W/(m2K).
+Single glazing should be supplemented with low-emissivity secondary glazing.
+If meeting such a standard would reduce the internal floor area of the room bounded by the wall by more than 5, a lesser provision may be appropriate.
+wind load, safety, security or acoustic attenuation) requires thicker glass to be used, an equivalent window unit with standard thickness (6mm) glazing should be shown to meet the required standard.
+U-values for rooflights or rooflightandkerb assemblies should be based on the outer developed surface area, which  is often greater than the area of the roof opening.
+Retained elements with a U-value that is higher than the threshold value in Table 4.3, column (a) should be upgraded to achieve the U-values in Table 4.3, column (b).
+4.13  If achieving the U-value in Table 4.3, column (b) either:a. is not technically or functionally feasible orb.  would not achieve a simple payback of 15 years or lessthen the element should be upgraded to the lowest U-value that both:a. is technically and functionally feasible andb.  can achieve a simple payback not exceeding 15 years.
+Generally, a thermal element once upgraded should not have a U-value greater than 0.7W/(m2K).
+NOTE: Examples are given in Appendix C.NOTE: When renovating thermal elements, the work should comply with all the requirements in Schedule 1, but particular attention should be paid to Parts B, C, F and J.
+In such cases, both of the following should be achieved.
+The depth of the insulation plus any required air gap should be at least to the depth of the rafters.
+The insulant should be chosen to achieve the lowest practicable U-value.
+Where this is not the case, it should be treated as wall  internal or external insulation.
+If meeting such a standard would reduce the internal floor area of the room bounded by the wall by more than 5, a lesser standard may be appropriate.
+The building fabric should be constructed so that the insulation is reasonably continuous across newly built elements.
+Before elements are concealed by subsequent work, an onsite audit should be undertaken to confirm that the designed details have been constructed.
+Photographs of the details should be taken in line with the guidance in Appendix B.c.  Floors and foundations: insulation should be installed tight to the structure, without air gaps between insulation panels and at edges.
+i.  Perimeter insulation should be continuous and have a minimum thickness of 25mm.
+Moisture-resistant insulation should be fitted below dampproof course level and extend to the foundation block/structure.
+d.  Windows and doors: should be installed in such a way that the thermal integrity of the insulated plane is maintained.
+Tolerance around a window or door unit and the surrounding opening should be minimal and be in accordance with BS 82134.ii.
+Position: window or door units should be located with an overlap between the inner face of the unit and the inner face of the external leaf  for windows an overlap between 30mm and 50mm, and for doors 50mm  so that the window or door unit is contiguous with the insulation layer of the external wall.
+Fully insulated and continuous cavity closers should be used, installed tight to the insulation and cavity apertures.
+e.  Walls: insulation should be fitted without any air gaps and tight to the structure, cavity closers, lintels and cavity trays.
+Mortar snots should be removed to ensure a tight fit with the structure and cavities cleared of all debris.
+f.  Roofs: insulation should be installed tight to the structure, without air gaps, and should extend to the wall insulation.
+For roofs insulated at ceiling level, the longterm protection of the insulation layer should be considered: boarded areas should be provided above the insulation to give access for maintenance.
+Boards should be fitted to the structure to avoid any gaps between board edges and between the board facings.
+The use of boards with lapped or tongue and groove edges should be considered.
+Any unavoidable gaps between boards should be infilled using compressible tape (e.g.
+for boards within roof rafters) orlow expansion foam (e.g.
+for boards within wall cavities).
+Designs should clearly indicate means to limit disruption to the insulation.
+For recessed meter boxes on the cold side of the construction, insulation should be installed behind the enclosure.
+The building fabric should be constructed so that thermal bridging, including at the party wall, is reasonably limited.
+Drawings should be provided for junctions.
+Complex details should be avoided wherever possible.
+Before elements are concealed by subsequent work, an onsite audit should be undertaken to confirm that the designed details have been constructed.
+Photographs of the details should be taken in line with Appendix B.c.  Product specification: opportunities should be considered to use products that help to reduce thermal bridges.
+d.  Product substitution: the products used should be those shown in the original design.
+If a product is substituted, the revised specification should be reflected in the SAP calculation and report in the Building Regulations England Part L compliance report (BREL report).
+e.  Foundations: wherever possible, blocks below the dampproof course should be the same as those specified in the design for the aboveground main wall element (in masonry construction).
+f.  Ground floors and external walls: the walltofloor junctions should be detailed to achieve continuity of insulation.
+Masonry construction: external or cavity wall insulation should extend below the dampproof course (where applicable) and be at least the equivalent of one full block height (215mm) below the underside of the floor structure/slab and beyond the depth of the floor insulation.
+Intermediate floors: floortowall junctions should be detailed to ensure that insulation in the external wall is continuous.
+For a timber frame where the intermediate floor structure breaches the external wall insulation, further insulation  of the same thickness as the insulation used in the external wall  should be included within the depth of the intermediate floor structure.
+For common leaf lintels, the base plate should not be continuous and the lintel core should be insulated.
+Insulated cavity closers should be used for all construction types.
+Additionally, insulated plasterboard should be used in reveals to abut jambs and should be considered within reveal soffits.
+Wall insulation should be installed to the top of the wall plate; in some places, such as the eaves, this may be above the cavity closure or barrier.
+In all cases, roof insulation should be continuous with wall insulation.
+The roof insulation should be installed when the eaves are still accessible.
+At gables and party walls, insulation should extend to the wall; if the space between the wall and joist is less than 100mm, perimeter insulation may be required.
+Voids between insulation at the top of the external wall and the cavity wall/timber frame insulation should be fully filled with insulation.
+4.18  Thermal bridges should be assessed in a new dwelling using one of the following methods.
+When using the approach in (a) or (b) above, an appropriate system of site inspection should be in place.
+Thermal bridging in existing dwellings4.19  When carrying out work in existing dwellings, care should be taken to reduce unwanted heat loss through thermal bridging.
+When carrying out work in new dwellings, care should be taken to reduce unwanted heat loss through air infiltration.
+Drawings: all relevant drawings should be provided to clearly identify the position, continuity and extent of the air barrier.
+Drawings should be reviewed by the designer and installer and should include specifications for key materials.
+b.  Incoming services: ducts, and cables wherever possible, should be grouped to minimise how often the air barrier is penetrated, while ensuring sufficient space to allow adequate screed flow between ducts.
+Grommets or flexible collars should be used around incoming services and sealed to the air barrier with airsealing tape or sealant.
+Internal building services: where services penetrate the air barrier, holes should be as small as possible and should be core drilled to limit damage.
+The penetrating services should be sealed to the air barrier using proprietary grommets or collars with airsealing tape or sealant.
+Where membranes are penetrated, careful detailing should be used to achieve a robust and durable seal at these penetrations.
+Timber joist hangers should be considered as an alternative to penetrating through the inner leaf.
+e.  Cavity walls: the inner block leaf mortar joint should be fully filled and pointed within the cavity.
+Any damage, such as tears, should be repaired before boarding.
+Where sheathing board forms the air barrier, airsealing tape should be applied at junctions and edges.
+g.  Fixings: care should be taken to ensure that fixings do not damage the airtightness barrier.
+h.  Windows and doors: to ensure continuity of the air barrier, window and door units should connect to the primary air barrier and window and door frames should be taped to surrounding structural openings, using air sealing tape.
+i.  Loft hatches: where the roof is insulated at ceiling level, hatches should be suitably designed and installed to ensure optimum airtightness.
+4.22 To avoid air movement within thermal elements, either of the following measures should be implemented.
+The space between the air barrier and the insulation layer should be filled with solid material.
+Air-tightness in existing dwellings.
+4.23 When carrying out work in existing dwellings, care should be taken to reduce unwanted heat loss through air infiltration by doing all of the following.
+When installing or renovating thermal elements, the element being installed should be draughtproofed, and airleakage gaps should be filled.
+c.  When installing windows, roof windows, rooflights or doors (all of which are controlled fittings), the controlled fitting should be well fitted and reasonably draughtproof.
+NOTE: Particular attention should be paid to Approved Document F and Approved Document J when making an existing dwelling more airtight.
+Limiting heat losses and gains from building services.
+Hot water and heating pipework.
+4.24 In a new system, all of the following new pipework should be insulated.
+c.  All pipes that are connected to hot water storage vessels, for at least 1m from the point at which they connect to the vessel.
+4.25 In an existing system, when a boiler or hot water storage vessel is replaced, any accessible pipes in the dwelling should be insulated.
+4.26 Heat losses from insulated pipework should not exceed those given in BS 5422 for hot water services at 60C, regardless of the actual design temperature.
+Meeting the standards in Table 4.4 is one way of demonstrating that heat losses will not exceed those given in BS 5422.
+4.27 Pipework for district heat networks should be insulated to meet either of the following.
+4.28 Where pipework is above ground, the performance of the pipe insulation should be at least as high as the insulating performance of pipework in the buried part of the system.
+Heated water storage for space or domestic hot water.
+4.29 Vessels that store heated water for a heating or domestic hot water system should have standing losses that do not exceed the heat loss given in Table 4.5 for that system type.
+For sizes of cylinder not listed, the heat loss from the cylinder should not exceed (16.66  8.33  V0.4)/(1000  24), where V is the volume in litres.
+Heat interface units.
+4.32 Vessels that store heated water for a heating or domestic hot water system should have standing losses that do not exceed the heat loss given in Table 4.5 for that system type.
+Limits on application.
+Requirement.
+Schedule 1  Part L Conservation of fuel and power Reasonable provision shall be made for the conservation of fuel and power in buildings by   (a)  limiting heat gains and losses(i)   through thermal elements and other parts of the building fabric; and(ii)   from pipes, ducts and vessels used for space heating, space cooling and hot water services;   (b) providing fixed building services which(i)   are energy efficient to a reasonable standard;(ii)  have effective controls; and(iii)  are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances.
+Where a system for onsite electricity generation is installed(a)   reasonable provision must be made to ensure that(i)   the system and its electrical output are appropriately sized for the site and available infrastructure;(ii)   the system has effective controls; and(b)   it must be commissioned by testing and adjusting as necessary to ensure that it produces the maximum electricity that is reasonable in the circumstances.
+Section 5: Minimum building services.
+efficiencies and controls  general guidance.
+New building services.
+5.1  For each new fixed building service in a new or existing dwelling, the efficiency of the service should be no lower than the value set out in Section 6.
+If a proposed service is not covered in Section 6, the service should be shown to be no less efficient than a comparable service that is covered.
+a.
+The efficiency should be based on the appropriate test standard set out in Section 6. b.
+The test data should be certified by a notified body.
+5.3  For heating and hot water systems in new dwellings, paragraphs 5.8 to 5.19 should be followed, in addition to the system specific guidance in Section 6.
+Replacement building services in existing dwellings.
+5.4  A replacement fixed building service should be at least as efficient as the value set out in Section 6 and should comply with either of the following.
+It is also at least as efficient as the minimum efficiency as set out in Section 6 of this guidance.
+NOTE: If the efficiency of the appliance being replaced is not known, the Standard Assessment Procedure, Tables 4a and 4b, should be used but with no adjustments from Tables 4c and 4d.
+CO2 emission factors and primary energy factors should be taken from the Standard Assessment Procedure Table 12.
+NOTE: Where a heat pump is installed which meets the minimum efficiency standards in this approved document, it should be deemed to be compliant with paragraph 5.4, without the need to carry out this calculation.
+For example, replacing a gas boiler with direct electric heaters as part of a deep retrofit project, where the resulting heat loss of the dwelling is less than 25kWh/m2 per year.
+5.6  If renewable technology such as a wind turbine or photovoltaic array is replaced, the new system should have an electrical output that is at least the same as that of the original installation.
+5.7  Facilitating future connection to any local district heat networks should be considered (e.g.
+providingcapped off connections in pipework to allow later connection to a local district heat network).
+Sizing heating and hot water systems.
+Sizing space heating systems.
+5.8  The specification of space heating systems should be based on both of the following.
+5.9  Where a gas combination boiler is used, the boiler type should be selected to modulate down to the typical heating load of the dwelling.
+5.10  Where a wet heating system is either:a.  newly installedb.  fully replaced in an existing building, including the heating appliance, emitters and associated pipework all parts of the system including pipework and emitters should be sized to allow the space heating system to operate effectively and in a manner that meets the heating needs of the dwelling, at a maximum flow temperature of 55C or lower.
+where there is insufficient space for larger radiators, or the existing distribution system is provided with higher temperature heat from a low carbon district heat network), the space heating system should be designed to the lowest design temperature possible that will still meet the heating needs of the dwelling.
+Sizing domestic hot water systems.
+5.11  Domestic hot water systems should be sized for the anticipated domestic hot water demand of the dwelling, based on BS EN 128313 or the Chartered Institute of Plumbing and Heating Engineerings Plumbing Engineering Services Design Guide.
+NOTE: For temperature limits to control legionella bacteria in domestic hot water systems, see Approved Document G.Sizing heat pump heating systems.
+5.12  Heat pumps should be selected to meet the full space heating requirement at the design condition chosen for heat loss calculations.
+Controls.
+System controls and zoning.
+5.14  For wet heating systems in new dwellings with a floor area of 150m2 or greater, a minimum of two independently controlled heating circuits should be provided.
+5.15  System controls should be wired so that when there is no demand for space heating or hot water the heating appliance and pump are switched off.
+5.19  For space heating systems, temperature control should be installed for the heating appliance.
+Thermostatic room controls.
+5.20 For heating systems in new dwellings, or when a heat generator such as a boiler is replaced in an existing dwelling, each room should be provided with thermostatic room controls.
+These should be capable of  being used to separately adapt the heating output in each room served by the heating appliance.
+In single-storey open-plan dwellings in which the living area is greater than 70 of the total floor area.
+In such cases, the dwelling should be considered as a single heating zone.
+In such cases, the adjacent rooms should be considered as a single heating zone.
+However, other space heating systems also in use in the same dwelling should be controlled using thermostatic room controls as described above.
+5.25 If work is carried out on a system that includes a boiler, a boiler interlock should be installed.
+NOTE: The Ecodesign for EnergyRelated Products Regulations 2010 set the efficiencies and standards that must be met when introducing new energyusing products to the market.
+This approved document sets standards that should be met when installing fixed building services or onsite electricity generation.
+In cases where the EnergyRelated Products Regulations and the Building Regulations both apply, both standards should be met.
+For Standard Assessment Procedure modelling, SEDBUK values should be used.
+For Standard Assessment Procedure modelling, SEDBUK values should be used.
+6.2  If a gasfired combination boiler is installed in an existing dwelling, at least one of the following energy efficiency measures, appropriate to the system, should be installed.
+In this case, the boiler should be treated as a conventional gasfired boiler.
+6.4  If a gasfired warm air system is installed in an existing dwelling, all of the following should be met.
+a.
+The system should be installed in accordance with BS 5864.b.
+All new or replacement ductwork should be insulated in accordance with BS 5422.c.  Where controls are external to the heater, the system should be provided with a time switch/programmer and room thermostat, or programmable room thermostat.
+d.  Where controls are integrated in the heater, the system should be provided with a time switch/programmer and room temperature sensor linked to heater firing and fan speed control.
+Independent temperature control of the hot water circuit should be implemented with a cylinder thermostat and a timing device.
+6.6  If a gas fire is provided as a secondary heat source as part of a combined fire and back boiler unit in an existing system, the standards in BS 79772 should be met.
+If a gasfired fixed decorative fueleffect fire is installed in an existing dwelling, both of the following should be met.
+The standards in BS EN 509 should be met.
+The number of appliances should not exceed one per 100m2 of dwelling floor area.
+For Standard Assessment Procedure modelling, SEDBUK values should be used.
+In this case, the boiler should be treated as a conventional oilfired boiler.
+6.10  If a continuously burning oilfired vaporising appliance is provided for secondary heating or hot water, one of the following should be met, depending on the type of appliance.
+For an electrically operated appliance, an integral remote or thermostatic control should be provided.
+6.12  For electric storage heaters, both of the following should be met.
+Automatic control of input charge should be provided.
+The rate of heat release from the appliance should be adjustable, using an adjustable damper or other thermostatically controlled method.
+6.13  For electric panel heaters that are either part of a new system or replacement components, time and temperature control should be provided to allow separate control for either of the following.
+6.14  For an electric warm air system that is either a new system or is a replacement component, both of the following should be provided.
+The appliance should be from categories D, F, G or J in Table 6.4.
+A new district heat network should be taken as meaning any other district heat network.
+Connecting to an existing district heat network or community heating system.
+New dwellings.
+6.20 An existing district heat network that is being connected to a new dwelling should not have a  CO2 emission factor for delivered heat to the dwelling which is greater than 0.350kgCO2/kWh.
+The CO2 emission factor should be calculated using SAP 10 or taken from the Product Characteristics Database.
+NOTE: The same CO2 emission factors used to calculate the dwelling emission rate described in paragraph 2.9 of this approved document should be used to check against the minimum performance standards described in paragraph 6.20.
+6.21  When connecting an existing dwelling to an existing district heat network or community heating system, the carbon intensity and primary energy of the system should be assessed and the guidance in paragraphs 5.4 and 5.5 should be followed.
+Emission factors and primary energy factors should be determined by a qualified person, based on the details of the system and taking account of the annual average performance of the whole system, including distribution circuits and all the heat generating plant, combined heat and power, waste heat recovery, heat dumping, and evidence of future changes to the heat source, for example, replacing or adding new heat generating equipment.
+The design temperature difference for the community heating primary circuit should be a minimum of 20C.
+Variable volume control systems should be used to reduce the volume of water and the pressure difference required from the pumps under part load.
+Metering.
+6.25 District heat networks and community heating systems should be designed to accommodate heat meter(s) for each dwelling.
+Micro combined heat and power.
+6.26 The heating plant emission rate of the micro combined heat and power system (microCHP) should be no greater than the emission rate of a regular boiler using the same fuel as the microCHP.
+6.27 The heating plant emission rate should be calculated using all of the following.
+c.  Heating systems for screed floors that are greater than 65mm thick should automatically reduce the room temperature at night or when the room is unoccupied.
+d.  Heat loss should be minimised by following the guidance in paragraphs 6.29 to 6.32.
+Minimising heat losses.
+6.29 Ground floors and those in contact with the outside of the dwelling should be insulated to limit heat losses to not more than 10W/m2.
+The heat loss from the floor should be calculated using the sum of the thermal resistance of the floor finish and the underlying heated layer, multiplied by 10.
+6.30 Under-floor heating systems intended for intermittent or cyclical operation and/or installed over unheated rooms should be separated from the structural floor by a layer of insulation with a thermal resistance of at least 1.25(m2K)/W.
+For electric systems, not less than 0.5(m2K)/W.
+For wet systems, not less than 0.75(m2K)/W.
+6.32 Distribution pipework which does not provide useful heat to a room should be insulated to the standards detailed in paragraph 4.26.
+Specific standards for electric underfloor heating.
+6.33 Electric cables for underfloor heating should be installed within screeds as follows.
+For direct electric systems, within screeds not exceeding 60mm.
+For night energy storage systems, within screeds of at least 65mm.
+6.34 Where electric cable underfloor heating night energy storage systems are used, both of the following should be met.
+Controls should be installed which modify the input charge in response to both of the following.
+Programmable room thermostats with an override feature should be provided for all direct electric zones of the electric underfloor heating system.
+6.40 For heat pump installations in which there are other heat sources available to the same building, each of these heat sources should be appropriately incorporated into a singular control system.
+6.41  Heat pumps should be located and installed subject to the manufacturers guidance.
+Additionally, the location of external fans and heat pump compressors should be appropriately selected to minimise disturbance to neighbours, while remaining in compliance with planning requirements.
+The installation of antivibration instruments and flexible hose connections should be in accordance with the manufacturers guidance in order to limit the effects of harmful vibrations on building structures.
+A solar collector area of less than 20m2.
+A solar heated water storage volume of less than 440 litres.
+6.44 New solar hot water collectors should be independently certified as complying with all tests required by BS EN 129751 and BS EN ISO 9806 for both of the following.
+6.45 The electrical input power of the primary pump in the solar water heating system measured in watts should be less than the higher of the following.
+6.46 For a heat exchanger between a solar primary and secondary system, a minimum of 0.1m2 or equivalent of heat exchanger area should be provided for every 1m2 of the net absorber area of the solar collector.
+6.47 For work on new or existing solar water heating systems, controls should be fitted to or upgraded in solar domestic hot water systems to do all of the following.
+d.  Provide a means to control the adverse effects of excessive temperatures and pressures.
+e.  Where a separate domestic hot water heating appliance is preheated by a solar system, the appliance should be controlled to add no extra heat if the target temperature is met from the solar preheated vessel.
+6.48 The dedicated storage volume of solar heated water relative to the area of the collector should be either of the following.
+A volume equivalent to at least 80 of the daily hot water demand (as defined by the Standard Assessment Procedure).
+Comfort cooling.
+6.49 The specification of comfort cooling systems should be based on a heat gain calculation for the dwelling.
+Systems should not be significantly oversized  in most circumstances, the cooling appliance should not be sized for more than 120 of the design cooling load.
+6.50 The seasonal energy efficiency ratio of an air conditioner working in cooling mode should be a minimum of 4.0.
+For each control zone and for each terminal unit, independent control of both of the following should be possible.
+6.53 Exposed refrigeration pipework should be both of the following.
+Systems should be designed so that they can be commissioned to suitable ventilation rates so that spaces are not significantly over-ventilated.
+6.55 The specific fan power for mechanical ventilation systems should not exceed the following.
+6.56 All ventilation systems which provide both supply and extract ventilation within the same unit should be fitted with all of the following.
+If luminous efficacy is greater than 75 light source lumens per circuitwatt, manual control is acceptable.
+6.62 The system should be specified and installed according to the manufacturers instructions to ensure that its overall performance meets a reasonable standard.
+6.63 For large or complex buildings, the guidance in Approved Document L, Volume 2: Buildings other than dwellings should be followed.
+On-site electricity generation and storage.
+6.64 Where onsite electricity generation and storage is installed, such as photovoltaic panels or battery storage, systems should be an appropriate size for the site, available infrastructure and onsite energy demand.
+6.65 The system should be specified and installed according to the manufacturers instructions to ensure that the overall performance of the system meets a reasonable standard.
+6.66 When replacing an existing system, the installed generation capacity of the new system should be no less than that of the existing system, except where a smaller system can be demonstrated to be more appropriate or effective (e.g.
+replacing an existing system with one which is better matchedto the dwelling’s energy demand).
+6.67 On-site electricity generation should be provided with controls to allow proper operation of the system without the need for user intervention.
+(2)   Where this regulation applies, the person carrying out the work shall, for the purpose of ensuring compliance with regulation 26 and regulation 26A and paragraph L1(a)(i) of Schedule 1 (a)  ensure that (i)   pressure testing is carried out in such circumstances as are approved by the Secretary of State; and (ii)   the testing is carried out in accordance with a procedure approved by the Secretary of State; and (b)   subject to paragraph (5), give notice of the results of the testing to the local authority.
+(3)   The notice referred to in paragraph (2)(b) shall (a)   record the results and the data upon which they are based in a manner approved by the Secretary of State; and (b)   be given to the local authority not later than seven days after the final test is carried out.
+In the Secretary of States view, results from a pressure test must be used to show that work complies with both of the following.
+7.2  The building control body should be provided with evidence that test equipment has been calibrated using a UKASaccredited facility or by the original manufacturer within either of the following periods.
+Calibration should be carried out in accordance with CIBSEs TM23.
+It is recommended that test equipment is recalibrated at least every 24 months.
+The building control body should be provided with evidence that the person who pressuretested the building meets both of the following.
+7.4  An air pressure test should be carried out on every dwelling.
+Showing compliance and reporting pressure test results.
+7.5  The dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate, all calculated using the measured air permeability, must not be higher than the target primary energy rate, target emission rate and target fabric energy efficiency rate, respectively.
+If the criteria in paragraphs 7.1 and 7.5 are not achieved, the dwelling air permeability should be improved.
+New tests should be carried out until the dwelling achieves the criteria in paragraphs 7.1 and 7.5.
+7.7  The results of all pressure tests on dwellings, including any test failures, should be reported to the building control body.
+Air pressure testing procedure.
+7.8  Air pressure tests should be performed following the guidance in the approved airtightness testing methodology, CIBSEs TM23.
+(3)   Where this regulation applies the person carrying out the work shall, for the purpose of ensuring compliance with paragraph F1(2) or L1(b) of Schedule 1, give to the local authority a notice confirming that the fixed building services have been commissioned in accordance with a procedure approved by the Secretary of State.
+(4)   The notice shall be given to the local authority(a)  not later than the date on which the notice required by regulation 16(4) is required to be given; or(b)  where that regulation does not apply, not more than 30 days after completion of the work.
+(2)   Where this regulation applies the person carrying out the work must, for the purpose of ensuring compliance with paragraph L2 of Schedule 1, give to the local authority a notice confirming that the system for onsite electricity generation has been commissioned.
+(3)  The notice must be given to the local authority(a)  not later than the date on which the notice required by regulation 16(4) is required to be given; or(b)  where that regulation does not apply, not more than 30 days after completion of the work.
+Limits on application.
+Requirement.
+Schedule 1  Part L Conservation of fuel and power Reasonable provision shall be made for the  conservation of fuel and power in buildings by   (a)  limiting heat gains and losses(i)   through thermal elements and other parts of the building fabric; and(ii)   from pipes, ducts and vessels used for space heating, space cooling and hot water services; (b)  providing fixed building services which(i)  are energy efficient to a reasonable standard;(ii)  have effective controls; and(iii)  are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances.
+Where a system for onsite electricity generation is installed(a)   reasonable provision must be made to ensure that(i)   the system and its electrical output are appropriately sized for the site and available infrastructure;(ii)  the system has effective controls; and(b)  it must be commissioned by testing and adjusting as necessary to ensure that it produces the maximum electricity that is reasonable in the circumstances.
+Section 8: Commissioning.
+8.1  Fixed building services must be commissioned to ensure that they use no more fuel and power than is reasonable in the circumstances.
+On-site electricity generation systems must be commissioned to ensure that they produce as much electricity as is reasonable in the circumstances.
+8.2  A commissioning plan should be produced, identifying both of the following.
+For new dwellings, the commissioning plan should be given to the building control body with the design stage dwelling primary energy rate, dwelling emission rate and dwelling fabric energy efficiency rate calculations.
+Notice of completion.
+8.4  A commissioning notice must be given to the relevant building control body confirming that commissioning has been carried out for the installed fixed building services and onsite electricity generation according to the procedures in this section.
+8.5  The notice of completion of commissioning should be given as follows.
+If a building notice or full plans have been given to a local authority building control body, the notice should be given within five days of the commissioning work being completed.
+In other cases  for example, if the work is carried out by a person registered with a competent person scheme  the notice must be given to the building control body within 30 days of the work being completed.
+A suitable chemical inhibitor should be added to the primary heating circuit to protect against scale and corrosion.
+In hard water areas, suitable measures should be taken to treat the feed water to water heaters and the hot water circuit of combination boilers to reduce limescale accumulation.
+Domestic central heating systems should be prepared and commissioned to BS 7593.integrated hot water cylinders, should be commissioned in accordance with both the manufacturers instructions and the appropriate system design parameters.
+8.10  If using a ground source heat pump the commissioning procedure for the ground array should be  as follows.
+Ground arrays  including header pipes and manifolds  should be flushed as one system to remove all debris and purged to remove all air.
+Vertical, horizontal and slinky ground arrays in particular should be flushed in both directions.
+During this process, the heat pump (along with its accompanying pipework) should be isolated from the ground heat exchanger such that damage to the internal heat exchanger inside the heat pump is avoided.
+The heat pump  along with its accompanying pipework  should be flushed and purged as a separate system while isolated from the ground array system.
+c.  Following the complete purging of micro air bubbles, a pressure test (in accordance with  BS EN 805, section 11.3.3.4) should be conducted on all closedloop ground source heat pump  installations to prove the integrity of the systems.
+This test should be conducted on the entire system, which typically comprises the heat pump, header pipes, manifold and all ground arrays.
+d.  Antifreeze and biocide should be added to ground heat exchangers as appropriate, in line with manufacturers instructions.
+Community heating systems.
+8.12  For district heat networks and community heating systems, both of the following should be done.
+Systems should be commissioned to optimise the use of energy for pumping.
+Flow rates in individual heat emitters should be balanced using either of the following.
+Underfloor heating.
+8.13  All installed equipment in underfloor heating systems should be commissioned in accordance with BS EN 12644.
+(2)   The person carrying out the work shall not later than five days after the work has been completed provide to the owner sufficient information about the building, the fixed building services and their maintenance requirements so that the building can be operated in such a manner as to use no more fuel and power than is reasonable in the circumstances.
+(2)   The person carrying out the work must, not later than five days after the work has been completed, provide to the owner sufficient information about the system for onsite electricity generation in respect of its operation and maintenance requirements so that the system may be operated and maintained in such a manner as to produce the maximum electricity that is reasonable in the circumstances and delivers this electricity to the optimal place for use.
+Section 9: Providing information.
+Operating and maintenance instructions.
+9.1  For a new dwelling and for work to an existing dwelling, operating and maintenance instructions should be given to the owners of the dwelling for any fixed building services and onsite electricity generation installed as part of the work.
+The documentation should be all of the following.
+Additional information for new dwellings.
+9.3  For new dwellings, a signed copy of the Building Regulations England Part L compliance report (BREL report) and photographic evidence of the build quality should be provided to the home-owner.
+Additional information for work in existing buildings.
+9.6  For existing dwellings, when any building work is carried out for which Section 5 and/or Section 6 of this approved document sets a standard, the energy performance of the fixed building services and/or onsite electricity generation affected by the work should be assessed and documented.
+replacing a heating system including the heating appliance, pipework and heat emitters), the energy performance of the whole system should be assessed.
+The results should be recorded and given to the building owner with the manufacturers supporting literature.
+replacing a boiler but retaining the pipework and heat emitters), the energy performance of the new components should be assessed.
+The results should be recorded and  given to the building owner.
+9.9  For existing dwellings, if work on an existing system alters the energy performance or CO2 emissions performance of the system, then the complete altered system should be assessed and the guidance for new or replacement systems in paragraph 9.7 should be followed.
+Such work could include the following.
+(2)   Where the whole or any part of an individual thermal element is proposed to be replaced and the replacement(a)  constitutes a major renovation; or(b)   (in the case of part replacement) amounts to the replacement of more than 50 of the thermal elements surface area; the whole of the thermal element must be replaced so as to ensure that it complies with paragraph L1(a)(i) of Schedule 1, in so far as that is technically, functionally and economically feasible.
+Limits on application.
+Requirement.
+Schedule 1  Part L Conservation of fuel and power Reasonable provision shall be made for the conservation of fuel and power in buildings by:   (a)  limiting heat gains and losses(i)   through thermal elements and other parts of the building fabric; and(ii)  from pipes, ducts and vessels used for space heating, space cooling and hot water services;   (b)  providing fixed building services which(i)  are energy efficient to a reasonable standard;(ii)  have effective controls; and(iii)  are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances.
+New and replacement fabric elements10.2  The minimum standards in paragraphs 4.7 and 4.8 and Table 4.2 should be met for both of the following.
+Units should be draught-proofed.
+Insulated cavity closers should be installed where appropriate.
+10.5  If a window is enlarged or a new one is created, either of the following should be met.
+The area of windows, roof windows, rooflights and doors should not exceed 25 of the total floor area of the dwelling.
+If the area of windows, roof windows, rooflights and doors exceeds 25 of the total floor area of the dwelling, compensating measures should be taken to improve the energy efficiency of the dwelling.
+10.6  The term controlled fitting refers to the entire unit of a window, roof window, rooflight or door, including the frame.
+Replacement thermal elements should meet the standards in Table 4.2 and paragraph 4.8.c.  New windows, roof windows, rooflights and doors should meet the standards in Table 4.2. d.  The total area of windows, roof windows, rooflights and doors in extensions should not exceed the sum of the following.
+10.9  As an alternative approach to paragraph 10.7, the areaweighted U-value of all thermal elements in the extension should be shown to not exceed the areaweighted U-value of an extension of the same size and shape that complies with paragraph 10.7.
+10.10 As an alternative approach to paragraphs 10.7 or 10.9, the Standard Assessment Procedure may be used to show that the dwelling primary energy rate, the dwelling emission rate and the dwelling fabric energy efficiency rate for the dwelling and proposed extension do not exceed those for the dwelling plus a notional extension.
+The notional extension should be the same size and shape as the proposed extension and comply with paragraph 10.7.
+The openings in the notional extension should conform with paragraph 10.7d, with the door area set as equal to the door area of the proposed extension and the remainder of the openings being classified as windows.
+NOTE: Where the performance of elements of the existing dwelling is unknown, data in the Standard Assessment Procedure Appendix S should be used to estimate the performance.
+Guidance in Section 12 should be followed.
+Conservatories and porches10.12 A conservatory or porch must have thermal separation from the existing dwelling.
+If the thermal separation is removed or the dwellings heating system is extended into the conservatory or porch, the conservatory or porch should be treated as an extension and paragraphs 10.7 to 10.11 should be followed.
+Any walls, doors and windows should be insulated and draught-proofed to at least the same extent as in the existing dwelling.
+(1)   Where the renovation of an individual thermal element(a)   constitutes a major renovation; or(b)   amounts to the renovation of more than 50 of the elements surface area; the renovation must be carried out so as to ensure that the whole of the element complies with paragraph L1(a)(i) of Schedule 1, in so far as that is technically, functionally and economically feasible.
+Limits on application.
+Requirement.
+Schedule 1  Part L Conservation of fuel and power Reasonable provision shall be made for the conservation of fuel and power in buildings by:   (a)  limiting heat gains and losses(i)   through thermal elements and other parts of the building fabric; and(ii)   from pipes, ducts and vessels used for space heating, space cooling and hot water services;   (b)  providing fixed building services which(i)  are energy efficient to a reasonable standard;(ii)  have effective controls; and(iii)  are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances.
+(1)   Where there is a material change of use of the whole of a building, such work, if any, shall be carried out as is necessary to ensure that the building complies with the applicable requirements of the following paragraphs of Schedule 1(a)   in all cases, B1 (means of warning and escape) B2 (internal fire spreadlinings) B3 (internal fire spreadstructure) B4(2) (external fire spreadroofs) B5 (access and facilities for the fire service) C2(c) (interstitial and surface condensation) F1 (ventilation) G1 (cold water supply) G3(1) to (3) (hot water supply and systems) G4 (sanitary conveniences and washing facilities) G5 (bathrooms) G6 (kitchens and food preparation areas) H1 (foul water drainage) H6 (solid waste storage) J1 to J4 (combustion appliances) L1 (conservation of fuel and power) P1 (electrical safety); S2 (infrastructure for the charging of electric vehicles);(b)  in the case of a material change of use described in regulation 5(c), (d), (e) or (f), A1 to A3 (structure);(c)  in the case of a building exceeding fifteen metres in height, B4(1) (external fire spreadwalls);(d)   in the case of a material change of use described in regulation 5(a), (b), (c), (d), (g), (h), (i) or, where the material change provides new residential accommodation, (f), C1(2) (resistance to contaminants);(e)  in the case of a material change of use described in regulation 5(a), C2 (resistance to moisture);(f)   in the case of a material change of use described in regulation 5(a), (b), (c), (g), (h) or (i), E1 to E3 (resistance to the passage of sound);(g)   in the case of a material change of use described in regulation 5(e), where the public building consists of or contains a school, E4 (acoustic conditions in schools);(h)   in the case of a material change of use described in regulation 5(a) or (b), G2 (water efficiency) and G3(4) (hot water supply and systems: hot water supply to fixed baths);(i)   in the case of a material change of use described in regulation 5(c), (d), (e) or (j), M1 (access to and use of buildings other than dwellings);(j)  in the case of a material change of use described in regulation 5(a), (b) or (g), Q1 (security).
+Regulation continued.
+(2)   Where there is a material change of use of part only of a building, such work, if any, shall be carried out as is necessary to ensure that(a)   that part complies in all cases with any applicable requirements referred to in paragraph (1)(a);(b)   in a case in which subparagraphs (b), (e), (f), (g) or (h) of paragraph (1) apply, that part complies with the requirements referred to in the relevant subparagraph;(c)   in a case to which subparagraph (c) of paragraph (1) applies, the whole building complies with the requirement referred to in that subparagraph; (d)  in a case to which subparagraph (i) of paragraph (1) applies(i)   that part and any sanitary conveniences provided in or in connection with that part comply with the requirements referred to in that subparagraph; and(ii)   the building complies with requirement M1(a) of Schedule 1 to the extent that reasonable provision is made to provide either suitable independent access to that part or suitable access through the building to that part;(e)   in a case to which subparagraph (j) applies in respect of a material change of use described in regulation 5(b) or (g), that part complies with the requirement referred to in that subparagraph.
+(3)   Subject to paragraph (4), where there is a material change of use described in regulation 5(k), such work, if any, shall be carried out as is necessary to ensure that any external wall, or specified attachment, of the building only contains materials of European Classification A2s1, d0 or A1, classified in accordance with BS EN 135011:2007A1:2009 entitled Fire classification of construction products and building elements.
+Where there is a change to a buildings energy status, such work, if any, shall be carried out as is necessary to ensure that the building complies with the applicable requirements of Part L of Schedule 1.
+Renovating thermal elements.
+11.2  Renovation of a thermal element means one of the following.
+11.3  If a thermal element is renovated and one of the following applies, then the whole of the thermal element should be improved to achieve at least the U-value given in Table 4.3, column (b).
+A major renovation is when more than 25 of the surface area of the external building envelope is renovated.
+Material change of use and change to energy status.
+11.5  A material change of use, in relation to dwellings, is when a building satisfies any of the following: is used as a dwelling, where previously it was not b.  contains a flat, where previously it did not c.  contains a greater or lesser number of dwellings than it did, having previously contained at least one dwelling.
+If both of the following apply to existing windows, roof windows, rooflights and doors (controlled fittings), they should be replaced to meet the limiting standards in Table 4.2. i.
+They have a U-value higher than either of the following.
+In addition, all of the following should be met.
+New or replaced windows, roof windows, rooflights and doors (controlled fittings) should meet the standards in Table 4.2. c.  The area of openings in the newly created dwelling should not be more than 25 of the total floor area.
+In buildings that contain more than one dwelling a larger percentage area of openings may be achieved by following the guidance in paragraph 11.8. d.  Any fixed building services including building automation and control systems and/or onsite electricity generation that are provided or extended should meet the standards in Sections 5 and 6.
+11.8  As an alternative to paragraph 11.7, in buildings that contain more than one dwelling, the Standard Assessment Procedure may be used to show that the dwelling primary energy usage and total CO2 emissions from all dwellings in the building, after completion of the building work, would be no greater than if each dwelling had been improved following the guidance in paragraph 11.7.
+(2)   Subject to paragraph (3), where this paragraph applies, such work, if any, shall be carried out as is necessary to ensure that the building complies with the requirements of Part L of Schedule 1.
+Consequential improvements should be carried out to ensure that the dwelling complies with Part L of the Building Regulations, to the extent that they are technically, functionally and economically feasible.
+Community heating system A system that supplies heat from a central source to more than one dwelling or premises within a single building.
+For the purposes of this document, economically feasible means that the measure would achieve a simple payback after one of the following.
+For these purposes, under construction means any of the following.
+For the purposes of this approved document, hard water is water that has a total water hardness of greater than 200ppm of CaCO3.
+Major renovation Defined in regulation 35 as the renovation of a building where more than 25 of the surface area of the building envelope undergoes renovation.
+the building is used as a public building, where previously it was not;the building is not a building described in classes 1 to 6 in Schedule 2, where previously it was;g.  the building, which contains at least one dwelling, contains a greater or lesser number of dwellings than it did previously;h.  the building contains a room for residential purposes, where previously it did not;the building, which contains at least one room for residential purposes, contains a greater or lesser number of such rooms than it did previously;the building is used as a shop, where it previously was not; ork.  the building is a building described in regulation 7(4)(a), where previously it was not.
+The following guidance should be used.
+The annual energy savings should be estimated using the Standard Assessment Procedure.
+AA The energy prices that are current when the application is made to the building control body should be used when evaluating energy savings.
+(3) In these Regulations thermal element means a wall, floor or roof (but does not include windows, doors, roof windows or rooflights) which separates a thermally conditioned part of the building (the conditioned space) from a.  the external environment (including the ground); or in the case of floors and walls, another part of the building which is i.  unconditioned; ii.
+The U-values are similar to, or in the case of a newly constructed conservatory or porch not exceeding, the U-values of the corresponding exposed elements elsewhere in the dwelling.
+When calculating total useful floor area, both of the following should be taken into account.
+The area of sloping surfaces such as staircases, galleries, raked auditoria and tiered terraces should be taken as their area on plan.
+Areas that are not enclosed, such as open floors, covered ways and balconies, should be excluded.
+Appendix B: Reporting evidence of complianceBREL report.
+B1  The Buildings Regulations England Part L (BREL) report and photographic evidence should be provided to the building control body and to the building owner to show that building work complies with energy efficiency requirements.
+B3  Two versions of the BREL report should be produced, using the approved software.
+B4   The asbuilt BREL report should be signed by the person carrying out the SAP assessment to confirm that the asbuilt calculations are accurate and that the supporting documentary evidence and photographs have been reviewed (see paragraphs B6 and B7).
+B5   The asbuilt BREL report should be signed by the developer to confirm that the dwelling has been constructed or completed according to the specifications in the report.
+Photographic evidence.
+B6   Photographs should be taken for each dwelling on a development as a record during the construction of a property.
+The photographs should be made available to the energy assessor and the building control body.
+B7  Photographs should be taken of typical details as listed below and should be unique to each property.
+One photograph per detail should be recorded.
+Additional images, such as a closeup detail, should be provided only when necessary (see below).
+Photographs should be taken at appropriate construction stages for each detail when completed, but prior to closingup works.
+B8  Photographs should be digital and of sufficient quality and high enough resolution to allow a qualitative audit of the subject detail.
+Geo-location should be enabled to confirm the location, date and time of each image.
+If it is not reasonable to meet the target U-values in Table C1, considering technical risk and practicality of the work in relation to the dwelling and impacts on adjoining buildings, then the U-value should be as close to the target value as practically possible.
+Existing insulation (if any) at ceiling level, less than 50mm, in poor condition, and/or likely to be significantly disturbed or removed as part of the planned workRenewal of roof covering: Existing insulation in good condition and will not be significantly disturbed by proposed works.
+Existing insulation thickness between 50mm and 100mmTypical constructionComments (reasonableness, practicability and costeffectiveness)Provide loft insulation  250mm mineral fibre or cellulose fibre as a quilt laid between and across ceiling joists or loose fill or equivalentTop up loft insulation to at least 250mm mineral fibre or cellulose fibre as quilt laid between and across ceiling joists or loose fill or equivalent.
+In general it is reasonable to accept a reduction not exceeding 5 in the area of a room.
+However, the use of the room, and the space needed for people to move around and for fixtures, fittings and furniture should be assessedIf acoustic attenuation issues are particularlyimportant (e.g.
+where insulation is returnedat party walls) a less demanding U-value maybe more appropriate – the target U-valuemay have to be increased to 0.35 or above,depending on the circumstancesHowever, this should be checked through energy calculations.

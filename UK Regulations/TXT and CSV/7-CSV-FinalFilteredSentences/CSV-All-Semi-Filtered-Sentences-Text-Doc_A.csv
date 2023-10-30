@@ -1,0 +1,136 @@
+ID,Text
+1_UK_DocA_Structure,"(1) The building shall be constructed so that the combined dead,imposed and wind loads are sustained and transmitted by it to theground:(a) safely; and(b) without causing such deflection or deformation of anypart of the building, or such movement of the ground, as will impairthe stability of any part of another building."
+2_UK_DocA_Structure,(2) In assessing whether a building complies with subparagraph(1) regard shall be had to the imposed and wind loads to which it islikely to be subjected in the ordinary course of its use for the purposefor which it is intended.
+3_UK_DocA_Structure,"The building shall be constructed so that ground movementcaused by:(a) swelling, shrinkage or freezing of the subsoil; or(b) landslip or subsidence (other than subsidence arisingfrom shrinkage), in so far as the risk can be reasonably foreseen,will not impair the stability of any part of the building."
+4_UK_DocA_Structure,The design should be based on identificationof the hazards to which the structure is likelyto be subjected and assessment of the risks.
+5_UK_DocA_Structure,The selection of relevant critical situationsfor design should be made reflecting theconditions that can reasonably be foreseenduring future use.
+6_UK_DocA_Structure,"Dead load, imposed load and windload should be in accordance with the currentCodes of practice referred to in Section 1 ofthis document."
+7_UK_DocA_Structure,"The numeric values of safety factors, whetherexpressed explicitly or implicitly in designequations, or design values, should be derivedfrom considerations of the above aspects ofdesign and construction as a whole."
+8_UK_DocA_Structure,Such conditions should betaken into account in the design of the buildingand its foundations.
+9_UK_DocA_Structure,"The Institution of Structural EngineersTechnical Publication Appraisal of ExistingStructures (third edition), 2010Note: With reference to design checks in thereferenced Institution of Structural EngineersTechnical Publication the choice of various partialfactors should be made to suit the individualcircumstances of each case."
+10_UK_DocA_Structure,Section 2C.
+11_UK_DocA_Structure,"Thickness of masonry walls in certain residentialbuildings of not more than three storeys, smallsingle-storey non-residential buildings and annexes."
+12_UK_DocA_Structure,2.2 Section 2A gives general rules which mustbe observed in following Sections 2B and 2C.
+13_UK_DocA_Structure,Section 2A: Basic requirements for stability.
+14_UK_DocA_Structure,2A1 This section must be used in conjunctionwith sections 2B and 2C and its principles relateto all forms of lowrise residential buildings.
+15_UK_DocA_Structure,2A2 Adequate provision shall be made toensure that the building is stable under the likelyimposed and wind loading conditions.
+16_UK_DocA_Structure,"However, the need fordiagonal rafter bracing equivalent to thatrecommended in BS EN 199511:2004 with itsUK National Annex and additional guidance givenin BSI Published Document PD 66931:2012 andBS 81033:2009 for trussed rafter roofs shouldbe considered, especially for singlehipped andnonhipped roofs of greater than 40 pitch todetached houses."
+17_UK_DocA_Structure,House longhorn beetle.
+18_UK_DocA_Structure,"2B2 In the geographical areas specified inTable 1, softwood timber for roof constructionor fixed in the roof space, including ceiling joistswithin the void spaces of the roof, should beadequately treated to prevent infestation by thehouse longhorn beetle (Hylotrupes bajulus L.)."
+19_UK_DocA_Structure,Section 2C: Thickness of walls in certainsmall buildings.
+20_UK_DocA_Structure,Application.
+21_UK_DocA_Structure,2C1 This section applies to the followingbuilding types:a. residential buildings of not more thanthree storeys;b. small singlestorey nonresidentialbuildings;c. small buildings forming annexes toresidential buildings (including garagesand outbuildings).
+22_UK_DocA_Structure,Wall types.
+23_UK_DocA_Structure,"2C2 Only the types of wall given in Table 2,which must extend to the full storey height, andparapet walls are considered in this section."
+24_UK_DocA_Structure,The use of this section.
+25_UK_DocA_Structure,"2C3 When using this section it should benoted that:a. this section must be used in conjunctionwith section 2A;b. if wall thickness is to be determinedaccording to paragraphs 2C5 to 2C13, allappropriate design conditions given in thissection must be satisfied;c. walls should comply with the relevantrequirements of BS EN 19962:2006 with itsUK National Annex and additional guidancegiven in BSI Published Document PD6697:2010, except as regards the conditionsgiven in paragraphs 2C4 and 2C14 to 2C38;d. in formulating the guidance of this section theworst combination of circumstances likely toarise was taken into account."
+26_UK_DocA_Structure,"If a requirementof this part is considered too onerous in aparticular case it may be appropriate toconsider a minor departure on the basisof judgement and experience, or to showadequacy by calculation in respect of theaspect of the wall which is subject to thedeparture rather than for the entire wall;e. the guidance given is based upon thecompressive strengths of bricks and blocksbeing not less than indicated in Tables 6 and 7."
+27_UK_DocA_Structure,Conditions relating to the buildingof which the wall forms part.
+28_UK_DocA_Structure,"2C4 This section applies only to buildingshaving proportions within the followingparameters (see Diagrams 1 and 2):a. residential buildings of not more thanthree storeys:i. the maximum height of the buildingmeasured from the lowest finished groundlevel adjoining the building to the highestpoint of any wall or roof should not begreater than 15m, subject to the limitsof paragraph 2C16;ii."
+29_UK_DocA_Structure,the height of the building H should notexceed twice the least width of thebuilding W1;iii.
+30_UK_DocA_Structure,"the height of the wing H2 should notexceed twice the least width of the wingW2 where the projection P exceeds twicethe width W2;b. small single-storey non-residential buildings:height H should not exceed 3m and W (beingthe greatest length or width of the building)should not exceed 9m (see Diagram 2),subject to the limits of paragraph 2C16;c. annexes: height H as variously indicated inDiagram 2 should not exceed 3m, subject tothe limits of paragraph 2C16."
+31_UK_DocA_Structure,"2C6 Solid external walls, compartment wallsand separating walls in coursed brickwork orblockwork."
+32_UK_DocA_Structure,Solid walls constructed of coursedbrickwork or blockwork should be at leastas thick as 1/16 of the storey height.
+33_UK_DocA_Structure,"The thickness of walls constructedin uncoursed stone, flints, clunches, bricks orother burnt or vitrified material should not beless than 1.33 times the thickness determinedby paragraph 2C6."
+34_UK_DocA_Structure,2C8 Cavity walls in coursed brickwork orblockwork.
+35_UK_DocA_Structure,All cavity walls should have leavesat least 90mm thick and cavities at least 50mmwide.
+36_UK_DocA_Structure,"The wall ties should have a horizontalspacing of 900mm and a vertical spacing of450mm, or alternatively should be spaced such that the number of wall ties per square metre isnot less than 2.5 ties/m2."
+37_UK_DocA_Structure,"Wall ties should also beprovided, spaced not more than 300mm apartvertically, within a distance of 225mm from thevertical edges of all openings, movement jointsand roof verges."
+38_UK_DocA_Structure,"For external walls, compartment walls andseparating walls in cavity construction, thecombined thickness of the two leaves plus 10mmshould not be less than the thickness determinedby paragraph 2C6 and Table 3 for a solid wall ofthe same height and length."
+39_UK_DocA_Structure,2C10 Internal loadbearing walls in brickworkor blockwork (except compartment walls orseparating walls).
+40_UK_DocA_Structure,"All internal loadbearing wallsshould have a thickness not less than:except for a wall in the lowest storey of a threestorey building, carrying load from both upperstoreys, which should have a thickness asdetermined by the equation or 140mm whicheveris the greatest."
+41_UK_DocA_Structure,2C11 Parapet walls.
+42_UK_DocA_Structure,The minimum thicknessand maximum height of parapet walls should beas given in Diagram 4.
+43_UK_DocA_Structure,2C13 Modular bricks and blocks.
+44_UK_DocA_Structure,"Where wallsare constructed of bricks or blocks havingmodular dimensions, wall thicknesses prescribedin this section which derive from a dimension ofbrick or block may be reduced by an amount notexceeding the deviation from work size permittedby a British Standard relating to equivalent sizedbricks or blocks made of the same material."
+45_UK_DocA_Structure,"2C14 Maximum floor area: The guidance ofthis section assumes that no floor enclosed bystructural walls on all sides exceeds 70m2, andthat no floor without a structural wall on one sideexceeds 36m2."
+46_UK_DocA_Structure,Conditions relating to the wall.
+47_UK_DocA_Structure,"2C17 Maximum allowable length and heightof the wall: This section does not deal with wallslonger than 12m, measured from centre to centreof buttressing walls, piers or chimneys providingrestraint, or with walls exceeding 12m in height(see also Table 3)."
+48_UK_DocA_Structure,2C18 Rules of measurement for heights ofwalls and storeys: The height of a wall or astorey should be measured in accordance withthe rules in Diagram 8.
+49_UK_DocA_Structure,Construction materials andworkmanship.
+50_UK_DocA_Structure,2C19 Wall ties: Wall ties should comply withBS EN 8451 and should be material references1 or 3 in BS EN 8451 Table A1 austenitic stainlesssteel.
+51_UK_DocA_Structure,Wall ties should be selected in accordancewith Table 5 of this .
+52_UK_DocA_Structure,2C20 Masonry units: Walls should be properlybonded and solidly put together with mortar andconstructed of masonry units conforming to:a. clay bricks or blocks to BS EN 7711;b. calcium silicate bricks or blocks to BS EN7712;c. concrete bricks or blocks to BS EN 7713 orBS EN 7714;d. manufactured stone to BS EN 7715;e. square dressed natural stone to theappropriate requirements described inBS EN 7716.
+53_UK_DocA_Structure,"2C21 Compressive strength of masonry units:Minimum compressive strength requirementsfor masonry units according to BS EN Standardsare given in Diagram 9, where the masonry unitsindicated for Conditions A, B and C shouldhave declared compressive strengths of notless than the values given in Table 6."
+54_UK_DocA_Structure,2C22 Mortar: Mortar should be:a. one of the following:i. Mortar designation (iii) according toBS EN 199611:2005 with its UKNational Annex.
+55_UK_DocA_Structure,2C24 Other loading conditions:a. Vertical loading on walls should be distributed.
+56_UK_DocA_Structure,Differences in level of ground or other solidconstruction between one side of the walland the other should be less than 4 times thethickness of the wall as shown in Diagram 11.c. The combined dead and imposed loadshould not exceed 70kN/m at base of wall(see Diagram 11).
+57_UK_DocA_Structure,"d. Walls should not be subjected to lateral loadother than from wind, and that covered byparagraph 2C24(b)."
+58_UK_DocA_Structure,End restraint.
+59_UK_DocA_Structure,"2C25 Vertical lateral restraint to wallsThe ends of every wall should be bonded orotherwise securely tied throughout their fullheight to a buttressing wall, pier or chimney."
+60_UK_DocA_Structure,2C26 Buttressing walls.
+61_UK_DocA_Structure,If the buttressing wall is not itself a supportedwall its thickness T2 should not be less than:a. half the thickness required by this section foran external or separating wall of similar heightand length less 5mm; orb.
+62_UK_DocA_Structure,75mm if the wall forms part of a dwellinghouse and does not exceed 6m in total heightand 10m in length; andc. 90mm in other cases.
+63_UK_DocA_Structure,"The length of the buttressing wall shouldbe at least 1/6 of the overall height of thesupported wall and be bonded or securely tiedto the supporting wall and at the other end to abuttressing wall, pier or chimney."
+64_UK_DocA_Structure,The size of any opening in the buttressing wallshould be restricted as shown in Diagram 12.
+65_UK_DocA_Structure,"2C27 Design criteria for piers and chimneysproviding restraint:a. piers should measure at least 3 times thethickness of the supported wall and chimneystwice the thickness, measured at right angles to the wall."
+66_UK_DocA_Structure,"Piers should have a minimumwidth of 190mm (see Diagram 13);b. the sectional area on plan of chimneys(excluding openings for fireplaces and flues)should be not less than the area requiredfor a pier in the same wall, and the overallthickness should not be less than twice therequired thickness of the supported wall(see Diagram 13)."
+67_UK_DocA_Structure,Construction overopenings and recesses should be adequatelysupported.
+68_UK_DocA_Structure,"No openings should be provided in walls belowground floor except for small holes for servicesand ventilation, etc."
+69_UK_DocA_Structure,which should be limitedto a maximum area of 0.1m at not less than2m centres.
+70_UK_DocA_Structure,"2C35 Walls should be strapped to floors aboveground level, at intervals not exceeding 2mand as shown in Diagram 15, by tension strapsconforming to BS EN 8451."
+71_UK_DocA_Structure,"Tension straps need not be provided:a. in the longitudinal direction of joists in housesof not more than 2 storeys, if the joists areat not more than 1.2m centres and have atleast 90mm bearing on the supported wallsor 75mm bearing on a timber wallplate ateach end, andb. in the longitudinal direction of joists in housesof not more than 2 storeys, if the joistsare carried on the supported wall by joisthangers in accordance with BS EN 8451of the restraint type described by additionalguidance given in BSI Published DocumentPD 6697:2010 and shown in Diagram 15(c),and are incorporated at not more than 2mcentres, andc. when a concrete floor has at least 90mmbearing on the supported wall (see Diagram15(d)), andd. where floors are at or about the same levelon each side of a supported wall, andcontact between the floors and wall is eithercontinuous or at intervals not exceeding 2m."
+72_UK_DocA_Structure,"Where contact is intermittent, the points ofcontact should be in line or nearly in line onplan (see Diagram 15(e))."
+73_UK_DocA_Structure,2C36 Gable walls should be strapped to roofs asshown in Diagram 16(a) and (b) by tension strapsas described in 2C35.
+74_UK_DocA_Structure,Vertical strapping at least 1m in length should beprovided at eaves level at intervals not exceeding2m as shown in Diagram 16(c) and (d).
+75_UK_DocA_Structure,"Verticalstrapping may be omitted if the roof:a. has a pitch of 15 or more, andb. is tiled or slated, andc. is of a type known by local experience to beresistant to wind gusts, andd. has main timber members spanning onto thesupported wall at not more than 1.2m centres."
+76_UK_DocA_Structure,Interruption of lateral support.
+77_UK_DocA_Structure,"2C37 Where an opening in a floor or roof for astairway or the like adjoins a supported wall andinterrupts the continuity of lateral support, thefollowing conditions should be satisfied for thepurposes of Section 2C:a. the maximum permitted length of the openingis to be 3m, measured parallel to the supportedwall, andb. where a connection is provided by meansother than by anchor, this should be providedthroughout the length of each portion of thewall situated on each side of the opening, andc. where a connection is provided by mild steelanchors, these should be spaced closer than2m on each side of the opening to providethe same number of anchors as if there wereno opening, andd. there should be no other interruption oflateral support."
+78_UK_DocA_Structure,The floor area of the building or annexe doesnot exceed 36m.
+79_UK_DocA_Structure,c. Where the floor area of the building or annexeexceeds 10m the walls have a mass of notless than 130kg/m.
+80_UK_DocA_Structure,f. The maximum length or width of the buildingor annexe does not exceed 9m.
+81_UK_DocA_Structure,"g. The height of the building or annexe does notexceed the lower value derived from Diagram 2.h. The roof is braced at rafter level, horizontallyat eaves level and at the base of any gable byroof decking, rigid sarking or diagonal timberbracing, as appropriate, in accordance withBS EN 199511:2004 with its UK NationalAnnex and additional guidance given in BSI Published Document PD 66931:2012 or BS81033:2009."
+82_UK_DocA_Structure,(ii) Size and location of openings.
+83_UK_DocA_Structure,One or two major openings not more than 2.1min height are permitted in one wall of the buildingor annexe only.
+84_UK_DocA_Structure,The width of a single opening orthe combined width of two openings should notexceed 5m.
+85_UK_DocA_Structure,Walls which do not contain a major openingbut exceed 2.5m in length or height should bebonded or tied to piers for their full height at notmore than 3m centres as shown in Diagram 18a.
+86_UK_DocA_Structure,"Where ties are usedto connect piers to walls they should be flat,20mm x 3mm in cross section, be in stainlesssteel in accordance with paragraph 2C19, beplaced in pairs and be spaced at not more than300mm centre vertically."
+87_UK_DocA_Structure,"(iv) Horizontal lateral restraint at roof levelWalls should be tied horizontally at no more than2m centres to the roof structure at eaves level,base of gables and along roof slopes as shownin Diagram 19 with straps fixed in accordancewith paragraphs 2C35 and 2C36."
+88_UK_DocA_Structure,"Where a chimney is not adequately supported by ties or securely restrained in anyway, its height if measured from the highest pointof intersection with the roof surface, gutter, etc."
+89_UK_DocA_Structure,"should not exceed 4.5W, provided the density ofthe masonry is greater than 1500kg/m3, where:W is the least horizontal dimension of thechimney measured at the same point ofintersection, andH is measured to the top of any chimney pot orother flue terminal (see Diagram 20)."
+90_UK_DocA_Structure,Section 2E: Foundations of plain concrete.
+91_UK_DocA_Structure,Conditions relating to the ground.
+92_UK_DocA_Structure,2E1 There should not be:a. non-engineered fill (as described in BREDigest 427) or wide variation in groundconditions within the loaded area; norb. weaker or more compressible ground atsuch a depth below the foundation as couldimpair the stability of the structure.
+93_UK_DocA_Structure,Design provisions.
+94_UK_DocA_Structure,2E2 The following design provisions relate tofoundations:a. the foundations should be situated centrallyunder the wall;b. for foundations in chemically aggressivesoil conditions guidance in BS 85001 andBRE Special Digest 1 should be followed.
+95_UK_DocA_Structure,"In nonaggressive soils, concrete shouldbe composed of Portland cement to BS EN1971 and 2 and fine and coarse aggregateconforming to BS EN 12620 and the mixshould comply with one of the followingrecommendations:i. in proportion of 50kg of Portland cementto not more than 200kg (0.1m3) of fineaggregate and 400kg (0.2m3) of coarseaggregate; orii."
+96_UK_DocA_Structure,"grade ST2 or grade GEN I concrete toBS 85002;c. minimum thickness T of concrete foundationshould be 150mm or P, whichever is thegreater, where P is derived using Table 10and Diagram 23."
+97_UK_DocA_Structure,"For trench fill foundations the overlap shouldbe twice the height of the step or 1m,whichever is greater;e. steps in foundations should not be of greaterheight than the thickness of the foundation(see Diagram 21);f. foundations for piers, buttresses and chimneysshould project as indicated in Diagram 22 andthe projection X should never be less than thevalue of P where there is no local thickeningof the wall."
+98_UK_DocA_Structure,FOUNDATIONS OF PLAIN CONCRETE A1/2.
+99_UK_DocA_Structure,"In clay soils subject to volume change on drying(shrinkable clays, with Modified PlasticityIndex greater than or equal to 10), stripfoundations should be taken to a depth whereanticipated ground movements will not impairthe stability of any part of the building taking dueconsideration of the influence of vegetation andtrees on the ground."
+100_UK_DocA_Structure,An acceptablelevel of safety can be achieved by differentmeans depending on the type and location ofthe cladding.
+101_UK_DocA_Structure,"This shall comprise both vertical supportand horizontal restraint, andc. provision is made, where necessary, toaccommodate differential movement of thecladding and the supporting structure of thebuilding, andd. the cladding and its fixings (includingany support components) are of durablematerials; the design life of the fixings beingnot less than that of the cladding."
+102_UK_DocA_Structure,Fixingsshall be corrosion resistant and of a materialtype appropriate for the local environment.
+103_UK_DocA_Structure,Loading.
+104_UK_DocA_Structure,3.3 Wind loading on the cladding should bederived from BS EN 199114:2005 with its UKNational Annex with due consideration given tolocal increases in wind suction arising fromfunnelling of the wind through gaps betweenbuildings.
+105_UK_DocA_Structure,"Where the cladding is required to supportother fixtures, e.g."
+106_UK_DocA_Structure,"handrails, and fittings, e.g."
+107_UK_DocA_Structure,"antennae and signboards, account should betaken of the loads and forces arising from suchfixtures and fittings."
+108_UK_DocA_Structure,"3.5 Where the wall cladding is required tofunction as pedestrian guarding to stairs, ramps,vertical drops of more than 600mm in dwellingsor more than the height of two risers (or 380mmif not part of a stair) in other buildings, or as a vehicle barrier, then account should be taken ofthe additional imposed loading, as stipulated in K, Protection from falling,collision and impact."
+109_UK_DocA_Structure,Fixings.
+110_UK_DocA_Structure,3.7 The selection of fixings for supportingcladding should be determined from aconsideration of the proven performance of thefixing and the risks associated with the particularapplication.
+111_UK_DocA_Structure,In this regard applications should bedesignated as being either nonredundant (wherethe failure of a single fixing could lead to thedetachment of the cladding) or redundant (wherefailure or excessive movement of one fixingresults in load sharing by adjacent fixings) andthe required reliability of the fixing determinedaccordingly.
+112_UK_DocA_Structure,"3.8 The strength of fixings should be derivedfrom tests using materials representative of thematerial into which the fixing is to be anchored,taking account of any inherent weaknesses thatmay affect the strength of the fixing, e.g."
+113_UK_DocA_Structure,"cracksin concrete due to shrinkage and flexure, or voidsin masonry construction."
+114_UK_DocA_Structure,Section 4: Roof covering.
+115_UK_DocA_Structure,Materials.
+116_UK_DocA_Structure,"4.1 All materials used to cover roofs, excludingwindows of glass in residential buildings with roofpitches of not less than 15, shall be capable ofsafely withstanding the concentrated imposedloads upon roofs specified in BS EN 199111:2002 with its UK National Annex."
+117_UK_DocA_Structure,4.3 Where the work involves a significantchange in the applied loading the structuralintegrity of the roof structure and the supportingstructure should be checked to ensure thatupon completion of the work the building is notless compliant with Requirement A1 than theoriginal building.
+118_UK_DocA_Structure,4.4 A significant change in roof loading iswhen the loading upon the roof is increased bymore than 15.
+119_UK_DocA_Structure,Where such checking of the existing roofstructure indicates that the construction is unableto sustain any proposed increase in loading (e.g.
+120_UK_DocA_Structure,"due to overstressed members or unacceptabledeflection leading to ponding), appropriatestrengthening work or replacement of roofingmembers should be undertaken."
+121_UK_DocA_Structure,Introduction.
+122_UK_DocA_Structure,0.1 The guidance in Section 5 deals with themeans of meeting this performance criterion.
+123_UK_DocA_Structure,"Alternatively, check that upon the notionalremoval of each supporting column and eachbeam supporting one or more columns, or anynominal length of loadbearing wall (one at atime in each storey of the building), the buildingremains stable and that the area of floor at anystorey at risk of collapse does not exceed 15 ofthe floor area of that storey or 100m2, whicheveris smaller, and does not extend further than theimmediate adjacent storeys (see Diagram 24)."
+124_UK_DocA_Structure,"Where the notional removal of such columnsand lengths of walls would result in an extent ofdamage in excess of the above limit, then suchelements should be designed as a key elementas defined in paragraph 5.3 below."
+125_UK_DocA_Structure,"e. For Consequence Class 3 buildings:  Asystematic risk assessment of the buildingshould be undertaken taking into accountall the normal hazards that may reasonablybe foreseen, together with any abnormalhazards."
+126_UK_DocA_Structure,Critical situations for design should be selectedthat reflect the conditions that can reasonablybe foreseen as possible during the life of thebuilding.
+127_UK_DocA_Structure,"5.2 Details of the effective horizontal andvertical ties including tie force determination,together with the design approaches forchecking the integrity of the building followingthe notional removal of vertical members and thedesign of key elements, are given in the following."
+128_UK_DocA_Structure,5.3 Definitions.
+129_UK_DocA_Structure,"Nominal length of loadbearing wallThe nominal length of loadbearing wallconstruction referred to in 5.1d should be takenas follows: in the case of a reinforced concrete wall, thedistance between lateral supports subject toa maximum length not exceeding 2.25H, in the case of an external masonry wall,or timber or steel stud wall, the lengthmeasured between vertical lateral supports, in the case of an internal masonry wall,or timber or steel stud wall, a length notexceeding 2.25H,where H is the storey height in metres."
+130_UK_DocA_Structure,Key elements.
+131_UK_DocA_Structure,"A key element, as referred to in paragraph 5.1d,should be capable of sustaining an accidentaldesign loading of 34kN/m2 applied in thehorizontal and vertical directions (in one directionat a time) to the member and any attachedcomponents (e.g."
+132_UK_DocA_Structure,cladding etc.)
+133_UK_DocA_Structure,having regard tothe ultimate strength of such components andtheir connections.
+134_UK_DocA_Structure,Such accidental design loadingshould be assumed to act simultaneously withall other design loadings (i.e.
+135_UK_DocA_Structure,wind and imposedloading) in accidental actions loading combination.

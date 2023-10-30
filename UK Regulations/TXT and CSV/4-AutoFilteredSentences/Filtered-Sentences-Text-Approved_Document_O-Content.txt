@@ -1,0 +1,570 @@
+Building Regulations 2010  
+
+Approved Document O, 2021 edition 
+
+Table 0.1  Residential buildings within the scope of this approved documentShared communal rooms and common spaces 
+
+0.4  Shared communal rooms and common spaces of buildings containing more than one residential 
+
+unit fall within the scope of this approved document.
+
+
+as a 
+
+workshop or office) should be treated as a residential building, as long as the commercial part can 
+
+revert to residential use.
+
+
+What constitutes a substantial proportion should be assessed on a casebycase basis by the 
+
+building control body.
+
+
+Alternative approaches are possible but they should be discussed and 
+
+agreed with a building control body before building work starts.
+
+
+0.9  The legal requirements of the Building Regulations must be met, regardless of whether the 
+
+guidance in this approved document is followed or alternative measures are taken.
+
+
+0.10  If alternative ways of mitigating overheating are adopted, the overall level of overheating risk 
+
+reduction should not be lower than the approved document provides.
+
+
+Interaction with Part F
+
+0.13  This approved document, Approved Document O, includes guidance on providing means of 
+
+removing excess heat from residential buildings.
+
+
+Where openings are used, the amount of 
+
+ventilation for removing excess heat is likely to be higher than the purge ventilation required for 
+
+Part F. The higher amount of ventilation applies  see Section 1 or Section 2 of this approved 
+
+document, depending on the method of compliance.
+
+
+0.15  The guidance in Approved Document J should be followed when installing and testing ventilation 
+
+appliances and combustion appliances must operate safely whether or not fans are running.
+
+
+Control of heat losses from pipework is dealt with under Part L of the Building 
+
+Regulations and the guidance in Approved Document L should be followed.
+
+
+Interaction with Part K and Part M
+
+0.18  Where manual controls are provided, they should be within reasonable reach of the occupants, to 
+
+comply with Approved Documents K and M. 
+
+Interaction with Part K
+
+0.19  This approved document, Approved Document O, gives guidance on increased levels of protection 
+
+from falling from openings compared to Part K. 
+
+Interaction with Part Q
+
+0.20 This approved document, Approved Document O, gives guidance on security considerations when 
+
+providing large openings for removing excess heat.
+
+
+Limits on application
+
+Requirement
+
+Requirement
+
+O1 Overheating mitigation
+
+ Reasonable provision must be made in respect 
+
+of a dwelling, institution or any other building 
+
+containing one or more rooms for residential 
+
+purposes, other than a room in a hotel 
+
+(residences) to
+
+(a)  limit unwanted solar gains in summer;
+
+(b)   provide an adequate means to remove heat 
+
+from the indoor environment.
+
+
+In meeting the obligations in paragraph (1)
+
+(a)   account must be taken of the safety of any 
+
+occupant, and their reasonable enjoyment of 
+
+the residence; and
+
+(b)   mechanical cooling may only be used where 
+
+insufficient heat is capable of being removed 
+
+from the indoor environment without it.
+
+
+Providing an adequate means of removing excess heat from the indoor environment.
+
+
+The simplified method for limiting solar gains and providing a means of removing excess heat, as 
+
+set out in Section 1. 
+
+b.
+
+
+Categorising residential buildings (simplified method)
+
+1.2  For the simplified method, the strategy to reduce overheating risk should be selected according 
+
+to the location of the new residential building and whether it has crossventilation, following 
+
+paragraphs 1.3 to 1.5.
+
+
+1.4  For the purposes of following the simplified method, it should be identified whether the 
+
+dwellinghouse or each residential unit, shared communal room and common space is able to have 
+
+crossventilation, i.e.
+
+
+Each residential unit, shared communal room and common space should be 
+
+categorised separately.
+
+
+To provide an appropriate means of removing excess heat from the indoor environment  follow 
+
+paragraphs 1.10 to 1.13.
+
+
+Limiting solar gains
+
+1.6  To limit solar gains, all of the following standards should be followed.
+
+
+This should be determined using the orientation of the faade that has the largest area of 
+
+glazing.
+
+
+This should be 
+
+determined using the orientation of the faade that has the largest area of glazing.
+
+
+Building Regulations 2010  
+
+Approved Document O, 2021 edition 
+
+O11.7  Buildings or parts of buildings with crossventilation should not exceed the maximum glazing areas 
+
+in Table 1.1.
+
+
+1.8  Buildings or parts of buildings with no crossventilation should not exceed the maximum glazing 
+
+areas in Table 1.2.
+
+
+Shading should be provided by one of the following means.
+
+
+External shutters with means of ventilation.
+
+
+Removing excess heat
+
+1.10  Buildings or parts of buildings with crossventilation should equal or exceed the minimum free 
+
+areas in Table 1.3.
+
+
+1.11  Buildings or parts of buildings with no crossventilation should equal or exceed the minimum free 
+
+areas in Table 1.4.
+
+
+1.12  Openings should be designed to achieve the free areas in paragraphs 1.10 and 1.11.
+
+
+The equivalent 
+
+area of the opening should meet or exceed the free area of the opening.
+
+
+The equivalent area of the 
+
+opening should be assessed by either of the following means.
+
+
+Calculation using Appendix D.
+
+NOTE: A system for purge ventilation should be provided in each habitable room to demonstrate 
+
+compliance with Part F of the Building Regulations.
+
+
+When following 
+
+this simplified method, applying the guidance in paragraphs 1.10 to 1.12 will usually result in free 
+
+areas that exceed the free areas in Approved Document F, Volume 1: Dwellings.
+
+
+1.13  The simplified method is not suitable for buildings with more than one residential unit which use a 
+
+communal heating or hot water system with significant amounts of horizontal heating or hot water 
+
+distribution pipework.
+
+
+Main distribution routes should be through vertical risers to minimise heat 
+
+gains into common spaces.
+
+
+Dynamic thermal modelling method 
+
+2.3  To demonstrate compliance using the dynamic thermal modelling method, all of the following 
+
+guidance should be followed.
+
+
+2.4  The building control body should be provided with a report that demonstrates that the residential 
+
+building passes CIBSEs TM59 assessment of overheating.
+
+
+These 
+
+limits should be applied when following the guidance in CIBSEs TM59.
+
+
+When a room is occupied during the day (8am to 11pm), openings should be modelled to do all 
+
+of the following.
+
+
+Start to open when the internal temperature exceeds 22C.
+
+
+Be fully open when the internal temperature exceeds 26C.
+
+
+At night (11pm to 8am), openings should be modelled as fully open if both of the following apply.
+
+
+The internal temperature exceeds 23C at 11pm.
+
+
+In the day, windows, patio doors and balcony doors should be modelled as open, if this can 
+
+be done securely, following the guidance in paragraph 3.7 below.
+
+
+At night, windows, patio doors and balcony doors should be modelled as closed.
+
+
+d.  An entrance door should be included, which should be shut all the time.
+
+
+Acceptable strategies for reducing overheating risk
+
+Limiting solar gains 
+
+2.7  Solar gains in summer should be limited by any of the following means.
+
+
+Building Regulations 2010  
+
+Approved Document O, 2021 edition 
+
+O1Removing excess heat
+
+2.10  Excess heat should be removed from the residential building by any of the following means.
+
+
+d.  A mechanical cooling system
+
+2.11  The building should be constructed to meet requirement O1 using passive means as far as 
+
+reasonably practicable.
+
+
+It should be demonstrated to the building control body that all practicable 
+
+passive means of limiting unwanted solar gains and removing excess heat have been used first 
+
+before adopting mechanical cooling.
+
+
+NOTE: Any method to reduce overheating risk in residential buildings must comply with all other 
+
+parts of the Building Regulations.
+
+
+Particular attention should be paid to the requirements of Part F 
+
+and the guidance in Approved Document F, Volume 1: Dwellings on noise and maintenance.
+
+
+NOTE: A system for purge ventilation should be provided in each habitable room to demonstrate 
+
+compliance with Part F of the Building Regulations.
+
+
+The guidance in Section 1 of Approved 
+
+Document F, Volume 1: Dwellings should be followed for the minimum standards for purge 
+
+ventilation.
+
+
+A larger amount of purge ventilation may be required than that in Approved Document 
+
+F, Volume 1: Dwellings in order to satisfy requirement O1 on providing an adequate means to 
+
+remove excess heat from the indoor environment.
+
+
+Limits on application
+
+Requirement
+
+Requirement
+
+O1 Overheating mitigation
+
+ Reasonable provision must be made in respect 
+
+of a dwelling, institution or any other building 
+
+containing one or more rooms for residential 
+
+purposes, other than a room in a hotel 
+
+(residences) to
+
+(a)  limit unwanted solar gains in summer;
+
+(b)   provide an adequate means to remove heat 
+
+from the indoor environment.
+
+
+(2)  
+
+ In meeting the obligations in paragraph (1)
+
+(a)   account must be taken of the safety of any 
+
+occupant, and their reasonable enjoyment of 
+
+the residence; and
+
+(b)   mechanical cooling may only be used where 
+
+insufficient heat is capable of being removed 
+
+from the indoor environment without it.
+
+
+In such 
+
+cases, dynamic thermal modelling should be used.
+
+
+3.3  Windows are likely to be closed during sleeping hours if noise within bedrooms exceeds the 
+
+following limits.
+
+
+55dB LAFmax, more than 10 times a night (between 11pm and 7am).
+
+
+3.4  Where insitu noise measurements are used as evidence that these limits are not exceeded, 
+
+measurements should be taken in accordance with the Association of Noise Consultants 
+
+Measurement of Sound Levels in Buildings with the overheating mitigation strategy in use.
+
+
+Pollution
+
+3.5  Buildings located near to significant local pollution sources should be designed to minimise  
+
+the intake of external air pollutants.
+
+
+Security
+
+3.6  When determining the free area available for ventilation during sleeping hours, only the proportion 
+
+of openings that can be opened securely should be considered to provide useful ventilation.
+
+
+Only the proportion of openings which can be opened with a very 
+
+low risk of occupants falling from height should be considered to form part of the overheating 
+
+mitigation strategy.
+
+
+Window handles on windows that open outwards are not more than 650mm from the inside 
+
+face of the wall when the window is at its maximum openable angle.
+
+
+Guarding should be sized to prevent the passage of a 100mm sphere.
+
+
+3.10  Guarding for large openings could include, but is not limited to, either of the following.
+
+
+c.  Any looped cords must be fitted with child safety devices.
+
+
+(2)   The person carrying out the work must, not later than five days after the work has been completed, give 
+
+sufficient information to the owner about the provision made in accordance with Part O so that the 
+
+systems in place further to Part O can be operated in such a manner as to protect against overheating.
+
+
+Intention
+
+When a new residential building is erected, information about the building must be given to the 
+
+owner of the building to allow them to use the overheating mitigation strategy effectively.
+
+
+Building Regulations 2010  
+
+Approved Document O, 2021 edition 
+
+R40B 
+
+Section 4: Providing information
+
+4.1  Sufficient information about the overheating mitigation strategy and its maintenance requirements 
+
+must be given to owners so that it can be used effectively.
+
+
+The information should be provided in a 
+
+clear manner, for a nontechnical audience.
+
+
+4.2  The following information should be provided, where relevant.
+
+
+d.  The time of day that different parts of the strategy should be used.
+
+
+For example, the shutters 
+
+should be used in the day and the windows opened only when it is cooler outside.
+
+
+e.  The time of year when the strategy should be used.
+
+
+Home User Guide
+
+4.3  A Home User Guide should be provided for new dwellings as described in Section 9 of Approved 
+
+Document L, Volume 1: Dwellings.
+
+
+The information in paragraph 4.2 should be provided in this section of the Home User 
+
+Guide.
+
+
+Where the system provides more than one function, 
+
+the owner should be informed of each separate function.
+
+
+A window within 2m vertically of a flat or 
+
+sloping roof (with a pitch of less than 30 
+
+degrees) that is within 3.5m of ground level.
+
+
+Where a room serves more than one activity, 
+
+e.g.
+
+
+openplan kitchen and living room, the area 
+
+with the largest glazing area should be assessed 
+
+and the room area calculated based on a room 
+
+depth no greater than 4.5m from the glazed faade.
+
+
+Passive means Any means of cooling a building 
+
+which is not mechanical cooling (e.g.
+
+
+Openable windows or mechanical 
+
+ventilation fans are considered to be passive means 
+
+of cooling.
+
+
+B2  All three parts of the compliance checklist should be completed.
+
+
+The relevant parts of Part 2 and 3 
+
+should be signed by a person who is competent to design the residential building.
+
+
+C2  This appendix should be used with the simplified method to categorise residential buildings, 
+
+following paragraph 1.3.
+
+
+To use the tables for bottom and top hung 
+
+windows, the h and w should be reversed.
+
+
+Each of the two sections of the centrally hinged window should be 
+
+assessed as a single side, bottom or top hung window.
+
+
+The opening should be assessed using Table D9, assuming an opening angle of  
+
+90 degrees.
+
+

@@ -1,0 +1,1929 @@
+ 
+
+ 
+
+Decree of the Ministry of the Environment  
+
+on the Energy Performance of New Buildings 
+
+By decision of the Ministry of the Environment, the following is enacted by virtue of section 
+
+117g, subsection 4; section 131, subsection 2 and section 150f, subsection 4 of the Land Use 
+
+and  Building  Act  (132/1999),  as  amended  by  section  117g,  subsection  4  of  Act  1151/2016; 
+
+section 131, subsection 2 of Act 41/2014; and section 150f, subsection 4 of Act 41/2014: 
+
+Chapter 1 
+
+General 
+
+Section 1 
+
+Scope of application 
+
+This Decree applies to the design and construction of new buildings consisting of a roofed 
+
+construction  having  walls,  for  which  energy  is  used  to  condition  the  indoor  climate.
+The 
+
+Decree also applies to extensions of buildings and increases of gross floor area.
+The Decree 
+
+applies to extensions of buildings the gross floor area of which is less than 50 m2 only where 
+
+the building, including the extension, exceeds 50 m2.
+Section 2 
+
+Definitions 
+
+For the purposes of this Decree: 
+
+1) amount of heat required for ventilation heating means the amount of heat that is required 
+
+to heat ventilation air flow from outdoor temperature to room temperature; 
+
+2)  net  heating  energy  demand  for  ventilation  means  the  demand  for  heating  energy 
+
+consisting of the heating of air after heat recovery to supply air temperature and any heating of 
+
+air before heat recovery; 
+
+3) annual efficiency of ventilation extract air heat recovery means the ratio of the amount of 
+
+heat recovered and utilised with heat recovery equipment to the amount of heat required for 
+
+ventilation heating in a year when there is no heat recovery; 
+
+4) specific fan power of ventilation system (kW/(m3/s)) means the total combined amount of 
+
+electrical power taken from the power supply by all of the fans and any connected frequency 
+
+converters  and  other  power  control  equipment  in  a  buildings  entire  ventilation  system, 
+
+divided by the exhaust air flow rate or outdoor air flow rate of the design operating time of the 
+
+ventilation system, whichever of these is greater; 
+
+5) electrical energy consumption of ventilation system means the electricity consumption of 
+
+fans and any auxiliary units; 
+
+6) air leakage rate q50 (m3/(h m2)) means the average hourly rate of leakage air flow of the 
+
+building  envelope  at  a  pressure  differential  of  50  Pa  per  building  envelope  surface  area 
+
+calculated on the basis of the buildings total internal dimensions; 
+
+7) cooled cold space means a space where a temperature below 17 C in accordance with 
+
+the intended use is maintained around the year with a cooling system and a possible heating 
+
+system; 
+
+8)  cooling  system  energy  consumption  means  the  energy  consumption  for  cooling  energy 
+
+production and the electricity consumption of auxiliary units; 
+
+9) district heat means heat supplied to customer properties via a distribution network; 
+
+Directive 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 
+
+Directive 2012/27/EU of the European Parliament and of the Council (32012L0027); OJ L 315, 14.11.2012, p. 1 
+
+Directive 2010/31/EU of the European Parliament and of the Council (32010L0031); OJ L 153, 18.6.2010, p. 13 
+
+Directive 2009/28/EU of the European Parliament and of the Council (32009L0028); OJ L 140, 5.6.2009, p. 16 
+
+10) thermal bridge means a deterioration in the thermal transmittance coefficient of a small 
+
+part of a building element for solidity or connection reasons; 
+
+11) net heated area Anet (m2) means the sum total of the heated floor plate areas calculated 
+
+on the basis of the internal surfaces of the exterior walls at the perimeter of the floor plates; 
+
+12) unheated space means a space that is not intended for continuous occupancy during the 
+
+heating season and that is not designed to be heated; 
+
+13) net heating energy demand means the total combined net demand for heating energy for 
+
+a buildings spaces, ventilation and domestic hot water; 
+
+14) heating systems energy consumption means the energy consumption for the heating of 
+
+spaces, ventilation and domestic hot water; 
+
+15) thermal transmittance coefficient means the density of heat flow that in the steady state 
+
+penetrates a building element when the difference in temperature between the air spaces on the 
+
+different sides of the building element is one unit of temperature, and the symbol of which is 
+
+U and the unit of which is W/(m2K); 
+
+16) warm space means of space in a building the room temperature of which is 17 C or 
+
+higher; 
+
+17) net heating energy demand for domestic hot water means the demand for heating energy 
+
+consumed  for  the  heating  of  domestic  hot  water  from  the  temperature  of  cold  water  to  the 
+
+temperature of hot water; 
+
+18)  mass  timber  building  means  a  building  the  main  construction  material  of  the  exterior 
+
+walls of which is a mass timber structure with a mean structural thickness of at least 180 mm; 
+
+19)  semiwarm  space  means  a  space  not  intended  for  continuous  occupancy  while  merely 
+
+wearing normal indoor clothing and the temperature of which during the heating season is on 
+
+average at least 5 C but below 17 C; 
+
+20) buildings calculated consumption of delivered energy means energy consumption based 
+
+on the buildings standardised use that is calculated as being acquired for the building from an 
+
+electricity distribution network, district heating network, district cooling network or as energy 
+
+contained by a renewable or fossil fuel; 
+
+21)  building  envelope  means  the  building  elements  that  separate  a  warm,  semiwarm, 
+
+particularly warm or cooled cold space from the outdoor air, the ground or an unheated space; 
+
+22) buildings reference heat loss means the calculated heat loss of a buildings envelope, 
+
+leakage air and ventilation calculated using reference values; 
+
+23) portable building means a movable building intended for temporary use; 
+
+24) design solution means a design plan for a building intended to be implemented; 
+
+25) renewable fuel means wood and woodbased and other biofuels, with the exception of 
+
+peat;  
+
+26)  demandcontrolled  ventilation  means  a  system  where  air  flows  can  be  controlled  in 
+
+accordance with load or air quality according to occupancy situation; 
+
+27)  energy  sourced  from  environmental  energy  means  heat  or  electrical  energy  generated 
+
+from sunlight, wind, ground, air or water onsite or near a building using equipment belonging 
+
+to the building.
+Section 3 
+
+Minimum requirements for building energy performance 
+
+A principal designer, special designer and building designer shall, in accordance with their 
+
+respective duties, see to the design of a new building so that it, in accordance with its intended 
+
+use: 
+
+ 1)  is  in  compliance  as  regards  its  energy  performance  with  either  the  calculated  energy 
+
+performance reference value (Evalue) or structural energy efficiency; 
+
+2) creates conditions for energy demand with low energy loss; 
+
+3) is energy efficient as regards its calculated room temperature in the summer, its energy 
+
+consumption  measurement,  its  heat  and  electrical  energy  demand  and,  where  using  a 
+
+mechanical ventilation system, also as regards the specific fan power of its ventilation system.
+Chapter 2 
+
+Energy performance 
+
+Section 4 
+
+Requirement levels for the calculated energy performance reference value for each intended 
+
+use category 
+
+The calculated energy performance reference value (Evalue), the unit of which is kWhE/(m2 
+
+a),  is  a  buildings  calculated  annual  consumption  of  delivered  energy  weighted  by  energy 
+
+carrier factors per the buildings net heated area.
+The Evalue calculated in accordance with 
+
+the buildings intended use category shall not exceed the following limits: 
+
+Intended use category 
+
+Category 1) Small residential buildings: 
+
+a) Detached houses and linkdetached houses with a net heated area 
+
+(Anet) of 50150 m2 
+
+b) Detached houses and linkdetached houses with a net heated area 
+
+(Anet) exceeding 150 m2 but not exceeding 600 m2 
+
+c) Detached houses and linkdetached houses with a net heated area 
+
+(Anet) exceeding 600 m2 
+
+d) Terraced houses and blocks of flats with residential storeys on a 
+
+maximum of two storeys 
+
+Category 2) Blocks of flats with residential storeys on at least three 
+
+storeys 
+
+Category 3) Office buildings, health centres 
+
+Category 4) Commercial buildings, department stores, shopping centres;  
+
+wholesale and retail trade buildings, excluding grocery trade units under 
+
+2,000 m2; shopping halls, theatres, opera, concert and congress halls, 
+
+cinemas, libraries, archives, museums, art galleries, exhibition halls 
+
+Category 5) Accommodation establishment buildings, hotels, boarding 
+
+houses, assisted living accommodation, retirement homes, residential 
+
+care institutions 
+
+Category 6) Education and training buildings and daycare centres 
+
+Category 7) Buildings for sports and physical exercise, excluding indoor 
+
+swimming pools and indoor ice rinks 
+
+Category 8) Hospitals 
+
+Category 9) Other buildings, warehouses, transport and communications 
+
+buildings, indoor swimming pools, indoor ice rinks, grocery trade units 
+
+under 2,000 m2, portable buildings    
+
+Limit for Evalue 
+
+kWhE/(m2 a) 
+
+2000.6 Anet 
+
+1160.04 Anet 
+
+no limit 
+
+In buildings of intended use category 6 the net heated area of which is a maximum of 1,000 
+
+m2, the limit for the Evalue provided above in subsection 1 may be exceeded by 5 kWhE/(m2 
+
+In mass timber buildings, the limits for the Evalue provided above in subsections 1 and 2 
+
+may be exceeded in buildings of intended use category 1a by 20, in buildings of intended 
+
+use categories 1bc by 15 and in other buildings of intended use categories 1d8 by 10.
+In buildings of intended use category 1d, the limit for the Evalue provided in subsections 1 
+
+and 3 may be exceeded by 5 kWhE/(m2 a) when the building is connected to a heating system 
+
+where heat is conveyed via heat pipes external to the building from a shared heat exchanger or 
+
+heat generation unit to three or more buildings.
+The Evalue for buildings of intended use category 9 shall be calculated.
+Design values shall 
+
+be used in the calculations.
+The limit set for the Evalue is not applied to: 
+
+1) the construction of a dwelling in the attic of a block of flats; 
+
+2)  an  extension  or  increase  of  gross  floor  area  of  a  building  falling  under  intended  use 
+
+category 1; 
+
+3) an extension or increase of gross floor area of a building falling under another intended 
+
+use category where the existing ventilation or heating system can be used for the provision of 
+
+ventilation or heating; 
+
+4) a detached or semidetached house designed for use as a holiday dwelling.
+Section 5 
+
+Building units falling under different intended use categories 
+
+The  limits  for  the  Evalue  in  accordance  with  each  unit  shall  be  applied  to  building  units 
+
+falling under different intended use categories.
+If the net heated area of a building unit is less 
+
+than 10 of the entire buildings net heated area or the net heated area of a building unit is 
+
+less than 50 m2, the building unit may be classified as falling under the intended use category 
+
+that is the largest in terms of its area.
+Section 6 
+
+Calculated consumption of delivered energy of buildings 
+
+A buildings calculated consumption of delivered energy based on standardised use consists 
+
+of the energy consumption of the heating, ventilation and cooling systems as well as system 
+
+auxiliary units, consumer equipment and lighting itemised by energy carrier, less any energy 
+
+sourced from environmental energy using equipment belonging to the building to the extent 
+
+where this has been used in the building to cover energy consumption based on standardised 
+
+use taking place in the building.
+The utilisation of energy sourced from environmental energy using equipment belonging to 
+
+the building shall be calculated on a monthly basis or for shorter periods of time.
+Section 7 
+
+Calculation of the Evalue 
+
+The  Evalue  shall  be  calculated  on  the  basis  of  the  buildings  calculated  consumption  of 
+
+delivered energy itemised by energy carrier using the energy carrier factors with the following 
+
+formula: 
+
+kaukolmp
+
+kaukolmp
+
+kaukojhd
+
+kaukojhd
+
+polttoaine
+
+polttoaine
+
+shk
+
+shk
+
+netto
+
+where: 
+
+E is the energy performance reference value, kWhE/(m2 a);  
+
+Qkaukolmp is the annual consumption of district heat, kWh/a; 
+
+Qkaukojhdytys is the annual consumption of district cooling, kWh/a; 
+
+Qpolttoaina,i is the annual consumption of energy contained in fuel i, kWh/a; 
+
+Wshk is the annual consumption of electricity, taking into account any reductions of energy 
+
+sourced  from  freely  utilisable  environmental  energy  using  equipment  belonging  to  the 
+
+building to the extent where this has been used in the building to cover energy consumption 
+
+based on standardised use taking place in the building, kWh/a; 
+
+fkaukolmp is the energy carrier factor for district heat; 
+
+fkaukojhdytys is the energy carrier factor for district cooling; 
+
+ffuel,i is the energy carrier factor for fuel i; 
+
+felectricity is the energy carrier factor for electricity; 
+
+Anetto is the net heated area of the building, m. 
+
+The figures to be used as the energy carrier factors are the figures provided under the Land 
+
+Use and Building Act.
+Section 8 
+
+Calculation method requirements 
+
+Calculations shall take place using a calculation method taking at least the following factors 
+
+into account: 
+
+a)  the  thermal  characteristics  of  building  elements  and  their  connections,  the  buildings 
+
+airtightness, ventilation air flow; 
+
+b) indoor air temperature; 
+
+c) the demand for domestic hot water; 
+
+d) ventilation heat recovery; 
+
+e)  the  thermal  loads  from  humans,  lighting,  electrical  appliances,  domestic  hot  water  and 
+
+sunlight; 
+
+f) the heat and electrical energy demand of the space and ventilation heating system; 
+
+g) the heat and electrical energy demand of the domestic hot water preparation system; 
+
+h) the electrical energy demand of the ventilation system; 
+
+i) the electrical energy demand of consumer equipment and lighting.
+And  where  the  building  is  designed  have  a  solar  collector,  solar  panel  or  drainwater  heat 
+
+recovery: 
+
+j) the heat output of the solar collector and its utilisation in the building; 
+
+k) the electricity output of the solar panel and its utilisation in the building; 
+
+l) drainwater heat recovery and its utilisation in the building.
+The  buildings  calculated  consumption  of  delivered  energy  may  be  calculated  using  the 
+
+monthly calculation method for buildings the indoor air temperature control of which does not 
+
+require cooling or where cooling is only required for spaces the net heated area of which is 
+
+less than 10 of the buildings net heated area or the net heated area of which is less than 50 
+
+If  the  buildings  indoor  air  temperature  control  requires  cooling,  the  buildings  calculated 
+
+consumption  of  delivered  energy  shall  be  calculated  using  a  calculation  method  that,  in 
+
+addition to the factors specified in subsection 1, also takes into account the cooling systems 
+
+heat and electrical energy demand and the heat transfer calculations of which take into account 
+
+the  timedependent  heat  storage  capacity  of  structures  at  time  steps  of  one  hour  at  the 
+
+maximum (dynamic calculation method).
+Section 9 
+
+Weather data 
+
+The Evalue shall be calculated in accordance with the weather data for climatic zone I of 
+
+Annex 1.
+Section 10 
+
+Outdoor air flows and room temperatures 
+
+The Evalue shall be calculated using the following occupancy period outdoor air flows and 
+
+heating and cooling limit temperatures for room temperature: 
+
+Intended use category 
+
+Category 1)  
+
+Category 2)  
+
+Category 3)  
+
+Category 4) 
+
+Category 5)  
+
+Category 6)  
+
+Category 7)  
+
+Category 8)  
+
+Outdoor air flow  Heating limit 
+
+dm3/(s m2) 
+
+Cooling limit 
+
+Extract air flows shall be calculated using values corresponding to outdoor air flows.
+The outdoor air flow used in the calculations for buildings other than those in intended use 
+
+categories 1 and 2 outside the occupancy period shall be at least 0.15 dm3/s per m2.
+For  buildings  of  intended  use  category  2  where  residents  have  the  opportunity  to  control 
+
+supply  and  extract  air  flows  in  a  manner  whereby  these  can  dwelling  unitspecifically  be 
+
+increased by at least 30 and decreased by at least 40 from the air flow rates of the design 
+
+occupancy period, the outdoor air flow rate used for the building may be 0.4 dm3/s per m2.
+For  a  space  of  a  building  equipped  with  demandcontrolled  ventilation  controlled  with  a 
+
+building  automation  system  based  on  presence  detection  or  condition  measurement,  an 
+
+outdoor air flow value that is 20 lower may be used or, on the basis of the ventilation design 
+
+plan,  the  relative  impact  of  demandcontrolled  ventilation  on  the  outdoor  air  flow  value 
+
+presented in subsection 1 may be determined.
+In examinations based on a ventilation design 
+
+plan, the ventilation of the space may, however, be reduced in the calculations no further than 
+
+to 0.35 dm3/s per m2 during the buildings occupancy period.
+The entire buildings outdoor air 
+
+flow value may be reduced in the calculations by a proportion corresponding to the impact of 
+
+demandcontrolled  ventilation,  taking  into  account  the  ratio  of  the  building  unit  covered  by 
+
+demandcontrolled ventilation to the entire buildings area.
+Section 11 
+
+Standardised use of buildings 
+
+The daily and weekly occupancy period of a building, the average usage rate of lighting and 
+
+consumer equipment and the average human occupancy rate during the buildings occupancy 
+
+period as well as the internal thermal loads per net heated area to be used in the calculation of 
+
+the Evalue are as follows:  
+
+Intended use 
+
+category 
+
+Time 
+
+Occupancy period 
+
+Daily 
+
+h/24h 
+
+Weekly 
+
+d/7d 
+
+Category 1) 
+
+00.0024.00 
+
+Category 2) 
+
+00.0024.00 
+
+Category 3) 
+
+Category 4) 
+
+Category 5) 
+
+Category 6) 
+
+Category 7) 
+
+07.0018.00 
+
+08.0021.00 
+
+00.0024.00 
+
+08.0016.00 
+
+08.0022.00 
+
+Category 8) 
+
+00.0024.00 
+
+Usage/Occ
+
+upancy rate 
+
+lighting 0.1 
+
+other 0.6 
+
+lighting 0.1 
+
+other 0.6 
+
+0.65 
+
+Internal thermal load  
+
+per net heated area 
+
+Lighting 
+
+W/m2 
+
+Consumer 
+
+equipment 
+
+W/m2 
+
+Humans 
+
+W/m2 
+
+The  annual  thermal  load  from  lighting,  consumer  equipment  and  human  occupancy  Q 
+
+(kWh/m2) shall be calculated using the formula:  
+
+where: 
+
+k  is  the  average  usage  rate  of  lighting  and  consumer  equipment  and  the  average  human 
+
+occupancy rate during the buildings period of occupancy; 
+
+P is the thermal load W/m2; 
+
+d  is the number of hours of building occupancy per day h; 
+
+w is the number of days of building occupancy per week d. 
+
+The  monthly  thermal  load  from  lighting,  consumer  equipment  and  humans  shall  be 
+
+determined on the basis of the annual thermal load on the basis of the number of days in the 
+
+month.
+Instead  of  the  provisions  laid  down  above  in  subsection  1,  the  value  used  for  the  thermal 
+
+load from lighting may be a value in accordance with the lighting design plan if the thermal 
+
+load can be determined from the lighting design plan specifically for each space type on the 
+
+basis of lighting power density and lighting control.
+The buildings average thermal load from 
+
+lighting is calculated as an average weighted by the areas of the space types.
+The operating time of the ventilation system shall be calculated by adding to the occupancy 
+
+period in accordance with subsection 1 one hour before the start of the occupancy period and 
+
+one hour after the end of the occupancy period.
+This addition is not made for buildings that are 
+
+in continuous occupancy.
+Section 12 
+
+Standardised use of domestic hot water 
+
+The  following  net  heating  energy  demand  figures  for  each  intended  use  category  per  a 
+
+buildings net heated area shall be used as the net heating energy demand for the standardised 
+
+use of domestic hot water: 
+
+Intended use category 
+
+Annual net heating energy demand for domestic hot water 
+
+kWh/(m2 a) 
+
+Category 1)  
+
+Category 2)  
+
+Category 3)  
+
+Category 4)  
+
+Category 5)  
+
+Category 6)  
+
+Category 7)  
+
+Category 8)  
+
+In  category  1,  the net  heating  energy  demand  for domestic  hot  water  is,  however, at  most 
+
+4,200 kWh per year per dwelling unit.
+Values that are 15 lower than the abovementioned values may be used in the calculation 
+
+of  the  net  heating  energy  demand  for  domestic  hot  water  if  the  buildings  domestic  water 
+
+network  is  equipped  with  a  constant  pressure  valve  or  other  corresponding  pressure  control 
+
+technology.
+Section 13 
+
+Calculation zones 
+
+The entire building may be calculated as a single calculation zone in the calculation of the 
+
+Evalue for a building with a single intended use.
+When calculating the Evalue for a building 
+
+with multiple intended uses, the building shall be divided into calculation zones corresponding 
+
+to the intended uses and occupancy periods.
+Section 14 
+
+Special spaces and certain technical systems  
+
+The  calculation  of  the  Evalue  for  a  restaurant,  professional  kitchen,  canteen,  caf, 
+
+laboratory or other special space in a building shall, as regards such spaces, take place using 
+
+initial data corresponding to the intended use of the building or building unit.
+Technical systems not specified in this Decree are not taken into account in the calculation 
+
+of the Evalue.
+Section 15 
+
+Net heating energy demand 
+
+The  net  heating  energy  demand  for  a  buildings spaces  shall  be  calculated  on  the  basis  of 
+
+conduction loss, leakage air heat loss and the heating of replacement air and supply air in the 
+
+space  to  room  temperature,  less the  impact  of  the  sun  and  internal thermal loads.
+Any  solar 
+
+protection  solutions  in  the  building  shall  be  taken  into  account  in  the  calculation  of  solar 
+
+energy gains for the building.
+The net heating energy demand for ventilation shall be calculated on the basis of the heating 
+
+of air after heat recovery to supply air temperature and any heating before heat recovery.
+The  net  heating  energy  demand  for  domestic  hot  water  shall  be  calculated  in  accordance 
+
+with section 12.
+Section 16 
+
+Taking heat loss into account in calculations of Evalue 
+
+When calculating the Evalue, the heat loss from the building envelope shall be calculated 
+
+on  the  basis  of  the  internal  dimensions  of  the  building  envelope.
+Any  thermal  bridges  of 
+
+structures  and  their  connections  shall  be  taken  into  account  in  the  calculations.
+Individual 
+
+thermal bridges in the building envelope are not taken into account.
+The impact of the ground and crawl space on heat loss shall be taken into account in heat 
+
+loss calculations.
+Section 17 
+
+Taking leakage air flow into account in calculations of Evalue 
+
+When calculating the Evalue, the design value shall be used as the air leakage rate figure 
+
+for  the  building  envelope  if  airtightness  is  proven  by  an  industrial  building  construction 
+
+quality assurance procedure or will be proven by measurements.
+In other cases, the value of 4 
+
+m3/(h m2) shall be used as the air leakage rate figure for the building envelope.
+Leakage air flow qv,leakage air shall be calculated using the formula: 
+
+vuotoilma
+
+vaippa
+
+where: 
+
+qv,vuotoilma is the leakage air flow, m/s; 
+
+q50 is the air leakage rate figure for the building envelope, m3/(hm2); 
+
+Avaippa is the area of the building envelope, m2; 
+
+x is a factor which for singlestorey buildings is 35, for twostorey buildings is 24, for three 
+
+and fourstorey buildings is 20 and for buildings taller than these is 15; 
+
+3600 is a factor converting the air flow from m3/h to m3/s.
+Section 18 
+
+Energy use of heating systems 
+
+The energy use of a buildings heating system comprises the energy use for space heating, 
+
+ventilation heating and domestic hot water preparation.
+Heat  distribution  losses  inside  and  outside  the  building,  heat  emission  losses,  losses  and 
+
+conversions  in  heating  energy  production,  losses  in  domestic  hot  water  transmission  and 
+
+circulation piping inside and outside the building, storage losses and electricity consumption 
+
+of  the  auxiliary  units  of  the  heating  system  are  taken  into  account  in  the  calculation  of  the 
+
+energy consumption of a heating system.
+If  the  building  is  connected  to  a  heating  system  where  heat  is  conveyed  via  heat  pipes 
+
+external  to  the  building  from  a  shared  heat  exchanger  or  heat  generation  unit  to  several 
+
+buildings, the heat loss from those pipes shall be divided between the buildings in proportion 
+
+to their areas.
+If, in a building of intended use category 2, the habitable rooms have hydronic heating and 
+
+the wet spaces have electric underfloor heating, 35 of the net heating energy demand for the 
+
+spaces  in  a  dwelling  unit  may  be  calculated  to  arise  from  the  underfloor  heating  of  the  wet 
+
+spaces  and  65  from  the  heating  system  of  the  habitable  rooms,  unless  the  share  of  the 
+
+electric  underfloor  heating  of  the  wet  spaces  of  the  net  demand  of  the  spaces  is  calculated 
+
+more specifically with a dynamic calculation tool taking into account the designed air flows 
+
+and  transfer  air  flows  between  spaces.
+The  indoor  temperature  used  for  wet  spaces  shall  be 
+
+22 C.  The  share  of  the  electric  underfloor  heating  of  the  wet  spaces  of  the  net  heating 
+
+energy demand of the spaces of a dwelling unit is, however, at most a share calculated on the 
+
+basis of the installed output of the electric underfloor heating presented in the design plan and 
+
+using an operating time of 8,760 hours.
+If  the  domestic  hot  water  circulation  piping  is  located  outside  the  building  envelope 
+
+insulation, no thermal load is created for the buildings spaces from the calculated heat loss of 
+
+domestic  hot  water  circulation.
+If  the  circulation  piping  is  located  inside  the  building 
+
+envelopes insulation, 25 of the calculated domestic hot water circulation heat loss shall be 
+
+added  to  the  thermal  load  of  the  spaces  of  the  building.
+If  the  circulation  piping  is  located 
+
+inside the building envelope, 50 of the calculated domestic hot water circulation heat loss 
+
+shall  be  added  to  the  thermal  load  of  the  spaces  of  the  building.
+If  the  domestic  hot  water 
+
+cylinder  is  located  inside  the  building  envelope,  50  of  the  calculated  domestic  hot  water 
+
+cylinder heat loss shall be added to the thermal load of the spaces of the building.
+Supplementary  heating  energy  resulting  from  any  temperature  restrictions  and  partload 
+
+sizing shall be included in the heating systems energy consumption in the calculations.
+Section 19 
+
+Fuelfired appliances and airsource heat pumps 
+
+A maximum of 3,000 kilowatt hours per appliance per year may be calculated as the heating 
+
+energy produced by heatstoring fuelfired appliances for a dwelling unit.
+A  maximum  of  3,000  kilowatt  hours  per  pump  per  year  may  be  calculated  as  the  heating 
+
+energy  produced  by  airsource  heat  pumps  for  a  dwelling  unit,  unless  the  operation  of  the 
+
+pump in the building is calculated more specifically with a dynamic calculation method taking 
+
+into account the air flows and temperature differences between the spaces.
+Section 20 
+
+Ventilation systems 
+
+The air flows and operating times of a buildings ventilation system shall be calculated in 
+
+accordance  with  sections  10  and  11.
+The  electrical  energy  consumption  of  a  mechanical 
+
+ventilation  system  shall  be  calculated  on  the  basis  of  air  flows,  specific  fan  powers  and 
+
+operating times for all air handling units and powered roof ventilators in the building.
+Section 21 
+
+Cooling systems 
+
+When  calculating  the  energy  consumption  of  a  buildings  cooling  system,  the  energy 
+
+consumption of cooling energy production and the electrical energy consumption of auxiliary 
+
+units  shall  be  taken  into  account  where  the  use  of  the  systems  is  required  for  indoor 
+
+temperature control.
+Section 22 
+
+Electricity use for lighting and consumer equipment 
+
+The annual consumption of electrical energy for lighting and consumer equipment used in 
+
+the building shall be calculated in accordance with section 11 on the basis of the thermal load 
+
+of  these.
+The  electrical  energy  consumption  of  lighting  and  consumer  equipment  equals  the 
+
+thermal load of these.
+Chapter 3 
+
+Building heat loss 
+
+Section 23 
+
+Determination of building heat loss 
+
+The  heat  loss  of  a  building  is  the  total  combined  heat  losses  from  the  building  envelope, 
+
+leakage air and ventilation.
+A buildings heat loss may at most equal the reference heat loss 
+
+determined  for  the  building  on  the  basis  of  reference  values.
+The  requirement  set  for  a 
+
+buildings heat loss applies separately to the buildings warm and semiwarm spaces.
+As  regards  building  heat  loss,  only  the  requirements  set  for  heat  loss  from  the  building 
+
+envelope  apply  to  an  extension  of  a  building  or  an  increase  of  gross  floor  area  where  the 
+
+existing ventilation or heating system can be used for the provision of ventilation or heating.
+As  regards  building  heat  loss,  only  the  requirements  set  for  heat  loss  from  the  building 
+
+envelope apply to a detached or semidetached house designed for use as a holiday dwelling 
+
+for at least four months per year.
+The requirement set for building heat loss does not apply to a 
+
+portable  building  composed  of  parts  made  before  1 July  2012  that  is  still  used for  the same 
+
+intended purpose.
+Section 24 
+
+Building envelope heat loss 
+
+Heat  loss  from  the  building  envelope  shall  be  calculated  on  the  basis  of  the  areas  and 
+
+thermal  transmittance  coefficients  of  the  various  building  elements  using  the  following 
+
+formula:  
+
+ulkosein
+
+ulkosein
+
+ikkuna
+
+ikkuna
+
+ylpohja
+
+ylpohja
+
+alapohja
+
+alapohja
+
+where: 
+
+Hjoht is the heat loss from the building envelope, W/K; 
+
+U is the thermal transmittance coefficient for the building element, W/(mK); 
+
+A is the area of the building element, m. 
+
+The reference value for the building envelope heat loss for a warm space or a cooled cold 
+
+space  shall  be  calculated  using  the  following  reference  values  as  the  thermal  transmittance 
+
+coefficients for the building elements: 
+
+a) wall 
+
+b) mass timber wall with an average thickness of at least 180 mm 
+
+0.17 W/(m2 K); 
+
+c) roof and base floor bounded by outdoor air 
+
+d) base floor bounded by crawl space  
+
+e) building element against the ground 
+
+f) window, roof window, door, dome rooflight, smoke and exit hatch 
+
+0.40 W/(m2 K); 
+
+0.09 W/(m2 K); 
+
+0.17 W/(m2 K); 
+
+0.16 W/(m2 K); 
+
+1.0 W/(m2 K); 
+
+The reference value for the building envelope heat loss for a portable building and a semi
+
+warm  space  shall  be  calculated  using  the  following  reference  values  as  the  thermal 
+
+transmittance coefficients for the building elements: 
+
+a) wall 
+
+b) mass timber wall with an average structural thickness of at least 180 mm 
+
+0.26 W/(m2 K); 
+
+c) roof and base floor bounded by outdoor air  
+
+d) base floor bounded by crawl space 
+
+e) building element against the ground 
+
+f) window, roof window, door, dome rooflight, smoke and exit hatch 
+
+0.60 W/(m2 K); 
+
+0.14 W/(m2 K); 
+
+0.26 W/(m2 K); 
+
+0.24 W/(m2 K); 
+
+1.4 W/(m2 K); 
+
+For a detached or semidetached house designed for use as a holiday dwelling  for at least 
+
+four months per year, the reference value for building envelope heat loss shall be calculated by 
+
+using the following reference values as the thermal transmittance coefficients of the building 
+
+elements: 
+
+a) wall 
+
+b) mass timber wall with an average thickness of at least 130 mm 
+
+0.24 W/(m2 K); 
+
+c) roof and base floor bounded by outdoor air  
+
+d) base floor bounded by crawl space 
+
+e) building element against the ground 
+
+f) window, roof window, door, dome rooflight,  smoke and exit hatch 
+
+0.80 W/(m2 K); 
+
+0.15 W/(m2 K); 
+
+0.19 W/(m2 K); 
+
+0.24 W/(m2 K); 
+
+1.4 W/(m2 K); 
+
+The reference value for a buildings total combined window area is 15 of the sum total of 
+
+the floor  plate areas  of  the  buildings  storeys that  are  fully  or in  part  above  the  ground  but, 
+
+however, at most 50 of the buildings facade area.
+The area of a window shall be calculated 
+
+on the basis of the measurements of the external perimeter of the window.
+The size or geometry data of the designed building shall be used for the calculations.
+The 
+
+areas  of  the  various  building  elements  of  the  building  envelope  shall  be  determined  on  the 
+
+basis of the buildings total internal dimensions.
+The designed building elementspecific thermal transmittance coefficients and window areas 
+
+shall be used in the calculation of heat loss from the envelope for the building design solution.
+Section 25 
+
+Calculating heat loss from leakage air of buildings  
+
+The leakage air heat loss from a building shall be calculated using the following formula: 
+
+vuotoilma
+
+piqci
+
+ vuotoilma
+
+where:  
+
+Hvuotoilma is the leakage air heat loss, W/K; 
+
+i is the density of air, 1.2 kg/m; 
+
+cpa is the specific heat capacity of air, 1,000 Ws/(kg K); 
+
+qv,vuotoilma is the leakage air flow, m/s.
+The  leakage  air  flow  qv,vuotoilma  shall  be  determined  in  accordance  with  section  17.
+When 
+
+calculating the reference heat loss of a building, the value of 2.0 m3/(h m2) shall be used as the 
+
+reference value for the air leakage rate figure for the building envelope.
+When  calculating  the  heat  loss  for  a  buildings  design  solution,  the  design  value  shall  be 
+
+used as the value of the air leakage rate figure for the building envelope.
+If the achievement of 
+
+the design value for airtightness is not proven with measurements or by an industrial building 
+
+construction quality assurance procedure, the value used as the air leakage rate figure shall be 
+
+4.0 m3/(h m2).
+Section 26 
+
+Calculating heat loss from building ventilation  
+
+The  leakage  air  heat  loss  from  the  ventilation  of  a  building  shall  be  calculated  using  the 
+
+following formula: 
+
+poisto
+
+where:  
+
+Hiv is the specific heat loss from ventilation, W/K; 
+
+i is the density of air, 1.2 kg/m; 
+
+cpi is the specific heat capacity of air, 1,000 Ws/(kg K); 
+
+qv,poisto is the calculated extract air flow in accordance with standardised use, m/s; 
+
+td is the ventilation systems mean daily operating time ratio, h/24 h; 
+
+tw is the ventilation systems weekly operating time ratio, 24 h/7 days; 
+
+a is the annual efficiency of heat recovery from ventilation extract air.
+The  same  air  flow  values  and  operating  times  shall  be  used  for  the  calculations  of  the 
+
+reference heat loss from ventilation and the design solutions heat loss from ventilation.
+The  ventilation  air  flow  shall  be  calculated  in  accordance  with  section  10.
+Demand
+
+controlled  ventilation  is  not  taken  into  account  when  calculating  reference  heat  losses  and 
+
+design solution heat losses.
+The ventilation operating time shall be calculated by adding one 
+
+hour before and one hour after the buildings occupancy period in accordance with section 11.
+This  addition  is  not  made  for  buildings  that  are  in  continuous  occupancy.
+For  buildings  of 
+
+intended use category 9, the buildings design values shall be used as air flows and ventilation 
+
+operating time.
+In reference heat loss calculations, the value used as the annual efficiency of heat recovery 
+
+from ventilation extract air of the buildings ventilation system shall be 55.
+In a buildings 
+
+reference  heat  loss  calculations,  the  value  of  the  annual  efficiency  of  heat  recovery  from 
+
+ventilation extract air of an individual space is 0 if the impurity of extract air prevents the 
+
+functioning of heat recovery, the temperature of the space during the heating season is below 
+
+10 C and no heat is recoverable costeffectively from extract air or if the functioning of the 
+
+ventilation system is based on pressure differences caused mainly by differences in height and 
+
+temperature and the action of the wind.
+If mechanical ventilation is used, the annual efficiency of the extract air heat recovery of the 
+
+air handling unit shall be determined by using the heat recovery equipments properties and 
+
+the  design  air  flows  of  the  air  handling  unit  as  well  as  weather  data  for  climatic  zone  I 
+
+provided in Annex 1.
+The annual efficiency of the extract air heat recovery of two or more air handling units shall 
+
+be determined as the weighted annual efficiency of the design air flows and operating times.
+The heat loss from ventilation for the buildings design solution shall be calculated by using 
+
+the  annual  efficiency  of  the  extract  air  heat  recovery  determined  in  this  manner  and  the  air 
+
+flow values and operating times in accordance with subsection 3.
+Chapter 4 
+
+Miscellaneous provisions 
+
+Section 27 
+
+Building airtightness 
+
+The air leakage rate (q50) of a building envelope may be a maximum of 4.0 m3/(h m2).
+The 
+
+air  leakage  rate  figure  may  exceed  the  value  of  4.0  m3/(h  m2)  if  so  required  by  structural 
+
+solutions needed for the use of the building.
+Section 28 
+
+Ground frost insulation, thermal insulation of foundation walls and insulation between certain 
+
+spaces 
+
+To  prevent  ground  frost  damage,  ground  frost  insulation  and  any  thermal  insulation  of 
+
+foundation  walls  not  included  in  the  building  envelope  shall  be  taken  into  account  in  the 
+
+design of thermal insulation for a buildings base floor.
+Between  a  cooled  cold  space  and  other  spaces,  the  thermal  transmittance  coefficient  of  a 
+
+wall  and  an  intermediate  floor  may  be  a  maximum  of  0.27  W/(m2  K)  and  that  of  a  door  a 
+
+maximum of 1.4 W/(m2 K).
+Between a  warm  space  and  a  semiwarm  space, the thermal transmittance  coefficient  of  a 
+
+wall and an intermediate floor may be a maximum of 0.60 W/(m2 K) and that of a window and 
+
+a door a maximum of 2.8 W/(m2 K), excluding detached and semidetached houses designed 
+
+for use as a holiday dwelling.
+Section 29 
+
+Calculated room temperature for the summer season 
+
+The calculated room temperature for the summer season may not exceed the cooling limit 
+
+value of 27 C for intended use category 2 and the cooling limit value of 25 C for intended 
+
+use categories 38 by more than 150 degree hours between 1 June and 31 August while using 
+
+air flows in accordance with the design solution.
+Conformity of the room temperature for the summer season shall be verified by temperature 
+
+calculations for the various space types.
+With the exception of air flow, the initial data used in 
+
+the calculations  shall  be in  accordance  with  the  calculation of the  Evalue.
+The requirement 
+
+laid  down  for  the  room  temperature  for  the  summer  season  does  not  apply  to  buildings  of 
+
+intended use categories 1 and 9.
+A dynamic calculation tool shall be used for the calculation of 
+
+the room temperature for the summer season.
+Section 30 
+
+Specific fan power of mechanical ventilation systems of buildings 
+
+If  a  building  has  a  mechanical  ventilation  system,  the  specific  fan  power  of  a  mechanical 
+
+supply and extract ventilation system may be at most 1.8 kW/(m3/s) and the specific fan power 
+
+of a mechanical extract ventilation system at most 0.9 kW/(m3/s).
+The specific fan power of a ventilation system may exceed the above values if so required 
+
+by the indoor climate in accordance with the buildings intended use.
+Section 31 
+
+Energy consumption measurement in buildings 
+
+A  building  shall  have  measuring  instruments  and  measurement  readiness  enabling  the 
+
+measurement  of  energy  consumption  so  that  the  buildings  energy  consumption  can  be 
+
+monitored  as  regards  the  most  important  consumption  points  and  as  regards  the  buildings 
+
+total consumption or such a monitoring opportunity shall be easy to put in place.
+Section 32 
+
+Heating capacity and electrical power demand of buildings 
+
+The heating capacity of a buildings heating system shall be designed so that the designed 
+
+temperature conditions and ventilation of the spaces can be maintained at the design outdoor 
+
+temperatures of the climatic zone in accordance with the location of the building presented in 
+
+Annex 1.
+In design, opportunities to reduce the need for peak power and to improve the controllability 
+
+of electric power consumption shall be taken into account.
+Section 33 
+
+Structural energy efficiency 
+
+By way of derogation from section 4, the fulfilment of the requirements set for the energy 
+
+performance  of  a  building  in  section  4  may  be  verified  on  the  basis  of  structural  energy 
+
+efficiency.
+A  building  of  intended  use  category  1  or  2  meets  the  requirements  set  for  energy 
+
+performance if: 
+
+1)  the  buildings  heat  loss  is  at  most  equal  to  the  reference  heat  loss  determined  for  the 
+
+building  on  the  basis  of  the  structural  energy  efficiency  reference  values  calculated 
+
+correspondingly to what is set out in sections 24, 25 and 26.
+The reference values for building 
+
+element  thermal  transmittance  coefficients,  air  leakage  rate  and  annual  efficiency  of 
+
+ventilation extract air heat recovery are: 
+
+a) wall, intended use category 1 
+
+b) wall, intended use category 2 
+
+c) roof and base floor bounded by outdoor air 
+
+d) aired base floor bounded by crawl space and building element against the ground 
+
+0.12 W/(m2 K); 
+
+0.14 W/(m2 K); 
+
+0.07 W/(m2 K); 
+
+e) window, roof window, door, dome rooflight, smoke and exit hatch 
+
+f) building air leakage rate figure (q50) 
+
+g) annual efficiency of heat recovery from extract air 
+
+2)  The  building  is  equipped  with  a  mechanical  supply  and  extract  ventilation  system  the 
+
+specific fan power of which is at most 1.5 kW/(m3/s); 
+
+3) The heating system used for the building shall be district heating, a geothermal heat pump 
+
+or an airtowater heat pump.
+0.10 W/(m2 K); 
+
+0.70 W/(m2 K); 
+
+0.60 m3/(h m2) 
+
+65; 
+
+Section 34 
+
+Energy declarations 
+
+An energy declaration shall be drawn up when designing a building.
+An energy declaration 
+
+contains surveys of the following: 
+
+a) the Evalue in accordance with section 4 and the key initial data and results of the Evalue 
+
+calculations,  conformity  of  the  buildings  heat  loss  in  accordance  with  section  23  and  the 
+
+specific fan power of a mechanical ventilation system in accordance with section 30; or 
+
+b) the conformity of structural energy efficiency in accordance with section 33.
+In addition, an energy declaration contains surveys of the following: 
+
+a) the calculated room temperature for the summer season in accordance with section 29; 
+
+b)  the  buildings  energy  performance  certificate  if  so  required  by  legislation  on  building 
+
+energy performance certificates.
+The energy declaration shall be updated before the commissioning of the building if changes 
+
+have taken place in designs used as a basis for the permitstage energy declaration.
+The person 
+
+responsible  for  the  construction  stage  shall  make  an  entry  in  the  building  inspection 
+
+documents concerning compliance of construction work with the information presented in the 
+
+energy declaration.
+Chapter 5 
+
+Transitional provisions and entry into force 
+
+Section 35 
+
+Entry into force 
+
+This Decree enters into force on 1 January 2018.
+This  Decree  repeals  the  Decree  of  the  Ministry  of  the  Environment  on  the  Energy 
+
+Performance of Buildings (2/11).
+Upon the entry into force of this Decree, pending projects shall be subject to the rules valid 
+
+at the time of entry into force of this Decree.
+20 December 2017 
+
+ 
+
+Pekka Kalliomki 
+
+Weather data used for calculations of the Evalue and heating capacity 
+
+The weather data presented in this Annex is used for calculations of the Evalue and heating 
+
+capacity.
+Hourly weather data is available from the Ministry of the Environment website.
+Demand for heating capacity is calculated using the design outdoor air temperature for the 
+
+climatic zone in accordance with the geographical location of the building site (Figure L1.1 
+
+and Table L1.1).
+Annex 1 
+
+nortwest 
+
+(NW) 
+
+west 
+
+southwest 
+
+(SW) 
+
+north 
+
+south 
+
+northeast 
+
+(NE) 
+
+east 
+
+southeast 
+
+(SE) 
+
+Figure L1.1.
+Climatic zones and compass point abbreviations.
+Table L1.1.
+Climatic zone 
+
+Design outdoor air temperatures for the various climatic zones.
+Design outdoor air temperature, C 
+
+Table L1.2.
+Month 
+
+January 
+
+February 
+
+March 
+
+April 
+
+June 
+
+July 
+
+August 
+
+September 
+
+October 
+
+November 
+
+December 
+
+Entire year 
+
+Month 
+
+January 
+
+February 
+
+March 
+
+April 
+
+June 
+
+July 
+
+August 
+
+September 
+
+October 
+
+November 
+
+December 
+
+Entire year 
+
+Monthly weather data for climatic zone I HelsinkiVantaa.
+Average outdoor air 
+
+temperature, 
+
+ To , C 
+
+3.97 
+
+4.50 
+
+2.58 
+
+4.50 
+
+10.76 
+
+14.23 
+
+17.30 
+
+16.05 
+
+10.53 
+
+6.20 
+
+0.50 
+
+2.19 
+
+5.57 
+
+Gross solar radiation energy 
+
+on horizontal plane,  
+
+Gradiation, horizontal plane, kWh/m 
+
+22.4 
+
+64.3 
+
+119.9 
+
+165.5 
+
+168.6 
+
+180.9 
+
+126.7 
+
+82.0 
+
+26.2 
+
+Gross solar radiation energy on vertical planes for each compass point,  
+
+Gradiation, vertical plane, kWh/m 
+
+13.8 
+
+38.1 
+
+56.3 
+
+82.1 
+
+87.9 
+
+91.1 
+
+66.4 
+
+37.5 
+
+15.6 
+
+17.3 
+
+40.3 
+
+43.9 
+
+57.8 
+
+70.6 
+
+66.3 
+
+50.0 
+
+32.9 
+
+17.9 
+
+414.6  502.2 
+
+15.6 
+
+48.5 
+
+79.9 
+
+112.8 
+
+109.6 
+
+118.8 
+
+91.8 
+
+56.5 
+
+17.5 
+
+662.5 
+
+31.0 
+
+75.1 
+
+101.1 
+
+123.3 
+
+109.9 
+
+123.1 
+
+106.0 
+
+83.9 
+
+28.3 
+
+12.3 
+
+811.9 
+
+12.9 
+
+41.4 
+
+89.5 
+
+107.3 
+
+116.0 
+
+101.6 
+
+115.5 
+
+100.4 
+
+100.5 
+
+37.0 
+
+16.8 
+
+11.8 
+
+850.7 
+
+30.9 
+
+69.4 
+
+101.6 
+
+117.5 
+
+110.9 
+
+128.6 
+
+92.8 
+
+87.3 
+
+30.0 
+
+12.3 
+
+799.6 
+
+15.6 
+
+43.7 
+
+80.6 
+
+104.5 
+
+111.2 
+
+122.7 
+
+78.8 
+
+59.3 
+
+18.8 
+
+647.0 
+
+14.0 
+
+36.9 
+
+56.8 
+
+76.3 
+
+89.1 
+
+91.2 
+
+61.1 
+
+38.1 
+
+15.7 
+
+492.7 
+
+Conversion factor Fdirection for converting gross solar radiation energy on 
+
+horizontal plane to gross solar radiation energy on vertical plane for 
+
+each compass direction 
+
+0.995  0.757 
+
+0.774  0.618 
+
+0.627  0.592 
+
+0.366  0.470 
+
+0.349  0.496 
+
+0.419  0.521 
+
+0.367  0.503 
+
+0.395  0.524 
+
+0.401  0.457 
+
+0.683  0.595 
+
+0.888  0.683 
+
+0.920  0.697 
+
+0.425  0.515 
+
+0.609  1.531 
+
+0.700  1.387 
+
+0.754  1.169 
+
+0.666  0.843 
+
+0.681  0.745 
+
+0.650  0.652 
+
+0.657  0.681 
+
+0.725  0.837 
+
+0.689  1.023 
+
+0.670  1.081 
+
+0.632  1.519 
+
+0.571  1.850 
+
+0.679  0.833 
+
+2.080 
+
+1.854 
+
+1.392 
+
+0.895 
+
+0.701 
+
+0.602 
+
+0.639 
+
+0.793 
+
+1.225 
+
+1.412 
+
+2.068 
+
+2.615 
+
+0.872 
+
+1.519 
+
+1.381 
+
+1.079 
+
+0.847 
+
+0.710 
+
+0.658 
+
+0.711 
+
+0.732 
+
+1.064 
+
+1.144 
+
+1.519 
+
+1.942 
+
+0.820 
+
+0.605 
+
+0.700 
+
+0.679 
+
+0.672 
+
+0.632 
+
+0.659 
+
+0.679 
+
+0.622 
+
+0.723 
+
+0.718 
+
+0.633 
+
+0.637 
+
+0.663 
+
+0.759 
+
+0.624 
+
+0.574 
+
+0.474 
+
+0.461 
+
+0.528 
+
+0.504 
+
+0.482 
+
+0.465 
+
+0.598 
+
+0.686 
+
+0.697 
+
+0.505 
+
+Month 
+
+January 
+
+February 
+
+March 
+
+April 
+
+June 
+
+July 
+
+August 
+
+September 
+
+October 
+
+November 
+
+December 
+
+Entire year

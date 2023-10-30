@@ -1,0 +1,525 @@
+Regulation 4 states that building work should be carried out in such a way that, when work is 
+
+complete:
+
+a.  for new buildings or work on a building that complied with the applicable requirements of the 
+
+Building Regulations: the building complies with the applicable requirements of the Building 
+
+Regulations;
+
+b.  for work on an existing building that did not comply with the applicable requirements of the 
+
+Building Regulations:
+
+(ii) the work itself must comply with the applicable requirements of the Building Regulations
+
+the building must be no more unsatisfactory in relation to the requirements than before 
+
+the work was carried out.
+
+
+The Building Regulations set out requirements that must be met before a building can be used for a 
+
+new purpose.
+
+
+Materials and workmanship.
+
+In accordance with regulation 7, building work must be carried out in a workmanlike manner using 
+
+adequate and proper materials.
+
+
+
+Notification of work.
+
+Most building work and material changes of use must be notified to a building control body unless 
+
+one of the following applies.
+
+
+People who are responsible for building work (e.g. agent, designer, builder or installer) must ensure
+that the work complies with all applicable requirements of the Building Regulations.
+
+
+0.3  Requirement K1 applies to means of access outside a building only when the access is part of the 
+
+building (i.e. attached).
+
+
+Where access and circulation routes form part of a means of escape for people in case of
+
+fire, refer to Approved Document B: Fire safety, Volume 1  Dwelling-houses, and Volume 2 
+
+Buildings other than dwelling-houses.
+
+
+this may be the case the Construction (Design and Management) Regulations 2007 provides detail 
+
+on procedures for safe use of temporary means of access, together with focus on effective planning 
+
+and management of risk.
+
+
+Where applicable the following cross-referencing should be made.
+
+
+Stairs, ladders and ramps shall be so designed, 
+
+constructed and installed as to be safe for people 
+
+moving between different levels in or about the 
+
+building.
+
+Note: Two examples of tread proles have been shown together for illustrative purposes only.
+
+Stairs and ladders K1.
+
+ In a flight of steps, for all steps use the measurements for rise and going given for the three stair 
+
+categories in Table 1.1 below.
+
+
+2   For dwellings, for external tapered steps and stairs that are part of the building the going of each step should be 
+
+a minimum of 280mm.
+
+
+The normal relationship between the dimensions of the rise and going is: twice the rise plus the going (2R  G) 
+
+equals between 550mm and 700mm.
+
+
+For existing buildings the dimensional requirements in Table 1.1 should be followed, unless due to dimensional 
+
+constraints it is not possible.
+
+
+Any alternative proposal should be agreed with the relevant building control body and 
+
+included in an access strategy (refer to Approved Document M).
+
+
+Stepped gangways in assembly buildings.
+
+1.4  The guidance provided in this document covers stairs or ramps that form part of the means of access 
+
+within an assembly building such as a sports stadium, theatre or cinema.
+
+
+In stepped tiers, use the following measurements for each step in the gangway:
+
+(i)  minimum height: 100mm
+
+(ii)  maximum height: 190mm
+
+If there are two or more rises to each row of seats, make each step an equal height.
+
+
+In a tier that is uninterrupted by crossgangways, and where the pitch exceeds 25, use a 
+
+maximum number of steps of 40.
+
+
+j.  Gangways should not be less than 1100mm wide unless used by not more than 50 persons, in 
+
+which case gangways should be a minimum of 900mm.
+
+
+If the nosing protrudes, 
+
+ensure that this is by no more than 25mm (see Diagram 1.2).
+
+
+If the soffit beneath a stair is less than 2m above floor level, protect the area beneath a stair with 
+
+one of the following.
+
+For buildings other than dwellings and for common access areas in buildings that contain flats
+
+1.12   Provide all means of escape routes with a minimum clear headroom of 2m, except in doorways.
+
+
+Width of flights of stairs.
+
+For buildings other than dwellings.
+
+1.14  For stairs that form part of means of escape, refer also to Approved Document B: Fire safety,  
+
+Volume 2  Buildings other than dwellinghouses.
+
+
+If the flight is more than 2m wide, divide it into flights a minimum of 1000mm wide, as shown in 
+
+Diagram 1.5.
+
+d.  For access for maintenance, see paragraph 1.42.
+
+
+Stairs and ladders K1.
+
+Length of flights of stairs.
+
+For all buildings.
+
+1.17   If stairs have more than 36 risers in consecutive flights, make a minimum of one change of direction 
+
+between flights, as shown in Diagram 1.6.
+
+
+For flights between landings the maximum number of risers should be:
+
+(i) utility stairs - 16 risers;
+
+(ii) general access stairs  12 risers, but exceptionally no more than 16 in small premises where
+
+the plan area is restricted;
+
+(iii) stairs for access for maintenance, see paragraph 1.42.
+
+
+Landings for stairs.
+
+For all buildings.
+
+1.19   For means of escape requirements, refer also to Approved Document B: Volume 1  Dwellinghouses, 
+
+and Volume 2  Buildings other than dwellinghouses.
+
+
+1.20   At the top and bottom of every flight, provide landings the width and length at least as great as the 
+
+smallest width of the flight (see Diagram 1.6).
+
+
+1.21   A landing: 
+
+a. may include part of the floor of the building;
+
+b. should be kept clear of permanent obstructions
+
+c. may have doors to cupboards and ducts that open over a landing at the top of a flight, as
+
+shown in Diagram 1.7, but only when they are kept shut or locked shut when under normal use.
+
+Cupboard onto landing
+
+1.22  Landings should be level, with the following exception.
+
+
+1.27  If a stair consists of straight and tapered treads, ensure that the going of the tapered treads is not 
+
+less than the going of the straight treads.
+
+Spiral and helical stairs.
+
+1.28  Design spiral stairs and helical stairs in accordance with BS 53952.
+
+
+Alternating tread stairs in dwellings.
+
+1.29  You may use alternating tread stairs  in one or more straight flights  only in a loft conversion, and 
+
+only when there is not enough space for a stair that satisfies paragraphs 1.21.24, and the stair is for 
+
+access to only one habitable room and, if desired, a bathroom and/or a WC (although this must not 
+
+be the only WC in the dwelling).
+
+1.31  Do not use retractable ladders as means of escape.
+
+
+Where there is fullheight structural guarding, if you provide a second (lower) handrail, the 
+
+vertical height from the pitch line of the steps (or the surface of the ramp) to the top of the 
+
+second (lower) handrail should be 600mm.
+
+
+In dwellings.
+
+1.41  Provide guarding at the sides of flights and landings when there is a drop of more than 600mm.
+
+
+The Construction (Design and Management) Regulations 2007 give 
+
+provisions for safe use of temporary means of access.
+
+
+NOTE: A floor level with a gradient of 1:20 or steeper should be designed as a ramp.
+
+Ramps K1.
+
+Construction of ramps.
+
+For buildings other than dwellings.
+
+2.4   A ramps surface should be selected in accordance with both of the following:
+a. Use a ramp surface that is slip resistant, especially when wet, and a colour that will contrast
+visually with that of the landings.
+b. Ensure that the frictional characteristics of the ramp and landing surfaces are similar.
+
+2.6 Where the change of level is:
+a. 300mm or more: in addition to the ramp, provide two or more clearly signposted steps;
+
+b.  less than 300mm: provide a ramp instead of a single step.
+
+
+2.7   If the soffit beneath any ramp is less than 2m above floor level, protect the area beneath the ramp 
+
+with one of the following.
+
+
+Landing.
+
+Length of landings to be at least equal to the width of the ramp.
+
+Ramp design.
+
+Ramps.
+
+
+Width of ramps.
+
+For buildings other than dwellings.
+
+2.9  Regarding the width of a ramp.
+
+
+For a ramp that forms a means of escape, refer also to Approved Document B: Volume 2  
+
+Buildings other than dwellinghouses, B1, Section 5.
+
+
+For ramps that are less than 1000mm wide: provide a handrail on one or both sides.
+
+
+any light well, basement area or similar sunken 
+
+(b) any light well, basement area or similar sunken 
+
+area connected to a building, 
+
+shall be provided with barriers where it is necessary to 
+
+protect people in or about the building from falling.
+
+
+Unless otherwise set out elsewhere in this document for particular situations, you can 
+
+achieve this by the following:
+
+a. in dwellings: provide pedestrian guarding that is capable of preventing people from being injured 
+
+by falling from a height of more than 600mm
+
+b.  in buildings other than dwellings: provide pedestrian guarding that is capable of preventing 
+
+people from falling more than the height of two risers (or 380mm, if not part of a stair).
+
+
+Design of guarding.
+
+For all buildings.
+
+3.2  Guarding should be provided in accordance with all of the following.
+
+Protection from falling.
+
+
+
+Building Category and location.
+Barrier siting.
+
+4.2  Barriers should be provided in accordance with all of the following.
+Loading bays
+
+For all buildings
+
+4.3  Loading bays should be constructed with exit points in accordance with both of the following.
+
+
+Guarding for loading bays.
+
+For all buildings.
+
+4.4  Where there is a danger of people falling, loading bays should be provided with guarding as per 
+
+the guidance provided in this approved document.
+
+
+If guarding is not practical for the particular 
+
+circumstances, alternative safeguards should be provided and agreed with the building control 
+
+body.
+
+
+Requirements.
+
+Requirement.
+
+Limits on application.
+
+Protection against impact with glazing.
+
+K4.Glazing, with which people are likely to come into 
+
+contact whilst moving in or about the building shall:
+
+ if broken on impact, break in a way which is unlikely 
+
+to cause injury; or
+
+(b)  resist impact without breaking; or
+
+(c)  be shielded or protected from impact.
+
+
+It is installed in a door or in a door side panel and has a pane width exceeding 900mm and it 
+
+satisfies the requirements of Class 2 of BS EN 12600 or Class B of BS 6206.
+
+
+5.7  Small panes should be provided in accordance with all of the following.
+
+Protection against impact with glazing.
+
+
+
+Permanent screen protection.
+
+5.8  If glazing in a critical location is protected by a permanent screen then the glazing itself does not 
+
+need to comply with requirement K4.
+
+
+K5.1 Provision shall be made to prevent people moving 
+
+in or about the building from colliding with open 
+
+windows, skylights or ventilators.
+
+Protection from collision with open windows etc.
+
+
+Requirements.
+
+Requirement.
+
+Manifestation of glazing.
+
+K5.2 Transparent glazing, with which people are 
+
+likely to come into contact while moving in or about 
+
+the building, shall incorporate features which make it 
+
+apparent.
+
+
+Performance.
+
+In the Secretary of States view, you can meet requirement K5.2 by including, in critical locations, 
+
+permanent means of indicating the presence of large uninterrupted areas of transparent glazing.
+
+
+To avoid this one of the following should be adopted.
+
+
+K5.3 Windows, skylights and ventilators which can 
+
+be opened by people in or about the building shall be 
+
+so constructed or equipped that they may be opened, 
+
+closed or adjusted safely.
+
+
+If controls cannot be positioned as shown in Diagram 8.1 within safe reach of a permanent 
+
+stable surface, provide a safe manual or electrical means of remote operation.
+
+
+K5.4 Provision shall be made for any windows, 
+
+skylights, or any transparent or translucent walls, ceilings 
+
+or roofs to be safely accessible for cleaning.
+
+
+Performance.
+
+In the Secretary of States view, you can meet requirement K5.4 if, where a person may fall from a 
+
+window, you provide safe means of access for cleaning both sides of the glass.
+
+
+Special safety features are not necessary
+
+if the ladder is not more than 6m long.
+
+
+e.  Provide walkways at least 400mm wide, either with guarding at least 1100mm high, or with 
+
+anchorages for sliding safety harnesses (see Diagram 9.3).
+
+
+(1)  Provision shall be made to prevent any door or 
+
+gate:
+
+(a)  which slides or opens upwards, from falling 
+
+onto any person; and
+
+(b) which is powered, from trapping any person.
+
+
+(2)  Provision shall be made for powered doors and gates 
+
+to be opened in the event of a power failure.
+
+
+(3)  Provision shall be made to ensure a clear view of the 
+
+space on either side of a swing door or gate.
+
+
+Protection against impact from and trapping by doors
+
+Section 10: Protection against impact from and 
+
+trapping by doors.
+
+Safety features.
+
+10.1  Doors and gates should be constructed in accordance with all of the following.
+
+
+For sliding doors and gates, provide both of the following: 
+
+a stop or other effective means to prevent them coming off the end of the track
+
+(ii)  a retaining rail to prevent doors and gates falling if the suspension system fails or the rollers 
+
+leave the track.
+
+Hazards on access routes.
+
+10.2  If, during normal use, doors (excluding fire escape doors) swing out by more than 100mm towards 
+
+an access route, protect them as shown in Diagram 10.2.
+
+
+Common stair: Serving more than one dwelling.
+
+
+Ladder: A means of access to another level, formed 
+
+by a series of rungs or narrow treads.
+
+

@@ -1,0 +1,589 @@
+Compliance should be assessed against only one of requirements M4(1), M4(2) or M4(3) for 
+
+any given dwelling.
+
+
+0.5  Where a local planning authority sets a planning condition for Category 3 (wheelchair user) 
+
+housing it can specify which dwellings should be wheelchair accessible by including in the planning 
+
+permission a condition stating that optional requirement M4(3)(2)(b) applies.
+
+
+Where no such 
+
+condition is applied, optional requirement M4(3)(2)(a) will apply by default requiring that dwellings 
+
+should be wheelchair adaptable.
+
+
+0.6  The person carrying out building work must inform the building control body where any optional 
+
+requirements apply.
+
+
+Material alterations.
+
+0.11  Where a dwelling is subject to a material alteration, the building should be no less compliant with 
+
+requirement M4(1) than it was prior to the building work taking place.
+
+
+0.13  Requirements for accessibility should be balanced against preserving historic buildings or 
+
+environments.
+
+
+0.15  In meeting the provisions of Part M by providing a level or ramped approach and level threshold, 
+
+care must be taken to ensure the moisture resistance and design of the dwelling as a whole also 
+
+complies with requirements C2 and C4.
+
+
+Reasonable provision should be made for  
+
+people to
+
+(a)  gain access to; and
+
+(b)  use, the dwelling and its facilities.
+
+Requirement M4(1) does not apply to:
+
+(a)  an extension to a dwelling; or
+
+(b)  any part of a building that is used solely to 
+
+enable the building or any service or fitting in the 
+
+building to be inspected, repaired or maintained.
+
+
+Approach routes.
+
+General. 
+
+1.3  The approach route should be safe and convenient for everyone, including older and disabled 
+
+people and some wheelchair users.
+
+
+It should adopt the shallowest gradient that can reasonably be 
+
+achieved and be stepfree where possible.
+
+
+1.4  The approach route should be level, gently sloping, or, where necessary, ramped.
+
+
+c.  The approach route is a minimum of 900mm wide with a maximum cross fall of 1 in 40.
+
+d.  Where a driveway forms all, or part of, the approach route, an additional allowance of at least 
+
+900mm wide should be provided so that a wheelchair user can pass a parked car.
+
+
+a. Individual flights are: 
+
+for gradients up to 1:15  not more than 10m long;
+
+for gradients up to 1:12  not more than 5m long. 
+
+b. Every flight has a minimum clear width of 900mm.
+
+
+c.  No individual flight has a rise of more than 1800mm between landings.
+
+
+Where a lift is provided, it should be suitable for a wheelchair user.
+
+
+The load capacity is at least 400kg.
+
+
+The system can be overridden by a door reactivating device that relies on appropriate 
+
+electronic methods (but not a door edge pressure system); provided that the lift door remains 
+
+fully open for at least three seconds.
+
+
+When the lift serves more than three storeys, it provides visual and audible indicators to 
+
+identify the floor reached.
+
+
+Private stairs and changes of level within the entrance storey. 
+
+1.16  To provide easy access between rooms on the entrance storey, a stepped change of level within 
+
+the entrance storey should be avoided where possible.
+
+
+Requirement.
+
+Optional requirement.
+
+Part M access to and use of buildings.
+
+Category 2  accessible and adaptable dwellings.
+
+Limits on application.
+
+M4(2) optional requirement.
+
+Optional requirement M4(2).
+
+(1)  Reasonable provision must be made for people to
+
+(a)  may apply only in relation to a dwelling that is 
+
+(a)  gain access to; and
+
+(b)  use, the dwelling and its facilities.
+
+
+(2)  The provision made must be sufficient to
+
+(a)  meet the needs of occupants with differing needs, 
+
+including some older or disabled people; and
+
+(b)  to allow adaptation of the dwelling to meet the 
+
+changing needs of occupants over time.
+
+
+2.4  Reasonable provision should be made to ensure that the approach route to any communal facilities 
+
+that serve the dwelling meets these provisions.
+
+
+Approach routes.
+
+General. 
+
+2.6  The approach route should be safe and convenient, adopt the shallowest gradient that can reasonably 
+
+be achieved and be stepfree, irrespective of the storey on which the dwelling is located.
+
+
+2.7  Where it is not reasonable to achieve a stepfree approach route to the principal private entrance, 
+
+a stepfree approach route should be provided to a suitable alternative private entrance instead.
+
+
+c.  No individual flight has a rise between landings of more than 1800mm.
+
+
+Where the parking is within the private curtilage of the dwelling (but not within a carport or 
+
+garage) at least one space is a standard parking bay that can be widened to 3.3m.
+
+
+Where communal parking is provided to blocks of flats, at least one standard parking bay is 
+
+provided close to the communal entrance of each core of the block (or to the lift core where 
+
+the parking bay is internal).
+
+
+e.  The gradient is as shallow as the site permits.
+
+
+k.  Door entry controls, where provided, are mounted 9001000mm above finished ground level, 
+
+and at least 300mm away from any projecting corner.
+
+
+Communal lifts and stairs. 
+
+Communal lifts. 
+
+2.16  A wide range of people, including accompanied wheelchair users, should be able to access and 
+
+use the lift.
+
+
+Table 2.1 Minimum widths of corridors and passageways for a range of doorway widths.
+NOTE 2: Double doors effectively provide nibs where each leaf is at least 300mm wide.
+
+
+NOTE: For the purpose of demonstrating compliance with these provisions, beds should be of the 
+
+size set out in the furniture schedule in Appendix D.
+
+
+Sanitary facilities.
+
+General provisions.
+
+2.26 All walls, ducts and boxings to the WC/cloakroom, bathroom and shower room should be  
+
+strong enough to support grab rails, seats and other adaptations that could impose a load of up to 
+
+1.5kN/m2.
+
+
+In WC/cloakrooms the basin and/or WC may encroach into the shower space but this should be minimised.
+
+
+Any radiator or towel rail should be clear of all access zones.
+
+
+c.  The handle to at least one window in the principal living area is located between 450mm and 
+
+1200mm above floor level, unless the window is fitted with a remote opening device that is 
+
+within this height range.
+
+
+Requirement.
+
+Optional requirement.
+
+Category 3  wheelchair user dwellings.
+
+Limits on application.
+
+M4(3) optional requirement.
+
+Optional requirement M4(3).
+
+(1)  Reasonable provision must be made for people to
+
+(a)  may apply only in relation to a dwelling that is 
+
+(a)  gain access to, and
+
+(b)  use, the dwelling and its facilities.
+
+
+(2)  The provision made must be sufficient to
+
+(a)  allow simple adaptation of the dwelling to meet 
+
+the needs of occupants who use wheelchairs; or
+
+(b)  meet the needs of occupants who use wheelchairs.
+
+
+Optional requirement M4(3) (2)(b) applies only  
+
+where the planning permission under which the 
+
+building work is carried out specifies that it shall  
+
+be complied with.
+
+
+d.  The dwelling is wheelchair adaptable such that key parts of the accommodation, including 
+
+sanitary facilities and kitchens, could be easily altered to meet the needs of a wheelchair user 
+
+or, where required by a local planning authority, the dwelling is wheelchair accessible.
+
+
+Approach routes.
+
+General provisions. 
+
+3.7  The approach route should be safe and convenient for everyone, be at the shallowest gradient that 
+
+can reasonably be achieved, and be stepfree, irrespective of the storey on which the dwelling is 
+
+located.
+
+
+3.8  A step-free approach route should be provided to all private entrances.
+
+
+c.  No individual flight has a rise of more than 1800mm between landings.
+
+
+This grippable handrail is  
+
+8501000mm above the pitch line of the flight and extends at least 300mm beyond the top  
+
+and bottom nosings.
+
+
+l.  Power assisted opening is provided where the opening force of the door is more than  
+
+30N from 0 to 30 or more than 22.5N from 30 to 60 of the opening cycle.
+
+
+3.20 In order to demonstrate that the dwelling is capable of meeting the functional and spatial 
+
+provisions for a wheelchair adaptable or wheelchair accessible dwelling, furnished plan layouts 
+
+that show the access zones and other provisions of Section 3B and the furniture of the furniture 
+
+schedule included as Appendix D of this approved document should be provided to a scale of at 
+
+least 1:100.
+
+
+Number of bedrooms.
+
+Minimum storage area (m2).
+
+NOTE: For the purposes of Table 3.1, include areas with reduced headroom as follows:
+
+  headroom between 900mm and 1500mm: at 50 of its area
+
+lower than 900mm: do not count.
+
+
+The full area under a stair that forms part of the storage provision should be counted as 1m2.
+
+
+Through-floor lifting device provision. 
+
+3.27 To ensure that provision can be made for a wheelchair user to access to all parts of a dwelling on 
+
+more than one floor level, the dwelling should comply with either the requirements of paragraph 
+
+3.28 for a wheelchair adaptable dwelling or 3.29 for a wheelchair accessible dwelling.
+
+
+3.28 Where the dwelling is defined as wheelchair adaptable, it should be easy to install a lift.
+
+
+Any floors, walls and doors that have been installed to allow the potential liftway to be used 
+
+as storage or for other purposes could be easily removed without structural alteration.
+
+
+3.29 Where the dwelling is defined as wheelchair accessible, a suitable throughfloor lift or lifting 
+
+platform should be installed and commissioned and the dwelling should comply with all of the 
+
+following.
+
+
+c.  A minimum 1500mm clear turning circle, clear of the liftway door when open at 90 degrees, 
+
+could be provided in front of the liftway door at every floor level, as shown in Diagram 3.7.
+
+d.  A power socket, suitable for powering the lifting device, is provided close to the liftway.
+
+
+f.  Lifting devices should be positioned with the end opposite to the entry point located against a 
+
+wall at every floor level.
+
+
+2.Turning circle should be clear of 
+
+top step of any adjacent flight 
+
+of steps.
+
+
+all dimensions are minimum except where noted.
+
+Private stairs and changes of level within the dwelling.
+
+3.30 An ambulant disabled person should be able to move within, and between, storeys.
+
+3.32  The relationship between the kitchen, dining and living areas should be convenient and step-free.
+
+
+The overall length of kitchen worktop meets at least the provisions of Table 3.3.
+
+
+Drawings demonstrate how the kitchen could be easily adapted to meet the provisions of  
+
+paragraph 3.34 and Table 3.4 at a future date without compromising the space in any other part 
+
+of the dwelling and without the need to move structural walls, stacks or concealed drainage.
+
+
+Unit length should be measured through midline of the
+
+worktop, not the front or rear edge.
+
+Allow for shallow, insulated sink bowl with swivel, mixer tap  and flexible plumbing and provide a min.
+
+
+c.  The sink is not more than 150mm deep with insulation to the underside to prevent scalding  
+
+of a wheelchair users legs.
+
+
+d.  Taps should be lever operated and capable of easy operation.
+
+
+g.  There is a minimum of 400mm of worktop to at least one side of the oven and fridge or fridge 
+
+freezer where this is taller than the worktop height (or to one side of a pair of tall appliances 
+
+where they are located together at the end of a run).
+
+
+Bedrooms.
+
+3.35  One bedroom should be close to an accessible bathroom suitable for a wheelchair user.
+
+
+All other bedrooms should be accessible to a wheelchair user.
+
+
+Every single bedroom has a minimum floor area of 8.5m2 and is at least 2.4m wide.
+
+
+d.  All walls, ducts and boxings to every WC/cloakroom, bath and shower room are strong enough 
+
+to support grab rails, seats and other adaptations that could impose a load of 1.5kN/m2.
+
+
+g.  Where sanitary facilities are wheelchair accessible, WC pans should be a minimum of 400mm high.
+
+
+h.  Where sanitary facilities are wheelchair accessible, basins and sinks should be wall hung 
+
+(typically with their rim 770850mm above finished floor level) and the clear zone beneath 
+
+basins, services and pedestals is maximised to enable wheelchair users to approach.
+
+
+Ideally this 
+
+clear zone should be in the range 400600mm from finished floor level.
+
+
+NOTE 3: For the purposes of establishing number of bedspaces relevant to these requirements,  
+
+a bedroom at or above 8.5m2 and below 12.5m2 in size is counted as one bedspaces, and equal to or 
+
+greater than 12.5m2 as two bedspaces.
+
+
+Wheelchair accessible dwellings must also 
+
+provide both a level access shower and a bath
+
+Two or three storey dwelling (typically a house or maisonette).
+
+
+Wheelchair accessible dwellings must also provide both a level access 
+
+shower and a bath.
+
+WC facilities on the entrance storey.
+
+3.37  To make suitable and convenient provision for a wheelchair user to use a WC, the dwelling should 
+
+comply with all of the following.
+
+
+It is demonstrated how the WC/cloakroom could be easily adapted in future to meet the 
+
+provisions of paragraph 3.39.
+
+
+In WC/cloakrooms the basin and/or WC may encroach into the shower space but this should be minimised.
+
+
+Any radiator or towel rail should be clear of all access zones.
+
+
+Any radiator or towel rail should be clear of all access zones.
+
+
+Doors must be capable of opening outwards  in wheelchair adaptable 
+
+bathrooms the door may open inwards providing that the door can be easily 
+
+rehung to open outwards (e.g. door stops are planted and easily moved).
+
+
+The bathroom containing the installed level access shower should be located on the same 
+
+storey as the principal double bedroom described in paragraph 3.35.
+
+
+The WC, basin, bath and shower (and their associated clear access zones) meet at least the 
+
+provisions shown in Diagram 3.10.
+
+
+Drawings illustrate how the bathroom could be easily adapted in future to meet the provisions 
+
+for a wheelchair accessible bathroom set out in paragraph 3.43 (but need only show either a 
+
+bath or level access shower, not both).
+
+
+In dwellings with five bedspaces or more, both a useable bath and an installed level access 
+
+shower are provided (either in one bathroom or in more than one bathroom on the same 
+
+storey as the principal bedroom).
+
+
+Doors must be capable of opening outwards  in wheelchair adaptable 
+
+bathrooms the door may open inwards providing that the door can be easily 
+
+rehung to open outwards (e.g. door stops are planted and easily moved).
+
+
+WC doors must be capable of 
+
+opening outwards.
+
+
+WC doors must be capable of 
+
+opening outwards.
+
+
+Consumer units should be mounted so that the switches are between 1350mm and 1450mm 
+
+above floor level.
+
+
+d.  The handle to at least one window in the principal living area is 7001000mm above floor level, 
+
+unless fitted with a remote opening device that is within this height range.
+
+
+Accessible threshold.
+
+A threshold that is level or, if raised, has a total 
+
+height of not more than 15mm, a minimum number 
+
+of upstands and slopes and with any upstands 
+
+higher than 5mm chamfered.
+
+
+Skirtings. 
+
+totalling up to 50mm total thickness and shallow 
+
+projecting ducts or casings above 1800mm may be 
+
+discounted when measuring clear width.
+
+
+Communal or common (area, facilities or entrances)
+
+Shared area accessed by, or intended for the use 
+
+of, more than one dwelling.
+
+
+Installed level access shower.
+
+Step-free area with no lips or upstands, suitable 
+
+for showering, with a floor laid to shallow falls 
+
+towards a floor gulley connected to the drainage 
+
+system.

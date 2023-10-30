@@ -1,0 +1,95 @@
+(1)   Building work must be carried out so as to ensure 
+
+that the building is equipped with a highspeed
+
+ready inbuilding physical infrastructure, up to a 
+
+network termination point for highspeed electronic 
+
+communications networks.
+
+
+(2)  Where the work concerns a building containing more 
+
+than one dwelling, the work must be carried out so 
+
+as to ensure that the building is equipped in addition 
+
+with a common access point for highspeed electronic 
+
+communications networks.
+
+
+1.2  Requirement R1 is to provide the inbuilding physical infrastructure so that, in future, copper or 
+
+fibreoptic cables or wireless devices capable of delivering broadband speeds greater than 30 Mbps 
+
+can be installed.
+
+
+Multidwelling buildings that 
+
+are subject to major renovation works must be equipped with a common access point capable of 
+
+serving all the dwellings within the building.
+
+
+A person wishing to take advantage of this exemption 
+
+would need to demonstrate to a building control body that in the particular case the cost of 
+
+compliance would be unreasonable, taking into account the work required and the available 
+
+alternative means of highspeed broadband delivery.
+
+
+Ductwork for copper and fibreoptic cables
+
+1.6  A suitable position for at least one network termination point should be identified for the  
+
+erection of a new building other than a dwelling, for an existing building (including an existing 
+
+individual dwelling) that is subject to major renovation works, and for each dwelling in an existing 
+
+multidwelling building that is subject to major renovation works.
+
+
+Suitable ducting should be 
+
+provided to connect all such network termination points to an appropriate access point or 
+
+common access point.
+
+
+However, it should be noted 
+
+that alternative forms of connectivity may be used.
+
+
+However, it should be noted 
+
+that alternative forms of connectivity may be used.
+
+
+Approved Document R Volume 2, 2022 edition 
+
+Building Regulations 2010
+
+R1 
+
+Satellite and wireless communications
+
+1.11  The design of the inbuilding physical infrastructure should take account of satellite and wireless 
+
+technologies where there is evidence that the required network speeds could be met.
+
+
+Highspeed electronic communications network 
+
+An electronic communications network which is 
+
+capable of delivering broadband access services at 
+
+speeds of at least 30 Mbps.
+
+

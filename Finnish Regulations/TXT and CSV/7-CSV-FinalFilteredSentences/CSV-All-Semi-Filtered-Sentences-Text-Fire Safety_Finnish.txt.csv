@@ -1,0 +1,258 @@
+ID,Text
+1_Finnish_FireSafety,Decree of the Ministry of the Environment on the Fire safety of Buildings.
+2_Finnish_FireSafety,"By decision of the Ministry of the Environment, the following is hereby laid down pursuant to section 117b of the Land Use and Building Act (132/1999), as amended by Act 958/2012."
+3_Finnish_FireSafety,Section 1 Scope of application.
+4_Finnish_FireSafety,This Decree shall apply to the construction of new buildings and to the extension of buildings or to the addition of space that is to be counted in a buildings floor area.
+5_Finnish_FireSafety,"The Decree shall also apply to repair and alteration work carried out on a building if the building or a part thereof will become more fire hazardous as a result of such repair or alteration work, and the improvement of the buildings fire safety is thereby justified, taking account of the nature of the repair and alteration work and the prevention of risk to personal safety."
+6_Finnish_FireSafety,Section 2 Definitions.
+7_Finnish_FireSafety,For the purposes of this Decree.
+8_Finnish_FireSafety,"automatic fireextinguishing system refers to equipment that detects a fire and extinguishes it at its initial stage, or else keeps it under control until final extinguishing can be carried out."
+9_Finnish_FireSafety,passageway refers to a passable route from each point of the floor area leading to an exit.
+10_Finnish_FireSafety,thermal insulation product refers to a construction product used for thermal insulation made from one or more materials.
+11_Finnish_FireSafety,fire door refers to a door that fulfils the requirements of a prescribed fire class.
+12_Finnish_FireSafety,"fireseparating building element refers to a building element that separates fire compartments, meeting the requirements of a prescribed fire class."
+13_Finnish_FireSafety,exit passageway refers to a compartmented area through which safe evacuation from the building can be made.
+14_Finnish_FireSafety,partitioning refers to the division of a fire compartment or void into smaller areas or volumes by building elements that meet the requirements of a prescribed class in order to limit the spread of fire.
+15_Finnish_FireSafety,potentially flammable or explosive atmosphere refers to an area with a significant or major fire or explosion hazard.
+16_Finnish_FireSafety,"fire alarm system refers to an installation that automatically and immediately indicates a beginning fire, and also warns of defects endangering its operational reliability."
+17_Finnish_FireSafety,"Directive  2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1 fire load refers to all combustible material in a room and the total thermal energy released through their complete combustion."
+18_Finnish_FireSafety,"These materials include the load-bearing, bracing, fire compartmenting and other building elements and furnishings."
+19_Finnish_FireSafety,fire load density refers to the fire load per floor area expressed in megajoules per square metre (MJ/m2).
+20_Finnish_FireSafety,fire and smokeproof exit refers to an exit passageway that is accessed only though a firecompartmented space on storey level (exit enclosure) and further through a balcony or other space facing the open air in order to prevent the release of fire and combustion gases into the exit.
+21_Finnish_FireSafety,fireproof exit refers to an exit passageway that is accessed only through a firecompartmented space (exit enclosure) on storey level.
+22_Finnish_FireSafety,fire wall refers to a wall that prevents the spread of fire to the other side of the wall for a stated period of time and withstands the collapse of adjoining buildings or parts thereof and impacts caused by the collapse.
+23_Finnish_FireSafety,"fire resistance refers to the ability of a building element to fulfil the requirements prescribed for it for a specified period of time (loadbearing requirement or compartmentation requirement, or both) at a specified load and a specified fire exposure."
+24_Finnish_FireSafety,"fire resistance time refers to the period of time, expressed in minutes, for which a building element has been verified to meet the prescribed requirements."
+25_Finnish_FireSafety,exit enclosure refers to a compartmented space between two fire compartments.
+26_Finnish_FireSafety,An exit enclosure has doors that open separately into each adjoining fire compartment without a need to open the doors at the same time.
+27_Finnish_FireSafety,fire compartment refers to an interior area of the building from which the spread of fire is prevented  for  a  stated  period  of  time  by  fireseparating  building  elements  or  by  some  other effective means.
+28_Finnish_FireSafety,emergency access road refers to a driveway or other drive access by which fire engines can get sufficiently close to the building and to water supply facilities in case of fire.
+29_Finnish_FireSafety,"surface refers to the surface part of walls, ceilings and floors, the properties of which have an influence on the ignition and spread of fire."
+30_Finnish_FireSafety,evacuation area refers to a part of a building that is continuous in the building and fit for purpose in relation to the arrangements for evacuation.
+31_Finnish_FireSafety,"building element refers to a fixed part of a building, such as a wall, dividing wall, floor, roof, beam, column, door or duct, which may mean both separate construction products with their connections and elements that consist of one or more products."
+32_Finnish_FireSafety,extinguishing route refers to a passageway for firefighters that leads from the outside to basement floors.
+33_Finnish_FireSafety,"smoke extraction refers to the removal of smoke and heat generated by fire from a building, mechanically or by gravity."
+34_Finnish_FireSafety,internal corridor refers to a corridor in an evacuation area that leads to an exit.
+35_Finnish_FireSafety,"protective covering refers to a construction product or object composed of a number of construction products that protects a building material behind it from ignition, charring or other fire damage for a stated period of time."
+36_Finnish_FireSafety,"smoke detector and fire alarm connected to mains power supply refers to a device that detects a beginning fire, alerts those in the area, is connected to the electrical mains power supply and whose supply of electrical current is ensured."
+37_Finnish_FireSafety,"building material refers to a construction product, material or component that is used in construction;  attic refers to the space between the uppermost floor and the roof of a building, where it is possible to move about."
+38_Finnish_FireSafety,"exit refers to a door leading directly out from an evacuation area, or a space in the building or outside of it, through which safe evacuation to the ground level or to some other safe place is possible in case of fire."
+39_Finnish_FireSafety,"fire escape refers to a route that is less passable than an exit, through which it is possible to escape from a fire to safety."
+40_Finnish_FireSafety,"void in the uppermost floor (roof void) refers to a space where it is not possible to move about due to insufficient height, the shape of the space or for some other reason."
+41_Finnish_FireSafety,Section 3 Demonstration of compliance with essential technical requirements regarding fire safety.
+42_Finnish_FireSafety,"The chief designer, building designer and specialist designer shall, in accordance with their respective duties, take care of the design of the building so that the building meets the essential technical requirements set for fire safety in accordance with its intended use."
+43_Finnish_FireSafety,"The meeting of the requirement shall be attested on a casebycase basis, taking into account the properties and use of the building."
+44_Finnish_FireSafety,"In a design that is based on a design fire scenario, methods that are of demonstrated validity must be used."
+45_Finnish_FireSafety,"The basis for the design, the models used and the obtained results shall be presented in connection with the building permit procedure."
+46_Finnish_FireSafety,Section 5  Intended use of the building.
+47_Finnish_FireSafety,A building or its fire compartment shall be classified on the basis of its intended primary use.
+48_Finnish_FireSafety,For the purposes of this Decree.
+49_Finnish_FireSafety,"dwellings refers to premises used as residences, such as residential apartments and leisure apartments."
+50_Finnish_FireSafety,"accommodation premises refers to premises such as hotels, holiday homes and residential homes that are normally in use 24 hours a day and where no one is under care or in confinement."
+51_Finnish_FireSafety,"institutions refers to premises such as hospitals, homes for the elderly, closed prisons and daycare centres that are in use 24 hours a day, and where people are under care or in confinement."
+52_Finnish_FireSafety,"assembly and business premises refers to premises such as restaurants, shops, schools, daycare centres and other early childhood education premises, sports halls, exhibition halls, theatres, churches, libraries and daycare institutions that are generally in daytime or evening use and occupied by a considerable number of members of the public or customers."
+53_Finnish_FireSafety,office  premises refers  to  premises  such  as  offices that are  generally  in  daytime  use  and where the majority of the personnel are familiar with the premises.
+54_Finnish_FireSafety,"production and storage premises refers to premises associated with industrial activity and storage,  such  as  ordinary  industrial  premises,  premises  for  agricultural  production  and  large warehouses with a generally regular personnel familiar with the local conditions."
+55_Finnish_FireSafety,garages refers to premises intended for the keeping of cars and similar motor vehicles.
+56_Finnish_FireSafety,"An area with a potentially flammable or explosive atmosphere must not be located in a building where there are dwellings, accommodation premises, institutions or assembly and business premises."
+57_Finnish_FireSafety,Section 6 Fire load and determination of fire load category.
+58_Finnish_FireSafety,The fire loads that form the basis of the design of a P0 fire class building shall be determined.
+59_Finnish_FireSafety,The fire load categories of the fire compartments of a P1 fire class building shall be determined.
+60_Finnish_FireSafety,"The fire load categories are as follows:  1) less than 600 MJ/m2;  2) at least 600 MJ/m2, but not more than 1,200 MJ/m2; 3) over 1,200 MJ/m2."
+61_Finnish_FireSafety,"The fire load category shall be determined on the basis of the use of the fire compartment, or the fire load and the fire load category determined on the basis of this shall be determined by calculation."
+62_Finnish_FireSafety,"Areas  belonging  to  fire  load  category  less  than  600 MJ/m2  are  dwellings,  accommodation premises, institutions, office premises, garages and some assembly and business premises, such as restaurants, schools, sports halls, theatres, churches, daycare centres, daycare institutions and shops with a fire compartment size not exceeding 300 square metres."
+63_Finnish_FireSafety,"Areas belonging to fire load category at least 600 MJ/m2 but not more than 1,200 MJ/m2 are some assembly and business premises such as shops (fire compartment size over 300 square metres), exhibition halls and libraries, fire compartments of residential buildings that contain storage areas for personal property, storage spaces of no more than 50 square meters, and premises for the repair and servicing of motor vehicles."
+64_Finnish_FireSafety,"Areas belonging to fire load category over 1,200 MJ/m2 are storage areas that form separate fire compartments and have a floor area exceeding 50 square meters."
+65_Finnish_FireSafety,"Section 8 Restrictions on the size, number of occupants and use of buildings."
+66_Finnish_FireSafety,"The size and number of occupants of a P2 and a P3 fire class building shall, depending on the use  of  the  building,  be  restricted  in  order  to  guarantee  personal  safety  and  to  facilitate  firefighting and rescue operations."
+67_Finnish_FireSafety,The height of a building is calculated from the ground level to the point of intersection of the roof and the face of the elevation (section 58 of the Land Use and Building Decree).
+68_Finnish_FireSafety,"If necessary, the mean height of the buildings corner points shall be calculated."
+69_Finnish_FireSafety,"In a building consisting primarily of one storey, no more than 200 m2 of firecompartmented and no more than 50 m2 of nonfirecompartmented areas that essentially relate to the business of the building may be located on the level of second storey."
+70_Finnish_FireSafety,The height of a building is calculated from the ground level to the point of intersection of the roof and the face of the elevation (section 58 of the Land Use and Building Decree).
+71_Finnish_FireSafety,"If necessary, the mean height of the buildings corner points shall be calculated."
+72_Finnish_FireSafety,"In a building consisting primarily of one storey, no more than 200 m2 of firecompartmented and no more than 50 m2 of nonfirecompartmented areas that essentially relate to the business of the building may be located on the level of second storey."
+73_Finnish_FireSafety,"Storage premises with a fire load exceeding 1,200 MJ/m2 are not permitted within the building."
+74_Finnish_FireSafety,The restrictions on the number of occupants of twostorey buildings relate to cases where the premises of the stated use are entirely or partly located on the second storey of the building.
+75_Finnish_FireSafety,"If the building comprises premises of different categories of use, the safety level of the building shall be assessed by considering the building as a whole."
+76_Finnish_FireSafety,"An exception is a residential building of no more than 14 metres height, where all the storeys of each housing unit belong to one and the same apartment."
+77_Finnish_FireSafety,Section 9 Limitation signs.
+78_Finnish_FireSafety,"If the fire class of the building is P0 or if an application for a permit relates to a design that is based on a smaller number of occupants than the size of the building would normally permit, or on an exceptionally small fire load, this limitation must be stated in the building permit decision."
+79_Finnish_FireSafety,A  fixed  sign  indicating  the  limitation  shall  be  placed  in  the  building  in  an  easily  noticeable place.
+80_Finnish_FireSafety,Section 10 Prevention of ignition.
+81_Finnish_FireSafety,The hazard of ignition of fire within a building must be as low as possible.
+82_Finnish_FireSafety,Technical installations shall be made in such a way that the hazards of ignition of fire and spread of fire and smoke within the building is not essentially increased thereby.
+83_Finnish_FireSafety,"Fireplaces, chimneys and heating devices shall be located and built or installed in such a manner that their use will not create a hazard of fire or explosion."
+84_Finnish_FireSafety,Chapter 2 Maintaining the loadbearing capacity of structures.
+85_Finnish_FireSafety,Section 11 Loadbearing capacity of structures in a fire situation.
+86_Finnish_FireSafety,A building and the building elements therein must not cause danger through collapse within a specified period of time after the start of a fire.
+87_Finnish_FireSafety,"If necessary for the safety of people or with regard to the extent of the damage, the building must sustain the combustion of the entire fire load and the cooling phase without collapse."
+88_Finnish_FireSafety,"If a loadbearing element is required to have a longer fire resistance time with respect to integrity E and insulation I than with respect to loadbearing capacity R, the longer fire resistance time shall also be applied to the loadbearing capacity."
+89_Finnish_FireSafety,"Fulfilment of the class requirement shall be attested by testing, calculation, combining the results of testing and calculation, or by using an acceptable design method based on the use of tables."
+90_Finnish_FireSafety,The fire resistance time requirement for balconies is half that of the loadbearing structures of the storey.
+91_Finnish_FireSafety,"Loadbearing structures must be made of building materials of at least class Ds2, d2, unless otherwise stated in the table."
+92_Finnish_FireSafety,"Flights of stairs and staircase landings of the exit of a building of over two storeys and P1 fire class must be made of at least A2s1, d0class building materials."
+93_Finnish_FireSafety,"Thermal insulation products and other fillings must be at least A2s1, d0class."
+94_Finnish_FireSafety,"The essential insulating part of thermal insulation products and other fillings must be at least Ds2, d2class."
+95_Finnish_FireSafety,"Load-bearing structures must be at least A2s1, d0class."
+96_Finnish_FireSafety,"Qfi,k is the statistically or computationally determined characteristic value of the total fire load density (80  fractile)."
+97_Finnish_FireSafety,"Flashover is regarded as having taken place if the average temperature of the hot smoke layer reaches 500 degrees Celsius, or if the radiation from the smoke layer to the floor exceeds 20 kW/m2."
+98_Finnish_FireSafety,Chapter 3 Prevention of the spread of fire from a fire compartment.
+99_Finnish_FireSafety,Section 14 Fire compartmentation of a building and partitioning of a fire compartment.
+100_Finnish_FireSafety,"A building shall, if its size, number of storeys or an intended purpose of a premises within the building so requires, be divided into fire compartments in order to restrict the spread of fire and smoke, to provide safe evacuation and to facilitate rescue and extinguishing measures."
+101_Finnish_FireSafety,"The various storeys, basement storeys and the attic of a P1 and P2 fire class building must be made into separate fire compartments (fire compartmentation by storey), and the same applies to the basement storeys of fire class P3 that serve more than one apartment."
+102_Finnish_FireSafety,"A fire compartment may, however, comprise several storeys, excluding compartments with rooms for accommodation or patient rooms, with the following restrictions: 1) in a building whose height exceeds 28 metres, no more than two storeys above this height of 28 metres may comprise a single fire compartment, excluding the staircase, and the size of a single fire compartment must not exceed 2,400 square metres; and 2) at a height of over 56 metres, a fire compartment is restricted to a single storey, apart from residential apartments, where twostorey fire compartments are permitted, and staircases."
+103_Finnish_FireSafety,"In this case, access must be arranged to an exit from both storeys of the residential apartment."
+104_Finnish_FireSafety,The size of a fire compartment must be limited so that a fire igniting in the compartment does not cause unreasonably vast damages (compartmentation by area).
+105_Finnish_FireSafety,"Premises with essentially different uses, or with essentially different fire loads, must be set up as  separate  fire  compartments  (compartmentation  by  use)."
+106_Finnish_FireSafety,"If necessary, fire compartments shall be partitioned in order to restrict the spread of fire and smoke, to provide safe evacuation and to facilitate rescue and extinguishing measures."
+107_Finnish_FireSafety,Attics and uppermost floor voids shall be divided into 400 m2 parts.
+108_Finnish_FireSafety,"Base floor voids shall be divided into 400 m2 parts if the areas surfaces (apart from minor parts) do not meet the Ds2, d2class requirements."
+109_Finnish_FireSafety,"The building is provided with an automatic fireextinguishing system that is suitable for its purpose, apart from a residential building of two to four storeys, where all storeys of each housing unit belong to one and the same apartment and whose height does not exceed 14 m. The fire compartment shall be partitioned by accommodation room."
+110_Finnish_FireSafety,"In an open garage of no more than five storeys, the maximum area may be used as the surface area of the storeys, even though the driveways between the various storeys are combined."
+111_Finnish_FireSafety,Section 16 Fire compartmenting building elements and partitioning building elements.
+112_Finnish_FireSafety,Fire-separating building elements together with any attached installations and equipment must prevent the spread of fire from one fire compartment to another for a specified period of time.
+113_Finnish_FireSafety,"In this case, the exit of persons must not be endangered nor must the fire spread to another fire compartment within the required fire resistance time."
+114_Finnish_FireSafety,When the building or premises is provided with an automatic fireextinguishing system that is suitable for its purpose.
+115_Finnish_FireSafety,"Section 17 Fire doors, windows and shutters."
+116_Finnish_FireSafety,"The fire resistance time of a door, small window and other building elements covering relatively small openings in a fireseparating building element shall have at least half of the fire resistance time required for the fireseparating building element."
+117_Finnish_FireSafety,The fire resistance time of a building element that protects an opening in an intermediate floor and in the fire compartmenting wall of a basement storey whose floor is at a distance greater than 14 metres from the buildings entry level must be the same as that of the fireseparating building element.
+118_Finnish_FireSafety,A fire door must be selfclosing and selfbolting.
+119_Finnish_FireSafety,"However, no door closer is required in storey level doors of residential apartments in buildings of less than 56 metres in height."
+120_Finnish_FireSafety,"If a fire door is kept open in normal use, it shall be equipped with devices that will close the door in the event of fire."
+121_Finnish_FireSafety,Partitioning doors in accommodation premises shall be equipped with closing devices.
+122_Finnish_FireSafety,Section 18 Penetrations in firecompartmented structures.
+123_Finnish_FireSafety,"Pipes, shafts, ducts, cables and flues, and penetrations required by conveyors that are mounted through a fireseparating building element must not essentially reduce the fire compartmenting capacity of the building element."
+124_Finnish_FireSafety,Section 19 Ventilation system.
+125_Finnish_FireSafety,The ventilation system must not increase the hazard of spreading fire or gaseous combustion products.
+126_Finnish_FireSafety,"The walls of ventilation ducts servicing more than one fire compartment or partition must be made of building materials of at least class A2s1, d0."
+127_Finnish_FireSafety,Section 20 Attics and voids.
+128_Finnish_FireSafety,Attics and voids shall be built in such a way that the hazard of ignition of fire and spread of fire and smoke within the building is not essentially increased thereby.
+129_Finnish_FireSafety,Extensive voids must be partitioned in order to restrict the spread of fire.
+130_Finnish_FireSafety,The spread of fire in voids of walltype building elements must be restricted at least by storey.
+131_Finnish_FireSafety,Section 21 External walls and balconies.
+132_Finnish_FireSafety,External walls and balconies shall be constructed so that a fire will not spread from one fire compartment to another through them for a specified period of time.
+133_Finnish_FireSafety,"In glazed balconies, the spread of fire from one balcony to another and to an adjacent fire compartment must be restricted."
+134_Finnish_FireSafety,"The fire compartmenting requirement for the balcony slab of a glazed balcony of a building exceeding two storeys is EI 30; however, minor sealing parts and penetrations may be class E 15."
+135_Finnish_FireSafety,"If the free gap between facing walls of adjacent glazed balconies or the distance of the wall to the window of an adjacent fire compartment is less than 2 metres, the wall in question must be class EI 15."
+136_Finnish_FireSafety,Chapter 4 Limitation of development of fire.
+137_Finnish_FireSafety,Section 22 General requirements.
+138_Finnish_FireSafety,The building materials used in the building must not contribute to the development of a fire in a hazardous manner.
+139_Finnish_FireSafety,"Nor do the requirements apply to beams and columns that meet the class requirements R 30 and Ds2, d2 and are located in a building of no more than two storeys."
+140_Finnish_FireSafety,"In the case of pipelike insulating materials, the values of the table shall apply, with the subindex L added to the entry depicting fire participation for walls and roofs."
+141_Finnish_FireSafety,"In a separate garage, not exceeding 1,000 square metres, and in a garage (forming part of a building) not exceeding 60 square metres, the class requirement (apart from basement level) is Ds2, d2."
+142_Finnish_FireSafety,"Section 24 Protective coverings of internal surfaces The internal wall and roof surfaces of a building of fire class P2 and of one to two storeys must be fitted with a protective covering of K2 10 class, made of at least Bs1, d0class building materials."
+143_Finnish_FireSafety,"However, no protective covering is required: 1) if the insulating parts of thermal insulation products are at least class Bs1, d0;  2) for walls, where the construction product forming their inner and outer surface, including joints, meets class requirement Bs1, d0 (inner surface) and EI 15 (as building element)."
+144_Finnish_FireSafety,"The surfaces of an exit and an exit enclosure of a building of fire class P2 and more than two storeys, apart from the top and front surface of landings and stairs, must be fitted with a protective  covering  of  K2 10  class,  made  of  at  least  A2s1,  d0class  building  materials."
+145_Finnish_FireSafety,"Protective covering is not, however, required for minor building elements or for building elements that (apart from minor structural parts) are made of building materials of at least A2s1, d0 class."
+146_Finnish_FireSafety,"The inner surfaces of a building of fire class P2 and more than two storeys, apart from exit and exit enclosure surfaces, must be fitted with a protective covering of K2 30 class, made of at least  A2s1,  d0class  building  materials."
+147_Finnish_FireSafety,"Nor is protective covering required for a wall or roof surface when its share of the total surface area of the loadbearing, fire compartmenting and exterior walls and roof of the fire compartment is: 1) no more than 20 per cent;  2) over 20 per cent, but no more than 80 per cent and the fire resistance time of loadbearing and fireseparating building elements has been extended by 30 minutes; 3) over 80 per cent and the fire resistance time of loadbearing and fireseparating building elements has been extended by 60 minutes."
+148_Finnish_FireSafety,"However, the internal surfaces of a residential building of fire class P2, of three or four storeys and with a height not exceeding 14 metres may be fitted with a protective covering of at least K2 10 class made of building materials of at least A2s1, d0 class, if the surfaces are given a protective covering in their entirety."
+149_Finnish_FireSafety,"The inner surfaces of a building of fire class P1 and more than two storeys, whose skeletal framework is not at least A2s1, d0 class, must be fitted with a protective covering of K2 30 class, made of at least A2s1, d0class building materials."
+150_Finnish_FireSafety,Section 25 General requirements for external wall.
+151_Finnish_FireSafety,"The external wall of a building of fire class P1 must be mainly constructed of building materials of at least class A2s1, d0."
+152_Finnish_FireSafety,"The thermal insulation products and other fillings of a P2 fire class building of over two storeys and of a P1 fire class building of over 56 metres in height must be at least A2s1, d0 class."
+153_Finnish_FireSafety,"In a P1 fire class building not exceeding 56 metres in height, a thermal insulation product may be used whose insulating part meets the Bs1, d0class requirements, or a thermal insulation product that is protected and positioned in such a way that the spread of fire into the thermal insulation  product  is  limited  for  a  time  that  in  the  case  of  the  building  interior  and  sides  of openings  is  at  least  half  of  the  fire  resistance  time  requirement  of  the  areas  fireseparating building elements."
+154_Finnish_FireSafety,"A thermal insulation product whose insulating part does not meet the Ds2, d2class requirement must be cut with fire partitionat most twostorey intervals up to a height of  28  metres,  and  thereafter  at  singlestorey  intervals,  by  a  building  material  that  limits  the spread of fire in the thermal insulation product."
+155_Finnish_FireSafety,"The frame of a nonloadbearing external wall of a P1 fire class building no more than 56 metres in height can consist of Ds2, d2class building materials."
+156_Finnish_FireSafety,The fire performance of the external wall structure of a building no more than 56 metres in height may also be demonstrated by a fullscale test.
+157_Finnish_FireSafety,Balconies shall comply with the requirements set for the outer surface of an exterior wall.
+158_Finnish_FireSafety,"However, the requirement for the surfaces (excluding floors) of a balcony designed for use as a fire escape of a building not exceeding 28 metres in height is Bs2, d0."
+159_Finnish_FireSafety,"By way of derogation from the above, the beams and columns of a balcony of a P2 fire class building of more than two storeys may be class Ds2, d2, if the balcony is provided with an automatic fire-extinguishing system that is suitable for its purpose."
+160_Finnish_FireSafety,The requirements shall not apply to minor surfaces such as hand railings.
+161_Finnish_FireSafety,"In the case of an openaccess balcony, compliance shall be made with the requirements set for an exit."
+162_Finnish_FireSafety,"However, the walls and columns of the openaccess balcony of a P2 fire class building of not more than two storeys may be class Ds2, d2."
+163_Finnish_FireSafety,"The beams and columns of an openaccess balcony of a P2 fire class building of more than two storeys may be class Ds2, d2, if the access balcony is provided with an automatic fire-extinguishing system that is suitable for its purpose."
+164_Finnish_FireSafety,The requirements shall not apply to minor surfaces such as hand railings.
+165_Finnish_FireSafety,"The mounting accessories for the facade cladding may, to a small extent, be of class D-s2, d2 in a building with a height not exceeding 28 m. If the insulating part of a thermal insulation product does not meet the Bs1, d0 requirements, the surface structures of the external surface must protect the thermal insulation product from fire in such a way that the protection corresponds to an EI 30 building element, or the inner surface of the ventilation gap must be fitted with K2 30, A2-s1, d0 protective covering."
+166_Finnish_FireSafety,"The spread of fire in a ventilation gap must be restricted at each storey, and the spread of fire in a horizontal direction to the ventilation gap in the external wall of a firecompartmented staircase must be prevented."
+167_Finnish_FireSafety,The spread of fire from the facade into an attic and the uppermost floor must be restricted so that this corresponds to an EI 30building element.
+168_Finnish_FireSafety,The collapse of extensive parts of the facade structure in the event of a fire must be restricted.
+169_Finnish_FireSafety,"If the insulating part of a thermal insulation product does not meet the Bs1, d0 requirements, the surface structures of the external surface must protect the thermal insulation product from fire in such a way that the protection corresponds to an EI 15 building element, or the inner surface of the ventilation gap must be fitted with a K210, A2s1, d0 protective covering."
+170_Finnish_FireSafety,The partitioning of thermal insulation products on each storey referred to in section 25 shall not be required if the requirements in comment 6) are met.
+171_Finnish_FireSafety,An external wall and its windows and other openings must meet the EI 30 requirement.
+172_Finnish_FireSafety,Section 27 Requirements for the uppermost floor.
+173_Finnish_FireSafety,"The thermal insulation products and other filling of a P2 fire class building of over two storeys and of a P1 fire class building of over 56 metres in height must be at least A2-s1, d0 class."
+174_Finnish_FireSafety,"In a P1 fire class building not exceeding 56 metres in height, a thermal insulation product may be used whose insulating part meets the Bs1, d0 class requirements, or a thermal insulation product is protected and positioned in such a way that the spread of fire into the thermal insulation product is limited for a time that in the case of the building interior and sides of openings is at least the same as the fire resistance time requirement of the areas fire-separating building elements."
+175_Finnish_FireSafety,"By way of derogation from the above, however, it is sufficient that the spread of the fire into the thermal insulation product be restricted for a time that is at least half of the fire resistance time requirement of the areas fireseparating building elements: 1) In a one or twostorey building with no attic; 2) In a building not exceeding 28 metres in height, if the insulating part of the thermal insulation product meets the class Ds2, d2 requirement."
+176_Finnish_FireSafety,Penetrations and other installations must be carried out in such a way that the protection of thermal insulation products does not deteriorate as a result of these.
+177_Finnish_FireSafety,Section 28 Roof.
+178_Finnish_FireSafety,A roof must not easily ignite from a fire at a neighbouring building.
+179_Finnish_FireSafety,Fire must not spread in a roof or in its underlay in a way that causes a hazard.
+180_Finnish_FireSafety,The roof must be BROOF(t2)class.
+181_Finnish_FireSafety,"Large  roof  surfaces  must  be  divided  into  parts  of  no  more  than  2,400 square  metres."
+182_Finnish_FireSafety,"This requirement does not apply in cases where the underlay is of at least class A2s1, d0 or to other solutions whose level of fire safety can be regarded as acceptable."
+183_Finnish_FireSafety,Chapter 5  Prevention of the spread of fire to neighbouring buildings.
+184_Finnish_FireSafety,Section 29  Distance between buildings.
+185_Finnish_FireSafety,The spread of fire from one building to another must not endanger personal safety or cause unacceptable economic or societal losses.
+186_Finnish_FireSafety,The  distance  between  buildings  on  neighbouring  plots  or  construction  sites  (neighbouring building) must be such that fire does not spread easily to neighbouring buildings and that the hazard of regional fire remains small.
+187_Finnish_FireSafety,"If the distance between neighbouring buildings is less than 8 metres, limitation of the spread of fire shall be ensured through structural or other means."
+188_Finnish_FireSafety,Section 30 Fire wall.
+189_Finnish_FireSafety,A building must be provided with a fire wall if it is situated adjacent to a neighbouring building or so close to a neighbouring building that the spread of fire is evident.
+190_Finnish_FireSafety,"The fire wall in a P0 and P1 fire class building and in a P2 fire class building whose height exceeds 14 metres must be made of A1class building materials, and the doors in it must be made of at least A2-s1, d0class building materials."
+191_Finnish_FireSafety,The fire resistance time of the door in a fire wall or similar building element must be at least the same as the fire resistance time that the fire wall is required to have.
+192_Finnish_FireSafety,The EIM 60 requirement may be replaced by fire compartmentation if the facing external walls of the buildings meet the EI 60 class requirement against internal fire.
+193_Finnish_FireSafety,Chapter 6 Leaving the building in case of fire.
+194_Finnish_FireSafety,Section 31 General requirements.
+195_Finnish_FireSafety,It must be possible to leave a building safely in case of fire.
+196_Finnish_FireSafety,"A building shall be provided with an adequate number of appropriately located exits that are sufficiently spacious and passable, so that the time to leave the building will not be so long as to cause danger."
+197_Finnish_FireSafety,Exits shall lead outside to the ground level or to some other safe place in case of fire.
+198_Finnish_FireSafety,"An exit or a exit enclosure must not be constructed from such building materials or building elements and must not house such equipment or installations that would increase the fire load in a way that cannot be regarded as acceptable, or that would jeopardise personal safety due to smoke formation."
+199_Finnish_FireSafety,Section 32 Maximum length of passageway to nearest exit.
+200_Finnish_FireSafety,The length of a passageway to the nearest exit must not be so long as to constitute a hazard.
+201_Finnish_FireSafety,"If the passageways to two separate exits partly join, the length of the common part must be doubled in the calculation."
+202_Finnish_FireSafety,"When calculating the length of a passageway, the level differences in the passageway must be taken into account."
+203_Finnish_FireSafety,Distances may be exceeded by 20 per cent in a ground-level storey if emergency evacuation is possible through easily opened windows.
+204_Finnish_FireSafety,Section 33 Number of exits.
+205_Finnish_FireSafety,"Each evacuation area of a building where people are staying or working, apart from temporarily, shall be provided with a number of independent, separate and appropriate exits that are at least in accordance with Table 11."
+206_Finnish_FireSafety,Safe place refers to access directly to the outside or to another safe place.
+207_Finnish_FireSafety,"If this does not pose a hazard to personal safety, one exit may also be regarded as sufficient in a single storey: 1) accommodation building, whose rooms are entered directly from outside; 2) an institution intended for no more than 10 clients; 3) small assembly and business premises."
+208_Finnish_FireSafety,Evacuation areas must have a fire escape if this is required for personal safety reasons.
+209_Finnish_FireSafety,Exits of parts of the building separated by a fire wall must be constructed separately so that in the event of a fire there is no need to use any door that may be in the fire wall.
+210_Finnish_FireSafety,Section 34 Dimensions of exits.
+211_Finnish_FireSafety,The minimum width of an exit shall be calculated on the basis of the number of occupants evacuating through the exit.
+212_Finnish_FireSafety,The highest number of occupants intended to be present in an evacuation area shall be used as the number of occupants.
+213_Finnish_FireSafety,"If several evacuation areas are connected to the same exit, the width of the exit shall be designed according to the evacuation area with the highest number of occupants."
+214_Finnish_FireSafety,"The width of an exit must be at least 1,200 millimetres and its free height must be at least 2,100 millimetres."
+215_Finnish_FireSafety,"However, by way of derogation from the above."
+216_Finnish_FireSafety,"in an evacuation area where the maximum number of occupants is 60, the second exit may be no less than 900 millimetres in width."
+217_Finnish_FireSafety,"in residential buildings of not more than two storeys, one exit of no less than 900 millimetres in width is permitted."
+218_Finnish_FireSafety,"If a lift or other device for moving between levels is installed in the exit of an existing building, the dwellings exit may be no less than 850 millimetres wide."
+219_Finnish_FireSafety,"If the number of occupants exceeds 120, the total minimum width of the exits shall be calculated by increasing the original 1,200 millimetres by 400 millimetres for each additional group of 60 people."
+220_Finnish_FireSafety,Section 35 Doors used for evacuation.
+221_Finnish_FireSafety,The number and width of doors leading to exits and from rooms to internal corridors must be adequate in relation to the number of occupants using them.
+222_Finnish_FireSafety,"The doors of exits, and of areas leading to them, must be easy to open in an emergency."
+223_Finnish_FireSafety,"In the case of the storeylevel door of a dwelling, or if the number of people evacuating through the door exceeds 60, doors must open in the direction of the exit."
+224_Finnish_FireSafety,Section 37 Safety report.
+225_Finnish_FireSafety,"The safety report referred to in section 117 b of the Land Use and Building Act must state: how long, on average, it will take to evacuate the occupants (by their own means or, taking account of the use of the premises, with help) from fire compartments and from partitions of a fire compartment."
+226_Finnish_FireSafety,"If the estimated time is not sufficient for evacuation or rescue from the hazardous conditions, the  building  project  promoter  shall  order  structural  or  other  necessary  measures  in  order  to achieve the safety level necessary from the aspect of personal safety."
+227_Finnish_FireSafety,Chapter 7 Fire technical installations.
+228_Finnish_FireSafety,Section 38 Smoke detector and fire alarm system.
+229_Finnish_FireSafety,"Dwellings, accommodation premises, institutions, daycare institutions, daycare centres and other  early  childhood  education  premises and schools  must  be  provided  with  an  appropriate system that gives a warning at an early stage of a beginning fire."
+230_Finnish_FireSafety,Table 12 shall apply to the provision of a building with a system that gives warning at an early stage of a beginning fire.
+231_Finnish_FireSafety,Section 39 Automatic fireextinguishing system.
+232_Finnish_FireSafety,There must be an automatic fire-extinguishing system that is suitable for its purpose and connected to the emergency centre.
+233_Finnish_FireSafety,"in a P2 fire class building of over two storeys, including balconies that are designed for use as fire escapes."
+234_Finnish_FireSafety,"This requirement does not apply to a residential building of fire class P2 and more than two storeys, where all the storeys of each housing unit belong to one and the same apartment and the height of the building does not exceed 14 metres."
+235_Finnish_FireSafety,in an exit that serves more than one evacuation area in a fire class P2 building of over two storeys.
+236_Finnish_FireSafety,Chapter 8 Organisation of firefighting and rescue operations.
+237_Finnish_FireSafety,Section 40 Prerequisites for rescue and firefighting work.
+238_Finnish_FireSafety,The prerequisites for extinguishing fires and rescuing people in a building and in its vicinity shall be taken into account in the design.
+239_Finnish_FireSafety,It must be possible for fire and service rescue equipment to have sufficiently close access to the building (emergency access road).
+240_Finnish_FireSafety,There must be access to each fire compartment of an attic for firefighting operations.
+241_Finnish_FireSafety,"If the height of the building does not exceed 28 metres, access to the attic fire compartments from the outside shall be required."
+242_Finnish_FireSafety,Extinguishing routes to basement storeys shall be arranged so that basement storeys can be reached from the ground level without a need to pass through the exits of the storeys.
+243_Finnish_FireSafety,"However, if a lift or other device for moving between levels is installed in the exit of an existing building, the minimum width of an extinguishing route shall be at least 850 millimetres."
+244_Finnish_FireSafety,Extinguishing routes of basement storeys must not be connected to fire and smokeproof exits.
+245_Finnish_FireSafety,Section 41 Lift used in rescue and firefighting work.
+246_Finnish_FireSafety,A lift must be available for use in rescue and extinguishing work (firefighting lift); 1) in areas above the entrance level when the distance of the floor of the uppermost storey exceeds 38 metres from the buildings entrance level; 2) in areas below the entrance level when the distance of the floor of the basement storey exceeds 14 metres from the buildings entrance level and the surface area of that basement storeys evacuation area exceeds 800 m2.
+247_Finnish_FireSafety,The internal dimensions of the lift cage must be suitable for the conveyance of a stretcher.
+248_Finnish_FireSafety,Section 42 Smoke extraction.
+249_Finnish_FireSafety,"In  order  to  enhance  the  efficiency  of  firefighting  and  rescue  operations,  means  of  smoke extraction shall be designed and constructed in the building so that smoke can be extracted from the different premises in the building."
+250_Finnish_FireSafety,"In exit passageways and firecompartmented elevator shafts, means must be arranged for both smoke extraction and flow of replacement air."
+251_Finnish_FireSafety,"Means shall be provided for smoke extraction from the spaces of the basement storey, so that it  will  not  be  necessary  to  use  exit  passageways  or  compartmented  extinguishing  routes  for smoke extraction."
+252_Finnish_FireSafety,"If so required on justified grounds, smoke extraction shall be arranged using special measures, such as smoke vents, smoke venting windows, smoke venting fans or windows located in the upper part of the rooms and that are easy to open."
+253_Finnish_FireSafety,Section 43 Fixed dry riser.
+254_Finnish_FireSafety,"A building shall be provided with a permanently installed dry riser that is suitable for its purpose for transporting water for fire extinguishing:  1) in the premises above the entry level of the building, when the distance of the uppermost floor level from the entry level exceeds 24 metres; 2) in the premises below the entry level of the building, when the distance of the basement storey floor from the entry level exceeds 14 metres."
+255_Finnish_FireSafety,Section 44 Entry into force.
+256_Finnish_FireSafety,This Decree enters into force on 1 January 2018.
+257_Finnish_FireSafety,"Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at the time of entry into force of this Decree."

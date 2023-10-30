@@ -1,0 +1,187 @@
+(NB: Unofficial translation from Finnish) 
+
+Government Decree 
+
+on the determination of difficulty classes of building design tasks 
+
+Issued in Helsinki on 12 March 2015 
+————— 
+In accordance with the Government decision the following is enacted under section 120 d(5) 
+
+of the Land Use and Building Act (132/1999), as provided by Act 41/2014: 
+
+Chapter 1 
+
+General provisions 
+
+Section 1 
+
+Scope of application 
+
+This  Decree  contains  regulations  on  the 
+determination  of  difficulty  classes  of  design 
+tasks  in  the  construction  of  new  buildings 
+and in repair and alteration works: 
+
+1) in building design; 
+2) in the design of load-bearing structures; 
+3) in the design of foundation structures; 
+4) in ventilation design; 
+5) in water supply and sewage design; and 
+6)  in  building  physics  design  and  the 
+
+design of repair work to moisture damage. 
+
+The  regulations  on  buildings  provided  in 
+this  Decree  shall  also  apply  to  parts  of 
+buildings, structures and parts of structures. 
+
+Chapter 2 
+
+Difficulty of building design tasks  
+
+Section 2
+Minor building design task
+A building design task is considered minor if the building being designed is single storey, small and not intended for habitation or working, and if the environment or site of
+ the building does not place special demands on the design.
+A building design task is minor if the repair and alteration work that is being designed is a simple maintenance operation.
+Section 3
+Conventional building design task
+A building design task is conventional if the building being designed is single or two storey, smallish, its architectural, technical and functional requirements are conventional, and if the intended use, environment or site of the building does not place special demands on the design.
+The building design task for repair and alteration work is conventional if the architectural, technical and functional requirements of the repair and alteration work are conventional, and if the environment, site, intended use or a characteristic of the building does not place special demands on the design.
+Section 4
+Difficult building design task
+A building design task is difficult if
+1) the building being designed has more than two storeys or it is large in other respects;
+2) the building must meet strict architectural, technical or functional requirements because of its intended use or characteristics;
+3) the environment of the building places special demands related to the adaptation of the building’s architecture to the townscape or landscape; or
+4) the site places special demands on the design.
+A building design task for repair and alteration work is difficult if the architectural, technical or functional requirements of the repair and alteration work are strict, and if the environment, site, intended use or a characteristic of the building places special demands on the design.
+Section 5
+Exceptionally difficult building design task
+A building design task is exceptionally difficult if
+1) the building being designed must meet exceptionally strict architectural, technical or functional requirements because of its intended use or characteristics;
+2) the building being designed will be located in a protected environment, an environment with high townscape, cultural historical or landscape value, or an environment that is critical for the urban structure; or
+3) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods.
+A building design task for repair and alteration work is exceptionally difficult if the architectural, technical or functional requirements of the repair and alteration work are exceptionally strict, or if the valuable environment, site, intended use or characteristic of the building places special demands on the design.
+Chapter 3
+Difficulty of design tasks for load-bearing structures
+Section 6
+Minor design task for load-bearing structures
+A design task for load-bearing structures is minor if the building being designed is single storey, small and not intended for habitation or working, and if the technical and functional requirements of the load-bearing structures are simple.
+A design task for load-bearing structures is minor if the repair and alteration work that is being designed is a simple maintenance operation.
+Section 7
+Conventional design task for load-bearing structures
+A design task for load-bearing structures is conventional if the building being designed is single or two storey and smallish, if the technical and functional requirements of the load-bearing structures are simple, and if generally accepted design guidelines and standard approaches can be used in the design.
+A design task for the repair and alteration work of load-bearing structures is conventional if the technical and functional requirements of the repair and alteration work are simple, if generally accepted design guidelines and standard approaches can be used in the design, and if the characteristics of the building do not place special demands on the design.
+Section 8
+Difficult design task for load-bearing structures
+A design task for load-bearing structures is difficult if
+1) the building being designed has more than two storeys or it is large in other respects; or
+2) the load-bearing structures must meet strict technical or functional requirements because of the size, structural loads or other characteristic of the building.
+A design task for the repair and alteration work of a load-bearing structure is difficult if the technical or functional requirements of the repair and alteration work are strict, and if the characteristics of the building place special demands on the design.
+Section 9
+Exceptionally difficult design task for load-bearing structures
+A design task for load-bearing structures is exceptionally difficult if
+1) the load-bearing structures must meet exceptionally strict technical or functional requirements because of the size, structural loads or other characteristic of the building;
+2) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods; or
+3) a flaw or damage in the structure being designed might cause severe damage to people or the environment.
+A design task for the repair and alteration work of a load-bearing structure is exceptionally difficult if the technical or functional requirements of the repair and alteration work are exceptionally strict, or if the characteristics of the building place exceptional demands on the design.
+Chapter 4
+Difficulty of design tasks for foundation structures
+Section 10
+Conventional design task for foundation structures
+A design task for foundation structures is conventional if the building being designed is smallish, the architectural, technical and
+
+functional requirements of its foundation structures are simple, and if the environment or site of the building does not place special demands on the design.
+A design task for the repair and alteration work of foundation structures is conventional if the technical and functional requirements of the repair and alteration work are simple, and if the environment, site or characteristics of the building do not place special demands on the design.
+Section 11
+Difficult design task for foundation structures
+A design task for foundation structures is difficult if
+1) the foundation structures must meet strict technical or functional requirements because of the size of the building, structural loads, difficulty of the structure or other characteristic; or
+2) the environment or site of the building being designed places special demands on the design.
+A design task for the repair and alteration work of a foundation structure is difficult if the technical or functional requirements of the repair and alteration work are strict, and if the environment, site or characteristics of the building place special demands on the design.
+Section 12
+Exceptionally difficult design task for foundation structures
+A design task for foundation structures is exceptionally difficult if
+1) the foundation structures must meet exceptionally strict technical or functional requirements because of the size of the building, structural loads, difficulty of the structure or other characteristic;
+2) the environment or site of the building being designed places exceptional demands on the design;
+3) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods; or
+4) a flaw or damage in the structure being designed might cause severe damage to people or the environment.
+A design task for the repair and alteration work of foundation structures is exceptionally difficult if the technical or functional requirements of the repair and alteration work are exceptionally strict, or if the environment, site or characteristics of the building place exceptional demands on the design.
+Chapter 5
+Difficulty of ventilation design tasks
+Section 13
+Minor ventilation design task
+A ventilation design task is minor if the building being designed is not intended for habitation or working, and if the technical and functional ventilation requirements are minor.
+A ventilation design task is minor if the repair and alteration work that is being designed is a simple maintenance operation.
+Section 14
+Conventional ventilation design task
+A ventilation design task is conventional if the intended use or size of the building does not place special technical or functional requirements on the ventilation or the indoor climate, and if generally accepted design guidelines and standard approaches can be used in the design.
+A design task for ventilation repair and alteration work is conventional if the technical and functional requirements of the
+repair and alteration work are simple, if generally accepted design guidelines and standard approaches can be used in the design, and if the intended use or a characteristic of the building does not place special demands on the design.
+Section 15
+Difficult ventilation design task
+A ventilation design task is difficult if the ventilation must meet strict technical or functional requirements because of the size, number of users, intended use or other characteristic of the building.
+A design task for ventilation repair and alteration work is difficult if the technical or functional requirements of the repair and alteration work are strict, or if the intended use or a characteristic of the building place special demands on the design.
+Section 16
+Exceptionally difficult ventilation design task
+A ventilation design task is exceptionally difficult if
+1) the ventilation must meet exceptionally strict technical or functional requirements because of the intended use of the building, target level for indoor climate or other characteristic; or
+2) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods.
+A design task for ventilation repair and alteration work is exceptionally difficult if the technical or functional requirements of the repair and alteration work are exceptionally strict, or if the intended use or a characteristic of the building places exceptional demands on the design.
+Chapter 6
+Difficulty of water supply and sewage design tasks
+Section 17
+Minor water supply and sewage design task
+A water supply and sewage design task is minor if the building being designed is not intended for habitation or working, and if the technical and functional requirements on the water supply and sewage are minor.
+A water supply and sewage design task is minor if the repair and alteration work that is being designed is a simple maintenance operation.
+Section 18
+Conventional water supply and sewage design task
+A water supply and sewage design task is conventional if the intended use and size of the building do not place special technical or functional requirements on the water supply and sewage system, and if generally accepted design guidelines and standard approaches can be used in the design.
+A design task for a water supply and sewage system repair and alteration work is conventional if the technical and functional requirements of the repair and alteration work are simple, if generally accepted design guidelines and standard approaches can be used in the design, and if the intended use or a characteristic of the building does not place special demands on the design.
+Section 19
+Difficult water supply and sewage design task
+A water supply and sewage design task is difficult if the water supply and sewage system must meet strict technical or functional requirements because of the size, number of users, intended use or other characteristic of the building.
+A design task for a water supply and sewage system repair and alteration work is difficult if the technical or functional requirements of the repair and alteration
+work are strict, or if the intended use or a characteristic of the building place special demands on the design.
+Section 20
+Exceptionally difficult water supply and sewage design task
+A water supply and sewage design task is exceptionally difficult if
+1) the water supply and sewage system must meet exceptionally strict technical or functional requirements because of the intended use or a characteristic of the building;
+2) there are severe environmental risks related to the intended use of the building; or
+3) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods.
+A design task for a water supply and sewage system repair and alteration work is exceptionally difficult if the technical or functional requirements of the repair and alteration work are exceptionally strict, or if the intended use or a characteristic of the building places exceptional demands on the design.
+Chapter 7
+Difficulty of building physics design tasks and design tasks for repair work to moisture damage
+Section 21
+Conventional building physics design task and design task for repair work to moisture damage
+A building physics design task is conventional if the technical and functional requirements of the building being designed are conventional, if generally accepted design guidelines and standard approaches can be used in the design, and if the environment or site of the building does not place special demands on the design.
+A design task for building physics repair and alteration work is conventional if the technical and functional requirements of the repair and alteration work are simple, and if the environment, site, intended use or a characteristic of the building does not place special demands on the design.
+A design task for repair work to moisture damage is conventional if the moisture or mould damage of the project can be clearly defined and restricted, and if the intended use or a characteristic of the building do not place special demands on the design.
+Section 22
+Difficult building physics design task and design task for repair work to moisture damage
+A building physics design task is difficult if
+1) the building physics stress of the building being designed places special demands on the design; or
+2) the intended use or a characteristic of the building being designed places special demands on the building physics design.
+A design task for building physics repair and alteration work is difficult if the technical or functional requirements of the repair and alteration work are strict, or if the environment, site, intended use or a characteristic of the building places special demands on the design.
+A design task for repair work to moisture damage is difficult if the moisture or mould damage of the project is extensive, or if repairing the damage requires making significant changes to the moisture physics of the structures.
+Section 23
+Exceptionally difficult building physics design task and design task for repair work to moisture damage
+A building physics design task is exceptionally difficult if
+1) the severe building physics stress of the building being designed places exceptional demands on the design;
+2) the intended use, difficulty of the structures or another characteristic of the building being designed places exceptional demands on the building physics design; or
+3) the design work requires the use of novel or otherwise highly demanding design, calculation or dimensioning methods.
+A design task for building physics repair and alteration work is exceptionally difficult if the technical or functional requirements of the repair and alteration work are exceptionally strict, or if the environment, site, intended use or a characteristic of the building places exceptional demands on the design.
+A design task for repair work to moisture damage is exceptionally difficult if
+1) there is extensive internal moisture or mould damage in the building despite previous repair work;
+2) special technical systems or methods are needed for ensuring the moisture physics of the structures; or
+3) the intended use of the building, target level for indoor climate or another characteristic places exceptional demands on the design.
+Chapter 8
+Entry into force
+Section 24
+Entry into force
+This Decree enters into force on 1 June 2015.
+Helsinki 12 March 2015
+Pia Viitanen, Minister of Culture and Housing
+Aila Korpivaara, Senior Construction Adviser

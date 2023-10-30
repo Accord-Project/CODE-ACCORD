@@ -1,0 +1,220 @@
+Requirement
+
+Requirement
+
+PART Q SECURITY 
+
+Unauthorised access
+
+Reasonable provision must be made to resist 
+
+unauthorised access to
+
+(a)  any dwelling; and
+
+(b)  any part of a building from which access can be 
+
+gained to a flat within the building.
+
+
+Approved Document Q, 2015 edition 
+
+Building Regulations 2010
+
+ 
+
+Section 1: Doors
+
+General
+
+1.1  All easily accessible doorsets (including garage doorsets and communal entrance doorsets) that 
+
+provide access into a dwelling or into a building containing a dwelling should be secure doorsets in 
+
+accordance with paragraphs 1.2 to 1.4.
+
+
+Where access to the dwelling can be gained via an 
+
+interconnecting doorset from the garage, then either the garage doorset (pedestrian and vehicular) 
+
+or the interconnecting doorset should be a secure doorset.
+
+
+Design of secure doorsets
+
+1.2  Secure doorsets should be either:
+
+a.  manufactured to a design that has been shown by test to meet the security requirements of 
+
+British Standards publication PAS 24:2012, or 
+
+b.  designed and manufactured in accordance with Appendix B.
+
+
+1.4  The main doors for entering a dwelling (usually the front door) should have a door viewer unless 
+
+other means exist to see callers, such as clear glass within the door or a window next to the 
+
+doorset.
+
+
+Building Regulations 2010  
+
+Approved Document Q, 2015 edition 
+
+ 
+
+Installation and fixing of secure doorsets
+
+1.5  Frames should be mechanically fixed to the structure of the building in accordance with the 
+
+manufacturers installation instructions.
+
+
+The resilient layer should be timber sheathing at least 9mm thick, expanded metal or a similar 
+
+resilient material.
+
+
+The resilient layer should be to the full height of the door and 600mm either 
+
+side of the doorset.
+
+
+Approved Document Q, 2015 edition 
+
+Building Regulations 2010
+
+Section 2: Windows
+
+General
+
+2.1  Ground floor, basement and other easily accessible windows (including easily accessible rooflights) 
+
+should be secure windows in accordance with paragraphs 2.2 and 2.3.
+
+
+Design of secure windows
+
+2.2  Windows should be made to a design that has been shown by test to meet the security 
+
+requirements of British Standards publication PAS 24:2012.
+
+
+Installation and fixing of secure windows
+
+2.3  Frames should be mechanically fixed to the structure of the building in accordance with the 
+
+manufacturers installation instructions.
+
+
+Easily accessible 
+
+Either:
+
+  a window or doorway, any part of which is within 2m vertically of an accessible level surface 
+
+such as the ground or basement level, or an access balcony, or 
+
+  a window within 2m vertically of a flat or sloping roof (with a pitch of less than 30) that is 
+
+within 3.5m of ground level.
+
+
+NOTE 2: Any test evidence used to confirm the security of a construction should be carefully 
+
+checked to ensure that it demonstrates compliance that is adequate and that applies to 
+
+the intended use.
+
+
+Material
+
+B.2  The doorset should be manufactured from solid or laminated timber with a minimum density of 
+
+600kg/m3.
+
+
+Dimensions
+
+B.3  Door rails, stiles and muntins should be at least 44mm thick.
+
+
+After rebating, frame components 
+
+should retain at least 32mm of timber.
+
+
+B.4  Any panel within the doorset should be at least 15mm thick.
+
+
+The panel should be securely held in 
+
+place.
+
+
+Beading should be mechanically fixed and glued in position.
+
+
+B.5  The smaller dimension of each panel  which can be either the width or height of the panel  
+
+should be 230mm or less.
+
+
+Locks, hinges and letter plates
+
+B.6  The main doors for entering a dwelling (usually the front doorset) should be fitted with a 
+
+multipoint locking system that meets the requirements of: 
+
+  PAS 3621 (key locking on both sides), or 
+
+  PAS 8621 (nonkey locking on the internal face), or 
+
+  PAS 10621 (nonkey locking on the internal face, but with an external locking override facility).
+
+
+Between the locking points for the mortice lock and surfacemounted rim lock, the distance 
+
+should be 400600mm.
+
+
+B.7  The nonprimary doors for entering a dwelling (for example, back door or garage interconnecting 
+
+doors) should be fitted with a multipoint locking system that meets the requirements of:
+
+  PAS 3621 (key locking on both sides), or 
+
+  PAS 8621 (nonkey locking on the internal face), or 
+
+Building Regulations 2010  
+
+Approved Document Q, 2015 edition 
+
+  PAS 10621 (nonkey locking on the internal face, but with an external locking override facility).
+
+
+The morticed bolts should have a minimum projection of 20mm, should be at least 100mm from 
+
+the top and bottom corners of the door, and should avoid any door construction joints.
+
+
+Door limitation and caller identification
+
+B.10  The main doors for entering a dwelling (usually the front door) should have a door viewer unless 
+
+other means exist to see callers, such as clear glass within the door or a window next to the 
+
+doorset.
+
+
+Glazing
+
+B.11  Any glazing which, if broken, would permit someone to insert their hand and release the locking 
+
+device on the inside of the door should be a minimum of class P1A in accordance with BS EN 
+
+356:2000.
+
+

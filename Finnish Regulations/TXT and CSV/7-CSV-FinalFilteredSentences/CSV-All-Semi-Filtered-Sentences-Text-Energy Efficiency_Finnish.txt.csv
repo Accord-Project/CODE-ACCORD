@@ -1,0 +1,179 @@
+ID,Text
+1_Finnish_EnergyEfficiency,Decree of the Ministry of the Environment  on the Energy Performance of New Buildings.
+2_Finnish_EnergyEfficiency,"By decision of the Ministry of the Environment, the following is enacted by virtue of section 117g, subsection 4; section 131, subsection 2 and section 150f, subsection 4 of the Land Use and  Building  Act  (132/1999),  as  amended  by  section  117g,  subsection  4  of  Act  1151/2016; section 131, subsection 2 of Act 41/2014; and section 150f, subsection 4 of Act 41/2014."
+3_Finnish_EnergyEfficiency,Section 1 Scope of application.
+4_Finnish_EnergyEfficiency,"This Decree applies to the design and construction of new buildings consisting of a roofed construction  having  walls,  for  which  energy  is  used  to  condition  the  indoor  climate."
+5_Finnish_EnergyEfficiency,"The Decree applies to extensions of buildings the gross floor area of which is less than 50 m2 only where the building, including the extension, exceeds 50 m2."
+6_Finnish_EnergyEfficiency,Section 2 Definitions.
+7_Finnish_EnergyEfficiency,For the purposes of this Decree.
+8_Finnish_EnergyEfficiency,amount of heat required for ventilation heating means the amount of heat that is required to heat ventilation air flow from outdoor temperature to room temperature.
+9_Finnish_EnergyEfficiency,net  heating  energy  demand  for  ventilation  means  the  demand  for  heating  energy consisting of the heating of air after heat recovery to supply air temperature and any heating of air before heat recovery.
+10_Finnish_EnergyEfficiency,annual efficiency of ventilation extract air heat recovery means the ratio of the amount of heat recovered and utilised with heat recovery equipment to the amount of heat required for ventilation heating in a year when there is no heat recovery.
+11_Finnish_EnergyEfficiency,"specific fan power of ventilation system (kW/(m3/s)) means the total combined amount of electrical power taken from the power supply by all of the fans and any connected frequency converters  and  other  power  control  equipment  in  a  buildings  entire  ventilation  system, divided by the exhaust air flow rate or outdoor air flow rate of the design operating time of the ventilation system, whichever of these is greater."
+12_Finnish_EnergyEfficiency,electrical energy consumption of ventilation system means the electricity consumption of fans and any auxiliary units.
+13_Finnish_EnergyEfficiency,air leakage rate q50 (m3/(h m2)) means the average hourly rate of leakage air flow of the building  envelope  at  a  pressure  differential  of  50  Pa  per  building  envelope  surface  area calculated on the basis of the buildings total internal dimensions.
+14_Finnish_EnergyEfficiency,cooled cold space means a space where a temperature below 17 C in accordance with the intended use is maintained around the year with a cooling system and a possible heating system.
+15_Finnish_EnergyEfficiency,cooling  system  energy  consumption  means  the  energy  consumption  for  cooling  energy production and the electricity consumption of auxiliary units.
+16_Finnish_EnergyEfficiency,district heat means heat supplied to customer properties via a distribution network.
+17_Finnish_EnergyEfficiency,"Directive 2015/1535/EU of the European Parliament and of the Council (32015L1535); OJ L 241, 17.9.2015, p. 1."
+18_Finnish_EnergyEfficiency,"Directive 2012/27/EU of the European Parliament and of the Council (32012L0027); OJ L 315, 14.11.2012, p. 1."
+19_Finnish_EnergyEfficiency,"Directive 2010/31/EU of the European Parliament and of the Council (32010L0031); OJ L 153, 18.6.2010, p. 13."
+20_Finnish_EnergyEfficiency,"Directive 2009/28/EU of the European Parliament and of the Council (32009L0028); OJ L 140, 5.6.2009, p. 16. thermal bridge means a deterioration in the thermal transmittance coefficient of a small part of a building element for solidity or connection reasons."
+21_Finnish_EnergyEfficiency,net heated area Anet (m2) means the sum total of the heated floor plate areas calculated on the basis of the internal surfaces of the exterior walls at the perimeter of the floor plates.
+22_Finnish_EnergyEfficiency,unheated space means a space that is not intended for continuous occupancy during the heating season and that is not designed to be heated.
+23_Finnish_EnergyEfficiency,"net heating energy demand means the total combined net demand for heating energy for a buildings spaces, ventilation and domestic hot water."
+24_Finnish_EnergyEfficiency,"heating systems energy consumption means the energy consumption for the heating of spaces, ventilation and domestic hot water."
+25_Finnish_EnergyEfficiency,"thermal transmittance coefficient means the density of heat flow that in the steady state penetrates a building element when the difference in temperature between the air spaces on the different sides of the building element is one unit of temperature, and the symbol of which is U and the unit of which is W/(m2K)."
+26_Finnish_EnergyEfficiency,warm space means of space in a building the room temperature of which is 17 C or higher.
+27_Finnish_EnergyEfficiency,net heating energy demand for domestic hot water means the demand for heating energy consumed  for  the  heating  of  domestic  hot  water  from  the  temperature  of  cold  water  to  the temperature of hot water.
+28_Finnish_EnergyEfficiency,mass  timber  building  means  a  building  the  main  construction  material  of  the  exterior walls of which is a mass timber structure with a mean structural thickness of at least 180 mm.
+29_Finnish_EnergyEfficiency,"semiwarm  space  means  a  space  not  intended  for  continuous  occupancy  while  merely wearing normal indoor clothing and the temperature of which during the heating season is on average at least 5 C but below 17 C. buildings calculated consumption of delivered energy means energy consumption based on the buildings standardised use that is calculated as being acquired for the building from an electricity distribution network, district heating network, district cooling network or as energy contained by a renewable or fossil fuel."
+30_Finnish_EnergyEfficiency,"building  envelope  means  the  building  elements  that  separate  a  warm,  semiwarm, particularly warm or cooled cold space from the outdoor air, the ground or an unheated space."
+31_Finnish_EnergyEfficiency,"buildings reference heat loss means the calculated heat loss of a buildings envelope, leakage air and ventilation calculated using reference values."
+32_Finnish_EnergyEfficiency,portable building means a movable building intended for temporary use.
+33_Finnish_EnergyEfficiency,design solution means a design plan for a building intended to be implemented.
+34_Finnish_EnergyEfficiency,"renewable fuel means wood and woodbased and other biofuels, with the exception of peat."
+35_Finnish_EnergyEfficiency,demandcontrolled  ventilation  means  a  system  where  air  flows  can  be  controlled  in accordance with load or air quality according to occupancy situation.
+36_Finnish_EnergyEfficiency,"energy  sourced  from  environmental  energy  means  heat  or  electrical  energy  generated from sunlight, wind, ground, air or water onsite or near a building using equipment belonging to the building."
+37_Finnish_EnergyEfficiency,Section 3 Minimum requirements for building energy performance.
+38_Finnish_EnergyEfficiency,"A principal designer, special designer and building designer shall, in accordance with their respective duties, see to the design of a new building so that it, in accordance with its intended use:  1)  is  in  compliance  as  regards  its  energy  performance  with  either  the  calculated  energy performance reference value (Evalue) or structural energy efficiency; 2) creates conditions for energy demand with low energy loss; 3) is energy efficient as regards its calculated room temperature in the summer, its energy consumption  measurement,  its  heat  and  electrical  energy  demand  and,  where  using  a mechanical ventilation system, also as regards the specific fan power of its ventilation system."
+39_Finnish_EnergyEfficiency,The E-value calculated in accordance with the buildings intended use category shall not exceed the following limits.
+40_Finnish_EnergyEfficiency,"In buildings of intended use category 6 the net heated area of which is a maximum of 1,000 m2, the limit for the Evalue provided above in subsection 1 may be exceeded by 5 kWhE/(m2 In mass timber buildings, the limits for the Evalue provided above in subsections 1 and 2 may be exceeded in buildings of intended use category 1a by 20, in buildings of intended use categories 1bc by 15 and in other buildings of intended use categories 1d8 by 10."
+41_Finnish_EnergyEfficiency,"In buildings of intended use category 1d, the limit for the Evalue provided in subsections 1 and 3 may be exceeded by 5 kWhE/(m2 a) when the building is connected to a heating system where heat is conveyed via heat pipes external to the building from a shared heat exchanger or heat generation unit to three or more buildings."
+42_Finnish_EnergyEfficiency,The E-value for buildings of intended use category 9 shall be calculated.
+43_Finnish_EnergyEfficiency,Design values shall be used in the calculations.
+44_Finnish_EnergyEfficiency,Section 5 Building units falling under different intended use categories.
+45_Finnish_EnergyEfficiency,The  limits  for  the  E-value  in  accordance  with  each  unit  shall  be  applied  to  building  units falling under different intended use categories.
+46_Finnish_EnergyEfficiency,"If the net heated area of a building unit is less than 10 of the entire buildings net heated area or the net heated area of a building unit is less than 50 m2, the building unit may be classified as falling under the intended use category that is the largest in terms of its area."
+47_Finnish_EnergyEfficiency,The utilisation of energy sourced from environmental energy using equipment belonging to the building shall be calculated on a monthly basis or for shorter periods of time.
+48_Finnish_EnergyEfficiency,Section 7 Calculation of the E-value The  E-value  shall  be  calculated  on  the  basis  of  the  buildings  calculated  consumption  of delivered energy itemised by energy carrier using the energy carrier factors with the following formula.
+49_Finnish_EnergyEfficiency,"E is the energy performance reference value, kWhE/(m2 a)."
+50_Finnish_EnergyEfficiency,"Qkaukolmp is the annual consumption of district heat, kWh/a."
+51_Finnish_EnergyEfficiency,"Qkaukojhdytys is the annual consumption of district cooling, kWh/a."
+52_Finnish_EnergyEfficiency,"Qpolttoaina,i is the annual consumption of energy contained in fuel i, kWh/a."
+53_Finnish_EnergyEfficiency,"Wshk is the annual consumption of electricity, taking into account any reductions of energy sourced  from  freely  utilisable  environmental  energy  using  equipment  belonging  to  the building to the extent where this has been used in the building to cover energy consumption based on standardised use taking place in the building, kWh/a."
+54_Finnish_EnergyEfficiency,fkaukolmp is the energy carrier factor for district heat.
+55_Finnish_EnergyEfficiency,fkaukojhdytys is the energy carrier factor for district cooling.
+56_Finnish_EnergyEfficiency,"ffuel,i is the energy carrier factor for fuel i. felectricity is the energy carrier factor for electricity."
+57_Finnish_EnergyEfficiency,"Anetto is the net heated area of the building, m. The figures to be used as the energy carrier factors are the figures provided under the Land Use and Building Act."
+58_Finnish_EnergyEfficiency,Section 8 Calculation method requirements.
+59_Finnish_EnergyEfficiency,"Calculations shall take place using a calculation method taking at least the following factors into account: a)  the  thermal  characteristics  of  building  elements  and  their  connections,  the  buildings airtightness, ventilation air flow; b) indoor air temperature; c) the demand for domestic hot water; d) ventilation heat recovery; e)  the  thermal  loads  from  humans,  lighting,  electrical  appliances,  domestic  hot  water  and sunlight; f) the heat and electrical energy demand of the space and ventilation heating system; g) the heat and electrical energy demand of the domestic hot water preparation system; h) the electrical energy demand of the ventilation system; i) the electrical energy demand of consumer equipment and lighting."
+60_Finnish_EnergyEfficiency,The  building's  calculated  consumption  of  delivered  energy  may  be  calculated  using  the monthly calculation method for buildings the indoor air temperature control of which does not require cooling or where cooling is only required for spaces the net heated area of which is less than 10 of the buildings net heated area or the net heated area of which is less than 50 m2.
+61_Finnish_EnergyEfficiency,"If  the  building's  indoor  air  temperature  control  requires  cooling,  the  buildings  calculated consumption  of  delivered  energy  shall  be  calculated  using  a  calculation  method  that,  in addition to the factors specified in subsection 1, also takes into account the cooling systems heat and electrical energy demand and the heat transfer calculations of which take into account the  timedependent  heat  storage  capacity  of  structures  at  time  steps  of  one  hour  at  the maximum (dynamic calculation method)."
+62_Finnish_EnergyEfficiency,Section 9 Weather data.
+63_Finnish_EnergyEfficiency,The E-value shall be calculated in accordance with the weather data for climatic zone I of Annex 1.
+64_Finnish_EnergyEfficiency,Section 10 Outdoor air flows and room temperatures.
+65_Finnish_EnergyEfficiency,The E-value shall be calculated using the following occupancy period outdoor air flows and heating and cooling limit temperatures for room temperature.
+66_Finnish_EnergyEfficiency,Extract air flows shall be calculated using values corresponding to outdoor air flows.
+67_Finnish_EnergyEfficiency,The outdoor air flow used in the calculations for buildings other than those in intended use categories 1 and 2 outside the occupancy period shall be at least 0.15 dm3/s per m2.
+68_Finnish_EnergyEfficiency,"For  buildings  of  intended  use  category  2  where  residents  have  the  opportunity  to  control supply  and  extract  air  flows  in  a  manner  whereby  these  can  dwelling  unitspecifically  be increased by at least 30 and decreased by at least 40 from the air flow rates of the design occupancy period, the outdoor air flow rate used for the building may be 0.4 dm3/s per m2."
+69_Finnish_EnergyEfficiency,Section 11 Standardised use of buildings.
+70_Finnish_EnergyEfficiency,"The daily and weekly occupancy period of a building, the average usage rate of lighting and consumer equipment and the average human occupancy rate during the buildings occupancy period as well as the internal thermal loads per net heated area to be used in the calculation of the Evalue are as follows."
+71_Finnish_EnergyEfficiency,"The  annual  thermal  load  from  lighting,  consumer  equipment  and  human  occupancy  Q (kWh/m2) shall be calculated using the formula."
+72_Finnish_EnergyEfficiency,k  is  the  average  usage  rate  of  lighting  and  consumer  equipment  and  the  average  human occupancy rate during the buildings period of occupancy.
+73_Finnish_EnergyEfficiency,P is the thermal load W/m2.
+74_Finnish_EnergyEfficiency,"d  is the number of hours of building occupancy per day h. w is the number of days of building occupancy per week d. The  monthly  thermal  load  from  lighting,  consumer  equipment  and  humans  shall  be determined on the basis of the annual thermal load on the basis of the number of days in the month."
+75_Finnish_EnergyEfficiency,The operating time of the ventilation system shall be calculated by adding to the occupancy period in accordance with subsection 1 one hour before the start of the occupancy period and one hour after the end of the occupancy period.
+76_Finnish_EnergyEfficiency,Section 12 Standardised use of domestic hot water.
+77_Finnish_EnergyEfficiency,The  following  net  heating  energy  demand  figures  for  each  intended  use  category  per  a buildings net heated area shall be used as the net heating energy demand for the standardised use of domestic hot water.
+78_Finnish_EnergyEfficiency,"In  category  1,  the net  heating  energy  demand  for domestic  hot  water  is,  however, at  most 4,200 kWh per year per dwelling unit."
+79_Finnish_EnergyEfficiency,Values that are 15 lower than the abovementioned values may be used in the calculation of  the  net  heating  energy  demand  for  domestic  hot  water  if  the  buildings  domestic  water network  is  equipped  with  a  constant  pressure  valve  or  other  corresponding  pressure  control technology.
+80_Finnish_EnergyEfficiency,"When calculating the E-value for a building with multiple intended uses, the building shall be divided into calculation zones corresponding to the intended uses and occupancy periods."
+81_Finnish_EnergyEfficiency,Section 14 Special spaces and certain technical systems.
+82_Finnish_EnergyEfficiency,"The  calculation  of  the  Evalue  for  a  restaurant,  professional  kitchen,  canteen,  caf, laboratory or other special space in a building shall, as regards such spaces, take place using initial data corresponding to the intended use of the building or building unit."
+83_Finnish_EnergyEfficiency,Section 15 Net heating energy demand.
+84_Finnish_EnergyEfficiency,"The  net  heating  energy  demand  for  a  buildings spaces  shall  be  calculated  on  the  basis  of conduction loss, leakage air heat loss and the heating of replacement air and supply air in the space  to  room  temperature,  less the  impact  of  the  sun  and  internal thermal loads."
+85_Finnish_EnergyEfficiency,Any  solar protection  solutions  in  the  building  shall  be  taken  into  account  in  the  calculation  of  solar energy gains for the building.
+86_Finnish_EnergyEfficiency,The net heating energy demand for ventilation shall be calculated on the basis of the heating of air after heat recovery to supply air temperature and any heating before heat recovery.
+87_Finnish_EnergyEfficiency,The  net  heating  energy  demand  for  domestic  hot  water  shall  be  calculated  in  accordance with section 12.
+88_Finnish_EnergyEfficiency,Section 16 Taking heat loss into account in calculations of E-value.
+89_Finnish_EnergyEfficiency,"When calculating the Evalue, the heat loss from the building envelope shall be calculated on  the  basis  of  the  internal  dimensions  of  the  building  envelope."
+90_Finnish_EnergyEfficiency,Any  thermal  bridges  of structures  and  their  connections  shall  be  taken  into  account  in  the  calculations.
+91_Finnish_EnergyEfficiency,The impact of the ground and crawl space on heat loss shall be taken into account in heat loss calculations.
+92_Finnish_EnergyEfficiency,Section 17 Taking leakage air flow into account in calculations of E-value.
+93_Finnish_EnergyEfficiency,"When calculating the Evalue, the design value shall be used as the air leakage rate figure for  the  building  envelope  if  airtightness  is  proven  by  an  industrial  building  construction quality assurance procedure or will be proven by measurements."
+94_Finnish_EnergyEfficiency,"In other cases, the value of 4 m3/(h m2) shall be used as the air leakage rate figure for the building envelope."
+95_Finnish_EnergyEfficiency,"Leakage air flow qv,leakage air shall be calculated using the formula."
+96_Finnish_EnergyEfficiency,"qv,vuotoilma is the leakage air flow, m/s."
+97_Finnish_EnergyEfficiency,"q50 is the air leakage rate figure for the building envelope, m3/(hm2)."
+98_Finnish_EnergyEfficiency,"Avaippa is the area of the building envelope, m2."
+99_Finnish_EnergyEfficiency,"x is a factor which for singlestorey buildings is 35, for twostorey buildings is 24, for three and fourstorey buildings is 20 and for buildings taller than these is 15."
+100_Finnish_EnergyEfficiency,3600 is a factor converting the air flow from m3/h to m3/s.
+101_Finnish_EnergyEfficiency,"If  the  building  is  connected  to  a  heating  system  where  heat  is  conveyed  via  heat  pipes external  to  the  building  from  a  shared  heat  exchanger  or  heat  generation  unit  to  several buildings, the heat loss from those pipes shall be divided between the buildings in proportion to their areas."
+102_Finnish_EnergyEfficiency,"The  indoor  temperature  used  for  wet  spaces  shall  be 22 C.  The  share  of  the  electric  underfloor  heating  of  the  wet  spaces  of  the  net  heating energy demand of the spaces of a dwelling unit is, however, at most a share calculated on the basis of the installed output of the electric underfloor heating presented in the design plan and using an operating time of 8,760 hours."
+103_Finnish_EnergyEfficiency,"If  the  circulation  piping  is  located  inside  the  building envelopes insulation, 25 of the calculated domestic hot water circulation heat loss shall be added  to  the  thermal  load  of  the  spaces  of  the  building."
+104_Finnish_EnergyEfficiency,"If  the  circulation  piping  is  located inside the building envelope, 50 of the calculated domestic hot water circulation heat loss shall  be  added  to  the  thermal  load  of  the  spaces  of  the  building."
+105_Finnish_EnergyEfficiency,"If  the  domestic  hot  water cylinder  is  located  inside  the  building  envelope,  50  of  the  calculated  domestic  hot  water cylinder heat loss shall be added to the thermal load of the spaces of the building."
+106_Finnish_EnergyEfficiency,Supplementary  heating  energy  resulting  from  any  temperature  restrictions  and  partload sizing shall be included in the heating systems energy consumption in the calculations.
+107_Finnish_EnergyEfficiency,Section 20 Ventilation systems.
+108_Finnish_EnergyEfficiency,The air flows and operating times of a buildings ventilation system shall be calculated in accordance  with  sections  10  and  11.
+109_Finnish_EnergyEfficiency,"The  electrical  energy  consumption  of  a  mechanical ventilation  system  shall  be  calculated  on  the  basis  of  air  flows,  specific  fan  powers  and operating times for all air handling units and powered roof ventilators in the building."
+110_Finnish_EnergyEfficiency,Section 21 Cooling systems.
+111_Finnish_EnergyEfficiency,"When  calculating  the  energy  consumption  of  a  buildings  cooling  system,  the  energy consumption of cooling energy production and the electrical energy consumption of auxiliary units  shall  be  taken  into  account  where  the  use  of  the  systems  is  required  for  indoor temperature control."
+112_Finnish_EnergyEfficiency,Section 22 Electricity use for lighting and consumer equipment.
+113_Finnish_EnergyEfficiency,The annual consumption of electrical energy for lighting and consumer equipment used in the building shall be calculated in accordance with section 11 on the basis of the thermal load of  these.
+114_Finnish_EnergyEfficiency,The  electrical  energy  consumption  of  lighting  and  consumer  equipment  equals  the thermal load of these.
+115_Finnish_EnergyEfficiency,A buildings heat loss may at most equal the reference heat loss determined  for  the  building  on  the  basis  of  reference  values.
+116_Finnish_EnergyEfficiency,"As  regards  building  heat  loss,  only  the  requirements  set  for  heat  loss  from  the  building envelope apply to a detached or semidetached house designed for use as a holiday dwelling for at least four months per year."
+117_Finnish_EnergyEfficiency,Section 24 Building envelope heat loss.
+118_Finnish_EnergyEfficiency,Heat  loss  from  the  building  envelope  shall  be  calculated  on  the  basis  of  the  areas  and thermal  transmittance  coefficients  of  the  various  building  elements  using  the  following formula.
+119_Finnish_EnergyEfficiency,"Hjoht is the heat loss from the building envelope, W/K."
+120_Finnish_EnergyEfficiency,"U is the thermal transmittance coefficient for the building element, W/(mK)."
+121_Finnish_EnergyEfficiency,"A is the area of the building element, m. The reference value for the building envelope heat loss for a warm space or a cooled cold space  shall  be  calculated  using  the  following  reference  values  as  the  thermal  transmittance coefficients for the building elements."
+122_Finnish_EnergyEfficiency,The reference value for the building envelope heat loss for a portable building and a semiwarm  space  shall  be  calculated  using  the  following  reference  values  as  the  thermal transmittance coefficients for the building elements.
+123_Finnish_EnergyEfficiency,"For a detached or semidetached house designed for use as a holiday dwelling  for at least four months per year, the reference value for building envelope heat loss shall be calculated by using the following reference values as the thermal transmittance coefficients of the building elements."
+124_Finnish_EnergyEfficiency,"The reference value for a buildings total combined window area is 15 of the sum total of the floor  plate areas  of  the  buildings  storeys that  are  fully  or in  part  above  the  ground  but, however, at most 50 of the buildings facade area."
+125_Finnish_EnergyEfficiency,The area of a window shall be calculated on the basis of the measurements of the external perimeter of the window.
+126_Finnish_EnergyEfficiency,The size or geometry data of the designed building shall be used for the calculations.
+127_Finnish_EnergyEfficiency,The areas  of  the  various  building  elements  of  the  building  envelope  shall  be  determined  on  the basis of the buildings total internal dimensions.
+128_Finnish_EnergyEfficiency,The designed building elementspecific thermal transmittance coefficients and window areas shall be used in the calculation of heat loss from the envelope for the building design solution.
+129_Finnish_EnergyEfficiency,Section 25 Calculating heat loss from leakage air of buildings.
+130_Finnish_EnergyEfficiency,The leakage air heat loss from a building shall be calculated using the following formula.
+131_Finnish_EnergyEfficiency,"Hvuotoilma is the leakage air heat loss, W/K."
+132_Finnish_EnergyEfficiency,"i is the density of air, 1.2 kg/m."
+133_Finnish_EnergyEfficiency,"cpa is the specific heat capacity of air, 1,000 Ws/(kg K)."
+134_Finnish_EnergyEfficiency,"qv,vuotoilma is the leakage air flow, m/s."
+135_Finnish_EnergyEfficiency,"The  leakage  air  flow  qv,vuotoilma  shall  be  determined  in  accordance  with  section  17."
+136_Finnish_EnergyEfficiency,"When calculating the reference heat loss of a building, the value of 2.0 m3/(h m2) shall be used as the reference value for the air leakage rate figure for the building envelope."
+137_Finnish_EnergyEfficiency,"When  calculating  the  heat  loss  for  a  buildings  design  solution,  the  design  value  shall  be used as the value of the air leakage rate figure for the building envelope."
+138_Finnish_EnergyEfficiency,"If the achievement of the design value for airtightness is not proven with measurements or by an industrial building construction quality assurance procedure, the value used as the air leakage rate figure shall be 4.0 m3/(h m2)."
+139_Finnish_EnergyEfficiency,Section 26 Calculating heat loss from building ventilation.
+140_Finnish_EnergyEfficiency,The  leakage  air  heat  loss  from  the  ventilation  of  a  building  shall  be  calculated  using  the following formula.
+141_Finnish_EnergyEfficiency,"Hiv is the specific heat loss from ventilation, W/K."
+142_Finnish_EnergyEfficiency,"i is the density of air, 1.2 kg/m."
+143_Finnish_EnergyEfficiency,"cpi is the specific heat capacity of air, 1,000 Ws/(kg K)."
+144_Finnish_EnergyEfficiency,"qv,poisto is the calculated extract air flow in accordance with standardised use, m/s."
+145_Finnish_EnergyEfficiency,"td is the ventilation systems mean daily operating time ratio, h/24 h.tw is the ventilation systems weekly operating time ratio, 24 h/7 days."
+146_Finnish_EnergyEfficiency,a is the annual efficiency of heat recovery from ventilation extract air.
+147_Finnish_EnergyEfficiency,The  same  air  flow  values  and  operating  times  shall  be  used  for  the  calculations  of  the reference heat loss from ventilation and the design solutions heat loss from ventilation.
+148_Finnish_EnergyEfficiency,The  ventilation  air  flow  shall  be  calculated  in  accordance  with  section  10.
+149_Finnish_EnergyEfficiency,The ventilation operating time shall be calculated by adding one hour before and one hour after the buildings occupancy period in accordance with section 11.
+150_Finnish_EnergyEfficiency,"For  buildings  of intended use category 9, the buildings design values shall be used as air flows and ventilation operating time."
+151_Finnish_EnergyEfficiency,"In reference heat loss calculations, the value used as the annual efficiency of heat recovery from ventilation extract air of the buildings ventilation system shall be 55."
+152_Finnish_EnergyEfficiency,"If mechanical ventilation is used, the annual efficiency of the extract air heat recovery of the air handling unit shall be determined by using the heat recovery equipments properties and the  design  air  flows  of  the  air  handling  unit  as  well  as  weather  data  for  climatic  zone  I provided in Annex 1."
+153_Finnish_EnergyEfficiency,The annual efficiency of the extract air heat recovery of two or more air handling units shall be determined as the weighted annual efficiency of the design air flows and operating times.
+154_Finnish_EnergyEfficiency,The heat loss from ventilation for the buildings design solution shall be calculated by using the  annual  efficiency  of  the  extract  air  heat  recovery  determined  in  this  manner  and  the  air flow values and operating times in accordance with subsection 3.
+155_Finnish_EnergyEfficiency,The air  leakage  rate  figure  may  exceed  the  value  of  4.0  m3/(h  m2)  if  so  required  by  structural solutions needed for the use of the building.
+156_Finnish_EnergyEfficiency,"Section 28 Ground frost insulation, thermal insulation of foundation walls and insulation between certain spaces."
+157_Finnish_EnergyEfficiency,"To  prevent  ground  frost  damage,  ground  frost  insulation  and  any  thermal  insulation  of foundation  walls  not  included  in  the  building  envelope  shall  be  taken  into  account  in  the design of thermal insulation for a buildings base floor."
+158_Finnish_EnergyEfficiency,Section 29 Calculated room temperature for the summer season.
+159_Finnish_EnergyEfficiency,The calculated room temperature for the summer season may not exceed the cooling limit value of 27 C for intended use category 2 and the cooling limit value of 25 C for intended use categories 38 by more than 150 degree hours between 1 June and 31 August while using air flows in accordance with the design solution.
+160_Finnish_EnergyEfficiency,Conformity of the room temperature for the summer season shall be verified by temperature calculations for the various space types.
+161_Finnish_EnergyEfficiency,"With the exception of air flow, the initial data used in the calculations  shall  be in  accordance  with  the  calculation of the  E-value."
+162_Finnish_EnergyEfficiency,A dynamic calculation tool shall be used for the calculation of the room temperature for the summer season.
+163_Finnish_EnergyEfficiency,The specific fan power of a ventilation system may exceed the above values if so required by the indoor climate in accordance with the buildings intended use.
+164_Finnish_EnergyEfficiency,Section 31 Energy consumption measurement in buildings.
+165_Finnish_EnergyEfficiency,A  building  shall  have  measuring  instruments  and  measurement  readiness  enabling  the measurement  of  energy  consumption  so  that  the  buildings  energy  consumption  can  be monitored  as  regards  the  most  important  consumption  points  and  as  regards  the  buildings total consumption or such a monitoring opportunity shall be easy to put in place.
+166_Finnish_EnergyEfficiency,Section 32 Heating capacity and electrical power demand of buildings.
+167_Finnish_EnergyEfficiency,The heating capacity of a buildings heating system shall be designed so that the designed temperature conditions and ventilation of the spaces can be maintained at the design outdoor temperatures of the climatic zone in accordance with the location of the building presented in Annex 1.
+168_Finnish_EnergyEfficiency,"In design, opportunities to reduce the need for peak power and to improve the controllability of electric power consumption shall be taken into account."
+169_Finnish_EnergyEfficiency,"A  building  of  intended  use  category  1  or  2  meets  the  requirements  set  for  energy performance if: 1)  the  buildings  heat  loss  is  at  most  equal  to  the  reference  heat  loss  determined  for  the building  on  the  basis  of  the  structural  energy  efficiency  reference  values  calculated correspondingly to what is set out in sections 24, 25 and 26."
+170_Finnish_EnergyEfficiency,"The reference values for building element  thermal  transmittance  coefficients,  air  leakage  rate  and  annual  efficiency  of ventilation extract air heat recovery are."
+171_Finnish_EnergyEfficiency,Section 34 Energy declarations.
+172_Finnish_EnergyEfficiency,An energy declaration shall be drawn up when designing a building.
+173_Finnish_EnergyEfficiency,The energy declaration shall be updated before the commissioning of the building if changes have taken place in designs used as a basis for the permitstage energy declaration.
+174_Finnish_EnergyEfficiency,The person responsible  for  the  construction  stage  shall  make  an  entry  in  the  building  inspection documents concerning compliance of construction work with the information presented in the energy declaration.
+175_Finnish_EnergyEfficiency,Chapter 5 Transitional provisions and entry into force.
+176_Finnish_EnergyEfficiency,Section 35 Entry into force.
+177_Finnish_EnergyEfficiency,This Decree enters into force on 1 January 2018.
+178_Finnish_EnergyEfficiency,"Upon the entry into force of this Decree, pending projects shall be subject to the rules valid at the time of entry into force of this Decree."

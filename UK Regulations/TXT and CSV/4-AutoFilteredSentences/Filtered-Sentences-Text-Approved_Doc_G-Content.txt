@@ -1,0 +1,2449 @@
+However, building work
+
+may be subject to more than one requirement of
+
+the Building Regulations.
+
+
+Consideration of technical risk
+
+In relation to the installation of new and
+
+replacement sanitation and hot water services,
+
+building work must satisfy all the technical
+
+requirements set out in Schedule 1 to the
+
+Building Regulations.
+
+
+Attention should be paid
+
+in particular to the need to comply with Part
+
+A (Structure), Part B (Fire safety), Part C (Site
+
+preparation and resistance to contaminants and
+
+moisture), Part J (Combustion appliances and
+
+fuel storage systems), Part L (Conservation of
+
+fuel and power) and Part P (Electrical safety),
+
+as well as Part G.
+
+INTRODUCTION
+
+How to use this 
+
+In this document the following conventions
+
+have been adopted to assist understanding and
+
+interpretation:
+
+a. Texts shown against a green background
+
+are extracts from the Building Regulations or
+
+Building (Approved Inspectors etc.)
+
+
+It should be remembered
+
+however that, as noted above, building works
+
+must comply with all the other applicable
+
+provisions of Building Regulations.
+
+
+It should be remembered
+
+however that, as noted above, building works
+
+must comply with all the other applicable
+
+provisions of Building Regulations.
+
+
+BCB means Building Control Body: a local
+
+authority or an Approved Inspector.
+
+
+Building means any permanent or temporary
+
+building, but not any other kind of structure or
+
+erection, and a reference to a building includes
+
+a reference to part of a building.
+
+
+Combined temperature and pressure relief
+
+valve means a mechanically operated valve that
+
+opens to discharge water when a fixed (factory
+
+set) temperature or fixed (factory set) pressure
+
+is exceeded.
+
+
+Direct heating means a method of heating in
+
+which the heat source is integral with the hot water
+
+vessel.
+
+
+Domestic hot water means water that has been
+
+heated for cooking, food preparation, personal
+
+washing or cleaning purposes.
+
+
+Earthcloset means a closet having a movable
+
+receptacle for the reception of faecal matter and
+
+its deodorisation by the use of earth, ashes or
+
+chemicals, or by other methods.
+
+
+Exempt buildings and work means the erection
+
+of any building or extension of a kind described
+
+in regulation 9 of and Schedule 2 to the Building
+
+Regulations 2010; or the carrying out of any
+
+work to or in connection with such a building or
+
+extension, if after the carrying out of that work it
+
+is still a building or extension of a kind described
+
+in that Schedule.
+
+
+Expansion vessel means a vessel to temporarily
+
+accommodate the expansion of water from the
+
+unvented hot water storage vessel as it is heated.
+
+
+Harvested rainwater means rainwater harvested
+
+from roofs or other suitable surfaces and
+
+collected and stored.
+
+
+Heated wholesome water means water that,
+
+when cold, was wholesome in accordance with
+
+the definition below and has been subjected to
+
+a heat source to increase its temperature.
+
+
+Hot water storage system means a vessel
+
+for storing:
+
+a. heated wholesome hot water or softened
+
+wholesome hot water for subsequent use
+
+b. water that is used to heat other water
+
+together with any ancillary safety devices
+
+described in paragraphs 3.10 and 3.11 of this
+
+ and all other applicable
+
+operating devices.
+
+
+Hot water storage system package means
+
+a hot water storage system having the
+
+safety devices described in 3.10 and 3.17 of
+
+this  factoryfitted by the
+
+manufacturer, together with a kit containing other
+
+applicable devices supplied by the manufacturer
+
+to be fitted by the installer.
+
+
+Hot water storage system unit means a hot
+
+water storage system having the safety devices
+
+described in 3.10 and 3.17 of this Approved
+
+Document and all other applicable operating
+
+devices factoryfitted by the manufacturer.
+
+
+Indirect heating means a method of heating
+
+stored water through a heat exchanger.
+
+
+Kitchen means a room or part of a room which
+
+contains a sink and food preparation facilities
+
+Material alteration means an alteration which
+
+results in a building or a controlled service
+
+or fitting not complying with, or being more
+
+unsatisfactory than it was before in relation to
+
+Schedule 1 requirements in relation to structure,
+
+means of warning and escape, internal and
+
+external fire spread, fire service access and
+
+facilities, and access and use.
+
+
+Nonselfresetting energy cutout means a
+
+device that will interrupt the supply of heat to a
+
+hot water storage vessel when a fixed (factory
+
+set) temperature is exceeded.
+
+
+If this protective
+
+device is actuated it should only be possible to
+
+reset it manually
+
+GENERAL GUIDANCE
+
+Preparation of food means handling, making
+
+and cooking of food.
+
+
+Pressure relief valve means a mechanically
+
+operated valve that opens to discharge water
+
+when a fixed (factory set) pressure is exceeded.
+
+
+Primary thermal store means a store of heat
+
+energy that can be used to heat domestic
+
+hot water by means of a heat exchanger.
+
+
+Risk assessment for the purposes of this
+
+document means the identification of the hazards
+
+associated with a process or activity combined
+
+with an assessment of the probability and
+
+consequences of each hazard.
+
+
+Room for residential purposes means a room,
+
+or a suite of rooms, which is not a dwellinghouse or a flat and which is used by one or
+
+more persons to live and sleep in, and includes
+
+a room in a hostel, a hotel, a boarding house, a
+
+hall of residence or a residential home, but does
+
+not include a room in a hospital, or other similar
+
+establishment, used for patient accommodation.
+
+
+Sanitary accommodation means a room
+
+containing a WC or urinal, whether or not it also
+
+contains other sanitary appliances.
+
+
+Sanitary appliance means WC, urinal, bath,
+
+shower, washbasin, sink, bidet and drinking
+
+fountain.
+
+
+Sanitary convenience means closets and urinals.
+
+
+Sink means a receptacle used for holding water
+
+(for preparation of food or washing up) supplied
+
+through a tap and having a wastepipe.
+
+
+Softened wholesome water means water
+
+which would be regarded as wholesome for the
+
+purposes of regulations made under section
+
+67 of the Water Industry Act 1991 (standards
+
+of wholesomeness) as they apply for the
+
+purposes of Part G of Schedule 1 in accordance
+
+with paragraph (2c) but for the presence of
+
+sodium in excess of the level specified in those
+
+regulations if it is caused by a water softener
+
+or water softening process which reduces the
+
+concentrations of calcium and magnesium.
+
+
+Tundish means a device, installed in the
+
+discharge pipe from a valve, that provides an
+
+air break allowing discharge to be conducted
+
+safely to a place of termination.
+
+
+Temperature relief valve means a mechanically
+
+operated valve that opens to discharge water
+
+when a fixed (factory set) temperature is
+
+exceeded.
+
+
+Unvented (closed) hot water storage system
+
+means a vessel fed with cold water from a supply
+
+pipe or dedicated storage cistern (without a
+
+vent pipe) and in which water is heated directly
+
+or indirectly.
+
+
+Expansion of the water when it is
+
+heated is accommodated either internally or
+
+externally and the system is fitted with safety
+
+devices to prevent water temperatures exceeding
+
+100C, and other applicable operating devices to
+
+control primary flow, prevent backflow, control
+
+working pressure and accommodate expansion.
+
+
+Urinal means an appliance used for reception
+
+and disposal of urine.
+
+
+Vented (open) hot water storage system means
+
+a vessel fed with cold water from a dedicated
+
+storage cistern.
+
+
+Watercloset (WC) means a closet that has
+
+a separate fixed receptacle connected to a
+
+drainage system and separate provision for
+
+flushing from a supply of clean water either by
+
+the operation of a mechanism or by automatic
+
+action.
+
+
+Wholesome water means water complying
+
+with the requirements of regulations made under
+
+Section 67 (Standards of wholesomeness) of the
+
+Water Industry Act 1991.
+
+
+In addition, Building Regulations
+
+may apply in cases where the purposes for
+
+which or the manner or circumstances in which
+
+a building or part of a building is used change in
+
+GENERAL GUIDANCE
+
+Under regulation 4 of the Building Regulations
+
+2010, building work should be carried out in such
+
+a way that, on completion of work,
+
+i. the building complies with the applicable
+
+Parts of Schedule 1 of the Building Regulations,
+
+ii.
+
+
+Where
+
+there is a material change of use the Building
+
+Regulations set requirements that must be met
+
+before the building can be used for its new purpose.
+
+
+a building is used as an institution where
+
+previously it was not
+
+ a building is used as a public building where
+
+previously it was not
+
+ a building no longer comes within the
+
+exemptions in Schedule 2 to the Building
+
+Regulations where previously it did
+
+ a building which contains at least one
+
+dwelling contains a greater or lesser number
+
+of dwellings than it did previously
+
+ a building contains a room for residential
+
+purposes where previously it did not
+
+ a building which contains at least one room
+
+for residential purposes contains a greater
+
+or lesser number of such rooms than it did
+
+previously
+
+ a building is used as a shop where previously
+
+it was not
+
+Parts G1, G3(1) to (3) and G4 to G6 will apply to
+
+all the material changes of use mentioned above.
+
+
+This means that whenever such changes occur
+
+the building must be brought up to the standards
+
+required by Parts G1 and G3 to G6.
+
+
+When undertaking work on or in connection with
+
+buildings with special historic or architectural
+
+value, the aim should be to improve sanitation
+
+and hot water safety where and to the extent
+
+that it is possible provided that the work does
+
+not prejudice the character of the host building
+
+or increase the risk of longterm deterioration to
+
+the buildings fabric or fittings.
+
+
+In order to join such a scheme a person must
+
+demonstrate competence to carry out the type
+
+of work the scheme covers, and also the ability
+
+to comply with all relevant requirements in the
+
+Building Regulations.
+
+
+This is restricted
+
+to a single appliance and any associated
+
+controls and must not be connected to, or
+
+form part of, any other fixed building service.
+
+
+the replacement of a sanitary convenience
+
+with one that uses no more water than the
+
+one it replaces, a washbasin, sink, bidet,
+
+fixed bath, or a shower but only where the
+
+work does not include any work to:
+
+ underground drainage
+
+ the hot or cold water system or aboveground drainage which could prejudice
+
+the health and safety of any person on
+
+completion of work
+
+iv.
+
+
+replacing any part or adding an output or control
+
+device to an existing cold water supply
+
+v. providing a hot water storage system that
+
+has a storage vessel with a capacity not
+
+exceeding 15 litres provided that any electrical
+
+work associated with the installation is also
+
+not notifiable.
+
+
+Please note that the Regulations do not require
+
+the provision of hot or cold water systems to
+
+such exempt buildings, but if such systems are
+
+provided they must meet the minimum hygiene
+
+and safety requirements in those Parts.
+
+
+All other Classes of buildings within Schedule 2
+
+retain their exemption from compliance with
+
+Part G.
+
+Materials and workmanship
+
+Any building work which is subject to the
+
+requirements imposed by Schedule 1 to the
+
+Building Regulations shall be carried out in
+
+accordance with regulation 7.
+
+
+(1) There must be a suitable installation for the provision of:
+
+ (a) wholesome water to any place where drinking water is
+
+drawn off;
+
+ (b) wholesome water or softened wholesome water to any
+
+washbasin or bidet provided in or adjacent to a room containing
+
+a sanitary convenience;
+
+ (c) wholesome water or softened wholesome water to any
+
+washbasin, bidet, fixed bath or shower in a bathroom; and
+
+ (d) wholesome water to any sink provided in any area
+
+where food is prepared.
+
+
+(2) There must be a suitable installation for the provision of
+
+water of suitable quality to any sanitary convenience fitted with
+
+a flushing device.
+
+
+1.3 Where a building is supplied with water
+
+from a source other than a water undertaker
+
+or licensed water supplier, the water shall be
+
+considered to be wholesome if it meets the criteria
+
+set out in the Private Water Supplies Regulations
+
+2009 (SI 2009/3101) in England or the Private
+
+Water Supplies (Wales) Regulations (SI 2010/66)
+
+in Wales.
+
+
+1.14 Any system/unit used to supply dwellings
+
+with water from alternative sources should be
+
+subject to a risk assessment by the system
+
+designer and manufacturer, and appropriate
+
+testing carried out to demonstrate that any risks
+
+have been suitably addressed.
+
+
+Reasonable provision must be made by the installation of
+
+fittings and fixed appliances that use water efficiently for the
+
+prevention of undue consumption of water.
+
+
+(1) The potential consumption of wholesome water by
+
+persons occupying a new dwelling must not exceed
+
+the requirement in paragraph (2).
+
+
+(3) This paragraph applies where the planning permission
+
+under which the building work is carried out
+
+ (a) specifies the optional requirement in paragraph (2)(b); and
+
+ (b) makes it a condition that that requirement must be
+
+complied with.
+
+
+(1) Where regulation 36 applies, the person carrying out
+
+the work must give the local authority a notice which
+
+specifies
+
+ (a) which of the requirements in regulation 36(2)(a) or (b)
+
+applies to the dwelling; and
+
+ (b) the potential consumption of wholesome water per
+
+person per day in relation to the completed dwelling.
+
+
+WATER EFFICIENCY 
+
+Guidance
+
+In the Secretary of States view Requirement G2
+
+will be met for new dwellings if:
+
+a. the estimated consumption of wholesome
+
+water resulting from the design of cold and
+
+hot water systems (calculated in accordance
+
+with the methodology set out in Appendix A
+
+to this approved document and taking into
+
+account the use of any alternative sources
+
+of water provided in accordance with G1(2))
+
+is not greater than the standard set by the
+
+Secretary of State of 125 litres/person/day of
+
+wholesome water or 110 litres/person/day
+
+where the optional requirement applies;
+
+b. the manner in which sanitary appliances and
+
+white goods used in the design calculation
+
+undertaken to demonstrate compliance with
+
+paragraph (a) are provided and installed in the
+
+dwelling takes account of the other provisions
+
+in this approved document;
+
+c. the manner in which any alternative sources
+
+of water used in the design calculation
+
+undertaken to demonstrate compliance with
+
+paragraph (a) are supplied to the dwelling,
+
+takes account of other provisions in this
+
+approved document;
+
+d. a record of the sanitary appliances and
+
+white goods used in the water consumption
+
+calculation and installed in the dwelling
+
+is provided along with sufficient other
+
+information enabling building owners or
+
+occupiers to maintain the building and its
+
+services so as to maintain the water efficiency
+
+of the building.
+
+
+Where a building consists of more than one
+
+dwelling (such as a block of flats) it should be
+
+designed so that the estimated consumption of
+
+wholesome water resulting from the design of the
+
+cold and hot water systems for each individual
+
+dwelling should be no greater than the target.
+
+
+General
+
+2.1 The water used by sanitary appliances
+
+and relevant white goods in a new dwelling
+
+should be calculated using the manufacturers
+
+declared value for water consumption of each
+
+of those appliances and white goods.
+
+
+2.2 The estimated water consumption of a
+
+new dwelling should be calculated in accordance
+
+with the methodology set out in Appendix A,
+
+referred to as the water efficiency calculator.
+
+
+2.3 The estimated consumption of
+
+wholesome water of a new dwelling should
+
+be no more than 125 litres/person/day or
+
+110 litres/person/day where the optional
+
+requirement applies.
+
+
+2.4 Where alternative sources of water are to
+
+be used in the dwelling design, this should be
+
+reflected in the estimate of water use.
+
+
+2.6 Where the fittings approach is used, the
+
+water consumption of the fittings provided must
+
+not exceed the values in Table 2.1.
+
+
+If they do, the
+
+water efficiency calculator must be completed
+
+to demonstrate compliance.
+
+
+Similarly, where a
+
+shower is not to be provided or where a waste
+
+disposal unit, a water softener or water reuse
+
+is to be provided the water efficiency calculator
+
+must be completed.
+
+
+Where it applies, the estimated consumption
+
+of wholesome water calculated in accordance
+
+with the methodology in the water efficiency
+
+calculator, should not exceed 110 litres/person/day.
+
+
+2.9 The person carrying out the work must
+
+inform the BCB where the optional requirement
+
+applies.
+
+
+2.11 Where the fittings approach is used, the
+
+water consumption of the fittings provided must
+
+not exceed the values in Table 2.2.
+
+
+If they do, the
+
+water efficiency calculator must be completed
+
+to demonstrate compliance.
+
+
+Similarly, where a
+
+shower is not to be provided or where a waste
+
+disposal unit, a water softener or water reuse
+
+is to be provided the water efficiency calculator
+
+must be completed.
+
+
+2.14 In most cases, this notice must be given
+
+to the BCB no later than five days after the
+
+completion of the building work.
+
+
+However,
+
+where the BCB is an Approved Inspector and
+
+the dwelling is occupied before completion,
+
+the notice must be given no later than the day
+
+that the initial notice ceases to be in force in
+
+consequence of regulation 18 of the Building
+
+(Approved Inspectors etc) Regulations when this
+
+is earlier than five days after the completion of
+
+the work.
+
+
+2.15 It is permissible for the notice to be served
+
+on the BCB electronically provided the BCB has
+
+stated its willingness to receive the document by
+
+those means and it is delivered to the electronic
+
+address that the body has specified.
+
+
+(1) There must be a suitable installation for the provision of
+
+heated wholesome water or heated softened wholesome water to:
+
+ (a) any washbasin or bidet provided in or adjacent to a
+
+room containing a sanitary convenience;
+
+ (b) any washbasin, bidet, fixed bath and shower in a
+
+bathroom; and
+
+ (c) any sink provided in any area where food is prepared.
+
+
+(2) A hot water system, including any cistern or other vessel
+
+that supplies water to or receives expansion water from a hot
+
+water system, shall be designed, constructed and installed so as
+
+to resist the effects of temperature and pressure that may occur
+
+either in normal use or in the event of such malfunctions as may
+
+reasonably be anticipated, and must be adequately supported.
+
+
+(3) A hot water system that has a hot water storage vessel shall
+
+incorporate precautions to:
+
+ (a) prevent the temperature of the water stored in the
+
+vessel at any time exceeding 100C; and
+
+ (b) ensure that any discharge from safety devices is safely
+
+conveyed to where it is visible but will not cause a danger to
+
+persons in or about the building.
+
+
+(4) The hot water supply to any fixed bath must be so designed and
+
+installed as to incorporate measures to ensure that the temperature
+
+of the water that can be delivered to that bath does not exceed 48C.
+
+
+In the Secretary of States view Requirement
+
+G3(3) will be met for a hot water storage
+
+system that has a vented storage vessel if:
+
+a. the storage vessel has a suitable vent pipe
+
+connecting the top of the vessel to a point
+
+open to the atmosphere above the level of
+
+the water in the cold water storage cistern
+
+and over it; and,
+
+b. in addition to any thermostat, either the heat
+
+source, or the storage vessel is fitted with a
+
+device that will prevent the temperature of the
+
+stored water at any time exceeding 100C; and
+
+c. the hot water system has pipework that
+
+incorporates a provision for the discharge
+
+of hot water from the safety devices to an
+
+appropriate place open to the atmosphere
+
+where it will cause no danger to persons in
+
+or about the building.
+
+
+In the Secretary of States view Requirement
+
+G3(3) will be met for a hot water system that has
+
+an unvented storage vessel if:
+
+a. the storage vessel has at least two
+
+independent safety devices such as those
+
+that release pressure and so prevent the
+
+temperature of the stored water at any
+
+time exceeding 100C in addition to any
+
+thermostat; and
+
+b. the hot water system has pipework that
+
+incorporates a provision for the discharge of
+
+hot water from safety devices to be visible
+
+at some point and safely conveys it to an
+
+appropriate place open to the atmosphere
+
+where it will cause no danger to persons in
+
+or about the building.
+
+
+3.4 Electrical work associated with hot water
+
+systems should be carried out in accordance
+
+with BS7671:2008 Requirements for electrical
+
+installations (IEE Wiring Regulations 17th Edition).
+
+
+3.7 Pipework should be designed and installed
+
+in such a way as to minimise the transfer time
+
+between the hot water storage system and hot
+
+water outlets.
+
+
+Design and installation of directly
+
+or indirectly heated hot water
+
+storage systems
+
+General
+
+3.10 Hot water storage systems should be
+
+designed and installed in accordance with BS
+
+6700:2006  A1:2009 Specification for design,
+
+installation, testing and maintenance of services
+
+supplying water for domestic use within buildings
+
+and their curtilages or BS EN 12897:2006
+
+Water supply.
+
+
+Vented hot water storage systems
+
+3.12 Vented hot water storage systems
+
+should incorporate a vent pipe of an adequate
+
+size, but not less than 19mm internal diameter,
+
+connecting the top of the hot water storage
+
+vessel to a point open to the atmosphere above
+
+and over the level of the water in the cold water
+
+storage cistern.
+
+
+3.13 In addition to the vent pipe referred to
+
+in 3.12 and any thermostat provided to control
+
+the temperature of the stored water to a desired
+
+temperature, vented hot water storage systems
+
+should incorporate either:
+
+a. for all direct heat sources, a nonselfresetting
+
+energy cutout to disconnect the supply of
+
+heat to the storage vessel in the event of the
+
+storage system overheating; and,
+
+ for all indirect heat sources, an overheat 
+
+cutout to disconnect the supply of heat to
+
+the storage vessel in the event of the stored
+
+water overheating so that the temperature of
+
+the stored water does not exceed 100C; or
+
+b. an appropriate safety device, for example,
+
+a temperature relief valve or a combined
+
+temperature and pressure relief valve to
+
+safely discharge the water in the event of
+
+significant over heating.
+
+
+3.15 The cold water storage cistern into which
+
+the vent pipe discharges should be supported
+
+on a flat, level, rigid platform which is capable
+
+of safely withstanding the weight of the cistern
+
+when filled with water to the rim and fully
+
+supporting the bottom of the cistern over the
+
+whole of its area.
+
+
+Note: Where an existing metal cistern is
+
+replaced, or a plastic cistern is replaced by one
+
+with larger dimensions, the existing support
+
+should be upgraded, as necessary, with one in
+
+accordance with paragraph 3.15.
+
+
+3.16 The cistern should be accessible for
+
+maintenance, cleaning and replacement.
+
+
+These shall be in addition to
+
+any thermostat provided to control the desired
+
+temperature of the stored water.
+
+
+3.22 Any unvented hot water storage system
+
+up to 500 litres and less than 45kW should be in
+
+the form of a proprietary hot water storage
+
+system unit or package.
+
+
+The package and
+
+components should be appropriate to the
+
+circumstances in which they are used and should
+
+satisfy an appropriate standard that will ensure
+
+the requirements of regulation G3(2) and G3(3)
+
+will be met (e.g.
+
+
+3.23 Any unvented hot water storage system
+
+unit or package should be indelibly marked with
+
+the following information:
+
+a. the manufacturers name and contact details;
+
+b. a model reference;
+
+c. the rated storage capacity of the storage
+
+water heater;
+
+d. the operating pressure of the system and the
+
+operating pressure of the expansion valve;
+
+e. relevant operating data on each of the safety
+
+devices fitted; and
+
+f. the maximum primary circuit pressure and
+
+flow temperature of indirect hot water
+
+storage system units or packages.
+
+
+Where this is the
+
+case, the unvented hot water storage system
+
+should be designed to the safety requirements in
+
+3.17 by an appropriately qualified engineer.
+
+
+3.27 Any unvented hot water storage system
+
+having a power input of more than 45kW, but
+
+a capacity of 500 litres or less should be in
+
+the form of a proprietary hot water storage
+
+system unit or package.
+
+
+The package and
+
+components should be appropriate to the
+
+circumstances in which they are used and
+
+should satisfy an appropriate standard that
+
+will ensure the requirement of regulation G3(2)
+
+and G3(3) will be met (e.g.
+
+
+it is wired up to a motorised valve or some
+
+other suitable device to shut off the flow to the
+
+primary heater), the energy cutout should
+
+comply with the relevant European Standard
+
+(see paragraph 3.29) or the supplier or installer
+
+should be able to demonstrate that the device
+
+has equivalent performance to that set out in
+
+relevant standards.
+
+
+3.32 Where there is more than one energy cutout (see paragraph 3.35), each nonselfresetting
+
+energy cutout should be independent (e.g.
+
+
+Temperature and pressure relief devices
+
+3.34 Where relevant, appropriate pressure,
+
+temperature or temperature and pressureactivated safety devices should be fitted in addition
+
+to a safety device such as an energy cutout.
+
+
+In
+
+such cases there should be a second nonselfresetting energy cutout independent of the one
+
+provided in accordance with paragraph 3.18(a).
+
+
+3.37 Temperature relief valves (see paragraph
+
+3.18) should be sized to give a discharge rating
+
+at least equal to the total power input to the
+
+hot water storage system, when measured in
+
+accordance with Appendix F of BS 62832:1991
+
+or BS EN 1490:2000.
+
+
+3.38 Temperature relief valve(s) or combined
+
+temperature and pressure relief valve(s) (see
+
+paragraph 3.18) should be located directly on the
+
+storage vessel, such that the stored water does
+
+not exceed 100C.
+
+
+3.39 In hot water storage system units
+
+and packages, the temperature relief valve(s)
+
+(see paragraph 3.18) should be:
+
+a. factory fitted and should not be disconnected
+
+other than for replacement; and
+
+b. not relocated in any other device or fitting
+
+installed.
+
+
+3.41 The installation of an unvented system is
+
+notifiable building work which must be notified to
+
+the BCB before work commences.
+
+
+3.48 Where solar water heating systems are used,
+
+an additional heat source should be available.
+
+
+Note: The additional heat source should be
+
+used, when necessary, to maintain the water
+
+temperature to restrict microbial growth.
+
+
+3.49 As some solar hot water systems operate
+
+at elevated temperatures and pressures, and
+
+so all components should be rated to the
+
+appropriate temperatures and pressures.
+
+
+3.51 The diameter of discharge pipe (D1)
+
+should be not less than the nominal outlet size of
+
+the safety device, e.g.
+
+
+3.52 Where a manifold is used it should be
+
+sized to accept and discharge the total discharge
+
+from the discharge pipes connected to it.
+
+
+3.53 Where valves other than a temperature
+
+and pressure relief valve from a single unvented
+
+hot water system discharge by way of the same
+
+manifold that is used by the safety devices, the
+
+manifold should be factory fitted as part of the
+
+hot water storage system unit or package.
+
+
+Tundish
+
+3.54 The tundish should be vertical, located
+
+in the same space as the unvented hot water
+
+storage system and be fitted as close as
+
+possible to, and lower than, the safety device,
+
+with no more than 600mm of pipe between the
+
+valve outlet and the tundish (see Diagram 1).
+
+
+3.55 Any discharge should be visible at the
+
+tundish.
+
+
+in
+
+dwellings occupied by people with impaired
+
+vision or mobility, consideration should be
+
+given to the installation of a suitable safety
+
+device to warn when discharge takes place,
+
+e.g.
+
+
+Discharge pipe D2
+
+3.56 The discharge pipe (D2) from the tundish
+
+should:
+
+a. have a vertical section of pipe at least 300mm
+
+long below the tundish before any elbows or
+
+bends in the pipework (see Diagram 1); and
+
+b. be installed with a continuous fall of at least
+
+1 in 200 thereafter.
+
+
+3.57 The discharge pipe (D2) should be
+
+made of:
+
+a. metal; or
+
+b. other material that has been demonstrated
+
+to be capable of safely withstanding
+
+temperatures of the water discharged and is
+
+clearly and permanently marked to identify
+
+HOT WATER SUPPLY AND SYSTEMS
+
+the product and performance standard (e.g.
+
+
+3.58 The discharge pipe D2 should be at least
+
+one pipe size larger than the nominal outlet size
+
+of the safety device unless its total equivalent
+
+hydraulic resistance exceeds that of a straight
+
+pipe 9m long, i.e.
+
+
+for discharge pipes between
+
+9m and 18m the equivalent resistance length
+
+should be at least two sizes larger than the
+
+nominal outlet size of the safety device; between
+
+18 and 27m at least 3 sizes larger, and so on;
+
+bends must be taken into account in calculating
+
+the flow resistance.
+
+
+22mm elbows at 0.8m each
+
+ 3.2m
+
+Therefore the maximum permitted length equates to 5.8m
+
+which, is less than the actual length of 7m therefore calculate
+
+the next largest size.
+
+
+3.59 Where a single common discharge pipe
+
+serves more than one system, it should be
+
+at least one pipe size larger than the largest
+
+individual discharge pipe (D2) to be connected.
+
+
+3.60 The discharge pipe should not be
+
+connected to a soil discharge stack unless it can
+
+be demonstrated that the soil discharge stack is
+
+capable of safely withstanding temperatures of
+
+the water discharged, in which case, it should:
+
+a. contain a mechanical seal, not incorporating
+
+a water trap, which allows water into the
+
+branch pipe without allowing foul air from the
+
+drain to be ventilated through the tundish;
+
+b. be a separate branch pipe with no sanitary
+
+appliances connected to it;
+
+c. if plastic pipes are used as branch pipes
+
+carrying discharge from a safety device, they
+
+should be either polybutalene (PB) or crosslinked polyethylene (PEX) complying with
+
+national standards such as Class S of BS
+
+72912:2006 or Class S of BS 72913:2006
+
+respectively; and
+
+d. be continuously marked with a warning that
+
+no sanitary appliances should be connected
+
+to the pipe.
+
+
+Plastic pipes should be joined and assembled
+
+with fittings appropriate to the circumstances
+
+in which they are used as set out in
+
+BS EN ISO 10431:2002 Plastics.
+
+
+Prevention of excessive temperatures
+
+3.64 Where the operating temperature of
+
+domestic hot water in the storage vessel in a
+
+dwelling is capable of exceeding 80C under
+
+normal operating conditions (a situation that may
+
+occur in vessels used as heat stores and those
+
+connected to solar heat collectors or solid fuel
+
+boilers that do not have intervening controls
+
+between the boiler and the vessel containing
+
+the hot water) the outlet from the storage vessel
+
+should be fitted with a device, such as an inline
+
+hot water supply tempering valve in accordance
+
+with BS EN 15092:2008 Building Valves.
+
+
+Inline
+
+hot water tempering valves, to ensure that the
+
+temperature supplied to the domestic hot water
+
+distribution system does not exceed 60C.
+
+
+Prevention of scalding
+
+3.65 The hot water supply temperature to a
+
+bath should be limited to a maximum of 48C
+
+by use of an inline blending valve or other
+
+appropriate temperature control device, with
+
+a maximum temperature stop and a suitable
+
+arrangement of pipework.
+
+
+General
+
+technical specifications to demonstrate that
+
+the maximum temperature of 48C cannot be
+
+exceeded in operation and that the product
+
+will failsafe (i.e.
+
+
+3.67 Inline blending valves and composite
+
+thermostatic mixing valves should be compatible
+
+with the sources of hot and cold water that
+
+serve them.
+
+
+3.68 The length of supply pipes between inline
+
+blending valves and outlets should be kept to
+
+a minimum in order to prevent the colonisation
+
+of waterborne pathogens.
+
+
+If intermittent use
+
+of the bath is anticipated, provision should be
+
+made for high temperature flushing to allow
+
+pasteurisation of the pipes and outlet fittings.
+
+
+Such events should be managed to prevent the
+
+risk associated with inadvertent use.
+
+
+Workmanship should be in accordance with
+
+appropriate standards such as BS 800015:1990
+
+Workmanship on Building Sites Code of practice
+
+for hot and cold water services (domestic scale).
+
+
+3.71 Fixed building services, including
+
+controls, should be commissioned by testing and
+
+adjusting as necessary to ensure that they use
+
+no more fuel and power than is reasonable in the
+
+circumstances.
+
+
+3.72 Commissioning means the advancement
+
+of these systems from the state of static completion
+
+to working order to achieving compliance with
+
+Part L. For each system it includes settingtowork, regulation (that is testing and adjusting
+
+repetitively) to achieve the specified performance,
+
+the calibration, setting up and testing of the
+
+associated automatic control systems, and
+
+recording of systems and the performance test
+
+results that have been accepted as satisfactory.
+
+
+3.74 Where commissioning is carried out it
+
+must be done in accordance with a procedure
+
+approved by the Secretary of State.
+
+
+For new and
+
+existing dwellings the approved procedure for hot
+
+water systems is set out in the Domestic Heating
+
+Compliance Guide; for buildings other than
+
+dwellings in CIBSE Commissioning Code M.
+
+3.75 Commissioning must be carried out in
+
+such a way as not to prejudice compliance with
+
+any applicable health and safety requirements.
+
+
+Regulations (regulation 20(1) and (6)) require
+
+that the person carrying out the work shall give
+
+a notice to the relevant BCB that commissioning
+
+has been carried out according to a procedure
+
+approved by the Secretary of State, unless
+
+testing and adjustment is not possible, or would
+
+not affect the energy efficiency of the fixed
+
+building service.
+
+
+3.78 Where the work is carried out in
+
+accordance with a building notice, or full plans,
+
+or an initial notice or amendment notice, the
+
+notice of commissioning should be given not
+
+more than 5 days after the completion of the
+
+commissioning work.
+
+
+In other cases, for example
+
+where work is carried out by a person registered
+
+with a competent person scheme, it must be given
+
+not more than 30 days after the completion of work.
+
+
+Requirement
+
+Sanitary conveniences and washing facilities
+
+G4 (1) Adequate and suitable sanitary conveniences must
+
+be provided in rooms provided to accommodate them or in
+
+bathrooms.
+
+
+(2) Adequate hand washing facilities must be provided in:
+
+ (a) rooms containing sanitary conveniences; or
+
+ (b) rooms or spaces adjacent to rooms containing sanitary
+
+conveniences.
+
+
+(3) Any room containing a sanitary convenience, a bidet,
+
+or any facility for washing hands provided in accordance with
+
+paragraph (2)(b), must be separated from any kitchen or any
+
+area where food is prepared
+
+Limits on application 
+
+SANITARY CONVENIENCES AND WASHING FACILITIES
+
+Guidance
+
+Performance
+
+In the Secretary of States view Requirement G4
+
+will be met if:
+
+a. Sanitary conveniences of the appropriate
+
+type for the sex and age of the persons
+
+using the building are provided in sufficient
+
+numbers, taking into account the nature of
+
+the building; and
+
+b. hand washing facilities are provided in, or
+
+adjacent to, rooms containing sanitary
+
+conveniences and are sited, designed and
+
+installed so as not to be prejudicial to health.
+
+
+4.6 Where hot and cold taps are provided
+
+on a sanitary appliance, the hot tap should be
+
+on the left
+
+Scale of provision and layout
+
+in dwellings
+
+4.7 Any dwelling (house or flat) should have at
+
+least one sanitary convenience and associated
+
+hand washing facility.
+
+
+Note: Requirement M4(1) requires that a sanitary
+
+convenience should be located in the principal/
+
+entrance storey of a dwelling.
+
+
+4.9 To allow for basic hygiene, hand washing
+
+facilities should be located in:
+
+a. the room containing the sanitary
+
+convenience; or
+
+b. an adjacent room or place that provides the
+
+sole means of access to the room containing
+
+the sanitary convenience (provided that it is
+
+not used for the preparation of food).
+
+
+4.10 A place containing a sanitary
+
+convenience and/or associated hand washing
+
+facilities should be separated by a door from any
+
+place used for the preparation of food (including
+
+a kitchen) (see Diagrams 2 and 3).
+
+
+The layout for
+
+a room containing a sanitary convenience
+
+only should be such that the room or space
+
+containing its associated hand washing facilities
+
+is accessed before entry to a food preparation
+
+area, and is separated from that area by a door
+
+(Diagram 3).
+
+
+SANITARY CONVENIENCES AND WASHING FACILITIES
+
+Scale of provision and layout in
+
+buildings other than dwellings
+
+4.12 The Workplace (Health, Safety and
+
+Welfare) Regulations 1992 require that a
+
+minimum number of sanitary conveniences
+
+must be provided in workplaces.
+
+
+This
+
+may be used for those building types not set out
+
+in paragraph 4.12 above or for those workplaces
+
+where the applicant wishes to provide more than the
+
+minimum recommended in the Approved Code of
+
+Practice, for example, to deliver equivalent provision
+
+for men and women.
+
+
+4.17 A place containing a sanitary
+
+convenience and/or associated hand washing
+
+facilities should be separated by a door from any
+
+place used for the preparation of food (including
+
+a kitchen).
+
+
+Requirement
+
+Bathrooms
+
+G5 A bathroom must be provided containing a wash basin and
+
+either a fixed bath or a shower.
+
+
+5.5 Where hot and cold taps are provided on
+
+a sanitary appliance, the hot tap should be on
+
+the left.
+
+
+Scale of provision and layout in
+
+dwellings
+
+5.6 Any dwelling (house or flat) must have at
+
+least one bathroom with a fixed bath or shower,
+
+and a washbasin.
+
+
+Scale of provision and layout in
+
+buildings with rooms for residential
+
+purposes
+
+5.8 The number of fixed baths or showers
+
+and washbasins in buildings with rooms for
+
+residential purposes should be in accordance
+
+with BS 64651:2006 and A1:2009 Sanitary
+
+installations.
+
+
+Requirement
+
+Food preparation areas
+
+G6 A suitable sink must be provided in any area where food
+
+is prepared.
+
+
+Scale of provision in dwellings
+
+6.1 A sink should be provided in any kitchen
+
+or place used for the preparation of food.
+
+
+Scale of provision in buildings other
+
+than dwellings
+
+6.3 In all buildings other than dwellings,
+
+there should be at least the same provision as
+
+described in 6.1.
+
+
+Where multiple WCs are specified with
+
+various flushing capacities, the average
+
+effective flushing volume must be used as
+
+set out in paragraphs A8 and A11.
+
+
+For click taps and other taps with a
+
+water break, the manufacturers stated
+
+full flow rate should be used to perform
+
+calculations (measured as described
+
+above).
+
+
+Where multiple baths are specified with
+
+various capacities, the average must be
+
+used as set out in paragraphs A8 to A10.
+
+
+Where no dishwasher is to be provided
+
+and therefore consumption figures are
+
+unknown, a figure of 1.25 litres per place
+
+setting must be assumed.
+
+
+Where multiple dishwashers are specified
+
+with various consumptions, the average
+
+must be used as set out in paragraphs
+
+A8 to A10.
+
+
+Where no washing machine is to be
+
+provided and therefore consumption
+
+figures are unknown, a figure of 8.17 litres
+
+per kilogram must be assumed.
+
+
+Where multiple washing machines are
+
+specified with various consumptions,
+
+the average must be used as set out in
+
+paragraphs A8 to A10.
+
+
+Where multiple showers are specified with
+
+various flow rates, the average must be
+
+used as set out in paragraphs A8 to A10.
+
+
+Where present, a standard consumption
+
+of 3.08 litres per person per day must be
+
+assumed.
+
+
+A3 In some cases rainwater harvesting and
+
+greywater recycling may be used as a means of
+
+reducing water consumption to achieve higher
+
+water efficiency performance levels.
+
+
+Calculation tables
+
+A5 Figures from manufacturers product
+
+details should be entered into Table A1 to
+
+calculate the consumption of each fitting in litres
+
+per person per day.
+
+
+All values throughout
+
+the water efficiency calculator should be rounded
+
+to two decimal places with the exception of the
+
+total water consumption figures, which should be
+
+rounded to one decimal place.
+
+
+), the average consumption should be
+
+calculated as set out in Tables A2.1 to A2.7:
+
+a) Enter the full flow rate or volume of each type
+
+of fitting into column (a) of the relevant table.
+
+
+b) For taps, where there are separate hot and
+
+cold water taps, the flow rate of each tap
+
+should be entered separately as two tap
+
+types to calculate the average flow rate.
+
+
+A9 Where the average flow rate/volume is
+
+lower than the proportionate flow rate/volume,
+
+the proportionate figure must be entered into
+
+Table A1.
+
+
+The proportionate figure limits the flow
+
+rate/volume that can be specified to a proportion
+
+equal to 70 per cent of the highest flow rate/
+
+volume.
+
+
+This is so that, where the average flow
+
+rate/volume is significantly lower than the highest
+
+flow rate/volume specified, the calculation sets a
+
+limitation for what figure can be assumed.
+
+
+APPENDIX A  WATER EFFICIENCY CALCULATOR FOR NEW DWELLINGS
+
+A11 Where more than one type of WC is
+
+provided, the average effective flushing volume is
+
+calculated using Table A2.7 below.
+
+
+Where the water
+
+softener achieves a percentage that is equal
+
+to, or lower than this good practice benchmark
+
+figure, zero can be entered into Table A1 of the
+
+calculator for water softeners.
+
+
+This figure should be
+
+determined from manufacturers product
+
+details.
+
+
+Where the result indicates zero or a
+
+negative figure, zero should be entered into Table
+
+A1 for water softeners.
+
+
+The number of occupants
+
+entered into the table should be based on two
+
+in the first bedroom and one in each additional
+
+room.
+
+
+Greywater calculations
+
+Greywater demand calculation
+
+A16 Where all WCs and/or washing machines
+
+are being supplied with greywater, the
+
+consumption values should be copied from
+
+Column 4 of Table A1 and entered into Table A4.6
+
+to calculate the greywater savings.
+
+
+Where greywater is
+
+only being collected from a proportion of fittings,
+
+such as just some of the taps, the calculations in
+
+Tables A4.3 to A4.5 should be followed and the
+
+results entered into Table A4.6.
+
+
+Where the greywater supply is greater than
+
+the demand, the greywater savings are equal
+
+to the demand.
+
+
+Where the demand is greater
+
+than the greywater supply, the savings are
+
+equal to the supply.
+
+
+APPENDIX A  WATER EFFICIENCY CALCULATOR FOR NEW DWELLINGS 
+
+A20 Where a communal greywater system is
+
+to be provided supplying more than one home,
+
+Tables A4.1 to A4.5 can be used in the same
+
+way.
+
+
+Rainwater calculations
+
+Rainwater collection calculations
+
+A21 Where rainwater is to be used, the
+
+following calculation method should be followed
+
+by entering the relevant details into Table A5.1 or
+
+Table A5.2 to calculate the rainwater collection
+
+volume.
+
+
+d) Where a communal rainwater system is to
+
+be provided supplying more than one home,
+
+Table A5.1 can be used in the same way
+
+calculating the total volume collected for the
+
+communal system and dividing it by the total
+
+number of occupants served by the system.
+
+
+However, for sizing of storage
+
+capacity and all other design and installation
+
+details, BS 8515 should be followed.
+
+
+Rainwater demand calculations
+
+A25 Where all WCs and/or washing
+
+machines are being supplied with rainwater, the
+
+consumption should be taken from Table A1 and
+
+entered into Table A5.5 to calculate the rainwater
+
+savings.
+
+
+(1) Water supplied:
+
+a. for such domestic purposes as consist
+
+in or include, cooking, drinking, food
+
+preparation or washing; or
+
+b. to premises in which food is produced,
+
+shall, subject to paragraphs (4) and
+
+(5), be regarded as wholesome for the
+
+purposes of Chapter III (quality and
+
+sufficiency of supplies) of Part III (water
+
+supply) of the Water Industry Act 1991,
+
+as it applies to the supply of water for those
+
+domestic purposes, if the requirements
+
+of paragraph (2) are satisfied.
+
+
+any substance (other than a
+
+parameter listed in Schedule I),
+
+at a concentration or value which
+
+would constitute a potential danger
+
+to human health;
+
+b. that the water does not contain
+
+any substance (whether or not a
+
+parameter) at a concentration or value
+
+which, in conjunction with any other
+
+substance it contains (whether or
+
+not a parameter) would constitute a
+
+potential danger to human health;
+
+c. that the water does not contain
+
+concentrations or values of the
+
+parameters listed in Tables A and
+
+B in Schedule 1 in excess of or,
+
+as the case may be, less than, the
+
+prescribed concentrations or values;
+
+d. that the water satisfies the formula
+
+nitrate/50  nitrite/3 1, where
+
+the square brackets signify the
+
+concentrations in mg/l for nitrate
+
+(NO3
+
+) and nitrite (NO2
+
+(3) The point at which the requirements of
+
+paragraph (2), in so far as they relate to
+
+the parameters set out in Part I of Table
+
+A and in Table B in Schedule 1 are to be
+
+complied with, is:
+
+a. in the case of water supplied from a
+
+tanker, the point at which the water
+
+emerges from the tanker;
+
+b. in any other case, the consumers tap.
+
+
+(4) Water supplied for regulation 4(1)
+
+purposes shall not be regarded as
+
+wholesome for the purposes of Chapter
+
+III if, on transfer from a treatment works
+
+for supply for those purposes:
+
+a. it contains a concentration of the
+
+coliform bacteria or E. coli parameter
+
+(items 1 and 2 in Part II of Table
+
+A in Schedule 1) in excess of the
+
+prescribed concentrations; or
+
+b. it contains a concentration of nitrite
+
+in excess of 0.1mgNO2
+
+/l.
+
+
+(5) Subject to paragraph (6), water supplied
+
+for regulation 4(1) purposes shall not be
+
+regarded as wholesome for the purposes
+
+of Chapter III if, on transfer from a service
+
+reservoir for supply for those purposes, it
+
+contains a concentration of the coliform
+
+bacteria or E. coli parameter in excess of
+
+the prescribed concentrations.
+
+
+(6) Water transferred from a service reservoir
+
+for supply for regulation 4(1) purposes
+
+shall not be regarded as unwholesome for
+
+the purposes of Chapter III because the
+
+maximum concentration for the coliform
+
+bacteria parameter is exceeded if, as
+
+regards the samples taken in any year in
+
+which the reservoir in question is in use,
+
+the results of analysis for that parameter
+
+establish that in at least 95 per cent of
+
+those samples coliforms were absent.
+
+
