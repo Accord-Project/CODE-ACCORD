@@ -12,9 +12,9 @@ Our work is mainly focused on extracting information from text to support rule g
 There are two key types of information found in the text: named entities and relations, which are essential for 
 comprehending the ideas conveyed in natural language. Hence, our primary focus was on annotating entities and relations.
 
-More details about our annotation strategy with sample annotations are available in [Annotation_Strategy_V1.0.0.pdf]().
+More details about our annotation strategy with sample annotations are available in [Annotation_Strategy_V1.0.0.pdf](https://github.com/Accord-Project/CODE-ACCORD/blob/main/annotated_data/Annotation_Strategy_V1.0.0.pdf).
 
-All our annotated data are available within [annotated_data]() folder. Within the subfolders entities and relations, 
+All our annotated data are available within [annotated_data](https://github.com/Accord-Project/CODE-ACCORD/tree/main/annotated_data) folder. Within the subfolders entities and relations, 
 there are three .csv files named *all.csv*, *train.csv* and *test.csv*. *all.csv* contains the full dataset. 
 *train.csv* has 80% of the full dataset, which can be used to train machine learning models and *test.csv* has the 
 remaining 20\%, which can be used for models' performance testing. More details about the file formats are described below.
