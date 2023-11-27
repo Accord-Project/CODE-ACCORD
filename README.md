@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10210022.svg)](https://doi.org/10.5281/zenodo.10210022)
+
 # CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking
 
 ## Data Collection
