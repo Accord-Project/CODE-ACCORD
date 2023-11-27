@@ -44,3 +44,5 @@ The format of a relation data file available within the annotated_data/relations
 | metadata        | Additional information of sentence (i.e. original approved document from which the sentence is extracted) |
 | tagged_sentence | Sentence with tagged entity pair                                       |
 | relation_type   | Category of the relation in between the tagged entity pair                     |
+
+More details about CODE-ACCORD, including the data annotation process and category distribution, will be available with our paper: **CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**, which is currently under review. 
