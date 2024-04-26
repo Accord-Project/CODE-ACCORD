@@ -47,4 +47,26 @@ The format of a relation data file available within the annotated_data/relations
 | tagged_sentence | Sentence with tagged entity pair                                       |
 | relation_type   | Category of the relation in between the tagged entity pair                     |
 
-More details about CODE-ACCORD, including the data annotation process and category distribution, will be available with our paper: **CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**, which is currently under review. 
+More details about CODE-ACCORD, including the data annotation process and category distribution, will be available with our paper: **CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**, which is currently under review.
+
+## Accessing Datasets in HuggingFace
+
+All CODE-ACCORD datasets are available in [HuggingFace](https://huggingface.co/ACCORD-NLP), and can be accessed using the following code.
+
+### Entity-annotated Data
+```python
+from datasets import Dataset
+from datasets import load_dataset
+
+train = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='train'))
+test = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='test'))
+```
+
+### Relation-annotated Data
+```python
+from datasets import Dataset
+from datasets import load_dataset
+
+train = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='train'))
+test = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='test'))
+```
