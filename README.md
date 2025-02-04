@@ -47,7 +47,7 @@ The format of a relation data file available within the annotated_data/relations
 | tagged_sentence | Sentence with tagged entity pair                                       |
 | relation_type   | Category of the relation in between the tagged entity pair                     |
 
-More details about CODE-ACCORD, including the data annotation process and category distribution, will be available with our paper: **CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**, which is currently under review.
+More details about CODE-ACCORD, including the data annotation process and category distribution, are available in our paper: [**CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**](https://www.nature.com/articles/s41597-024-04320-x).
 
 ## Accessing Datasets in HuggingFace
 
@@ -69,4 +69,20 @@ from datasets import load_dataset
 
 train = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='train'))
 test = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='test'))
+```
+
+## References
+
+If you found CODE-ACCORD useful in your research, please consider citing:
+```
+@article{hettiarachchi-etal-2025-code,
+  title={{CODE-ACCORD}: A Corpus of building regulatory data for rule generation towards automatic compliance checking},
+  author={Hettiarachchi, Hansi and Dridi, Amna and Gaber, Mohamed Medhat and Parsafard, Pouyan and Bocaneala, Nicoleta and Breitenfelder, Katja and Costa, Gon{\c{c}}al and Hedblom, Maria and Juganaru-Mathieu, Mihaela and Mecharnia, Thamer and Park, Sumee and Tan, He and Tawil, Abdel-Rahman H. and Vakaj, Edlira},
+  journal={Scientific Data},
+  volume={12},
+  number={1},
+  pages={170},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
 ```
